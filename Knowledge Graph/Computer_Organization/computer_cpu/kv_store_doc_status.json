@@ -1,0 +1,546 @@
+{
+  "doc-d2fd5e9039a63352ee73f215fc8aeb15": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-d2fd5e9039a63352ee73f215fc8aeb15"
+    ],
+    "content_summary": "28. 流水线的性能指标 （1）流水线的吞吐率。 流水线的吞吐率是指在单位时间内流水线所完成的任务数量，或输出结果的数量。流水线吞吐率(TP) 的最基本公式为式中，n是任务数，T是处理完n个任务所用的总时间。设k为流水段的段数，△t 为时钟周期。在输入流水线中的任务连续的理想情况下，一条k段流水线能在k+n-1个时钟周期内完成n 个任务。得出流水线的吞吐率为连续输入的任务数n→∞ 时，得到最大吞吐率为TPmax=1/△t。 （2）流水线的加速比。 完成同样一批任务，不使用流水线与使用流水线所用的...",
+    "content_length": 426,
+    "created_at": "2025-10-29T10:57:30.117623+00:00",
+    "updated_at": "2025-10-29T10:58:55.389473+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251029_185730_a2a88d9a",
+    "metadata": {
+      "processing_start_time": 1761735450,
+      "processing_end_time": 1761735535
+    }
+  },
+  "doc-06dc541c0ea968720bb78e8c162eb159": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-06dc541c0ea968720bb78e8c162eb159"
+    ],
+    "content_summary": "5. 指令周期的数据流 数据流是根据指令要求依次访问的数据序列。在指令执行的不同阶段，要求依次访问的数据序列是不同的。而且对于不同的指令，它们的数据流往往也是不同的。 (1)取指周期 取指周期的任务是根据 PC中的内容从主存储器中取出指令代码并存放在IR 中。 PC 中存放的是指令的地址，根据此地址从内存单元中取出的是指令，并放在指令寄存器IR 中，取指令的同时，PC加1。数据流向如下 ： 1)PC->MAR->地址总线->存储器。 2)CU发出读命令->控制总线->主存储器。 3)主存储器->...",
+    "content_length": 785,
+    "created_at": "2025-10-29T10:57:30.117564+00:00",
+    "updated_at": "2025-10-29T10:59:18.676182+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251029_185730_a2a88d9a",
+    "metadata": {
+      "processing_start_time": 1761735450,
+      "processing_end_time": 1761735558
+    }
+  },
+  "doc-cc56d9863e6de5d5a6e95e87766d0742": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-cc56d9863e6de5d5a6e95e87766d0742"
+    ],
+    "content_summary": "30. SISD、SIMD、MIMD的基本概念 基于指令流的数量和数据流的数量，将计算机体系结构分为SISD 、SIMD 、MISD 和 MIMD 四类。常规的单处理器属于SISD, 而常规的多处理器属于MIMD。 （1）单指令流单数据流 (SISD)结构。 SISD 是传统的串行计算机结构，这种计算机通常仅包含一个处理器和一个存储器，处理器在一段时间内仅执行一条指令，按指令流规定的顺序串行执行指令流中的若干指令。为了提高速度，有些SISD 计算机采用流水线的方式，因此，SISD 处理器有时会设...",
+    "content_length": 1185,
+    "created_at": "2025-10-29T10:57:30.117628+00:00",
+    "updated_at": "2025-10-29T11:01:17.265994+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251029_185730_a2a88d9a",
+    "metadata": {
+      "processing_start_time": 1761735535,
+      "processing_end_time": 1761735677
+    }
+  },
+  "doc-7c0bc146aeae05e551f80c74f57bf6cc": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-7c0bc146aeae05e551f80c74f57bf6cc"
+    ],
+    "content_summary": "11. 控制器的结构和功能 计算机硬件系统的五大功能部件通过数据总线、地址总线和控制总线连接在一起。 现对其主要连接关系简单说明如下： 1)运算器部件通过数据总线与内存储器、输入设备和输出设备传送数据。 2)输入设备和输出设备通过接口电路与总线相连接。 3)内存储器、输入设备和输出设备从地址总线接收地址信息，从控制总线得到控制信号， 通过数据总线与其他部件传送数据 。 4)控制器部件从数据总线接收指令信息，从运算器部件接收指令转移地址，送出指令地址到地址总线，还要向系统中的部件提供它们运行所需要...",
+    "content_length": 485,
+    "created_at": "2025-10-29T10:57:30.117581+00:00",
+    "updated_at": "2025-10-29T11:01:10.272806+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251029_185730_a2a88d9a",
+    "metadata": {
+      "processing_start_time": 1761735558,
+      "processing_end_time": 1761735670
+    }
+  },
+  "doc-062a2e851dd9b26735dc96a7d8a4b551": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-062a2e851dd9b26735dc96a7d8a4b551"
+    ],
+    "content_summary": "25. 流水线的逻辑结构 每个流水段后面都要增加一个流水段寄存器，用于锁存本段处理完的所有数据，以保证本段的执行结果能在下个时钟周期给下一流水段使用。各种寄存器和数据存储器均采用统一时钟 CLK进行同步，每来一个时钟，各段处理完的数据都将锁存到段尾的流水段寄存器中，作为后段的输入。同时，当前段也会收到前段通过流水段寄存器传递过来的数据。 一条指令会依次进入 IF 、ID 、EX 、MEM 、WB 五个功能段进行处理，第一条指令进入 WB 段后，各流水段都包含一条不同的指令，流水线中将同时存在5条...",
+    "content_length": 260,
+    "created_at": "2025-10-29T10:57:30.117616+00:00",
+    "updated_at": "2025-10-29T11:02:03.360473+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251029_185730_a2a88d9a",
+    "metadata": {
+      "processing_start_time": 1761735670,
+      "processing_end_time": 1761735723
+    }
+  },
+  "doc-cc2d0105e935d9886fe36f0b3286af0f": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-cc2d0105e935d9886fe36f0b3286af0f"
+    ],
+    "content_summary": "12. 硬布线控制器 硬布线控制器由复杂的组合逻辑门电路和触发器构成，也称组合逻辑控制器，其原理是根据指令的要求、当前的时序及内外部的状态，按时间的顺序发送一系列微操作控制信号。 指令的操作码是决定控制单元(CU)发出不同控制信号的关键。为了简化CU 的逻辑，将存放在IR的n位操作码经过译码电路产生2的n次方个输出，每种操作码对应一个输出送至CU。若将指令译码器和节拍发生器从CU中分离出来，则可得到简化的控制单元框图。 控制单元 (CU)的输入信号来源如下： 1)经指令译码器译码产生的指令信息。...",
+    "content_length": 673,
+    "created_at": "2025-10-29T10:57:30.117584+00:00",
+    "updated_at": "2025-10-29T11:02:20.846729+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251029_185730_a2a88d9a",
+    "metadata": {
+      "processing_start_time": 1761735677,
+      "processing_end_time": 1761735740
+    }
+  },
+  "doc-fe06e06cd53b2ace66af32c5e482dce9": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-fe06e06cd53b2ace66af32c5e482dce9"
+    ],
+    "content_summary": "13. 微程序控制器 微程序控制器采用存储逻辑实现，也就是将微操作信号代码化，使每条机器指令转化成为一段微程序并存入一个专门的存储器(控制存储器)中，微操作控制信号由微指令产生。 微程序的设计思想就是将每条机器指令编写成一个微程序，每个微程序包含若干微指令，每条微指令对应一个或几个微操作命令。因此，执行一条指令的过程就是执行一个微程序的过程，这些微程序存储在一个控制存储器中。目前，大多数计算机都采用微程序设计技术。 微程序设计技术涉及的基本术语如下。 (1)微命令与微操作。 在微程序控制的计算机...",
+    "content_length": 1124,
+    "created_at": "2025-10-29T10:57:30.117587+00:00",
+    "updated_at": "2025-10-29T11:03:37.764145+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251029_185730_a2a88d9a",
+    "metadata": {
+      "processing_start_time": 1761735723,
+      "processing_end_time": 1761735817
+    }
+  },
+  "doc-91a81db4ce70f9dbc729e1840db41cff": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-91a81db4ce70f9dbc729e1840db41cff"
+    ],
+    "content_summary": "18. 硬布线和微程序控制器的特点 (1)硬布线控制器的特点硬布线控制器的优点是因为控制器的速度取决于电路延迟，所以速度快；缺点是因为将控制部件视为专门产生固定时序控制信号的逻辑电路，所以把用最少元件和取得最高速度作为设计目标，一旦设计完成，就不可能通过其他额外修改来添加新功能。 (2)微程序控制器的特点相比组合逻辑控制器，微程序控制器的优点是具有规整性、灵活性和可维护性；缺点是因为微程序控制器采用了存储程序原理，所以每条指令都要从控制存储器中取一次，影响速度。",
+    "content_length": 233,
+    "created_at": "2025-10-29T10:57:30.117598+00:00",
+    "updated_at": "2025-10-29T11:03:22.121307+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251029_185730_a2a88d9a",
+    "metadata": {
+      "processing_start_time": 1761735740,
+      "processing_end_time": 1761735802
+    }
+  },
+  "doc-01427518a698286307aa6708cae3234c": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-01427518a698286307aa6708cae3234c"
+    ],
+    "content_summary": "27. 控制冒险 指令通常是顺序执行的，但当遇到改变指令执行顺序的情况，例如执行转移或返回指令、发生中断或异常时，会改变PC值，从而造成断流，也称控制冲突。 对于由转移指令引起的冲突，最简单的处理方法就是推迟后续指令的执行。通常把因流水线阻塞带来的延迟时钟周期数称为延迟损失时间片C。 有以下几种办法解决控制冲突： 1)对于由转移指令引起的冲突，可采用和解决数据冲突相同的软件插入“nop”指令和硬件阻塞 (stall)的方法。比如，延迟损失多少时间片，就插入多少条nop指令。 2)对转移指令进行分...",
+    "content_length": 377,
+    "created_at": "2025-10-29T10:57:30.117621+00:00",
+    "updated_at": "2025-10-29T11:04:13.279815+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251029_185730_a2a88d9a",
+    "metadata": {
+      "processing_start_time": 1761735802,
+      "processing_end_time": 1761735853
+    }
+  },
+  "doc-643c2ebb8e3d3384d19f217865cc3b8f": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-643c2ebb8e3d3384d19f217865cc3b8f"
+    ],
+    "content_summary": "4. 指令周期 CPU每取出并执行一条指令所需的全部时间称为指令周期。取指阶段完成取指令和分析指令的操作，也称取指周期。执行阶段完成执行指令的操作，也称执行周期。 指令周期的定义因为各种指令操作功能不同，所以各种指令的指令周期可能是不同的。 对于无条件转移指令JMPX, 在执行阶段不需要访问主存，只包含取指阶段(包括取指和分析)和执行阶段，所以其指令周期仅包含取指周期和执行周期。 对于间接寻址的指令，为了取操作数，需要先访问一次主存，取出有效地址，然后访问主存， 取出操作数，所以还需包括间址周期...",
+    "content_length": 885,
+    "created_at": "2025-10-29T10:57:30.117562+00:00",
+    "updated_at": "2025-10-29T11:05:01.386551+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251029_185730_a2a88d9a",
+    "metadata": {
+      "processing_start_time": 1761735817,
+      "processing_end_time": 1761735901
+    }
+  },
+  "doc-7e297f32d868dbd2d51d7a047e223119": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-7e297f32d868dbd2d51d7a047e223119"
+    ],
+    "content_summary": "1. CPU的功能中央处理器 (CPU)由运算器和控制器组成。其中，控制器的功能是负责协调并控制计算机各部件执行程序的指令序列；运算器的功能是对数据进行加工。CPU 的具体功能包括： 1)指令控制。完成取指令(也称取指)、分析指令和执行指令的操作，即程序的顺序控制。 2)操作控制。产生完成一条指令所需的操作信号，把各种操作信号送到相应的部件，从而第 控制这些部件按指令的要求正确执行。 3)时间控制。严格控制各种操作信号的出现时间、持续时间及出现的时间顺序。 4)数据加工。对数据进行算术和逻辑运算...",
+    "content_length": 282,
+    "created_at": "2025-10-29T10:57:30.117543+00:00",
+    "updated_at": "2025-10-29T11:04:57.222598+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251029_185730_a2a88d9a",
+    "metadata": {
+      "processing_start_time": 1761735853,
+      "processing_end_time": 1761735897
+    }
+  },
+  "doc-acb6520440fa5141fe4d034f3e5e6edf": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-acb6520440fa5141fe4d034f3e5e6edf"
+    ],
+    "content_summary": "3. CPU的寄存器 CPU中的寄存器按汇编语言(或机器语言)程序是否可访问，可分为两类： 一类是用户可见寄存器，可对这类寄存器编程，以通过使用这类寄存器减少对主存储器的访问次数，如通用寄存器组(含基址/变址寄存器)、程序状态字寄存器、程序计数器；另一类是用户不可见寄存器，对用户是透明的，不可对这类寄存器编程，它们被控制部件使用，以控制CPU 的操作，如存储器地址寄存器、存储器数据寄存器、指令寄存器、暂存寄存器、累加寄存器、移位寄存器。 (1)运算器中的寄存器 1)通用寄存器组 (GPRs)。用...",
+    "content_length": 879,
+    "created_at": "2025-10-29T10:57:30.117559+00:00",
+    "updated_at": "2025-10-29T11:06:40.598312+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251029_185730_a2a88d9a",
+    "metadata": {
+      "processing_start_time": 1761735897,
+      "processing_end_time": 1761736000
+    }
+  },
+  "doc-2a63536239036e36be43b7e72d560b24": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-2a63536239036e36be43b7e72d560b24"
+    ],
+    "content_summary": "9. 数据通路的基本结构 数据通路的基本结构主要有以下几种 。 (1)CPU内部单总线方式： 将 ALU及所有寄存器都连接到一条内部总线上，称为单总线结构的数据通路。这种结构比较简单，但数据传输存在较多的冲突现象，性能较低。此总线在CPU内部，注意不要把它与连接CPU、存储器和外设的系统总线相混淆。 注意单周期处理器(CPI=1)不能采用单总线方式，因为单总线将所有寄存器都连接到一条公共总线上，一个时钟内只允许一次操作，无法完成一条指令的所有操作。 (2)CPU内部多总线方式： CPU内部有两条...",
+    "content_length": 507,
+    "created_at": "2025-10-29T10:57:30.117576+00:00",
+    "updated_at": "2025-10-29T11:06:28.497675+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251029_185730_a2a88d9a",
+    "metadata": {
+      "processing_start_time": 1761735901,
+      "processing_end_time": 1761735988
+    }
+  },
+  "doc-ea027e504c6e7bd731aebc2b71512e1c": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-ea027e504c6e7bd731aebc2b71512e1c"
+    ],
+    "content_summary": "32. 多核处理器的基本概念 多核处理器是指将多个处理单元集成到单个CPU中，每个处理单元称为一个核(core), 通常也称片上多处理器。每个核既可以有自己的Cache,又可以共享同一个 Cache,所有核通常共享主存储器。在多核计算机系统中，如要充分发挥硬件的性能，必须采用多线程(或多进程)执行，使得每个核在同一时刻都有线程在执行。与单核上的多线程不同，多核上的多个线程是在物理上并行执行的，是真正意义上的并行执行，在同一时刻有多个线程在并行执行。而单核上的多线程是一种多线程交错执行，实际上在同...",
+    "content_length": 263,
+    "created_at": "2025-10-29T10:57:30.117633+00:00",
+    "updated_at": "2025-10-29T11:07:09.032091+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251029_185730_a2a88d9a",
+    "metadata": {
+      "processing_start_time": 1761735988,
+      "processing_end_time": 1761736029
+    }
+  },
+  "doc-53c573d4212b8c79ccafbdbdcd65d8e9": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-53c573d4212b8c79ccafbdbdcd65d8e9"
+    ],
+    "content_summary": "19. 异常和中断的基本概念 由CPU内部产生的意外事件被称为异常，有些教材中也称内中断。由来自CPU 外部的设备向 CPU 发出的中断请求被称为中断，通常用于信息的输入和输出，有些教材中也称外中断。异常是CPU 执行一条指令时，由CPU 在其内部检测到的、与正在执行的指令相关的同步事件；中断是一种典型的由外部设备触发的、与当前正在执行的指令无关的异步事件。 异常和中断处理过程的描述如下：若CPU在执行用户程序的第i 条指令时检测到一个异常事件，或者执行第i 条指令后发现一个中断请求信号，则CP...",
+    "content_length": 464,
+    "created_at": "2025-10-29T10:57:30.117601+00:00",
+    "updated_at": "2025-10-29T11:07:50.322268+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251029_185730_a2a88d9a",
+    "metadata": {
+      "processing_start_time": 1761736000,
+      "processing_end_time": 1761736070
+    }
+  },
+  "doc-d405a4a8ff3786f94e93e3a9b7786551": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-d405a4a8ff3786f94e93e3a9b7786551"
+    ],
+    "content_summary": "22. 异常和中断响应过程 CPU 执行指令时，若发生了异常或中断请求，则必须进行相应的处理。从CPU 检测到异常或中断事件，到调出相应的处理程序，整个过程称为异常和中断响应。C PU 对异常和中断响应的过程可分为关中断、保存断点和程序状态、识别异常和中断并转到相应的处理程序。 (1)关中断在保存断点和程序状态期间，不能被新的中断打断，因此要禁止响应新的中断，即关中断。通常通过设置“中断允许”(IF) 触发器来实现，若IF 置为1,则为开中断，表示允许响应中断； 若 IF 置为0,则表示关中断，...",
+    "content_length": 852,
+    "created_at": "2025-10-29T10:57:30.117608+00:00",
+    "updated_at": "2025-10-29T11:08:41.650648+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251029_185730_a2a88d9a",
+    "metadata": {
+      "processing_start_time": 1761736029,
+      "processing_end_time": 1761736121
+    }
+  },
+  "doc-7b1e3d6a0816b7c4daa74cc9c66df994": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-7b1e3d6a0816b7c4daa74cc9c66df994"
+    ],
+    "content_summary": "14. 微程序控制器的组成和工作过程 (1)微程序控制器的基本组成包括： ①起始和转移地址形成部件(简称微地址形成部件),用于产生初始和后继微地址，以保证微指令的连续执行。 ②微指令地址寄存器，接收微地址形成部件送来的微地址，为读取微指令做准备。 ③控制存储器，它是微程序控制器的核心部件，用于存放各指令对应的微程序。 ④微指令寄存器，其位数等于微指令字长。 (2)微程序控制器的工作过程实际上就是在微程序控制器的控制下计算机执行机器指令的过程，这个过程可描述为： ①执行取指令公共操作。在机器开始运...",
+    "content_length": 683,
+    "created_at": "2025-10-29T10:57:30.117590+00:00",
+    "updated_at": "2025-10-29T11:09:24.805898+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251029_185730_a2a88d9a",
+    "metadata": {
+      "processing_start_time": 1761736070,
+      "processing_end_time": 1761736164
+    }
+  },
+  "doc-951a0e05d8d102dbb38963722260d96a": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-951a0e05d8d102dbb38963722260d96a"
+    ],
+    "content_summary": "26. 流水线的冒险与处理 在指令流水线中，可能遇到一些情况使得后续指令无法正确执行而引起流水线阻塞，这种现象称为流水线冒险。根据导致冒险的原因不同分为结构冒险、数据冒险和控制冒险3种。 （1）结构冒险命题追踪解决结构冒险的办法(2016) 由不同指令在同一时刻争用同一功能部件而形成的冲突，也称资源冲突，即由硬件资源竞争 造成的冲突。例如，指令和数据通常都存放在同一存储器中，在第4个时钟周期，第i 条 LOAD 指令进入 MEM 段时，第i+3条指令的IF 段也要访存取指令，此时会发生访存冲突，...",
+    "content_length": 1473,
+    "created_at": "2025-10-29T10:57:30.117618+00:00",
+    "updated_at": "2025-10-29T11:10:32.367204+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251029_185730_a2a88d9a",
+    "metadata": {
+      "processing_start_time": 1761736121,
+      "processing_end_time": 1761736232
+    }
+  },
+  "doc-62d730248fb05de6d5c2902d76480b63": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-62d730248fb05de6d5c2902d76480b63"
+    ],
+    "content_summary": "20. 异常的分类 异常是由CPU内部产生的意外事件，分为硬故障中断和程序性异常。硬故障中断是由硬连线出现异常引起的，如存储器校验错、总线错误等。程序性异常也称软件中断，是指在CPU 内部因执行指令而引起的异常事件。如整除0、溢出、断点、单步跟踪、非法指令、栈溢出、地址越界、缺页等。按异常发生原因和返回方式的不同，可分为故障、自陷和终止。 (1)故障 (Fault) 指在引起故障的指令启动后、执行结束前被检测到的异常事件。例如，指令译码时，出现“非法操作码”;取数据时，发生“缺段”或“缺页”;执...",
+    "content_length": 869,
+    "created_at": "2025-10-29T10:57:30.117603+00:00",
+    "updated_at": "2025-10-29T11:11:42.481373+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251029_185730_a2a88d9a",
+    "metadata": {
+      "processing_start_time": 1761736164,
+      "processing_end_time": 1761736302
+    }
+  },
+  "doc-3ac380505fdc239a4da36a89716b6444": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-3ac380505fdc239a4da36a89716b6444"
+    ],
+    "content_summary": "29. 高级流水线技术 有两种增加指令级并行的策略：一种是多发射技术，它通过采用多个内部功能部件，使流水线功能段能同时处理多条指令，处理机一次可以发射多条指令进入流水线执行；另一种是超流水线技术，它通过增加流水线级数来使更多的指令同时在流水线中重叠执行。 （1）超标量流水线技术。 也称动态多发射技术，每个时钟周期内可并发多条独立指令，以并行操作方式将两条或多条指令编译并执行，为此需配置多个功能部件，如图5.19所示。在简单的超标量 CPU 中，指令是按顺序发射执行的。为了更好地提高并行性能，多数...",
+    "content_length": 604,
+    "created_at": "2025-10-29T10:57:30.117626+00:00",
+    "updated_at": "2025-10-29T11:11:57.749941+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251029_185730_a2a88d9a",
+    "metadata": {
+      "processing_start_time": 1761736232,
+      "processing_end_time": 1761736317
+    }
+  },
+  "doc-2459f394250f45963236273137f4db0c": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-2459f394250f45963236273137f4db0c"
+    ],
+    "content_summary": "8. 数据通路的组成 组成数据通路的元件主要分为组合逻辑元件和时序逻辑元件两类。 （1）组合逻辑元件(操作元件) 在组合逻辑元件中，任何时刻产生的输出仅取决于当前的输入。组合逻辑元件不含存储信号的记忆单元，也不受时钟信号的控制，输出与输入之间无反馈通路，信号是单向传输的。数据通路中常用的组合逻辑元件有加法器、算术逻辑单元 (ALU) 、译码器、多路选择器、三态门等， （2）时序逻辑元件(状态元件) 任何时刻的输出不仅与该时刻的输入有关，还与该时刻以前的输入有关，因此时序电路必然包含存储信号的记忆...",
+    "content_length": 324,
+    "created_at": "2025-10-29T10:57:30.117573+00:00",
+    "updated_at": "2025-10-29T11:13:17.716836+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251029_185730_a2a88d9a",
+    "metadata": {
+      "processing_start_time": 1761736302,
+      "processing_end_time": 1761736397
+    }
+  },
+  "doc-96defdcda60eaf79fff26bdc712404aa": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-96defdcda60eaf79fff26bdc712404aa"
+    ],
+    "content_summary": "15. 微指令的编码方式。 微指令的编码方式也称微指令的控制方式，是指如何对微指令的控制字段进行编码，以形成控制信号。编码的目标是在保证速度的情况下，尽量缩短微指令字长。 (1)直接编码(直接控制)方式。 直接编码法无须进行译码，微指令的操作控制字段中每一位都代表一个微命令。设计微指令时，选用或不选用某个微命令，只要将表示该微命令的对应位设置成1或0即可。每个微命令对应并控制数据通路中的一个微操作。 这种编码的优点是简单、直观，执行速度快，操作并行性好；缺点是微指令字长过长，n 个微命令就要求微...",
+    "content_length": 716,
+    "created_at": "2025-10-29T10:57:30.117593+00:00",
+    "updated_at": "2025-10-29T11:13:10.723134+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251029_185730_a2a88d9a",
+    "metadata": {
+      "processing_start_time": 1761736317,
+      "processing_end_time": 1761736390
+    }
+  },
+  "doc-de401d6e0254effcba3f6fcd81cefe60": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-de401d6e0254effcba3f6fcd81cefe60"
+    ],
+    "content_summary": "2. CPU的基本结构 在计算机系统中，CPU 主要由运算器和控制器两大部分组成[也可将CPU 分为数据通路和控制部件两大组成部分]。 (1)运算器运算器主要由算术逻辑单元(ALU)、暂存器、累加寄存器(ACC)、通用寄存器组 (GPRs)、程序状态字 (PSW)寄存器、移位寄存器、计数器 (CT)等组成。主要功能是根据控制器送来的命令，对数据执行算术运算(加、减、乘、除)、逻辑运算(与、或、非、异或、移位、求补等) 或条件测试(用于设置ZF 、SF 、OF 和 CF 等标志位，作为条件转移的判...",
+    "content_length": 522,
+    "created_at": "2025-10-29T10:57:30.117555+00:00",
+    "updated_at": "2025-10-29T11:15:11.204312+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251029_185730_a2a88d9a",
+    "metadata": {
+      "processing_start_time": 1761736390,
+      "processing_end_time": 1761736511
+    }
+  },
+  "doc-5ea0f23d1c767bafc743ff484eb189e1": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-5ea0f23d1c767bafc743ff484eb189e1"
+    ],
+    "content_summary": "24. 流水线设计的原则 在单周期实现中，虽然不是所有指令都必须经历完整的5个阶段，但只能以执行速度最慢的指令作为设计其时钟周期的依据，单周期CPU的时钟频率取决于数据通路中的最长路径。 流水线设计的原则： （1）指令流水段个数以最复杂指令所用的功能段个数为准； （2）流水段的长度以最复杂的操作所花的时间为准。假设某条指令的5个阶段所花的时间分别如下。①取指： 200ps;② 译码：100ps;③ 执行：150ps;④ 访存：200ps;⑤ 写回：100ps, 该指令的总执行时间为750ps。按...",
+    "content_length": 416,
+    "created_at": "2025-10-29T10:57:30.117613+00:00",
+    "updated_at": "2025-10-29T11:14:53.816255+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251029_185730_a2a88d9a",
+    "metadata": {
+      "processing_start_time": 1761736397,
+      "processing_end_time": 1761736493
+    }
+  },
+  "doc-48932a772d41e90269193af10a0bbbb3": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-48932a772d41e90269193af10a0bbbb3"
+    ],
+    "content_summary": "23. 指令流水线的基本概念 可从两方面提高处理机的并行性：①时间上的并行技术，将一个任务分解为几个不同的子阶段，每个子阶段在不同的功能部件上并行执行，以便在同一时刻能够同时执行多个任务，进而提升系统性能，这种方法被称为流水线技术。②空间上的并行技术，在一个处理机内设置多个执行相同任务的功能部件，并让这些功能部件并行工作，这样的处理机被称为超标量处理机。 一条指令的执行过程可分解为若干阶段，每个阶段由相应的功能部件完成。若将各阶段视为相应的流水段，则指令的执行过程就构成了一条指令流水线。 假设一...",
+    "content_length": 846,
+    "created_at": "2025-10-29T10:57:30.117610+00:00",
+    "updated_at": "2025-10-29T11:16:05.323195+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251029_185730_a2a88d9a",
+    "metadata": {
+      "processing_start_time": 1761736493,
+      "processing_end_time": 1761736565
+    }
+  },
+  "doc-cf0a63e25f70bb6e12f2ee7720496542": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-cf0a63e25f70bb6e12f2ee7720496542"
+    ],
+    "content_summary": "7. 数据通路的功能 随着技术的发展，更多的功能逻辑被集成到CPU 芯片中，但不论CPU 的内部结构多么复杂， 它都可视为由数据通路(Data Path) 和控制部件 (Control Unit)两大部分组成。 数据在指令执行过程中所经过的路径，包括路径上的部件，称为数据通路，ALU、通用寄存器、状态寄存器、异常和中断处理逻辑等都是指令执行时数据流经的部件，都属于数据通路的一部分。数据通路描述了信息从哪里开始，中间经过哪些部件，最后被传送到哪里。数据通路由控制部件控制，控制部件根据每条指令功能的...",
+    "content_length": 266,
+    "created_at": "2025-10-29T10:57:30.117571+00:00",
+    "updated_at": "2025-10-29T11:16:04.908139+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251029_185730_a2a88d9a",
+    "metadata": {
+      "processing_start_time": 1761736511,
+      "processing_end_time": 1761736564
+    }
+  },
+  "doc-56dad084d2f83de29d62a2ae33cfc843": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-56dad084d2f83de29d62a2ae33cfc843"
+    ],
+    "content_summary": "21. 中断的分类 中断是指来自CPU 外部、与CPU 执行指令无关的事件引起的中断，包括I/O 设备发出的I/O 中断(如键盘输入、打印机缺纸等),或发生某种特殊事件(如用户按Esc 键、定时器计数时间到) 等。外部I/O 设备通过特定的中断请求信号线向CPU 提出中断请求，CPU 每执行完一条指令就检查中断请求信号线，若检测到中断请求，则进入中断响应周期。 中断可分为可屏蔽中断和不可屏蔽中断。 (1) 可屏蔽中断指通过可屏蔽中断请求线INTR 向 CPU 发出的中断请求。CPU 可以通过在中...",
+    "content_length": 666,
+    "created_at": "2025-10-29T10:57:30.117605+00:00",
+    "updated_at": "2025-10-29T11:17:43.434629+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251029_185730_a2a88d9a",
+    "metadata": {
+      "processing_start_time": 1761736565,
+      "processing_end_time": 1761736663
+    }
+  },
+  "doc-7c0597dc102c9fca5be6ec61fc5d051b": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-7c0597dc102c9fca5be6ec61fc5d051b"
+    ],
+    "content_summary": "16. 微指令的地址形成方式。 后继微地址的形成主要有以下几个基本类型： 1)由微指令的后继地址字段(也称下地址字段)指出。在微指令格式中设置一个后继地址字段，由微指令的后继地址字段直接指出后继微指令的地址，这种方式也称断定方式。 2)根据机器指令的操作码形成。当机器指令取自指令寄存器后，微指令的地址由操作码经微地址形成部件形成，该部件输出的是对应机器指令微程序的首地址。 3)增量计数器法，即(μPC)+1→μPC, 适用于后继微指令地址是连续的情况。 4)根据各种标志决定下一条微指令分支转移的...",
+    "content_length": 794,
+    "created_at": "2025-10-29T10:57:30.117595+00:00",
+    "updated_at": "2025-10-29T11:17:41.441044+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251029_185730_a2a88d9a",
+    "metadata": {
+      "processing_start_time": 1761736565,
+      "processing_end_time": 1761736661
+    }
+  },
+  "doc-f67ff7c347b613bc05733f64a51c9c17": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-f67ff7c347b613bc05733f64a51c9c17"
+    ],
+    "content_summary": "31. 硬件多线程的基本概念 在传统CPU中，线程的切换包含一系列开销，频繁地切换会极大影响系统的性能，为了减少线程切换过程中的开销，便诞生了硬件多线程。在支持硬件多线程的CPU中，必须为每个线程提供单独的通用寄存器组、单独的程序计数器等，线程的切换只需激活选中的寄存器，从而省略了与存储器数据交换的环节，大大减少了线程切换的开销。 硬件多线程有3种实现方式：细粒度多线程、粗粒度多线程和同时多线程 (SMT)。 （1）细粒度多线程多个线程之间轮流交叉执行指令，多个线程之间的指令是不相关的，可以乱序...",
+    "content_length": 662,
+    "created_at": "2025-10-29T10:57:30.117631+00:00",
+    "updated_at": "2025-10-29T11:19:05.838478+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251029_185730_a2a88d9a",
+    "metadata": {
+      "processing_start_time": 1761736662,
+      "processing_end_time": 1761736745
+    }
+  },
+  "doc-0efa36a872f0b1511a047f0591cba52c": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-0efa36a872f0b1511a047f0591cba52c"
+    ],
+    "content_summary": "10. 数据通路的操作举例 总线是一组共享的传输信号线，它不能存储信息，任一时刻也只能有一个部件把信息送到总线上。下面以单总线数据通路为例，介绍一些常见操作的流程及控制信号。 (1)通用寄存器之间传送数据。 在寄存器和总线之间有两个控制信号：Rin和Rout。当Rin有效时，控制将总线上的信息存到寄存器R中；当Rout有效时，控制将寄存器R 的内容送至总线。下面以程序计数器PC为例， 将PC的内容送至MAR 。实现该操作的流程及控制信号为:(PC)→MAR #PCout 和MARin 有效，PC...",
+    "content_length": 1347,
+    "created_at": "2025-10-29T10:57:30.117578+00:00",
+    "updated_at": "2025-10-29T11:20:16.348020+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251029_185730_a2a88d9a",
+    "metadata": {
+      "processing_start_time": 1761736663,
+      "processing_end_time": 1761736816
+    }
+  },
+  "doc-3c7856616d478c58fdce251c9a2b68ac": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-3c7856616d478c58fdce251c9a2b68ac"
+    ],
+    "content_summary": "6. 指令执行方案 一个指令周期通常要包括几个执行步骤，每个步骤完成指令的一部分功能，几个依次执行的步骤完成这条指令的全部功能。不同的处理器采用不同的方案来安排指令的执行步骤。 (1)单周期处理器: 单周期处理器对所有指令都选用相同的执行时间来完成。此时每条指令都在一个时钟周期内完成(CPI=1),指令之间串行执行，即下一条指令只能在前一条指令执行结束后才能启动。因此，指令周期取决于执行时间最长的指令的执行时间。对于那些本来可以在更短时间内完成的指令，仍要在这个较长的周期内完成，会降低整个系统的...",
+    "content_length": 515,
+    "created_at": "2025-10-29T10:57:30.117568+00:00",
+    "updated_at": "2025-10-29T11:19:44.479141+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251029_185730_a2a88d9a",
+    "metadata": {
+      "processing_start_time": 1761736746,
+      "processing_end_time": 1761736784
+    }
+  },
+  "doc-514f22df13c84be41bf310afe9ba497b": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-514f22df13c84be41bf310afe9ba497b"
+    ],
+    "content_summary": "33. 共享内存多处理器的基本概念 具有共享的单一物理地址空间的多处理器称为共享内存多处理器 (SMP) 。处理器通过存储器中的共享变量互相通信，所有处理器都能通过存取指令访问存储器的任何位置。注意，即使这些系统共享同一个物理地址空间，它们仍然可在自己的虚拟地址空间中单独地运行程序。 单一地址空间的多处理器有两种类型： （1）统一存储访问(UMA)多处理器。每个处理器对所有存储单元的访问时间是大致相同的， 即访问时间与哪个处理器提出访存请求及访问哪个字无关。 （2）非统一存储访问(NUMA)多处...",
+    "content_length": 820,
+    "created_at": "2025-10-29T10:57:30.117635+00:00",
+    "updated_at": "2025-10-29T11:20:26.173617+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251029_185730_a2a88d9a",
+    "metadata": {
+      "processing_start_time": 1761736784,
+      "processing_end_time": 1761736826
+    }
+  }
+}

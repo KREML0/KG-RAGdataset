@@ -1,0 +1,2230 @@
+{
+  "doc-d2fd5e9039a63352ee73f215fc8aeb15": {
+    "relation_pairs": [
+      [
+        "Number of Pipeline Stages",
+        "Speedup Ratio"
+      ],
+      [
+        "Number of Pipeline Stages",
+        "Pipelined Total Time"
+      ],
+      [
+        "Maximum Throughput Rate",
+        "Throughput Rate"
+      ],
+      [
+        "Pipeline Throughput Rate",
+        "Task Count"
+      ],
+      [
+        "Pipelined Total Time",
+        "Task Count"
+      ],
+      [
+        "Maximum Speedup Ratio",
+        "Number of Pipeline Stages"
+      ],
+      [
+        "Non-Pipelined Total Time",
+        "Task Count"
+      ],
+      [
+        "Ideal Continuous Input",
+        "Maximum Throughput Rate"
+      ],
+      [
+        "Clock Cycle",
+        "Maximum Throughput Rate"
+      ],
+      [
+        "Pipelined Total Time",
+        "Speedup Ratio"
+      ],
+      [
+        "Maximum Throughput Rate",
+        "Pipeline Throughput Rate"
+      ],
+      [
+        "Clock Cycle",
+        "Pipeline Throughput Rate"
+      ],
+      [
+        "Non-Pipelined Total Time",
+        "Speedup Ratio"
+      ],
+      [
+        "Maximum Speedup Ratio",
+        "Speedup Ratio"
+      ]
+    ],
+    "count": 14,
+    "create_time": 1761735535,
+    "update_time": 1761735535,
+    "_id": "doc-d2fd5e9039a63352ee73f215fc8aeb15"
+  },
+  "doc-06dc541c0ea968720bb78e8c162eb159": {
+    "relation_pairs": [
+      [
+        "Instruction Cycle",
+        "Interrupt Cycle"
+      ],
+      [
+        "Address Bus",
+        "Indirect Addressing Cycle"
+      ],
+      [
+        "Interrupt Cycle",
+        "Main Memory"
+      ],
+      [
+        "ALU",
+        "Execution Cycle"
+      ],
+      [
+        "Control Bus",
+        "Interrupt Cycle"
+      ],
+      [
+        "Execution Cycle",
+        "Instruction Cycle"
+      ],
+      [
+        "Control Bus",
+        "Indirect Addressing Cycle"
+      ],
+      [
+        "Interrupt Cycle",
+        "Stack"
+      ],
+      [
+        "Fetch Cycle",
+        "MAR"
+      ],
+      [
+        "Indirect Addressing Cycle",
+        "MAR"
+      ],
+      [
+        "Fetch Cycle",
+        "PC"
+      ],
+      [
+        "Interrupt Cycle",
+        "SP"
+      ],
+      [
+        "Address Bus",
+        "Interrupt Cycle"
+      ],
+      [
+        "Fetch Cycle",
+        "Instruction Cycle"
+      ],
+      [
+        "Address Bus",
+        "Fetch Cycle"
+      ],
+      [
+        "Indirect Addressing Cycle",
+        "Instruction Cycle"
+      ],
+      [
+        "Fetch Cycle",
+        "MDR"
+      ],
+      [
+        "Indirect Addressing Cycle",
+        "MDR"
+      ],
+      [
+        "Fetch Cycle",
+        "Main Memory"
+      ],
+      [
+        "IR",
+        "Indirect Addressing Cycle"
+      ],
+      [
+        "Execution Cycle",
+        "IR"
+      ],
+      [
+        "Control Bus",
+        "Fetch Cycle"
+      ],
+      [
+        "Indirect Addressing Cycle",
+        "Main Memory"
+      ],
+      [
+        "Interrupt Cycle",
+        "MAR"
+      ],
+      [
+        "Interrupt Cycle",
+        "PC"
+      ],
+      [
+        "CU",
+        "Fetch Cycle"
+      ],
+      [
+        "Fetch Cycle",
+        "IR"
+      ]
+    ],
+    "count": 27,
+    "create_time": 1761735558,
+    "update_time": 1761735558,
+    "_id": "doc-06dc541c0ea968720bb78e8c162eb159"
+  },
+  "doc-7c0bc146aeae05e551f80c74f57bf6cc": {
+    "relation_pairs": [
+      [
+        "内存储器",
+        "数据总线"
+      ],
+      [
+        "数据总线",
+        "输入设备"
+      ],
+      [
+        "地址总线",
+        "输出设备"
+      ],
+      [
+        "数据总线",
+        "运算器部件"
+      ],
+      [
+        "接口电路",
+        "输入设备"
+      ],
+      [
+        "内存储器",
+        "地址总线"
+      ],
+      [
+        "控制器",
+        "输出设备"
+      ],
+      [
+        "控制器",
+        "数据总线"
+      ],
+      [
+        "内存储器",
+        "控制总线"
+      ],
+      [
+        "地址总线",
+        "控制器"
+      ],
+      [
+        "地址总线",
+        "输入设备"
+      ],
+      [
+        "控制总线",
+        "输出设备"
+      ],
+      [
+        "IR",
+        "控制器"
+      ],
+      [
+        "控制器",
+        "输入设备"
+      ],
+      [
+        "数据总线",
+        "输出设备"
+      ],
+      [
+        "PC",
+        "控制器"
+      ],
+      [
+        "微程序控制器",
+        "硬布线控制器"
+      ],
+      [
+        "控制器",
+        "运算器部件"
+      ],
+      [
+        "控制总线",
+        "输入设备"
+      ],
+      [
+        "控制器",
+        "控制总线"
+      ],
+      [
+        "接口电路",
+        "输出设备"
+      ],
+      [
+        "主存",
+        "控制器"
+      ]
+    ],
+    "count": 22,
+    "create_time": 1761735670,
+    "update_time": 1761735670,
+    "_id": "doc-7c0bc146aeae05e551f80c74f57bf6cc"
+  },
+  "doc-cc56d9863e6de5d5a6e95e87766d0742": {
+    "relation_pairs": [
+      [
+        "Vector Processor",
+        "Vectorized Instruction Set"
+      ],
+      [
+        "SISD",
+        "Serial Processor"
+      ],
+      [
+        "Parallel Hardware",
+        "SIMD"
+      ],
+      [
+        "MIMD",
+        "Multiprocessor System"
+      ],
+      [
+        "ALU",
+        "Vector Processor"
+      ],
+      [
+        "MIMD",
+        "Thread-Level Parallelism"
+      ],
+      [
+        "Pipelining",
+        "SISD"
+      ],
+      [
+        "Multiprocessor System",
+        "Single Address Space"
+      ],
+      [
+        "SISD",
+        "Traditional Serial Computer Architecture"
+      ],
+      [
+        "SIMD",
+        "Switch Statement"
+      ],
+      [
+        "Message Passing",
+        "Multicomputer System"
+      ],
+      [
+        "MISD",
+        "Theoretical Architecture"
+      ],
+      [
+        "MIMD",
+        "Multicomputer System"
+      ],
+      [
+        "For Loop",
+        "SIMD"
+      ],
+      [
+        "Multi-Module Cross-Organization",
+        "SISD"
+      ],
+      [
+        "Multiprocessor System",
+        "Shared Memory"
+      ],
+      [
+        "Numerical Simulation",
+        "Vector Processor"
+      ],
+      [
+        "Case Statement",
+        "SIMD"
+      ],
+      [
+        "Vector Processor",
+        "Vector Register"
+      ],
+      [
+        "Data-Level Parallelism",
+        "SIMD"
+      ],
+      [
+        "SIMD",
+        "Vector Processor"
+      ],
+      [
+        "Multicomputer System",
+        "Private Memory"
+      ],
+      [
+        "Instruction Control Component",
+        "SIMD"
+      ]
+    ],
+    "count": 23,
+    "create_time": 1761735677,
+    "update_time": 1761735677,
+    "_id": "doc-cc56d9863e6de5d5a6e95e87766d0742"
+  },
+  "doc-062a2e851dd9b26735dc96a7d8a4b551": {
+    "relation_pairs": [
+      [
+        "IF",
+        "指令"
+      ],
+      [
+        "流水段寄存器",
+        "统一时钟CLK"
+      ],
+      [
+        "MEM",
+        "WB"
+      ],
+      [
+        "EX",
+        "MEM"
+      ],
+      [
+        "数据存储器",
+        "时钟周期"
+      ],
+      [
+        "时钟周期",
+        "流水线的逻辑结构"
+      ],
+      [
+        "流水线中将同时存在5条不同的指令并行执行",
+        "流水线的逻辑结构"
+      ],
+      [
+        "EX",
+        "ID"
+      ],
+      [
+        "流水段寄存器",
+        "流水线的逻辑结构"
+      ],
+      [
+        "ID",
+        "IF"
+      ]
+    ],
+    "count": 10,
+    "create_time": 1761735723,
+    "update_time": 1761735723,
+    "_id": "doc-062a2e851dd9b26735dc96a7d8a4b551"
+  },
+  "doc-cc2d0105e935d9886fe36f0b3286af0f": {
+    "relation_pairs": [
+      [
+        "Control Unit",
+        "Flag"
+      ],
+      [
+        "Hardwired Controller",
+        "Microprogramming Method"
+      ],
+      [
+        "Control Unit",
+        "Hardwired Controller"
+      ],
+      [
+        "Hardwired Controller",
+        "Timing Generator"
+      ],
+      [
+        "Control Unit",
+        "Instruction Decoder"
+      ],
+      [
+        "Hardwired Controller",
+        "RISC"
+      ],
+      [
+        "Control Unit",
+        "Micro-operation Command"
+      ],
+      [
+        "Hardwired Controller",
+        "Instruction Opcode"
+      ],
+      [
+        "Clock Pulse",
+        "Control Unit"
+      ],
+      [
+        "Flag",
+        "Hardwired Controller"
+      ]
+    ],
+    "count": 10,
+    "create_time": 1761735740,
+    "update_time": 1761735740,
+    "_id": "doc-cc2d0105e935d9886fe36f0b3286af0f"
+  },
+  "doc-91a81db4ce70f9dbc729e1840db41cff": {
+    "relation_pairs": [
+      [
+        "Maintainability",
+        "Microprogrammed Controller"
+      ],
+      [
+        "Microprogrammed Controller",
+        "Regularity"
+      ],
+      [
+        "Functionality",
+        "Hardwired Controller"
+      ],
+      [
+        "Hardwired Controller",
+        "Speed"
+      ],
+      [
+        "Control Storage Unit",
+        "Microprogrammed Controller"
+      ],
+      [
+        "Combination Logic Controller",
+        "Hardwired Controller"
+      ],
+      [
+        "Instruction Execution",
+        "Microprogrammed Controller"
+      ],
+      [
+        "Combinational Logic Circuits",
+        "Hardwired Controller"
+      ],
+      [
+        "Flexibility",
+        "Microprogrammed Controller"
+      ],
+      [
+        "Control Signal Generation",
+        "Hardwired Controller"
+      ],
+      [
+        "Microprogrammed Controller",
+        "Speed"
+      ]
+    ],
+    "count": 11,
+    "create_time": 1761735802,
+    "update_time": 1761735802,
+    "_id": "doc-91a81db4ce70f9dbc729e1840db41cff"
+  },
+  "doc-fe06e06cd53b2ace66af32c5e482dce9": {
+    "relation_pairs": [
+      [
+        "Control Storage",
+        "Microinstruction Address Register"
+      ],
+      [
+        "Main Memory",
+        "RAM"
+      ],
+      [
+        "Microinstruction",
+        "Operation Control Field"
+      ],
+      [
+        "Machine Instruction",
+        "Microprogram"
+      ],
+      [
+        "Instruction Register",
+        "Main Memory"
+      ],
+      [
+        "Microcommand",
+        "Microcommand Compatibility"
+      ],
+      [
+        "Control Storage",
+        "Microprogram Controller"
+      ],
+      [
+        "Control Storage",
+        "Microinstruction Register"
+      ],
+      [
+        "Control Storage",
+        "ROM"
+      ],
+      [
+        "Address Register",
+        "Main Memory"
+      ],
+      [
+        "Microinstruction",
+        "Microprogram Controller"
+      ],
+      [
+        "Microcommand",
+        "Microoperation"
+      ],
+      [
+        "Microcommand",
+        "Microcommand Mutual Exclusivity"
+      ],
+      [
+        "Microcycle",
+        "Microinstruction"
+      ],
+      [
+        "Microinstruction",
+        "Microprogram"
+      ],
+      [
+        "Microinstruction",
+        "Sequence Control Field"
+      ]
+    ],
+    "count": 16,
+    "create_time": 1761735817,
+    "update_time": 1761735817,
+    "_id": "doc-fe06e06cd53b2ace66af32c5e482dce9"
+  },
+  "doc-01427518a698286307aa6708cae3234c": {
+    "relation_pairs": [
+      [
+        "Branch Prediction",
+        "Static Branch Prediction"
+      ],
+      [
+        "Branch Instruction",
+        "Control Hazard"
+      ],
+      [
+        "Branch Prediction",
+        "Dynamic Branch Prediction"
+      ],
+      [
+        "Cache Miss",
+        "Pipeline Stall"
+      ],
+      [
+        "Delay Loss Time Slot C",
+        "Pipeline Stall"
+      ],
+      [
+        "NOP Instruction",
+        "Pipeline Stall"
+      ],
+      [
+        "Branch Prediction",
+        "Control Hazard"
+      ],
+      [
+        "Control Hazard",
+        "Program Counter"
+      ]
+    ],
+    "count": 8,
+    "create_time": 1761735853,
+    "update_time": 1761735853,
+    "_id": "doc-01427518a698286307aa6708cae3234c"
+  },
+  "doc-7e297f32d868dbd2d51d7a047e223119": {
+    "relation_pairs": [
+      [
+        "CPU",
+        "Controller"
+      ],
+      [
+        "Controller",
+        "Operation Control"
+      ],
+      [
+        "CPU",
+        "Instruction Control"
+      ],
+      [
+        "Arithmetic Logic Unit",
+        "CPU"
+      ],
+      [
+        "CPU",
+        "Data Processing"
+      ],
+      [
+        "CPU",
+        "Time Control"
+      ],
+      [
+        "CPU",
+        "Interrupt Handling"
+      ],
+      [
+        "CPU",
+        "Operation Control"
+      ]
+    ],
+    "count": 8,
+    "create_time": 1761735897,
+    "update_time": 1761735897,
+    "_id": "doc-7e297f32d868dbd2d51d7a047e223119"
+  },
+  "doc-643c2ebb8e3d3384d19f217865cc3b8f": {
+    "relation_pairs": [
+      [
+        "Program Counter",
+        "Stack Pointer"
+      ],
+      [
+        "Instruction Register",
+        "Program Counter"
+      ],
+      [
+        "CPU",
+        "Instruction Cycle"
+      ],
+      [
+        "Beat",
+        "Pulse"
+      ],
+      [
+        "Instruction Cycle",
+        "Interrupt Cycle"
+      ],
+      [
+        "Indirect Addressing Cycle",
+        "Instruction Cycle"
+      ],
+      [
+        "Beat",
+        "Machine Cycle"
+      ],
+      [
+        "Interrupt Cycle",
+        "Stack Pointer"
+      ],
+      [
+        "Fetch Phase",
+        "JMPX Instruction"
+      ],
+      [
+        "Execute Phase",
+        "JMPX Instruction"
+      ],
+      [
+        "Fetch Phase",
+        "Instruction Cycle"
+      ],
+      [
+        "CPU",
+        "Clock Cycle"
+      ],
+      [
+        "Indirect Addressing Cycle",
+        "Main Memory"
+      ],
+      [
+        "Execution Phase",
+        "Indirect Addressing Cycle"
+      ],
+      [
+        "Execute Phase",
+        "Instruction Cycle"
+      ],
+      [
+        "Main Memory",
+        "Program Counter"
+      ]
+    ],
+    "count": 16,
+    "create_time": 1761735901,
+    "update_time": 1761735901,
+    "_id": "doc-643c2ebb8e3d3384d19f217865cc3b8f"
+  },
+  "doc-2a63536239036e36be43b7e72d560b24": {
+    "relation_pairs": [
+      [
+        "Registers",
+        "Single Bus Structure Data Path"
+      ],
+      [
+        "ALU",
+        "Dedicated Data Path"
+      ],
+      [
+        "Dedicated Data Path",
+        "Hardware Complexity"
+      ],
+      [
+        "Multi Bus Structure Data Path",
+        "Registers"
+      ],
+      [
+        "CPU Internal Multi Bus Architecture",
+        "Internal Bus"
+      ],
+      [
+        "Dedicated Data Path",
+        "Registers"
+      ],
+      [
+        "Performance",
+        "Single Bus Structure Data Path"
+      ],
+      [
+        "Instruction Execution Efficiency",
+        "Multi Bus Structure Data Path"
+      ],
+      [
+        "Single Bus Structure Data Path",
+        "Single Cycle Processor"
+      ],
+      [
+        "CPU Internal Multi Bus Architecture",
+        "Dedicated Data Path"
+      ],
+      [
+        "CPU Internal Multi Bus Architecture",
+        "Multi Bus Structure Data Path"
+      ],
+      [
+        "CPU Internal Single Bus Architecture",
+        "Single Bus Structure Data Path"
+      ],
+      [
+        "CPU Internal Single Bus Architecture",
+        "Internal Bus"
+      ],
+      [
+        "ALU",
+        "Single Bus Structure Data Path"
+      ],
+      [
+        "Internal Bus",
+        "System Bus"
+      ]
+    ],
+    "count": 15,
+    "create_time": 1761735988,
+    "update_time": 1761735988,
+    "_id": "doc-2a63536239036e36be43b7e72d560b24"
+  },
+  "doc-acb6520440fa5141fe4d034f3e5e6edf": {
+    "relation_pairs": [
+      [
+        "Overflow Flag",
+        "Program Status Word Register"
+      ],
+      [
+        "CPU",
+        "Program Status Word Register"
+      ],
+      [
+        "CPU",
+        "Memory Address Register"
+      ],
+      [
+        "Carry Flag",
+        "Program Status Word Register"
+      ],
+      [
+        "CPU",
+        "Shift Register"
+      ],
+      [
+        "Accumulator",
+        "Arithmetic Logic Unit"
+      ],
+      [
+        "CPU",
+        "User Visible Register"
+      ],
+      [
+        "CPU",
+        "Temporary Register"
+      ],
+      [
+        "CPU",
+        "General Purpose Register Group"
+      ],
+      [
+        "Program Status Word Register",
+        "Sign Flag"
+      ],
+      [
+        "Base Index Register",
+        "General Purpose Register Group"
+      ],
+      [
+        "Accumulator",
+        "CPU"
+      ],
+      [
+        "Arithmetic Logic Unit",
+        "Shift Register"
+      ],
+      [
+        "Main Memory",
+        "Program Counter"
+      ],
+      [
+        "CPU",
+        "Register"
+      ],
+      [
+        "Program Status Word Register",
+        "Zero Flag"
+      ],
+      [
+        "CPU",
+        "Instruction Register"
+      ],
+      [
+        "CPU",
+        "Program Counter"
+      ],
+      [
+        "Machine Language",
+        "User Visible Register"
+      ],
+      [
+        "Instruction Register",
+        "Program Counter"
+      ],
+      [
+        "Data Bus",
+        "Temporary Register"
+      ],
+      [
+        "Assembly Language",
+        "User Visible Register"
+      ],
+      [
+        "CPU",
+        "Memory Data Register"
+      ],
+      [
+        "CPU",
+        "User Invisible Register"
+      ],
+      [
+        "CPU",
+        "Stack Pointer"
+      ]
+    ],
+    "count": 25,
+    "create_time": 1761736000,
+    "update_time": 1761736000,
+    "_id": "doc-acb6520440fa5141fe4d034f3e5e6edf"
+  },
+  "doc-ea027e504c6e7bd731aebc2b71512e1c": {
+    "relation_pairs": [
+      [
+        "Core",
+        "Multi-Core Processor"
+      ],
+      [
+        "Main Memory",
+        "Multi-Core Processor"
+      ],
+      [
+        "Cache",
+        "Core"
+      ],
+      [
+        "Multi-Core Processor",
+        "Multi-Threaded Execution"
+      ],
+      [
+        "Interleaved Execution",
+        "Single-Core System"
+      ],
+      [
+        "Multi-Core Processor",
+        "Parallel Execution"
+      ]
+    ],
+    "count": 6,
+    "create_time": 1761736029,
+    "update_time": 1761736029,
+    "_id": "doc-ea027e504c6e7bd731aebc2b71512e1c"
+  },
+  "doc-53c573d4212b8c79ccafbdbdcd65d8e9": {
+    "relation_pairs": [
+      [
+        "Exception Handling Procedure",
+        "Exception Return Instruction"
+      ],
+      [
+        "Exception Handling Procedure",
+        "Fatal Error"
+      ],
+      [
+        "Interrupt",
+        "Interrupt Request Signal"
+      ],
+      [
+        "Instruction i",
+        "User Program"
+      ],
+      [
+        "Asynchronous Event",
+        "Interrupt"
+      ],
+      [
+        "CPU",
+        "Interrupt"
+      ],
+      [
+        "Instruction i+1",
+        "User Program"
+      ],
+      [
+        "Interrupt Handling Procedure",
+        "Operating System"
+      ],
+      [
+        "Exception",
+        "Instruction i"
+      ],
+      [
+        "Exception Handling Procedure",
+        "Operating System"
+      ],
+      [
+        "Interrupt Handling Procedure",
+        "Interrupt Return Instruction"
+      ],
+      [
+        "Fatal Error",
+        "Interrupt Handling Procedure"
+      ],
+      [
+        "Exception",
+        "Synchronous Event"
+      ],
+      [
+        "CPU",
+        "Exception"
+      ],
+      [
+        "CPU",
+        "User Program"
+      ]
+    ],
+    "count": 15,
+    "create_time": 1761736070,
+    "update_time": 1761736070,
+    "_id": "doc-53c573d4212b8c79ccafbdbdcd65d8e9"
+  },
+  "doc-d405a4a8ff3786f94e93e3a9b7786551": {
+    "relation_pairs": [
+      [
+        "CPU",
+        "Identify Exception and Interrupt and Transfer to Handler"
+      ],
+      [
+        "Disable Interrupts",
+        "Interrupt Allowance (IF) Trigger"
+      ],
+      [
+        "Hardware Identification",
+        "Interrupt Vector Table"
+      ],
+      [
+        "Program Status Word (PSW)",
+        "Stack"
+      ],
+      [
+        "CPU",
+        "Exception Response Process"
+      ],
+      [
+        "Interrupt Type Number",
+        "Interrupt Vector Table"
+      ],
+      [
+        "Exception Status Register",
+        "Software Identification"
+      ],
+      [
+        "CPU",
+        "Save Breakpoint and Program State"
+      ],
+      [
+        "Software Identification",
+        "Unified Exception or Interrupt Query Program"
+      ],
+      [
+        "CPU",
+        "Single Interrupt or Exception Handling"
+      ],
+      [
+        "Interrupt Service Program",
+        "Interrupt Vector Table"
+      ],
+      [
+        "Breakpoint",
+        "Stack"
+      ],
+      [
+        "Interrupt Service Program",
+        "Interrupt Vector"
+      ],
+      [
+        "CPU",
+        "Disable Interrupts"
+      ],
+      [
+        "CPU",
+        "Interrupt Response Process"
+      ]
+    ],
+    "count": 15,
+    "create_time": 1761736121,
+    "update_time": 1761736121,
+    "_id": "doc-d405a4a8ff3786f94e93e3a9b7786551"
+  },
+  "doc-7b1e3d6a0816b7c4daa74cc9c66df994": {
+    "relation_pairs": [
+      [
+        "主存",
+        "指令寄存器"
+      ],
+      [
+        "μIR",
+        "控制存储器"
+      ],
+      [
+        "微程序控制器",
+        "控制存储器"
+      ],
+      [
+        "微程序控制器",
+        "间址周期微程序"
+      ],
+      [
+        "μPC",
+        "微地址形成部件"
+      ],
+      [
+        "微程序控制器",
+        "机器指令"
+      ],
+      [
+        "μPC",
+        "控制存储器"
+      ],
+      [
+        "微程序",
+        "控制存储器"
+      ],
+      [
+        "中断周期微程序",
+        "微程序控制器"
+      ],
+      [
+        "微指令寄存器",
+        "微程序控制器"
+      ],
+      [
+        "CM",
+        "微程序控制器"
+      ],
+      [
+        "μPC",
+        "微程序控制器"
+      ],
+      [
+        "微地址形成部件",
+        "微程序控制器"
+      ],
+      [
+        "取指微程序",
+        "机器指令"
+      ],
+      [
+        "微指令地址寄存器",
+        "微程序控制器"
+      ],
+      [
+        "取指微程序",
+        "微程序控制器"
+      ],
+      [
+        "微程序控制器",
+        "指令寄存器"
+      ]
+    ],
+    "count": 17,
+    "create_time": 1761736164,
+    "update_time": 1761736164,
+    "_id": "doc-7b1e3d6a0816b7c4daa74cc9c66df994"
+  },
+  "doc-951a0e05d8d102dbb38963722260d96a": {
+    "relation_pairs": [
+      [
+        "Memory Stage",
+        "Write-Back Stage"
+      ],
+      [
+        "Resource Conflict",
+        "Structural Hazard"
+      ],
+      [
+        "Compiler Optimization",
+        "Load-Use Data Hazard"
+      ],
+      [
+        "Add Instruction",
+        "Forwarding Path"
+      ],
+      [
+        "Execution Stage",
+        "Write-Back Stage"
+      ],
+      [
+        "Non-OutOfOrder Execution",
+        "Read After Write Conflict"
+      ],
+      [
+        "Instruction Fetch Stage",
+        "Memory Access Conflict"
+      ],
+      [
+        "Data Hazard",
+        "Read After Write Conflict"
+      ],
+      [
+        "Add Instruction",
+        "Load Instruction"
+      ],
+      [
+        "Add Instruction",
+        "Execute Stage"
+      ],
+      [
+        "Memory Access Conflict",
+        "Structural Hazard"
+      ],
+      [
+        "Data Memory",
+        "L1 Cache"
+      ],
+      [
+        "Instruction Pipeline",
+        "Read After Write Conflict"
+      ],
+      [
+        "Instruction Memory",
+        "L1 Cache"
+      ],
+      [
+        "Load Instruction",
+        "Memory Stage"
+      ],
+      [
+        "Load Instruction",
+        "Load-Use Data Hazard"
+      ],
+      [
+        "Load-Use Data Hazard",
+        "NOP Instruction"
+      ],
+      [
+        "Register Read Port",
+        "Register Write Port"
+      ],
+      [
+        "Instruction Pipeline",
+        "Pipeline Hazard"
+      ]
+    ],
+    "count": 19,
+    "create_time": 1761736232,
+    "update_time": 1761736232,
+    "_id": "doc-951a0e05d8d102dbb38963722260d96a"
+  },
+  "doc-62d730248fb05de6d5c2902d76480b63": {
+    "relation_pairs": [
+      [
+        "Abort",
+        "CPU"
+      ],
+      [
+        "Single Step Tracking",
+        "Trap"
+      ],
+      [
+        "CPU",
+        "Hard Fault Interrupt"
+      ],
+      [
+        "Breakpoint",
+        "Programmable Exception"
+      ],
+      [
+        "Abort",
+        "Bus Error"
+      ],
+      [
+        "Trap",
+        "x86 Machine"
+      ],
+      [
+        "Fault",
+        "Illegal Instruction"
+      ],
+      [
+        "Abort",
+        "Memory Parity Error"
+      ],
+      [
+        "CPU",
+        "Trap"
+      ],
+      [
+        "Fault",
+        "Segment Fault"
+      ],
+      [
+        "Programmable Exception",
+        "Single Step Tracking"
+      ],
+      [
+        "Illegal Instruction",
+        "Programmable Exception"
+      ],
+      [
+        "Overflow",
+        "Programmable Exception"
+      ],
+      [
+        "Main Memory",
+        "Page Fault"
+      ],
+      [
+        "MIPS Architecture",
+        "Trap"
+      ],
+      [
+        "Disk",
+        "Segment"
+      ],
+      [
+        "Programmable Exception",
+        "Segment Fault"
+      ],
+      [
+        "Division By Zero",
+        "Fault"
+      ],
+      [
+        "Breakpoint",
+        "Trap"
+      ],
+      [
+        "Address Out Of Bounds",
+        "Programmable Exception"
+      ],
+      [
+        "Main Memory",
+        "Segment Fault"
+      ],
+      [
+        "Exception Service Routine",
+        "Operating System Kernel"
+      ],
+      [
+        "CPU",
+        "Fault"
+      ],
+      [
+        "System Call",
+        "Trap"
+      ],
+      [
+        "Division By Zero",
+        "Programmable Exception"
+      ],
+      [
+        "Disk",
+        "Page"
+      ],
+      [
+        "CPU",
+        "Programmable Exception"
+      ],
+      [
+        "Page Fault",
+        "Programmable Exception"
+      ],
+      [
+        "Programmable Exception",
+        "Stack Overflow"
+      ],
+      [
+        "Abort",
+        "Controller Error"
+      ],
+      [
+        "Fault",
+        "Page Fault"
+      ]
+    ],
+    "count": 31,
+    "create_time": 1761736302,
+    "update_time": 1761736302,
+    "_id": "doc-62d730248fb05de6d5c2902d76480b63"
+  },
+  "doc-3ac380505fdc239a4da36a89716b6444": {
+    "relation_pairs": [
+      [
+        "Clock Cycle",
+        "Superpipeline Technology"
+      ],
+      [
+        "Advanced Pipeline Technology",
+        "Instruction-Level Parallelism"
+      ],
+      [
+        "Advanced Pipeline Technology",
+        "Very Long Instruction Word Technology"
+      ],
+      [
+        "Advanced Pipeline Technology",
+        "Superpipeline Technology"
+      ],
+      [
+        "Functional Unit",
+        "Multiple Issuance Technology"
+      ],
+      [
+        "Out-of-Order Execution",
+        "Superscalar Pipeline Technology"
+      ],
+      [
+        "Advanced Pipeline Technology",
+        "Multiple Issuance Technology"
+      ],
+      [
+        "Dynamic Branch Prediction",
+        "Dynamic Pipeline Scheduling"
+      ],
+      [
+        "Advanced Pipeline Technology",
+        "Superscalar Pipeline Technology"
+      ],
+      [
+        "Simple Superscalar CPU",
+        "Superscalar Pipeline Technology"
+      ],
+      [
+        "CPI",
+        "Superpipeline Technology"
+      ],
+      [
+        "Compiler",
+        "Very Long Instruction Word Technology"
+      ],
+      [
+        "Pipeline Register Overhead",
+        "Superpipeline Technology"
+      ],
+      [
+        "CPI",
+        "Superscalar Pipeline Technology"
+      ],
+      [
+        "Instruction Throughput",
+        "Superpipeline Technology"
+      ],
+      [
+        "Functional Unit",
+        "Very Long Instruction Word Technology"
+      ],
+      [
+        "Dynamic Pipeline Scheduling",
+        "Superscalar Pipeline Technology"
+      ]
+    ],
+    "count": 17,
+    "create_time": 1761736317,
+    "update_time": 1761736317,
+    "_id": "doc-3ac380505fdc239a4da36a89716b6444"
+  },
+  "doc-96defdcda60eaf79fff26bdc712404aa": {
+    "relation_pairs": [
+      [
+        "微命令",
+        "直接编码方式"
+      ],
+      [
+        "微命令",
+        "微操作"
+      ],
+      [
+        "字段直接编码方式",
+        "操作并行性"
+      ],
+      [
+        "3位字段",
+        "字段直接编码方式"
+      ],
+      [
+        "字段直接编码方式",
+        "相容性微命令"
+      ],
+      [
+        "字段直接编码方式",
+        "译码电路"
+      ],
+      [
+        "互斥性微命令",
+        "字段直接编码方式"
+      ],
+      [
+        "微指令的操作控制字段",
+        "微指令的编码方式"
+      ],
+      [
+        "微指令字长",
+        "微指令的编码方式"
+      ],
+      [
+        "控制存储器",
+        "直接编码方式"
+      ],
+      [
+        "控制存储器容量",
+        "直接编码方式"
+      ],
+      [
+        "字段直接编码方式",
+        "字段间接编码方式"
+      ]
+    ],
+    "count": 12,
+    "create_time": 1761736390,
+    "update_time": 1761736390,
+    "_id": "doc-96defdcda60eaf79fff26bdc712404aa"
+  },
+  "doc-2459f394250f45963236273137f4db0c": {
+    "relation_pairs": [
+      [
+        "Clock Signal",
+        "Sequential Logic Element"
+      ],
+      [
+        "Memory",
+        "Sequential Logic Element"
+      ],
+      [
+        "General Purpose Register Group",
+        "Sequential Logic Element"
+      ],
+      [
+        "Register",
+        "Sequential Logic Element"
+      ],
+      [
+        "Sequential Logic Element",
+        "Shift Register"
+      ],
+      [
+        "Combinational Logic Element",
+        "Decoder"
+      ],
+      [
+        "Data Path",
+        "Sequential Logic Element"
+      ],
+      [
+        "Combinational Logic Element",
+        "Three-State Gate"
+      ],
+      [
+        "Combinational Logic Element",
+        "No Feedback"
+      ],
+      [
+        "Latch",
+        "Sequential Logic Element"
+      ],
+      [
+        "Arithmetic Logic Unit",
+        "Combinational Logic Element"
+      ],
+      [
+        "Program Counter",
+        "Sequential Logic Element"
+      ],
+      [
+        "Adder",
+        "Combinational Logic Element"
+      ],
+      [
+        "Sequential Logic Element",
+        "Status Register"
+      ],
+      [
+        "Combinational Logic Element",
+        "Data Path"
+      ],
+      [
+        "Combinational Logic Element",
+        "Multiplexer"
+      ]
+    ],
+    "count": 16,
+    "create_time": 1761736397,
+    "update_time": 1761736397,
+    "_id": "doc-2459f394250f45963236273137f4db0c"
+  },
+  "doc-5ea0f23d1c767bafc743ff484eb189e1": {
+    "relation_pairs": [
+      [
+        "Instruction Execution Time",
+        "Single Cycle Implementation"
+      ],
+      [
+        "Pipeline Design Principle",
+        "Stage Length"
+      ],
+      [
+        "Instruction Pipeline Stages",
+        "Pipeline Design Principle"
+      ],
+      [
+        "Clock Cycle",
+        "Memory Access Stage"
+      ],
+      [
+        "Pipeline Processor Time",
+        "Single Cycle Processor Time"
+      ],
+      [
+        "Clock Cycle",
+        "Fetch Stage"
+      ],
+      [
+        "Clock Cycle",
+        "Data Path"
+      ],
+      [
+        "Performance Efficiency",
+        "Pipeline Processor Time"
+      ],
+      [
+        "5-Stage Pipeline",
+        "Pipeline Design Principle"
+      ],
+      [
+        "Pipeline Design Principle",
+        "Single Cycle Implementation"
+      ]
+    ],
+    "count": 10,
+    "create_time": 1761736493,
+    "update_time": 1761736493,
+    "_id": "doc-5ea0f23d1c767bafc743ff484eb189e1"
+  },
+  "doc-de401d6e0254effcba3f6fcd81cefe60": {
+    "relation_pairs": [
+      [
+        "Data Path",
+        "Register"
+      ],
+      [
+        "CPU",
+        "Program Status Word Register"
+      ],
+      [
+        "Control Unit",
+        "Instruction Execution"
+      ],
+      [
+        "Computational Core",
+        "Program Status Word Register"
+      ],
+      [
+        "Arithmetic Logic Unit",
+        "Data Path"
+      ],
+      [
+        "CPU",
+        "General Purpose Register Group"
+      ],
+      [
+        "Control Signal",
+        "Instruction Execution"
+      ],
+      [
+        "CPU",
+        "Timing Circuit"
+      ],
+      [
+        "Counter",
+        "Data Path"
+      ],
+      [
+        "CPU",
+        "Instruction Decoder"
+      ],
+      [
+        "Instruction Execution",
+        "Microcommand Sequence"
+      ],
+      [
+        "CPU",
+        "Microoperation Signal Generator"
+      ],
+      [
+        "CPU",
+        "Instruction Register"
+      ],
+      [
+        "CPU",
+        "Program Counter"
+      ],
+      [
+        "Arithmetic Logic Unit",
+        "CPU"
+      ],
+      [
+        "Arithmetic Logic Unit",
+        "Computational Core"
+      ],
+      [
+        "Control Signal Generation",
+        "Control Unit"
+      ],
+      [
+        "Conditional Test",
+        "运算器"
+      ],
+      [
+        "Control Unit",
+        "Microcommand Sequence"
+      ],
+      [
+        "Control Signal",
+        "Control Unit"
+      ],
+      [
+        "Instruction Decoder",
+        "Operation Code"
+      ],
+      [
+        "Control Unit",
+        "Hardware Synchronization"
+      ]
+    ],
+    "count": 22,
+    "create_time": 1761736511,
+    "update_time": 1761736511,
+    "_id": "doc-de401d6e0254effcba3f6fcd81cefe60"
+  },
+  "doc-cf0a63e25f70bb6e12f2ee7720496542": {
+    "relation_pairs": [
+      [
+        "Data Path",
+        "Exception and Interrupt Handling Logic"
+      ],
+      [
+        "Control Unit",
+        "Data Path"
+      ],
+      [
+        "Control Signals",
+        "Control Unit"
+      ],
+      [
+        "Data Path",
+        "Status Register"
+      ],
+      [
+        "ALU",
+        "Data Path"
+      ],
+      [
+        "CPU",
+        "Data Path"
+      ],
+      [
+        "Data Flow",
+        "Data Path"
+      ],
+      [
+        "Data Path",
+        "Instruction Execution"
+      ],
+      [
+        "Data Path",
+        "General Purpose Registers"
+      ]
+    ],
+    "count": 9,
+    "create_time": 1761736564,
+    "update_time": 1761736564,
+    "_id": "doc-cf0a63e25f70bb6e12f2ee7720496542"
+  },
+  "doc-48932a772d41e90269193af10a0bbbb3": {
+    "relation_pairs": [
+      [
+        "LOAD/STORE型指令",
+        "指令集"
+      ],
+      [
+        "指令流水线",
+        "访存"
+      ],
+      [
+        "指令长度",
+        "指令集"
+      ],
+      [
+        "指令流水线",
+        "时间上的并行技术"
+      ],
+      [
+        "写回",
+        "指令流水线"
+      ],
+      [
+        "指令流水线",
+        "译码/读寄存器"
+      ],
+      [
+        "指令集",
+        "数据和指令在存储器中按边界对齐"
+      ],
+      [
+        "空间上的并行技术",
+        "超标量处理机"
+      ],
+      [
+        "指令流水线",
+        "空间上的并行技术"
+      ],
+      [
+        "取指",
+        "指令流水线"
+      ],
+      [
+        "执行/计算地址",
+        "指令流水线"
+      ],
+      [
+        "指令格式",
+        "指令集"
+      ]
+    ],
+    "count": 12,
+    "create_time": 1761736565,
+    "update_time": 1761736565,
+    "_id": "doc-48932a772d41e90269193af10a0bbbb3"
+  },
+  "doc-7c0597dc102c9fca5be6ec61fc5d051b": {
+    "relation_pairs": [
+      [
+        "后继微地址",
+        "微指令的地址形成方式"
+      ],
+      [
+        "μPC",
+        "增量计数器法"
+      ],
+      [
+        "字段直接编码",
+        "水平型微指令"
+      ],
+      [
+        "微指令的格式",
+        "水平型微指令"
+      ],
+      [
+        "电源加电后",
+        "硬件直接产生微程序入口地址"
+      ],
+      [
+        "垂直型微指令",
+        "微指令的格式"
+      ],
+      [
+        "字段间接编码",
+        "水平型微指令"
+      ],
+      [
+        "水平型微指令",
+        "直接编码"
+      ],
+      [
+        "μPC",
+        "取指周期微程序"
+      ],
+      [
+        "微指令的地址形成方式",
+        "标志"
+      ],
+      [
+        "微地址形成部件",
+        "机器指令的操作码"
+      ],
+      [
+        "微指令的后继地址字段",
+        "断定方式"
+      ]
+    ],
+    "count": 12,
+    "create_time": 1761736661,
+    "update_time": 1761736661,
+    "_id": "doc-7c0597dc102c9fca5be6ec61fc5d051b"
+  },
+  "doc-56dad084d2f83de29d62a2ae33cfc843": {
+    "relation_pairs": [
+      [
+        "Exception",
+        "Interrupt"
+      ],
+      [
+        "CPU",
+        "Interrupt Response Cycle"
+      ],
+      [
+        "Interrupt Controller",
+        "Interrupt Request Signal Line"
+      ],
+      [
+        "I/O Interrupt",
+        "Interrupt"
+      ],
+      [
+        "Exception",
+        "Hardware Detection"
+      ],
+      [
+        "Non-Vector Interrupt",
+        "Vector Interrupt"
+      ],
+      [
+        "NMI",
+        "Non-Maskable Interrupt"
+      ],
+      [
+        "INTR",
+        "Maskable Interrupt"
+      ],
+      [
+        "Interrupt",
+        "Special Event"
+      ],
+      [
+        "Multiple Interrupt",
+        "Single Interrupt"
+      ],
+      [
+        "Exception",
+        "Instruction Execution"
+      ],
+      [
+        "Hardware Detection",
+        "Interrupt"
+      ],
+      [
+        "Interrupt Controller",
+        "Maskable Interrupt"
+      ],
+      [
+        "Hardware Fault",
+        "Non-Maskable Interrupt"
+      ],
+      [
+        "CPU",
+        "Interrupt Request Signal Line"
+      ]
+    ],
+    "count": 15,
+    "create_time": 1761736663,
+    "update_time": 1761736663,
+    "_id": "doc-56dad084d2f83de29d62a2ae33cfc843"
+  },
+  "doc-f67ff7c347b613bc05733f64a51c9c17": {
+    "relation_pairs": [
+      [
+        "Hardware Multithreading",
+        "Thread Switching"
+      ],
+      [
+        "Instruction-Level Parallelism",
+        "Simultaneous Multithreading"
+      ],
+      [
+        "Intel Hyper-Threading",
+        "Simultaneous Multithreading"
+      ],
+      [
+        "Functional Unit",
+        "Intel Hyper-Threading"
+      ],
+      [
+        "Coarse-Grained Multithreading",
+        "Pipeline Stall"
+      ],
+      [
+        "Coarse-Grained Multithreading",
+        "Fine-Grained Multithreading"
+      ],
+      [
+        "Simultaneous Multithreading",
+        "Thread-Level Parallelism"
+      ],
+      [
+        "General Purpose Register Group",
+        "Hardware Multithreading"
+      ],
+      [
+        "Clock Cycle",
+        "Fine-Grained Multithreading"
+      ],
+      [
+        "Hardware Multithreading",
+        "Program Counter"
+      ],
+      [
+        "High-Speed Cache",
+        "Intel Hyper-Threading"
+      ],
+      [
+        "Hardware Multithreading",
+        "Simultaneous Multithreading"
+      ]
+    ],
+    "count": 12,
+    "create_time": 1761736745,
+    "update_time": 1761736745,
+    "_id": "doc-f67ff7c347b613bc05733f64a51c9c17"
+  },
+  "doc-3c7856616d478c58fdce251c9a2b68ac": {
+    "relation_pairs": [
+      [
+        "Pipeline Processor",
+        "Processor"
+      ],
+      [
+        "Processor",
+        "Single Cycle Processor"
+      ],
+      [
+        "Execution Step",
+        "Instruction Execution Cycle"
+      ],
+      [
+        "Instruction Serial Execution",
+        "Multi Cycle Processor"
+      ],
+      [
+        "CPI",
+        "Single Cycle Processor"
+      ],
+      [
+        "Instruction Parallel Execution",
+        "Pipeline Processor"
+      ],
+      [
+        "Multi Cycle Processor",
+        "Processor"
+      ],
+      [
+        "CPI",
+        "Pipeline Processor"
+      ]
+    ],
+    "count": 8,
+    "create_time": 1761736784,
+    "update_time": 1761736784,
+    "_id": "doc-3c7856616d478c58fdce251c9a2b68ac"
+  },
+  "doc-0efa36a872f0b1511a047f0591cba52c": {
+    "relation_pairs": [
+      [
+        "Arithmetic Operation",
+        "Clock Cycle"
+      ],
+      [
+        "Control Signal MDRout",
+        "Memory Data Register"
+      ],
+      [
+        "Address Field",
+        "Instruction Register"
+      ],
+      [
+        "Control Signal PCin",
+        "Program Counter"
+      ],
+      [
+        "Instruction Register",
+        "Memory Data Register"
+      ],
+      [
+        "Accumulator",
+        "Temporary Register Z"
+      ],
+      [
+        "Accumulator",
+        "Arithmetic Logic Unit"
+      ],
+      [
+        "Control Unit",
+        "Read Operation"
+      ],
+      [
+        "Arithmetic Logic Unit",
+        "Temporary Register Y"
+      ],
+      [
+        "Bus",
+        "Single Bus Data Path"
+      ],
+      [
+        "Clock Cycle",
+        "Instruction Fetch"
+      ],
+      [
+        "Memory Cycle",
+        "Read Operation"
+      ],
+      [
+        "Control Signal MARin",
+        "Memory Address Register"
+      ],
+      [
+        "Arithmetic Logic Unit",
+        "Temporary Register Z"
+      ],
+      [
+        "Instruction Fetch",
+        "Memory"
+      ],
+      [
+        "Accumulator",
+        "Control Signal ACCin"
+      ],
+      [
+        "Control Unit",
+        "Write Operation"
+      ],
+      [
+        "Memory",
+        "Memory Data Register"
+      ],
+      [
+        "Control Signal Zout",
+        "Temporary Register Z"
+      ],
+      [
+        "Control Signal PCout",
+        "Program Counter"
+      ],
+      [
+        "Arithmetic Logic Unit",
+        "Control Signal ALUin"
+      ],
+      [
+        "Program Counter",
+        "Transfer Operation"
+      ],
+      [
+        "Control Unit",
+        "Program Counter"
+      ],
+      [
+        "Memory",
+        "Memory Address Register"
+      ],
+      [
+        "Instruction Register",
+        "Program Counter"
+      ],
+      [
+        "Control Signal Yin",
+        "Temporary Register Y"
+      ],
+      [
+        "Memory Address Register",
+        "Program Counter"
+      ],
+      [
+        "Control Signal MDRin",
+        "Memory Data Register"
+      ],
+      [
+        "Control Signal IRin",
+        "Instruction Register"
+      ]
+    ],
+    "count": 29,
+    "create_time": 1761736816,
+    "update_time": 1761736816,
+    "_id": "doc-0efa36a872f0b1511a047f0591cba52c"
+  },
+  "doc-514f22df13c84be41bf310afe9ba497b": {
+    "relation_pairs": [
+      [
+        "Non-Uniform Memory Access",
+        "QPI Bus"
+      ],
+      [
+        "Processor Synchronization",
+        "Race Condition"
+      ],
+      [
+        "Front-Side Bus",
+        "Unified Memory Access"
+      ],
+      [
+        "Non-Uniform Memory Access",
+        "Shared Memory Multiprocessor"
+      ],
+      [
+        "Non-Uniform Memory Access",
+        "Remote Memory"
+      ],
+      [
+        "Memory Controller",
+        "Non-Uniform Memory Access"
+      ],
+      [
+        "Lock Mechanism",
+        "Shared Variable"
+      ],
+      [
+        "Front-Side Bus",
+        "Northbridge Chip"
+      ],
+      [
+        "Local Memory",
+        "Non-Uniform Memory Access"
+      ],
+      [
+        "Shared Memory Multiprocessor",
+        "Unified Memory Access"
+      ],
+      [
+        "Northbridge Chip",
+        "Unified Memory Access"
+      ]
+    ],
+    "count": 11,
+    "create_time": 1761736826,
+    "update_time": 1761736826,
+    "_id": "doc-514f22df13c84be41bf310afe9ba497b"
+  }
+}

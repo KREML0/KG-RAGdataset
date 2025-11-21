@@ -1,0 +1,1510 @@
+{
+  "doc-c22f61a22dddcf7887de6d879988c291": {
+    "relation_pairs": [
+      [
+        "Exponent",
+        "Floating Point Normalization"
+      ],
+      [
+        "Mantissa",
+        "Right Normalization"
+      ],
+      [
+        "Base 2",
+        "Left Normalization"
+      ],
+      [
+        "Floating Point Normalization",
+        "Non-Zero Floating Point Number"
+      ],
+      [
+        "Floating Point Normalization",
+        "Significant Digit"
+      ],
+      [
+        "Left Normalization",
+        "Mantissa"
+      ],
+      [
+        "Floating Point Normalization",
+        "Mantissa"
+      ],
+      [
+        "Base 2",
+        "Right Normalization"
+      ],
+      [
+        "Overflow",
+        "Right Normalization"
+      ]
+    ],
+    "count": 9,
+    "create_time": 1761467381,
+    "update_time": 1761467381,
+    "_id": "doc-c22f61a22dddcf7887de6d879988c291"
+  },
+  "doc-224035519c723875f8ee06a75cc06f38": {
+    "relation_pairs": [
+      [
+        "10000000",
+        "8-Bit Signed Integer"
+      ],
+      [
+        "Unsigned Integer",
+        "Word Length"
+      ],
+      [
+        "11111111",
+        "8-Bit Unsigned Integer"
+      ],
+      [
+        "01111111",
+        "8-Bit Signed Integer"
+      ],
+      [
+        "Pointer Representation",
+        "Unsigned Integer"
+      ],
+      [
+        "00000000",
+        "8-Bit Unsigned Integer"
+      ],
+      [
+        "Sign Bit",
+        "Unsigned Integer"
+      ],
+      [
+        "Address Operation",
+        "Unsigned Integer"
+      ],
+      [
+        "Binary Encoding",
+        "Unsigned Integer"
+      ],
+      [
+        "Unsigned Integer",
+        "Value Range"
+      ],
+      [
+        "8-Bit Unsigned Integer",
+        "Maximum Value"
+      ],
+      [
+        "8-Bit Unsigned Integer",
+        "Unsigned Integer"
+      ],
+      [
+        "8-Bit Signed Integer",
+        "Maximum Value"
+      ],
+      [
+        "Signed Integer",
+        "Two's Complement"
+      ]
+    ],
+    "count": 14,
+    "create_time": 1761467391,
+    "update_time": 1761467391,
+    "_id": "doc-224035519c723875f8ee06a75cc06f38"
+  },
+  "doc-fe930da67280065a9ab94641ffc7e10e": {
+    "relation_pairs": [
+      [
+        "Negative Sign",
+        "True Value"
+      ],
+      [
+        "Machine Number",
+        "One's Complement"
+      ],
+      [
+        "Machine Number",
+        "Numerical Part"
+      ],
+      [
+        "Binary Digit",
+        "Machine Number"
+      ],
+      [
+        "Machine Number",
+        "True Value"
+      ],
+      [
+        "Machine Number",
+        "Original Code"
+      ],
+      [
+        "Comma",
+        "Sign Bit"
+      ],
+      [
+        "Comma",
+        "Numerical Part"
+      ],
+      [
+        "Positive Sign",
+        "Sign Bit"
+      ],
+      [
+        "Negative Sign",
+        "Sign Bit"
+      ],
+      [
+        "Positive Sign",
+        "True Value"
+      ],
+      [
+        "Complement Code",
+        "Machine Number"
+      ]
+    ],
+    "count": 12,
+    "create_time": 1761467409,
+    "update_time": 1761467409,
+    "_id": "doc-fe930da67280065a9ab94641ffc7e10e"
+  },
+  "doc-7f2cde5c650ea54bac6265e49d30e485": {
+    "relation_pairs": [
+      [
+        "C Language",
+        "Long Int"
+      ],
+      [
+        "C Language",
+        "Unsigned Long"
+      ],
+      [
+        "C Language",
+        "Unsigned Int"
+      ],
+      [
+        "Complement Code",
+        "Two's Complement"
+      ],
+      [
+        "C Language",
+        "Short Int"
+      ],
+      [
+        "Complement Code",
+        "Unsigned Short"
+      ],
+      [
+        "C Language",
+        "Char"
+      ],
+      [
+        "Char",
+        "Complement Code"
+      ],
+      [
+        "Int",
+        "Signed"
+      ],
+      [
+        "Complement Code",
+        "Long Int"
+      ],
+      [
+        "Complement Code",
+        "Unsigned Long"
+      ],
+      [
+        "Complement Code",
+        "Unsigned Int"
+      ],
+      [
+        "Unsigned",
+        "Unsigned Short"
+      ],
+      [
+        "C Language",
+        "Int"
+      ],
+      [
+        "Complement Code",
+        "Short Int"
+      ],
+      [
+        "Long Int",
+        "Signed"
+      ],
+      [
+        "C Language",
+        "Unsigned Short"
+      ],
+      [
+        "Short Int",
+        "Signed"
+      ],
+      [
+        "Unsigned",
+        "Unsigned Long"
+      ],
+      [
+        "Unsigned",
+        "Unsigned Int"
+      ],
+      [
+        "Complement Code",
+        "Int"
+      ]
+    ],
+    "count": 21,
+    "create_time": 1761467433,
+    "update_time": 1761467433,
+    "_id": "doc-7f2cde5c650ea54bac6265e49d30e485"
+  },
+  "doc-ea5d582d57c5196325119e4d99f578d2": {
+    "relation_pairs": [
+      [
+        "Complement Code",
+        "Offset Code"
+      ],
+      [
+        "Complement Code",
+        "Original Code"
+      ],
+      [
+        "Complement Code",
+        "Two's Complement"
+      ],
+      [
+        "Complement Code",
+        "n-Bit Signed Integer"
+      ],
+      [
+        "Range of n-Bit Signed Integer",
+        "n-Bit Signed Integer"
+      ],
+      [
+        "Complement Code",
+        "Sign Bit"
+      ],
+      [
+        "Complement Code",
+        "One's Complement"
+      ]
+    ],
+    "count": 7,
+    "create_time": 1761467457,
+    "update_time": 1761467457,
+    "_id": "doc-ea5d582d57c5196325119e4d99f578d2"
+  },
+  "doc-ca423326f2f43c01238f9b5f5a0e0862": {
+    "relation_pairs": [
+      [
+        "位权",
+        "十六进制"
+      ],
+      [
+        "位权",
+        "十进制"
+      ],
+      [
+        "A～F",
+        "十六进制"
+      ],
+      [
+        "2³",
+        "二进制"
+      ],
+      [
+        "十进制",
+        "后缀标识"
+      ],
+      [
+        "十进制",
+        "进位计数制"
+      ],
+      [
+        "十六进制",
+        "基数"
+      ],
+      [
+        "二进制",
+        "位权"
+      ],
+      [
+        "十六进制",
+        "计算机"
+      ],
+      [
+        "0～7",
+        "八进制"
+      ],
+      [
+        "十六进制",
+        "后缀标识"
+      ],
+      [
+        "八进制",
+        "基数"
+      ],
+      [
+        "2⁴",
+        "二进制"
+      ],
+      [
+        "十六进制",
+        "进位计数制"
+      ],
+      [
+        "二进制",
+        "基数"
+      ],
+      [
+        "前缀标识",
+        "十六进制"
+      ],
+      [
+        "八进制",
+        "计算机"
+      ],
+      [
+        "二进制",
+        "计算机"
+      ],
+      [
+        "八进制",
+        "后缀标识"
+      ],
+      [
+        "二进制",
+        "后缀标识"
+      ],
+      [
+        "八进制",
+        "进位计数制"
+      ],
+      [
+        "二进制",
+        "进位计数制"
+      ],
+      [
+        "位权",
+        "八进制"
+      ],
+      [
+        "十进制",
+        "基数"
+      ],
+      [
+        "0～9",
+        "十进制"
+      ]
+    ],
+    "count": 25,
+    "create_time": 1761467467,
+    "update_time": 1761467467,
+    "_id": "doc-ca423326f2f43c01238f9b5f5a0e0862"
+  },
+  "doc-fe285d304d7559e78510976eea6cc1c1": {
+    "relation_pairs": [
+      [
+        "浮点数",
+        "阶码"
+      ],
+      [
+        "浮点运算",
+        "阶码"
+      ],
+      [
+        "浮点数",
+        "表示范围"
+      ],
+      [
+        "尾数",
+        "浮点运算"
+      ],
+      [
+        "浮点数",
+        "溢出"
+      ],
+      [
+        "尾数",
+        "浮点数"
+      ],
+      [
+        "浮点数",
+        "精度"
+      ],
+      [
+        "定点运算",
+        "浮点运算"
+      ],
+      [
+        "浮点运算",
+        "规格化"
+      ],
+      [
+        "定点数",
+        "溢出"
+      ]
+    ],
+    "count": 10,
+    "create_time": 1761467494,
+    "update_time": 1761467494,
+    "_id": "doc-fe285d304d7559e78510976eea6cc1c1"
+  },
+  "doc-d6401acae9e97b990cd8ff7387370e66": {
+    "relation_pairs": [
+      [
+        "n+1位",
+        "补码"
+      ],
+      [
+        "二进制运算规则",
+        "补码"
+      ],
+      [
+        "符号位",
+        "补码"
+      ],
+      [
+        "加法运算",
+        "补码"
+      ],
+      [
+        "减法运算",
+        "补码"
+      ],
+      [
+        "补码",
+        "高位丢弃"
+      ]
+    ],
+    "count": 6,
+    "create_time": 1761467514,
+    "update_time": 1761467514,
+    "_id": "doc-d6401acae9e97b990cd8ff7387370e66"
+  },
+  "doc-6151c8c091207072ad8e5a4c89b6cd43": {
+    "relation_pairs": [
+      [
+        "Addition",
+        "Arithmetic Logic Unit"
+      ],
+      [
+        "Arithmetic Logic Unit",
+        "Subtraction"
+      ],
+      [
+        "Sign Flag",
+        "n-Bit Carry-Lookahead Adder"
+      ],
+      [
+        "Carry-Lookahead Unit",
+        "Parallel Carry Adder"
+      ],
+      [
+        "Arithmetic Logic Unit",
+        "Logical AND"
+      ],
+      [
+        "ALU Operation Control",
+        "Arithmetic Logic Unit"
+      ],
+      [
+        "Carry Flag",
+        "n-Bit Carry-Lookahead Adder"
+      ],
+      [
+        "Arithmetic Logic Unit",
+        "Multiplication"
+      ],
+      [
+        "Arithmetic Logic Unit",
+        "Logical XOR"
+      ],
+      [
+        "Arithmetic Logic Unit",
+        "Division"
+      ],
+      [
+        "Zero Flag",
+        "n-Bit Carry-Lookahead Adder"
+      ],
+      [
+        "Carry Propagation Delay",
+        "Serial Carry Adder"
+      ],
+      [
+        "Arithmetic Logic Unit",
+        "Logical OR"
+      ],
+      [
+        "n-Bit Adder",
+        "n-Bit Carry-Lookahead Adder"
+      ],
+      [
+        "Carry Propagation Delay",
+        "One-Bit Full Adder"
+      ],
+      [
+        "Arithmetic Logic Unit",
+        "One-Bit Full Adder"
+      ],
+      [
+        "Arithmetic Logic Unit",
+        "n-Bit Adder"
+      ],
+      [
+        "4-Bit Carry-Lookahead Adder",
+        "n-Bit Carry-Lookahead Adder"
+      ],
+      [
+        "Overflow Flag",
+        "n-Bit Carry-Lookahead Adder"
+      ],
+      [
+        "Arithmetic Logic Unit",
+        "Logical NOT"
+      ]
+    ],
+    "count": 20,
+    "create_time": 1761467516,
+    "update_time": 1761467516,
+    "_id": "doc-6151c8c091207072ad8e5a4c89b6cd43"
+  },
+  "doc-3878dd58bdab1629f78e313f678153cc": {
+    "relation_pairs": [
+      [
+        "Binary",
+        "High And Low Voltage"
+      ],
+      [
+        "Arithmetic Operation",
+        "Logic Gate Circuit"
+      ],
+      [
+        "Binary",
+        "Logic Gate Circuit"
+      ],
+      [
+        "Binary",
+        "Logical Value False"
+      ],
+      [
+        "Binary",
+        "Logical Value True"
+      ],
+      [
+        "Binary",
+        "Computer System"
+      ],
+      [
+        "Binary",
+        "Positive And Negative Charge"
+      ]
+    ],
+    "count": 7,
+    "create_time": 1761467531,
+    "update_time": 1761467531,
+    "_id": "doc-3878dd58bdab1629f78e313f678153cc"
+  },
+  "doc-bc20958ae5e844428623c62227b67c7b": {
+    "relation_pairs": [
+      [
+        "Cn Carry",
+        "Overflow Detection Method"
+      ],
+      [
+        "One Sign Bit",
+        "Two Numbers with Same Sign Addition"
+      ],
+      [
+        "One Sign Bit",
+        "Overflow Detection Method"
+      ],
+      [
+        "Overflow Detection Method",
+        "Three Methods for Overflow Detection"
+      ],
+      [
+        "Dual Sign Bits",
+        "Mod 4 Complement"
+      ],
+      [
+        "Cn1 Carry",
+        "Overflow Detection Method"
+      ],
+      [
+        "Dual Sign Bits",
+        "Overflow Detection Method"
+      ],
+      [
+        "Overflow Detection Method",
+        "Sign Bit and High-Order Carry Comparison"
+      ],
+      [
+        "One Sign Bit",
+        "Two Numbers with Different Signs Subtraction"
+      ],
+      [
+        "Cn Carry",
+        "Sign Bit and High-Order Carry Comparison"
+      ],
+      [
+        "Cn1 Carry",
+        "Sign Bit and High-Order Carry Comparison"
+      ]
+    ],
+    "count": 11,
+    "create_time": 1761467549,
+    "update_time": 1761467549,
+    "_id": "doc-bc20958ae5e844428623c62227b67c7b"
+  },
+  "doc-eb70606fa9ba73ffc22231992979ee26": {
+    "relation_pairs": [
+      [
+        "High-Bit Extension",
+        "Word Length Conversion"
+      ],
+      [
+        "16-Bit Integer",
+        "32-Bit Integer"
+      ],
+      [
+        "Type Conversion",
+        "Word Length Conversion"
+      ],
+      [
+        "Char Type",
+        "Int Type"
+      ],
+      [
+        "Low-Bit Truncation",
+        "Word Length Conversion"
+      ],
+      [
+        "Unsigned Integer",
+        "Zero Extension"
+      ],
+      [
+        "Symbol Conversion",
+        "Type Conversion"
+      ],
+      [
+        "Sign Extension",
+        "Signed Integer"
+      ],
+      [
+        "C Language",
+        "Type Conversion"
+      ]
+    ],
+    "count": 9,
+    "create_time": 1761467566,
+    "update_time": 1761467566,
+    "_id": "doc-eb70606fa9ba73ffc22231992979ee26"
+  },
+  "doc-b661f934d6911328f3c940a7306bdabc": {
+    "relation_pairs": [
+      [
+        "Hidden Bit",
+        "Mantissa Addition and Subtraction"
+      ],
+      [
+        "Floating Point Addition and Subtraction",
+        "Rounding"
+      ],
+      [
+        "Exponent Alignment",
+        "Floating Point Addition and Subtraction"
+      ],
+      [
+        "Exponent Overflow Check",
+        "Floating Point Addition and Subtraction"
+      ],
+      [
+        "Exponent Alignment",
+        "Exponent Difference"
+      ],
+      [
+        "Round Toward Positive Infinity",
+        "Rounding"
+      ],
+      [
+        "Exponent Overflow Check",
+        "Exponent Underflow"
+      ],
+      [
+        "Rounding",
+        "Suppressed Bits"
+      ],
+      [
+        "Mantissa Addition and Subtraction",
+        "Suppressed Bits"
+      ],
+      [
+        "Floating Point Addition and Subtraction",
+        "Mantissa Addition and Subtraction"
+      ],
+      [
+        "Round to Nearest",
+        "Rounding"
+      ],
+      [
+        "Exponent Alignment",
+        "Hidden Bit"
+      ],
+      [
+        "Round Toward Negative Infinity",
+        "Rounding"
+      ],
+      [
+        "Exponent Alignment",
+        "Right Shift"
+      ],
+      [
+        "Exponent Underflow",
+        "Floating Point Addition and Subtraction"
+      ],
+      [
+        "Floating Point Addition and Subtraction",
+        "Mantissa Normalization"
+      ],
+      [
+        "Rounding",
+        "Truncate"
+      ],
+      [
+        "Exponent Alignment",
+        "Left Shift"
+      ]
+    ],
+    "count": 18,
+    "create_time": 1761467591,
+    "update_time": 1761467591,
+    "_id": "doc-b661f934d6911328f3c940a7306bdabc"
+  },
+  "doc-ac11d99928fbdb7cf8188b4d1e45043f": {
+    "relation_pairs": [
+      [
+        "Division Operation",
+        "Hand Calculation Steps"
+      ],
+      [
+        "Division Operation",
+        "Quotient Bit"
+      ],
+      [
+        "Intermediate Remainder",
+        "Subtraction Step"
+      ],
+      [
+        "Hand Calculation Steps",
+        "Iteration Process"
+      ],
+      [
+        "Fixed-Point Number",
+        "n-Bit Number"
+      ],
+      [
+        "Division Operation",
+        "Iteration Process"
+      ],
+      [
+        "Division Operation",
+        "Original Code Division"
+      ],
+      [
+        "Comparison Step",
+        "Subtraction Step"
+      ],
+      [
+        "Operating System Exception Handler",
+        "Zero Division Exception"
+      ],
+      [
+        "Dividend Extension",
+        "Fixed-Point Positive Fraction"
+      ],
+      [
+        "2n-Bit Number",
+        "Fixed-Point Number"
+      ],
+      [
+        "Intermediate Remainder",
+        "Right Shift"
+      ],
+      [
+        "2n-Bit Number",
+        "n-Bit Quotient"
+      ],
+      [
+        "Dividend Extension",
+        "Fixed-Point Positive Integer"
+      ]
+    ],
+    "count": 14,
+    "create_time": 1761467612,
+    "update_time": 1761467612,
+    "_id": "doc-ac11d99928fbdb7cf8188b4d1e45043f"
+  },
+  "doc-1bf253441ffd1d27c8127187db5ecb32": {
+    "relation_pairs": [
+      [
+        "Result",
+        "SF"
+      ],
+      [
+        "OF",
+        "Result"
+      ],
+      [
+        "A",
+        "B"
+      ],
+      [
+        "Comparison of Signed Numbers",
+        "OF"
+      ],
+      [
+        "A",
+        "SF"
+      ],
+      [
+        "Comparison of Signed Numbers",
+        "ZF"
+      ],
+      [
+        "Comparison of Signed Numbers",
+        "Subtraction"
+      ],
+      [
+        "A",
+        "ZF"
+      ],
+      [
+        "A",
+        "OF"
+      ],
+      [
+        "A",
+        "Subtraction"
+      ],
+      [
+        "B",
+        "Subtraction"
+      ],
+      [
+        "Result",
+        "Subtraction"
+      ],
+      [
+        "Result",
+        "ZF"
+      ],
+      [
+        "OF",
+        "SF"
+      ],
+      [
+        "Comparison of Signed Numbers",
+        "SF"
+      ]
+    ],
+    "count": 15,
+    "create_time": 1761467627,
+    "update_time": 1761467627,
+    "_id": "doc-1bf253441ffd1d27c8127187db5ecb32"
+  },
+  "doc-8b64d30374af75767b82b53c5d492c80": {
+    "relation_pairs": [
+      [
+        "原码乘法",
+        "绝对值"
+      ],
+      [
+        "原码乘法",
+        "部分积"
+      ],
+      [
+        "原码乘法",
+        "数值位"
+      ],
+      [
+        "异或运算",
+        "符号位"
+      ],
+      [
+        "原码乘法",
+        "符号位"
+      ],
+      [
+        "加法运算",
+        "部分积"
+      ],
+      [
+        "X",
+        "y-i"
+      ],
+      [
+        "逻辑右移",
+        "部分积"
+      ],
+      [
+        "P",
+        "X"
+      ],
+      [
+        "P",
+        "y-i"
+      ],
+      [
+        "n位无符号数",
+        "加法运算"
+      ],
+      [
+        "n位无符号数",
+        "移位运算"
+      ]
+    ],
+    "count": 12,
+    "create_time": 1761467638,
+    "update_time": 1761467638,
+    "_id": "doc-8b64d30374af75767b82b53c5d492c80"
+  },
+  "doc-9a74c12334c1c89b7dc2a0d69025220d": {
+    "relation_pairs": [
+      [
+        "Any Base Number",
+        "Decimal Number"
+      ],
+      [
+        "Base Multiplication Division Method",
+        "Decimal Number"
+      ],
+      [
+        "Binary Number",
+        "Positional Weight"
+      ],
+      [
+        "Division By Base Method",
+        "Integer Part"
+      ],
+      [
+        "Binary Number",
+        "Hexadecimal Number"
+      ],
+      [
+        "Binary Number",
+        "Binary Point"
+      ],
+      [
+        "Decimal Number",
+        "Integer Part"
+      ],
+      [
+        "Fractional Part",
+        "Multiplication By Base Method"
+      ],
+      [
+        "Decimal Number",
+        "Fractional Part"
+      ],
+      [
+        "Binary Number",
+        "Octal Number"
+      ]
+    ],
+    "count": 10,
+    "create_time": 1761467659,
+    "update_time": 1761467659,
+    "_id": "doc-9a74c12334c1c89b7dc2a0d69025220d"
+  },
+  "doc-5ea05d0aadedcb24741fd320a2b9543c": {
+    "relation_pairs": [
+      [
+        "Fixed-Point Number",
+        "Floating Point Representation"
+      ],
+      [
+        "Floating Point Representation",
+        "Sign"
+      ],
+      [
+        "Overflow",
+        "Positive Overflow"
+      ],
+      [
+        "Negative Overflow",
+        "Overflow"
+      ],
+      [
+        "Machine Zero",
+        "Underflow"
+      ],
+      [
+        "Electronic Mass",
+        "Floating Point Representation"
+      ],
+      [
+        "Sign",
+        "Sign Bit"
+      ],
+      [
+        "Floating Point Representation",
+        "Solar Mass"
+      ],
+      [
+        "Exponent",
+        "Floating Point Representation"
+      ],
+      [
+        "Negative Underflow",
+        "Underflow"
+      ],
+      [
+        "Floating Point Precision",
+        "Mantissa"
+      ],
+      [
+        "Exponent",
+        "Exponent Field"
+      ],
+      [
+        "Positive Underflow",
+        "Underflow"
+      ],
+      [
+        "Exponent",
+        "Floating Point Range"
+      ],
+      [
+        "Floating Point Representation",
+        "Mantissa"
+      ]
+    ],
+    "count": 15,
+    "create_time": 1761467680,
+    "update_time": 1761467680,
+    "_id": "doc-5ea05d0aadedcb24741fd320a2b9543c"
+  },
+  "doc-ba5ba3047ff33c33c3e78b969b12b98e": {
+    "relation_pairs": [
+      [
+        "A",
+        "Result Zero Case"
+      ],
+      [
+        "B",
+        "Result Zero Case"
+      ],
+      [
+        "A Greater Than B",
+        "Zero Flag"
+      ],
+      [
+        "A",
+        "Result Non-Zero With Borrow Case"
+      ],
+      [
+        "B",
+        "Result Non-Zero With Borrow Case"
+      ],
+      [
+        "A",
+        "Result Non-Zero No Borrow Case"
+      ],
+      [
+        "A-B Operation",
+        "Result Zero Case"
+      ],
+      [
+        "B",
+        "Result Non-Zero No Borrow Case"
+      ],
+      [
+        "A-B Operation",
+        "Result Non-Zero With Borrow Case"
+      ],
+      [
+        "A Less Than B",
+        "Carry Borrow Flag"
+      ],
+      [
+        "A Equals B",
+        "Zero Flag"
+      ],
+      [
+        "A-B Operation",
+        "Result Non-Zero No Borrow Case"
+      ],
+      [
+        "Unsigned Number Comparison",
+        "Zero Flag"
+      ],
+      [
+        "Carry Borrow Flag",
+        "Unsigned Number Comparison"
+      ]
+    ],
+    "count": 14,
+    "create_time": 1761467693,
+    "update_time": 1761467693,
+    "_id": "doc-ba5ba3047ff33c33c3e78b969b12b98e"
+  },
+  "doc-ee63e6f80ae58c99375bb442c346b8a6": {
+    "relation_pairs": [
+      [
+        "右移一位",
+        "精度影响"
+      ],
+      [
+        "左移一位",
+        "溢出"
+      ],
+      [
+        "加法和移位",
+        "定点数的移位运算"
+      ],
+      [
+        "有符号整数",
+        "算术移位"
+      ],
+      [
+        "无符号整数",
+        "逻辑移位"
+      ],
+      [
+        "算术移位",
+        "补码"
+      ],
+      [
+        "二进制整数",
+        "右移一位"
+      ],
+      [
+        "二进制整数",
+        "左移一位"
+      ]
+    ],
+    "count": 8,
+    "create_time": 1761467721,
+    "update_time": 1761467721,
+    "_id": "doc-ee63e6f80ae58c99375bb442c346b8a6"
+  },
+  "doc-09b53b0df067c5056104774d13e5e395": {
+    "relation_pairs": [
+      [
+        "Data Endianness",
+        "Little Endian"
+      ],
+      [
+        "32-Bit Computer",
+        "Memory Address"
+      ],
+      [
+        "Boundary Alignment",
+        "Halfword Address"
+      ],
+      [
+        "Int Type",
+        "Most Significant Byte"
+      ],
+      [
+        "Boundary Alignment",
+        "Memory Address"
+      ],
+      [
+        "Boundary Alignment",
+        "Padding Bytes"
+      ],
+      [
+        "C Language Struct",
+        "Struct Length"
+      ],
+      [
+        "Boundary Alignment",
+        "Word Address"
+      ],
+      [
+        "Big Endian",
+        "Data Endianness"
+      ],
+      [
+        "Alignment Value",
+        "C Language Struct"
+      ],
+      [
+        "Int Type",
+        "Least Significant Byte"
+      ],
+      [
+        "Boundary Alignment",
+        "RISC"
+      ]
+    ],
+    "count": 12,
+    "create_time": 1761467721,
+    "update_time": 1761467721,
+    "_id": "doc-09b53b0df067c5056104774d13e5e395"
+  },
+  "doc-278906376b45ec28050699d283cb1aeb": {
+    "relation_pairs": [
+      [
+        "有符号数",
+        "补码"
+      ],
+      [
+        "2选1多路选择器",
+        "加减运算电路"
+      ],
+      [
+        "有符号数",
+        "溢出标志OF"
+      ],
+      [
+        "有符号数",
+        "符号标志SF"
+      ],
+      [
+        "加减运算电路",
+        "图2.9"
+      ],
+      [
+        "减法",
+        "补码"
+      ],
+      [
+        "无符号整数",
+        "补码"
+      ],
+      [
+        "加减运算电路",
+        "反向器"
+      ],
+      [
+        "加减运算电路",
+        "控制端Sub"
+      ],
+      [
+        "Y",
+        "加减运算电路"
+      ],
+      [
+        "低位进位",
+        "控制端Sub"
+      ],
+      [
+        "无符号整数",
+        "进/借位标志CF"
+      ],
+      [
+        "X",
+        "加减运算电路"
+      ],
+      [
+        "运算结果",
+        "零标志ZF"
+      ]
+    ],
+    "count": 14,
+    "create_time": 1761467758,
+    "update_time": 1761467758,
+    "_id": "doc-278906376b45ec28050699d283cb1aeb"
+  },
+  "doc-7661b58ae4a51d1ee96186ef15ec5292": {
+    "relation_pairs": [
+      [
+        "C Language",
+        "Double Type"
+      ],
+      [
+        "Double Type",
+        "Float Type"
+      ],
+      [
+        "Implicit Type Conversion",
+        "Type Conversion"
+      ],
+      [
+        "Char Type",
+        "Int Type"
+      ],
+      [
+        "Floating-Point Types",
+        "Integral Types"
+      ],
+      [
+        "C Language",
+        "Long Double Type"
+      ],
+      [
+        "Double Type",
+        "Int Type"
+      ],
+      [
+        "Int Type",
+        "Long Type"
+      ],
+      [
+        "C Language",
+        "Float Type"
+      ],
+      [
+        "Float Type",
+        "Int Type"
+      ],
+      [
+        "Double Type",
+        "IEEE754"
+      ],
+      [
+        "Float Type",
+        "IEEE754"
+      ],
+      [
+        "Hidden Bit",
+        "IEEE754"
+      ]
+    ],
+    "count": 13,
+    "create_time": 1761467761,
+    "update_time": 1761467761,
+    "_id": "doc-7661b58ae4a51d1ee96186ef15ec5292"
+  },
+  "doc-ea2c16caf28ea549ed420e26afbca237": {
+    "relation_pairs": [
+      [
+        "加法规则",
+        "同号求和"
+      ],
+      [
+        "原码加减法运算",
+        "溢出"
+      ],
+      [
+        "减法规则",
+        "被减数"
+      ],
+      [
+        "加法规则",
+        "异号求差"
+      ],
+      [
+        "加法规则",
+        "数值位"
+      ],
+      [
+        "原码加减法运算",
+        "补码加减运算"
+      ],
+      [
+        "加法规则",
+        "符号位"
+      ],
+      [
+        "加法规则",
+        "绝对值大的数"
+      ],
+      [
+        "减数",
+        "减法规则"
+      ],
+      [
+        "加法规则",
+        "原码加减法运算"
+      ],
+      [
+        "数值位",
+        "最高数值位"
+      ],
+      [
+        "减法规则",
+        "原码加减法运算"
+      ]
+    ],
+    "count": 12,
+    "create_time": 1761467789,
+    "update_time": 1761467789,
+    "_id": "doc-ea2c16caf28ea549ed420e26afbca237"
+  },
+  "doc-5b233c3ec097f13f398ea0ca159b2c8b": {
+    "relation_pairs": [
+      [
+        "Addition Operation",
+        "Complement Code"
+      ],
+      [
+        "Bias Code",
+        "Number Axis"
+      ],
+      [
+        "Floating-Point Representation",
+        "Machine Number Fixed-Point Representation"
+      ],
+      [
+        "Bias Code",
+        "Floating-Point Exponent"
+      ],
+      [
+        "Complement Code",
+        "Zero"
+      ],
+      [
+        "Number Axis",
+        "One's Complement"
+      ],
+      [
+        "One's Complement",
+        "Zero"
+      ],
+      [
+        "Complement Code",
+        "Number Axis"
+      ],
+      [
+        "Complement Code",
+        "Original Code"
+      ],
+      [
+        "Bias Code",
+        "True Value"
+      ],
+      [
+        "Machine Word Length",
+        "Numerical Bits"
+      ],
+      [
+        "Bias Value",
+        "Machine Word Length"
+      ],
+      [
+        "Number Axis",
+        "Original Code"
+      ],
+      [
+        "Bias Code",
+        "Zero"
+      ],
+      [
+        "Complement Code",
+        "One's Complement"
+      ],
+      [
+        "Original Code",
+        "Zero"
+      ],
+      [
+        "Complement Code",
+        "True Value"
+      ],
+      [
+        "Numerical Bits",
+        "Sign Bit"
+      ],
+      [
+        "Complement Code",
+        "Modulus"
+      ]
+    ],
+    "count": 19,
+    "create_time": 1761467837,
+    "update_time": 1761467837,
+    "_id": "doc-5b233c3ec097f13f398ea0ca159b2c8b"
+  }
+}

@@ -1,0 +1,2110 @@
+{
+  "doc-d9e6d15f744c7305ca7d60880a6381b6": {
+    "relation_pairs": [
+      [
+        "Cycle Stealing",
+        "Memory Cycle"
+      ],
+      [
+        "DMA",
+        "Main Memory"
+      ],
+      [
+        "CPU",
+        "Stop CPU Access"
+      ],
+      [
+        "Cycle Stealing",
+        "I/O Device"
+      ],
+      [
+        "Alternate CPU and DMA Access",
+        "CPU"
+      ],
+      [
+        "DMA",
+        "I/O Device"
+      ],
+      [
+        "Alternate CPU and DMA Access",
+        "Memory Cycle"
+      ],
+      [
+        "CPU",
+        "DMA"
+      ],
+      [
+        "Main Memory",
+        "Memory Access Conflict"
+      ]
+    ],
+    "count": 9,
+    "create_time": 1761966312,
+    "update_time": 1761966312,
+    "_id": "doc-d9e6d15f744c7305ca7d60880a6381b6"
+  },
+  "doc-0bb0001c3247a59fa9d05ca671c02b19": {
+    "relation_pairs": [
+      [
+        "I/O Control Logic",
+        "Status Register"
+      ],
+      [
+        "Control Register",
+        "I/O Interface"
+      ],
+      [
+        "CPU",
+        "I/O Instruction"
+      ],
+      [
+        "Data Buffer Register",
+        "I/O Control Logic"
+      ],
+      [
+        "Address Line",
+        "I/O Interface"
+      ],
+      [
+        "Control Register",
+        "I/O Control Logic"
+      ],
+      [
+        "I/O Interface",
+        "Status Register"
+      ],
+      [
+        "Data Buffer Register",
+        "I/O Interface"
+      ],
+      [
+        "Data Line",
+        "I/O Interface"
+      ],
+      [
+        "Control Line",
+        "I/O Interface"
+      ],
+      [
+        "I/O Instruction",
+        "Privilege Instruction"
+      ]
+    ],
+    "count": 11,
+    "create_time": 1761966338,
+    "update_time": 1761966338,
+    "_id": "doc-0bb0001c3247a59fa9d05ca671c02b19"
+  },
+  "doc-283e831eddf8211c670e2bdf0158e935": {
+    "relation_pairs": [
+      [
+        "CPU",
+        "Save Breakpoint"
+      ],
+      [
+        "CPU",
+        "Program Counter"
+      ],
+      [
+        "Interrupt Service Program",
+        "Vector Interrupt"
+      ],
+      [
+        "Save Breakpoint",
+        "Specific Register"
+      ],
+      [
+        "Interrupt Handling",
+        "Interrupt Response Process"
+      ],
+      [
+        "Save Breakpoint",
+        "Stack"
+      ],
+      [
+        "Breakpoint",
+        "Save Breakpoint"
+      ],
+      [
+        "Interrupt Implicit Instruction",
+        "Interrupt Response Process"
+      ],
+      [
+        "CPU",
+        "Interrupt Response Process"
+      ],
+      [
+        "CPU",
+        "PSW"
+      ],
+      [
+        "CPU",
+        "Disable Interrupts"
+      ],
+      [
+        "Hardware Vector Method",
+        "Vector Interrupt"
+      ],
+      [
+        "Breakpoint",
+        "Re-Execute Instruction"
+      ],
+      [
+        "Hardware Vector Method",
+        "Interrupt Source"
+      ],
+      [
+        "Interrupt Source",
+        "Software Query Method"
+      ]
+    ],
+    "count": 15,
+    "create_time": 1761966362,
+    "update_time": 1761966362,
+    "_id": "doc-283e831eddf8211c670e2bdf0158e935"
+  },
+  "doc-3322fe54dce9021a9985f2c9b501776c": {
+    "relation_pairs": [
+      [
+        "Hardware-Implemented Steps",
+        "Interrupt Implicit Instruction"
+      ],
+      [
+        "Execute Interrupt Service Program",
+        "Interrupt Handling Process"
+      ],
+      [
+        "Context Information",
+        "Save Context and Mask Word"
+      ],
+      [
+        "Interrupt Handling Process",
+        "Interrupt Service Program Addressing"
+      ],
+      [
+        "Interrupt Handling Process",
+        "Interrupt Return"
+      ],
+      [
+        "Interrupt Handling Process",
+        "Recovery Context and Mask Word"
+      ],
+      [
+        "Interrupt Service Program",
+        "Software-Implemented Steps"
+      ],
+      [
+        "Interrupt Handling Process",
+        "Save Breakpoint"
+      ],
+      [
+        "Enabling Interrupts",
+        "Interrupt Handling Process"
+      ],
+      [
+        "Breakpoint Information",
+        "Save Context and Mask Word"
+      ],
+      [
+        "Interrupt Handling Process",
+        "Single-Level Interrupt"
+      ],
+      [
+        "Disabling Interrupts",
+        "Interrupt Handling Process"
+      ]
+    ],
+    "count": 12,
+    "create_time": 1761966378,
+    "update_time": 1761966378,
+    "_id": "doc-3322fe54dce9021a9985f2c9b501776c"
+  },
+  "doc-0d8935ce9bd8607bca4267af692221b6": {
+    "relation_pairs": [
+      [
+        "Non-Maskable Interrupt",
+        "Power Failure"
+      ],
+      [
+        "Interrupt Request",
+        "Interrupt Request Marking Flip-Flop"
+      ],
+      [
+        "Interrupt Request",
+        "Interrupt Source"
+      ],
+      [
+        "CPU",
+        "Non-Maskable Interrupt"
+      ],
+      [
+        "Clock Interrupt",
+        "Non-Maskable Interrupt"
+      ],
+      [
+        "CPU",
+        "Maskable Interrupt"
+      ],
+      [
+        "Interrupt Request Marking Flip-Flop",
+        "Interrupt Request Marking Register"
+      ],
+      [
+        "NMI Line",
+        "Non-Maskable Interrupt"
+      ],
+      [
+        "INTR Line",
+        "Maskable Interrupt"
+      ]
+    ],
+    "count": 9,
+    "create_time": 1761966388,
+    "update_time": 1761966388,
+    "_id": "doc-0d8935ce9bd8607bca4267af692221b6"
+  },
+  "doc-c087dea9f41cf22f5e1a8fbd49c2182e": {
+    "relation_pairs": [
+      [
+        "Concurrency",
+        "Single Bus Structure"
+      ],
+      [
+        "Control Bus",
+        "Single Bus Structure"
+      ],
+      [
+        "DMA Bus",
+        "Three Bus Structure"
+      ],
+      [
+        "Multi-Device Communication",
+        "Single Bus Structure"
+      ],
+      [
+        "Three Bus Structure",
+        "Throughput"
+      ],
+      [
+        "Load",
+        "Single Bus Structure"
+      ],
+      [
+        "Main Memory Bus",
+        "Three Bus Structure"
+      ],
+      [
+        "Address Bus",
+        "Single Bus Structure"
+      ],
+      [
+        "Dual Bus Structure",
+        "Main Memory Bus"
+      ],
+      [
+        "Performance",
+        "Three Bus Structure"
+      ],
+      [
+        "Data Bus",
+        "Single Bus Structure"
+      ],
+      [
+        "Bandwidth",
+        "Single Bus Structure"
+      ],
+      [
+        "Channel",
+        "Dual Bus Structure"
+      ],
+      [
+        "I/O Bus",
+        "Three Bus Structure"
+      ],
+      [
+        "Dual Bus Structure",
+        "I/O Bus"
+      ]
+    ],
+    "count": 15,
+    "create_time": 1761966450,
+    "update_time": 1761966450,
+    "_id": "doc-c087dea9f41cf22f5e1a8fbd49c2182e"
+  },
+  "doc-eec72ce396e26fef80b9627073b46c8b": {
+    "relation_pairs": [
+      [
+        "Semi-Synchronous Bus",
+        "Wait Response Signal Line"
+      ],
+      [
+        "Clock Signal",
+        "Synchronous Timing"
+      ],
+      [
+        "Asynchronous Serial Communication",
+        "Data Bit"
+      ],
+      [
+        "Asynchronous Timing",
+        "Handshake Signal"
+      ],
+      [
+        "Bus Timing",
+        "Separated Timing"
+      ],
+      [
+        "Bus Timing",
+        "Half-Synchronous Timing"
+      ],
+      [
+        "Asynchronous Serial Communication",
+        "Stop Bit"
+      ],
+      [
+        "Response Phase",
+        "Single Direction Information Flow"
+      ],
+      [
+        "Bus Access Release",
+        "Separated Timing Method"
+      ],
+      [
+        "Asynchronous Timing",
+        "Response Signal"
+      ],
+      [
+        "Asynchronous Timing",
+        "Bus Timing"
+      ],
+      [
+        "Bus Cycle Length",
+        "Synchronous Timing"
+      ],
+      [
+        "Response Signal",
+        "Slave Device"
+      ],
+      [
+        "Asynchronous Serial Communication",
+        "Parity Bit"
+      ],
+      [
+        "Bus Timing",
+        "Synchronous Timing"
+      ],
+      [
+        "Idle Wait Time",
+        "Semi-Synchronous Bus"
+      ],
+      [
+        "Bus Usage",
+        "Master Device"
+      ],
+      [
+        "Response Phase",
+        "Separated Timing Method"
+      ],
+      [
+        "Synchronous Timing",
+        "System Clock"
+      ],
+      [
+        "Bus Transaction",
+        "Master Device"
+      ],
+      [
+        "Request Phase",
+        "Single Direction Information Flow"
+      ],
+      [
+        "Semi-Synchronous Bus",
+        "Separated Timing Method"
+      ],
+      [
+        "Half-Synchronous Timing",
+        "Wait Signal"
+      ],
+      [
+        "Asynchronous Timing",
+        "Bus Cycle Length"
+      ],
+      [
+        "Start Bit",
+        "Synchronous Serial Communication"
+      ],
+      [
+        "Asynchronous Timing",
+        "Request Signal"
+      ],
+      [
+        "Semi-Synchronous Bus",
+        "System Clock Frequency"
+      ],
+      [
+        "Idle Wait Time",
+        "Separated Timing Method"
+      ],
+      [
+        "Bus Cycle",
+        "Data Transfer"
+      ],
+      [
+        "Request Phase",
+        "Separated Timing Method"
+      ],
+      [
+        "Device A",
+        "Request Phase"
+      ],
+      [
+        "Clock Signal",
+        "Semi-Synchronous Bus"
+      ],
+      [
+        "Semi-Synchronous Bus",
+        "Total System Speed"
+      ],
+      [
+        "Bus Transaction",
+        "Slave Device"
+      ],
+      [
+        "Asynchronous Serial Communication",
+        "Start Bit"
+      ],
+      [
+        "Master Device",
+        "Request Signal"
+      ],
+      [
+        "Device B",
+        "Response Phase"
+      ]
+    ],
+    "count": 37,
+    "create_time": 1761966480,
+    "update_time": 1761966480,
+    "_id": "doc-eec72ce396e26fef80b9627073b46c8b"
+  },
+  "doc-d9caa5e1ba98d606adcfcedcf26a102f": {
+    "relation_pairs": [
+      [
+        "Host Computer",
+        "I/O Hardware"
+      ],
+      [
+        "Host Computer",
+        "I/O Instruction"
+      ],
+      [
+        "Channel Instruction",
+        "Host Computer"
+      ],
+      [
+        "External Device",
+        "Interface"
+      ],
+      [
+        "External Device",
+        "Input/Output System"
+      ],
+      [
+        "External Storage Device",
+        "Host Computer"
+      ],
+      [
+        "Host Computer",
+        "Input Device"
+      ],
+      [
+        "Host Computer",
+        "I/O Software"
+      ],
+      [
+        "I/O Bus",
+        "I/O Hardware"
+      ],
+      [
+        "Host Computer",
+        "Output Device"
+      ],
+      [
+        "Host Computer",
+        "Interface"
+      ],
+      [
+        "Device Controller",
+        "I/O Hardware"
+      ],
+      [
+        "Host Computer",
+        "Input/Output System"
+      ]
+    ],
+    "count": 13,
+    "create_time": 1761966505,
+    "update_time": 1761966505,
+    "_id": "doc-d9caa5e1ba98d606adcfcedcf26a102f"
+  },
+  "doc-fd27c6dd3555afa7e84d84ae7f0c415b": {
+    "relation_pairs": [
+      [
+        "Interrupt Request",
+        "Interrupt Source"
+      ],
+      [
+        "Instruction Execution",
+        "Interrupt Response Timing"
+      ],
+      [
+        "CPU",
+        "Interrupt Service Program"
+      ],
+      [
+        "CPU",
+        "Instruction Completion"
+      ],
+      [
+        "CPU",
+        "Interrupt Enable Flag"
+      ],
+      [
+        "CPU",
+        "Exception"
+      ],
+      [
+        "CPU",
+        "Nonmaskable Interrupt"
+      ],
+      [
+        "CPU",
+        "Interrupt Request"
+      ],
+      [
+        "I/O Device",
+        "I/O Interrupt"
+      ],
+      [
+        "I/O Device",
+        "Interrupt Request"
+      ]
+    ],
+    "count": 10,
+    "create_time": 1761966522,
+    "update_time": 1761966522,
+    "_id": "doc-fd27c6dd3555afa7e84d84ae7f0c415b"
+  },
+  "doc-725d3c1be11693e2363f15a20f407f73": {
+    "relation_pairs": [
+      [
+        "Interrupt Query Program",
+        "Interrupt Response Priority"
+      ],
+      [
+        "Hardware Queue",
+        "Interrupt Response Priority"
+      ],
+      [
+        "Interrupt Response Priority",
+        "Multiple Interrupts"
+      ],
+      [
+        "Maskable Interrupt",
+        "Non-Maskable Interrupt"
+      ],
+      [
+        "Normal Device",
+        "Real-Time Device"
+      ],
+      [
+        "High-Speed Device",
+        "Low-Speed Device"
+      ],
+      [
+        "Input Device",
+        "Output Device"
+      ],
+      [
+        "Interrupt Handling",
+        "Interrupt Masking"
+      ]
+    ],
+    "count": 8,
+    "create_time": 1761966594,
+    "update_time": 1761966594,
+    "_id": "doc-725d3c1be11693e2363f15a20f407f73"
+  },
+  "doc-a43a0bff0513846a7b62552d93d29c74": {
+    "relation_pairs": [
+      [
+        "CPU",
+        "Program Query Method"
+      ],
+      [
+        "Low Data Transfer Rate Devices",
+        "Program Interrupt Method"
+      ],
+      [
+        "Channel Method",
+        "High Data Transfer Rate Devices"
+      ],
+      [
+        "Channel Method",
+        "Input/Output System"
+      ],
+      [
+        "Input/Output System",
+        "Program Interrupt Method"
+      ],
+      [
+        "Channel Control Unit",
+        "Channel Method"
+      ],
+      [
+        "DMA Method",
+        "Interrupt Service Program"
+      ],
+      [
+        "DMA Method",
+        "High Data Transfer Rate Devices"
+      ],
+      [
+        "Channel Method",
+        "Channel Program"
+      ],
+      [
+        "I/O Devices",
+        "Program Interrupt Method"
+      ],
+      [
+        "Low Data Transfer Rate Devices",
+        "Program Query Method"
+      ],
+      [
+        "Input/Output System",
+        "Program Query Method"
+      ],
+      [
+        "DMA Method",
+        "Input/Output System"
+      ],
+      [
+        "DMA Method",
+        "Main Memory"
+      ]
+    ],
+    "count": 14,
+    "create_time": 1761966635,
+    "update_time": 1761966635,
+    "_id": "doc-a43a0bff0513846a7b62552d93d29c74"
+  },
+  "doc-b1ff6047029c8a2aee70916cb8dd575e": {
+    "relation_pairs": [
+      [
+        "串行总线",
+        "长距离通信"
+      ],
+      [
+        "主存",
+        "系统总线"
+      ],
+      [
+        "中断请求/回答",
+        "控制总线"
+      ],
+      [
+        "I/O总线",
+        "I/O设备"
+      ],
+      [
+        "工作频率",
+        "并行总线"
+      ],
+      [
+        "数据传输",
+        "数据总线"
+      ],
+      [
+        "CPU",
+        "系统总线"
+      ],
+      [
+        "控制信号",
+        "控制总线"
+      ],
+      [
+        "I/O总线",
+        "系统总线"
+      ],
+      [
+        "系统总线",
+        "通信总线"
+      ],
+      [
+        "I/O接口",
+        "系统总线"
+      ],
+      [
+        "并行总线",
+        "数据线"
+      ],
+      [
+        "串行总线",
+        "工作频率"
+      ],
+      [
+        "地址总线",
+        "最大寻址空间"
+      ],
+      [
+        "CPU",
+        "片内总线"
+      ],
+      [
+        "I/O写",
+        "控制总线"
+      ],
+      [
+        "数据总线",
+        "数据通路"
+      ],
+      [
+        "信号干扰",
+        "并行总线"
+      ],
+      [
+        "异步总线",
+        "握手"
+      ],
+      [
+        "同步总线",
+        "总线操作"
+      ],
+      [
+        "协同性",
+        "并行总线"
+      ],
+      [
+        "地址总线",
+        "系统总线"
+      ],
+      [
+        "异步总线",
+        "总线操作"
+      ],
+      [
+        "存储器读/写",
+        "控制总线"
+      ],
+      [
+        "I/O读",
+        "控制总线"
+      ],
+      [
+        "传输确认",
+        "控制总线"
+      ],
+      [
+        "并行总线",
+        "近距离通信"
+      ],
+      [
+        "数据总线",
+        "系统总线"
+      ],
+      [
+        "串行总线",
+        "数据线"
+      ],
+      [
+        "控制总线",
+        "系统总线"
+      ],
+      [
+        "同步总线",
+        "时钟"
+      ]
+    ],
+    "count": 31,
+    "create_time": 1761966653,
+    "update_time": 1761966653,
+    "_id": "doc-b1ff6047029c8a2aee70916cb8dd575e"
+  },
+  "doc-8bf34d55729ab21c362e5199c09695fe": {
+    "relation_pairs": [
+      [
+        "I/O Interface",
+        "Non-Programmable Interface"
+      ],
+      [
+        "I/O Interface",
+        "Program Query Interface"
+      ],
+      [
+        "I/O Interface",
+        "Parallel Interface"
+      ],
+      [
+        "Data Format Conversion",
+        "Serial Interface"
+      ],
+      [
+        "I/O Interface",
+        "Programmable Interface"
+      ],
+      [
+        "DMA Interface",
+        "I/O Interface"
+      ],
+      [
+        "Data Format Conversion",
+        "Parallel Interface"
+      ],
+      [
+        "I/O Interface",
+        "Interrupt Interface"
+      ],
+      [
+        "I/O Interface",
+        "Serial Interface"
+      ]
+    ],
+    "count": 9,
+    "create_time": 1761966689,
+    "update_time": 1761966689,
+    "_id": "doc-8bf34d55729ab21c362e5199c09695fe"
+  },
+  "doc-11164f80acaa191542c607dd77b4bf89": {
+    "relation_pairs": [
+      [
+        "DMA控制器",
+        "主存"
+      ],
+      [
+        "DMA控制器",
+        "传送长度计数器"
+      ],
+      [
+        "DMA控制器",
+        "数据缓冲寄存器"
+      ],
+      [
+        "中断机构",
+        "中断请求"
+      ],
+      [
+        "CPU",
+        "总线响应信号"
+      ],
+      [
+        "DMA控制器",
+        "I/O设备"
+      ],
+      [
+        "CPU",
+        "DMA控制器"
+      ],
+      [
+        "主存",
+        "数据传送"
+      ],
+      [
+        "控制/状态逻辑",
+        "数据传送方向"
+      ],
+      [
+        "DMA控制器",
+        "DMA请求触发器"
+      ],
+      [
+        "DMA控制器",
+        "数据传送"
+      ],
+      [
+        "DMA控制器",
+        "中断机构"
+      ],
+      [
+        "DMA控制器",
+        "主存地址计数器"
+      ],
+      [
+        "DMA操作周期",
+        "系统总线"
+      ],
+      [
+        "DMA控制器",
+        "系统总线"
+      ],
+      [
+        "DMA控制器",
+        "控制/状态逻辑"
+      ]
+    ],
+    "count": 16,
+    "create_time": 1761966701,
+    "update_time": 1761966701,
+    "_id": "doc-11164f80acaa191542c607dd77b4bf89"
+  },
+  "doc-80ff12514bf210e42f471a5830decd7d": {
+    "relation_pairs": [
+      [
+        "总线",
+        "时间特性"
+      ],
+      [
+        "从设备",
+        "总线设备"
+      ],
+      [
+        "分时",
+        "总线"
+      ],
+      [
+        "总线",
+        "电气特性"
+      ],
+      [
+        "主设备",
+        "总线设备"
+      ],
+      [
+        "共享",
+        "总线"
+      ],
+      [
+        "总线",
+        "机械特性"
+      ],
+      [
+        "功能特性",
+        "总线"
+      ]
+    ],
+    "count": 8,
+    "create_time": 1761966737,
+    "update_time": 1761966737,
+    "_id": "doc-80ff12514bf210e42f471a5830decd7d"
+  },
+  "doc-2076ff42c6ee3f161f494e1c646ca233": {
+    "relation_pairs": [
+      [
+        "Addressing Phase",
+        "System Bus"
+      ],
+      [
+        "Bus Transaction",
+        "Slave Device"
+      ],
+      [
+        "Addressing Phase",
+        "Bus Transaction"
+      ],
+      [
+        "Bus Transaction",
+        "Non-Burst Transfer Mode"
+      ],
+      [
+        "Burst Transfer Mode",
+        "Bus Transaction"
+      ],
+      [
+        "Bus Cycle",
+        "Bus Transaction"
+      ],
+      [
+        "Bus Transaction",
+        "Transfer Phase"
+      ],
+      [
+        "Arbitration Phase",
+        "Bus Transaction"
+      ],
+      [
+        "Bus Transaction",
+        "Release Phase"
+      ],
+      [
+        "Request Phase",
+        "System Bus"
+      ],
+      [
+        "System Bus",
+        "Transfer Phase"
+      ],
+      [
+        "Burst Transfer Mode",
+        "Clock Cycle"
+      ],
+      [
+        "Clock Cycle",
+        "Transfer Phase"
+      ],
+      [
+        "Arbitration Phase",
+        "Bus Arbiter"
+      ],
+      [
+        "Bus Transaction",
+        "Request Phase"
+      ],
+      [
+        "Bus Transaction",
+        "Master Device"
+      ]
+    ],
+    "count": 16,
+    "create_time": 1761966763,
+    "update_time": 1761966763,
+    "_id": "doc-2076ff42c6ee3f161f494e1c646ca233"
+  },
+  "doc-5b39ca8d8912721150379240e1b18770": {
+    "relation_pairs": [
+      [
+        "Command Register",
+        "I/O Interface"
+      ],
+      [
+        "Communication Coordination",
+        "I/O Interface"
+      ],
+      [
+        "I/O Interface",
+        "Signal Format Conversion"
+      ],
+      [
+        "Host System",
+        "I/O Interface"
+      ],
+      [
+        "I/O Interface",
+        "Status Register"
+      ],
+      [
+        "Address Decoding",
+        "I/O Interface"
+      ],
+      [
+        "Data Buffering",
+        "I/O Interface"
+      ],
+      [
+        "I/O Interface",
+        "Peripheral Devices"
+      ],
+      [
+        "Command and Status Transfer",
+        "I/O Interface"
+      ],
+      [
+        "CPU",
+        "I/O Interface"
+      ]
+    ],
+    "count": 10,
+    "create_time": 1761966782,
+    "update_time": 1761966782,
+    "_id": "doc-5b39ca8d8912721150379240e1b18770"
+  },
+  "doc-be16a52421e09740f425560cea4aa97b": {
+    "relation_pairs": [
+      [
+        "Multilevel Interrupt",
+        "Single Interrupt"
+      ],
+      [
+        "Interrupt Mask Word Register",
+        "Interrupt Service Program"
+      ],
+      [
+        "Interrupt Mask Word",
+        "Interrupt Request Signal"
+      ],
+      [
+        "Interrupt Masking Technology",
+        "Interrupt Priority"
+      ],
+      [
+        "Interrupt Request Register",
+        "Interrupt Request Signal"
+      ],
+      [
+        "Interrupt Arbitration Circuit",
+        "Response Priority"
+      ],
+      [
+        "Interrupt Mask Word Register",
+        "Interrupt Request Register"
+      ],
+      [
+        "Interrupt Masking Technology",
+        "Multilevel Interrupt"
+      ],
+      [
+        "Interrupt Mask Word",
+        "Interrupt Mask Word Register"
+      ],
+      [
+        "CPU",
+        "Interrupt Service Program"
+      ]
+    ],
+    "count": 10,
+    "create_time": 1761966820,
+    "update_time": 1761966820,
+    "_id": "doc-be16a52421e09740f425560cea4aa97b"
+  },
+  "doc-ad9c54e2f65996bbd6583617d9476956": {
+    "relation_pairs": [
+      [
+        "Operating System",
+        "Soft Interrupt"
+      ],
+      [
+        "Operating System",
+        "Supervisor Mode"
+      ],
+      [
+        "Multitasking",
+        "Program Interrupt"
+      ],
+      [
+        "Program Interrupt",
+        "Soft Interrupt"
+      ],
+      [
+        "Data Transfer",
+        "I/O Device"
+      ],
+      [
+        "CPU",
+        "Ready Queue"
+      ],
+      [
+        "External Device",
+        "Interrupt Request"
+      ],
+      [
+        "I/O Device",
+        "Interrupt Request"
+      ],
+      [
+        "Data Transfer",
+        "Interrupt Service Program"
+      ],
+      [
+        "Breakpoint",
+        "Current Process"
+      ],
+      [
+        "Program Interrupt",
+        "User Intervention"
+      ],
+      [
+        "Program Interrupt",
+        "Software Error"
+      ],
+      [
+        "CPU",
+        "Program Interrupt"
+      ],
+      [
+        "Interrupt Request",
+        "Interrupt Service Program"
+      ],
+      [
+        "Program Interrupt",
+        "Real-Time Processing"
+      ],
+      [
+        "Hardware Fault",
+        "Program Interrupt"
+      ],
+      [
+        "Inter-Processor Communication",
+        "Multi-Processor System"
+      ],
+      [
+        "CPU",
+        "Interrupt Service Program"
+      ]
+    ],
+    "count": 18,
+    "create_time": 1761966823,
+    "update_time": 1761966823,
+    "_id": "doc-ad9c54e2f65996bbd6583617d9476956"
+  },
+  "doc-d37f763dacfa5481b7d9737db68dc3fb": {
+    "relation_pairs": [
+      [
+        "DMA方式",
+        "中断方式"
+      ],
+      [
+        "CPU",
+        "中断方式"
+      ],
+      [
+        "DMA方式",
+        "成组数据传送"
+      ],
+      [
+        "DMA方式",
+        "总线请求优先级"
+      ],
+      [
+        "中断方式",
+        "程序传送"
+      ],
+      [
+        "DMA方式",
+        "数据传输速率"
+      ],
+      [
+        "中断方式",
+        "机器周期"
+      ],
+      [
+        "CPU",
+        "DMA方式"
+      ],
+      [
+        "中断方式",
+        "异常事件处理"
+      ],
+      [
+        "DMA方式",
+        "机器周期"
+      ],
+      [
+        "DMA方式",
+        "硬件传送"
+      ]
+    ],
+    "count": 11,
+    "create_time": 1761966877,
+    "update_time": 1761966877,
+    "_id": "doc-d37f763dacfa5481b7d9737db68dc3fb"
+  },
+  "doc-37464da74b11b06fc16925756c8a2cff": {
+    "relation_pairs": [
+      [
+        "信号线数",
+        "总线复用"
+      ],
+      [
+        "44MB/s",
+        "总线带宽"
+      ],
+      [
+        "22MHz",
+        "总线带宽"
+      ],
+      [
+        "总线传输周期",
+        "总线工作频率"
+      ],
+      [
+        "总线时钟周期",
+        "总线时钟频率"
+      ],
+      [
+        "总线工作频率",
+        "总线时钟频率"
+      ],
+      [
+        "总线传输周期",
+        "总线时钟周期"
+      ],
+      [
+        "16位",
+        "总线带宽"
+      ],
+      [
+        "总线工作频率",
+        "总线带宽"
+      ],
+      [
+        "总线宽度",
+        "总线带宽"
+      ]
+    ],
+    "count": 10,
+    "create_time": 1761966885,
+    "update_time": 1761966885,
+    "_id": "doc-37464da74b11b06fc16925756c8a2cff"
+  },
+  "doc-08b1a8b3f922d005c9811f3b79ed98e3": {
+    "relation_pairs": [
+      [
+        "CPU",
+        "DMA Controller"
+      ],
+      [
+        "Data Block",
+        "Data Transfer"
+      ],
+      [
+        "DMA",
+        "Data Transfer Process"
+      ],
+      [
+        "CPU",
+        "Preprocessing"
+      ],
+      [
+        "CPU",
+        "Post-Processing"
+      ],
+      [
+        "DMA Controller",
+        "I/O Device"
+      ],
+      [
+        "DMA Controller",
+        "Data Transfer"
+      ],
+      [
+        "DMA Controller",
+        "System Bus"
+      ],
+      [
+        "DMA Controller",
+        "Interrupt Request"
+      ],
+      [
+        "Bus Request",
+        "DMA Controller"
+      ]
+    ],
+    "count": 10,
+    "create_time": 1761966922,
+    "update_time": 1761966922,
+    "_id": "doc-08b1a8b3f922d005c9811f3b79ed98e3"
+  },
+  "doc-0d45722c9abd1a1873a3481b3d31a490": {
+    "relation_pairs": [
+      [
+        "I/O Port",
+        "Status Port"
+      ],
+      [
+        "I/O Address Space",
+        "Independent Addressing"
+      ],
+      [
+        "I/O Instructions",
+        "Independent Addressing"
+      ],
+      [
+        "Memory Mapping",
+        "Unified Addressing"
+      ],
+      [
+        "Control Port",
+        "I/O Port"
+      ],
+      [
+        "I/O Mapping",
+        "Independent Addressing"
+      ],
+      [
+        "Data Port",
+        "I/O Port"
+      ],
+      [
+        "Main Memory Address Space",
+        "Unified Addressing"
+      ],
+      [
+        "Memory Access Instructions",
+        "Unified Addressing"
+      ],
+      [
+        "Independent Addressing",
+        "Port Addressing"
+      ],
+      [
+        "Port Addressing",
+        "Unified Addressing"
+      ]
+    ],
+    "count": 11,
+    "create_time": 1761966923,
+    "update_time": 1761966923,
+    "_id": "doc-0d45722c9abd1a1873a3481b3d31a490"
+  },
+  "doc-43ada02254d8ed5609b03ac4ff3f2484": {
+    "relation_pairs": [
+      [
+        "Optical Disc Drive",
+        "Optical Disc Storage"
+      ],
+      [
+        "Magnetic Surface Storage",
+        "Tape Storage"
+      ],
+      [
+        "Display Monitor",
+        "Resolution"
+      ],
+      [
+        "CRT Display",
+        "Display Monitor"
+      ],
+      [
+        "Display Monitor",
+        "Video RAM"
+      ],
+      [
+        "Display Monitor",
+        "LED Display"
+      ],
+      [
+        "Computer",
+        "Display Monitor"
+      ],
+      [
+        "Flash Memory",
+        "Solid-State Drive"
+      ],
+      [
+        "Optical Disc",
+        "Optical Disc Storage"
+      ],
+      [
+        "Color Mixing",
+        "Inkjet Printer"
+      ],
+      [
+        "Laser Printer",
+        "Printer"
+      ],
+      [
+        "Sensing Drum",
+        "Toner"
+      ],
+      [
+        "Grayscale Level",
+        "Pixel"
+      ],
+      [
+        "Binary Information",
+        "Computer"
+      ],
+      [
+        "Display Monitor",
+        "Screen Size"
+      ],
+      [
+        "Inkjet Printer",
+        "Printer"
+      ],
+      [
+        "Solid-State Drive",
+        "Storage System"
+      ],
+      [
+        "Display Monitor",
+        "Refresh Rate"
+      ],
+      [
+        "Display Monitor",
+        "Grayscale Level"
+      ],
+      [
+        "Computer",
+        "Mouse"
+      ],
+      [
+        "Pixel",
+        "Resolution"
+      ],
+      [
+        "Magnetic Surface Storage",
+        "Storage System"
+      ],
+      [
+        "Dot Matrix Printer",
+        "Printer"
+      ],
+      [
+        "Optical Disc Storage",
+        "Storage System"
+      ],
+      [
+        "Optical Disc Controller",
+        "Optical Disc Drive"
+      ],
+      [
+        "Disk Storage",
+        "Magnetic Surface Storage"
+      ],
+      [
+        "Laser Printer",
+        "Sensing Drum"
+      ],
+      [
+        "Computer",
+        "Printer"
+      ],
+      [
+        "Display Monitor",
+        "Refresh"
+      ],
+      [
+        "Refresh",
+        "Refresh Rate"
+      ],
+      [
+        "Display Monitor",
+        "LCD Display"
+      ],
+      [
+        "Magnetic Drum",
+        "Magnetic Surface Storage"
+      ],
+      [
+        "Laser Beam",
+        "Laser Printer"
+      ],
+      [
+        "Laser Printer",
+        "Toner"
+      ],
+      [
+        "Computer",
+        "Keyboard"
+      ]
+    ],
+    "count": 35,
+    "create_time": 1761967044,
+    "update_time": 1761967044,
+    "_id": "doc-43ada02254d8ed5609b03ac4ff3f2484"
+  },
+  "doc-b9c4d5bf95dc288ed9c76eb77e93c83a": {
+    "relation_pairs": [
+      [
+        "DMA Way",
+        "Hardware Circuit"
+      ],
+      [
+        "DMA Way",
+        "Main Memory Buffer"
+      ],
+      [
+        "DMA Way",
+        "I/O"
+      ],
+      [
+        "DMA Way",
+        "Data Block"
+      ],
+      [
+        "DMA Way",
+        "Interrupt Postprocessing"
+      ],
+      [
+        "DMA Way",
+        "Program Preprocessing"
+      ],
+      [
+        "DMA Way",
+        "Main Memory"
+      ],
+      [
+        "DMA Way",
+        "System Efficiency"
+      ],
+      [
+        "CPU",
+        "DMA Way"
+      ]
+    ],
+    "count": 9,
+    "create_time": 1761967089,
+    "update_time": 1761967089,
+    "_id": "doc-b9c4d5bf95dc288ed9c76eb77e93c83a"
+  },
+  "doc-58502ad68e28a3ec9436fd875654faa8": {
+    "relation_pairs": [
+      [
+        "AGP",
+        "Parallel Bus"
+      ],
+      [
+        "Local Bus",
+        "PCI"
+      ],
+      [
+        "SATA",
+        "Serial Bus"
+      ],
+      [
+        "Clock Frequency",
+        "RS-232C"
+      ],
+      [
+        "Plug-and-Play",
+        "SATA"
+      ],
+      [
+        "Device Bus",
+        "RS-232C"
+      ],
+      [
+        "Bus Width",
+        "PCI-Express"
+      ],
+      [
+        "Addressing Capability",
+        "ISA"
+      ],
+      [
+        "Serial Bus",
+        "USB"
+      ],
+      [
+        "Burst Transfer",
+        "VESA"
+      ],
+      [
+        "Clock Frequency",
+        "PCI"
+      ],
+      [
+        "VESA",
+        "Video Electronics Standards Association"
+      ],
+      [
+        "Clock Frequency",
+        "USB"
+      ],
+      [
+        "AGP",
+        "Local Bus"
+      ],
+      [
+        "Bus Width",
+        "EISA"
+      ],
+      [
+        "Bandwidth",
+        "USB"
+      ],
+      [
+        "Plug-and-Play",
+        "SCSI"
+      ],
+      [
+        "Device Bus",
+        "USB"
+      ],
+      [
+        "Local Bus",
+        "PCI-Express"
+      ],
+      [
+        "PCI",
+        "System Performance"
+      ],
+      [
+        "Clock Frequency",
+        "IDE"
+      ],
+      [
+        "AGP",
+        "Burst Transfer"
+      ],
+      [
+        "RS-232C",
+        "Serial Bus"
+      ],
+      [
+        "Device Bus",
+        "IDE"
+      ],
+      [
+        "Bandwidth",
+        "IDE"
+      ],
+      [
+        "Clock Frequency",
+        "SCSI"
+      ],
+      [
+        "Bandwidth",
+        "SCSI"
+      ],
+      [
+        "Device Bus",
+        "SCSI"
+      ],
+      [
+        "Parallel Bus",
+        "SCSI"
+      ],
+      [
+        "SATA",
+        "Storage Performance"
+      ],
+      [
+        "Clock Frequency",
+        "PCI-Express"
+      ],
+      [
+        "Local Bus",
+        "VESA"
+      ],
+      [
+        "Clock Frequency",
+        "SATA"
+      ],
+      [
+        "PCI",
+        "Parallel Bus"
+      ],
+      [
+        "Clock Frequency",
+        "PCMCIA"
+      ],
+      [
+        "Bandwidth",
+        "SATA"
+      ],
+      [
+        "Device Bus",
+        "SATA"
+      ],
+      [
+        "Bandwidth",
+        "PCMCIA"
+      ],
+      [
+        "Device Bus",
+        "PCMCIA"
+      ],
+      [
+        "IDE",
+        "Plug-and-Play"
+      ],
+      [
+        "PCI-Express",
+        "Serial Bus"
+      ],
+      [
+        "Clock Frequency",
+        "EISA"
+      ],
+      [
+        "IDE",
+        "Parallel Bus"
+      ],
+      [
+        "Burst Transfer",
+        "PCI"
+      ],
+      [
+        "ISA",
+        "Parallel Bus"
+      ],
+      [
+        "Data Performance",
+        "PCI-Express"
+      ],
+      [
+        "PCMCIA",
+        "Plug-and-Play"
+      ],
+      [
+        "PCMCIA",
+        "Parallel Bus"
+      ],
+      [
+        "Bus Width",
+        "VESA"
+      ],
+      [
+        "EISA",
+        "Parallel Bus"
+      ],
+      [
+        "System Performance",
+        "VESA"
+      ],
+      [
+        "AGP",
+        "Bus Width"
+      ],
+      [
+        "AGP",
+        "Clock Frequency"
+      ],
+      [
+        "Bus Width",
+        "ISA"
+      ],
+      [
+        "Addressing Capability",
+        "SATA"
+      ],
+      [
+        "Addressing Capability",
+        "PCI"
+      ],
+      [
+        "Hot-Swapping",
+        "USB"
+      ],
+      [
+        "Burst Transfer",
+        "PCI-Express"
+      ],
+      [
+        "Addressing Capability",
+        "EISA"
+      ],
+      [
+        "Hot-Swapping",
+        "IDE"
+      ],
+      [
+        "Addressing Capability",
+        "IDE"
+      ],
+      [
+        "ISA",
+        "System Bus"
+      ],
+      [
+        "Bandwidth",
+        "RS-232C"
+      ],
+      [
+        "Burst Transfer",
+        "EISA"
+      ],
+      [
+        "Hot-Swapping",
+        "SCSI"
+      ],
+      [
+        "Addressing Capability",
+        "SCSI"
+      ],
+      [
+        "AGP",
+        "Graphics Performance"
+      ],
+      [
+        "PCI",
+        "Peripheral Component Interconnect"
+      ],
+      [
+        "AGP",
+        "Addressing Capability"
+      ],
+      [
+        "Plug-and-Play",
+        "USB"
+      ],
+      [
+        "Clock Frequency",
+        "VESA"
+      ],
+      [
+        "EISA",
+        "System Bus"
+      ],
+      [
+        "Parallel Bus",
+        "VESA"
+      ],
+      [
+        "Clock Frequency",
+        "ISA"
+      ],
+      [
+        "Bus Width",
+        "PCI"
+      ],
+      [
+        "Addressing Capability",
+        "PCI-Express"
+      ],
+      [
+        "Hot-Swapping",
+        "SATA"
+      ],
+      [
+        "Hot-Swapping",
+        "PCMCIA"
+      ]
+    ],
+    "count": 78,
+    "create_time": 1761967137,
+    "update_time": 1761967137,
+    "_id": "doc-58502ad68e28a3ec9436fd875654faa8"
+  },
+  "doc-cf6b9c226ca3b2608b5f06be919d2f78": {
+    "relation_pairs": [
+      [
+        "Direct Data Path",
+        "Memory"
+      ],
+      [
+        "DMA Way",
+        "Hardware"
+      ],
+      [
+        "DMA Way",
+        "Memory"
+      ],
+      [
+        "Direct Data Path",
+        "Peripheral Devices"
+      ],
+      [
+        "DMA Way",
+        "Peripheral Devices"
+      ],
+      [
+        "DMA Way",
+        "Interrupt Handling"
+      ],
+      [
+        "CPU",
+        "Data Transfer Overhead"
+      ],
+      [
+        "CPU",
+        "DMA Way"
+      ]
+    ],
+    "count": 8,
+    "create_time": 1761967163,
+    "update_time": 1761967163,
+    "_id": "doc-cf6b9c226ca3b2608b5f06be919d2f78"
+  },
+  "doc-e79f459ca9c78bdc9a58b4797fd7ec30": {
+    "relation_pairs": [
+      [
+        "Central Processing Unit",
+        "Program Counter"
+      ],
+      [
+        "Interrupt Type Number",
+        "Interrupt Vector"
+      ],
+      [
+        "Interrupt Vector Method",
+        "Vector Interrupt"
+      ],
+      [
+        "Central Processing Unit",
+        "Interrupt Vector Table"
+      ],
+      [
+        "Interrupt Vector",
+        "Interrupt Vector Table"
+      ],
+      [
+        "Interrupt Service Routine",
+        "Interrupt Vector"
+      ]
+    ],
+    "count": 6,
+    "create_time": 1761967189,
+    "update_time": 1761967189,
+    "_id": "doc-e79f459ca9c78bdc9a58b4797fd7ec30"
+  },
+  "doc-6876428dd42a0ca26ea6d7ef9718d4c1": {
+    "relation_pairs": [
+      [
+        "CPU",
+        "Program Query Method"
+      ],
+      [
+        "Device Readiness",
+        "Exclusive Query"
+      ],
+      [
+        "Timer Query",
+        "Timing Interval"
+      ],
+      [
+        "CPU",
+        "Exclusive Query"
+      ],
+      [
+        "Carbon-Fiber Spikes",
+        "Noah Carter"
+      ],
+      [
+        "Device Status Register",
+        "Program Query Method"
+      ],
+      [
+        "Tokyo",
+        "World Athletics Championship"
+      ],
+      [
+        "CPU",
+        "Command Word"
+      ],
+      [
+        "Data Buffer Register",
+        "Program Query Method"
+      ],
+      [
+        "World Athletics Championship",
+        "World Athletics Federation"
+      ],
+      [
+        "Data Transfer",
+        "Timer Query"
+      ],
+      [
+        "Data Transfer",
+        "I/O Operation"
+      ],
+      [
+        "Address and Counter Parameter",
+        "CPU"
+      ],
+      [
+        "CPU",
+        "Timer Query"
+      ],
+      [
+        "Exclusive Query",
+        "Program Query Method"
+      ],
+      [
+        "I/O Operation",
+        "Program Query Method"
+      ],
+      [
+        "CPU",
+        "I/O Operation"
+      ],
+      [
+        "Program Query Method",
+        "Timer Query"
+      ],
+      [
+        "100m Sprint Record",
+        "Noah Carter"
+      ],
+      [
+        "CPU",
+        "Initialization Program"
+      ]
+    ],
+    "count": 20,
+    "create_time": 1761967191,
+    "update_time": 1761967191,
+    "_id": "doc-6876428dd42a0ca26ea6d7ef9718d4c1"
+  }
+}
