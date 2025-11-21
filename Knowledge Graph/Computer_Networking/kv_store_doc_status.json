@@ -1,0 +1,2640 @@
+{
+  "doc-435bdd9d26a21bb6e0962f9964419d8a": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-435bdd9d26a21bb6e0962f9964419d8a"
+    ],
+    "content_summary": "IP多播 多播(也称组播)是让源主机一次发送的单个分组可以抵达用一个组地址标识的若干目的主 机，即一对多的通信。在互联网上进行的多播，称为IP多播。 与单播相比，在一对多的通信中，多播可大大节约网络资源。假设视频服务器向90台主 机传送同样的视频节目。多播时仅发送一份数据，并且只需发送一次，只有在传送路径出现分岔时才将分组复制后继续转发，因此大大减轻了发送者的 负担和网络的负载。多播需要路由器的支持才能实现，能够运行多播协议的路由器称为多播路由器 。",
+    "content_length": 227,
+    "created_at": "2025-10-13T11:59:56.857664+00:00",
+    "updated_at": "2025-10-13T12:00:22.335279+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760356796,
+      "processing_end_time": 1760356822
+    }
+  },
+  "doc-d693d1041a7c71771a82a6eb9d69572e": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-d693d1041a7c71771a82a6eb9d69572e"
+    ],
+    "content_summary": "TCP的可靠传输机制 TCP 在不可靠的 IP 层之上建立一种可靠数据传输服务。TCP 提供的可靠数据传输服务保证 接收方从缓存区读出的字节流与发送方发出的字节流完全一样。TCP 使用了检验、序号、确认和重传等机制来达到这一目的。其中，TCP 的检验机制与UDP 一样，这里不再赘述。",
+    "content_length": 142,
+    "created_at": "2025-10-13T11:59:56.857751+00:00",
+    "updated_at": "2025-10-13T12:00:22.126887+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760356796,
+      "processing_end_time": 1760356822
+    }
+  },
+  "doc-e8fe3bc0c61afa98b433519e51df1934": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-e8fe3bc0c61afa98b433519e51df1934"
+    ],
+    "content_summary": "13.TCP/IP模型与OSI参考模型的比较 TCP/IP 模型与OSI 参考模型有许多相似之处。 首先，二者都采取分层的体系结构，且分层的功能也大体相似。 其次，二者都是基于独立的协议栈的概念。 最后，二者都可解决异构网络的互联，实现不同厂家生产的计算机之间的通信。 两个模型除了具有这些基本的相似之处，也有很多差别。 第一，OSI 参考模型的最大贡献是精确定义了三个主要概念：服务、协议和接口，这与现代 的面向对象程序设计思想非常吻合。而 TCP/IP 模型在这三个概念上没有明确区分。 第二，O...",
+    "content_length": 552,
+    "created_at": "2025-10-13T11:59:56.857400+00:00",
+    "updated_at": "2025-10-13T12:01:06.765941+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760356822,
+      "processing_end_time": 1760356866
+    }
+  },
+  "doc-2f9682e67c13ca61b23bdfa696f033fb": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-2f9682e67c13ca61b23bdfa696f033fb"
+    ],
+    "content_summary": "13.无线传输介质 无线通信已广泛用于蜂窝移动电话领域。便携式计算机的出现，以及军事、野外等特殊场合 对移动联网的需要，促进了移动通信的发展，现在无线局域网的应用已非常普遍。 (1)无线电波 无线电波具有较强的穿透能力，可以传输很长的距离，因此广泛用于通信领域，如无线手机 通信、计算机网络中的无线局域网 (WLAN) 等。因为无线电波使信号向所有方向散播，所以有 效距离范围内的接收设备无须对准某个方向，就可与无线电波发射者进行通信连接，大大简化了 通信连接。这也是无线电波传输的最重要优点之一。 ...",
+    "content_length": 662,
+    "created_at": "2025-10-13T11:59:56.857435+00:00",
+    "updated_at": "2025-10-13T12:01:22.179713+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760356822,
+      "processing_end_time": 1760356882
+    }
+  },
+  "doc-90a6889a42d72981da53ed2ad8c557b5": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-90a6889a42d72981da53ed2ad8c557b5"
+    ],
+    "content_summary": "10. 违规编码法 在物理层进行比特编码时，常采用违规编码法。例如，曼彻斯特编码方法将数据比特“1” 编码成“高-低”电平对，将数据比特“0”编码成“低-高”电平对，而“高-高”电平对和“低 -低”电平对在数据比特中是违规的(没有采用),因此可借用这些违规编码序列来定界帧的起始 和终止。局域网IEEE 802 标准就采用了这种方法。违规编码法不采用任何填充技术便能实现数据 的透明传输，但只适用于采用冗余编码的特殊编码环境。 因为字符计数法中计数字段的脆弱性和字节填充法实现上的复杂性与不兼容性，所...",
+    "content_length": 277,
+    "created_at": "2025-10-13T11:59:56.857466+00:00",
+    "updated_at": "2025-10-13T12:02:13.781728+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760356866,
+      "processing_end_time": 1760356933
+    }
+  },
+  "doc-c5fd84bdd36dbfe5f2c13e2df224891b": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-c5fd84bdd36dbfe5f2c13e2df224891b"
+    ],
+    "content_summary": "18.无分类编址 CIDR 无分类域间路由选择 (Classless Inter-Domain Routing,CIDR)是在变长子网掩码的基础上， 提出的一种消除传统A 、B 、C 类地址及划分子网的概念。例如，若一个单位需要2000个地址， 则给它分配一个2048地址的块，而不是分配一个完全的B 类地址，因此可更有效地分配IPv4 的 地址空间。CIDR 使用网络前缀的概念代替网络的概念，与传统分类IP 地址最大的区别就是，网 络前缀的位数不是固定的，可以任意选取。 CIDR 的记法是IP地...",
+    "content_length": 1142,
+    "created_at": "2025-10-13T11:59:56.857609+00:00",
+    "updated_at": "2025-10-13T12:01:53.363439+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760356882,
+      "processing_end_time": 1760356913
+    }
+  },
+  "doc-33e5d43933775bf940b52ea89a1ddcf7": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-33e5d43933775bf940b52ea89a1ddcf7"
+    ],
+    "content_summary": "1.网络层的功能 网络层提供主机到主机的通信服务，主要任务是将分组从源主机经过多个网络和多段链路传 输到目的主机。该任务可划分为分组转发和路由选择两种重要功能。 OSI 参考模型曾主张在网络层使用面向连接的虚电路服务，认为应由网络自身来保证通信的 可靠性。而 TCP/IP 体系的网络层提供的是无连接的数据报服务，其核心思想是应由用户主机来 保证通信的可靠性。 在互联网采用的 TCP/IP 体系结构中，网络层向上只提供简单灵活的、无连接的、尽最大努力交付的数据报服务。也就是说，所传送的分组可能出错...",
+    "content_length": 386,
+    "created_at": "2025-10-13T11:59:56.857563+00:00",
+    "updated_at": "2025-10-13T12:02:15.629576+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760356913,
+      "processing_end_time": 1760356935
+    }
+  },
+  "doc-64fefe780381280a30e8fe1364129eb0": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-64fefe780381280a30e8fe1364129eb0"
+    ],
+    "content_summary": "30.CSMA/CA 算法的归纳如下： 1)若站点最初有数据要发送(而非发送不成功再进行重传),且检测到信道空闲，那么在 等待时间DIFS 后，就发送整个数据帧。 2)否则，站点执行 CSMA/CA 退避算法，选取一个随机退避值。一旦检测到信道忙，退避 计时器就保持不变。只要信道空闲，退避计时器就进行倒计时。 3)当退避计时器减至0时(这时信道只可能是空闲的),站点就发送整个帧并等待确认。 4)发送站若收到确认，就知道已发送的帧被目的站正确接收。这时要发送第二帧，就要从 步骤2)开始，执行CSM...",
+    "content_length": 356,
+    "created_at": "2025-10-13T11:59:56.857528+00:00",
+    "updated_at": "2025-10-13T12:02:37.012852+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760356933,
+      "processing_end_time": 1760356957
+    }
+  },
+  "doc-2c39734eccce84bf0d9f02407e80d6ba": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-2c39734eccce84bf0d9f02407e80d6ba"
+    ],
+    "content_summary": "31.轮询访问：令牌传递协议 在轮询访问中，用户不能随机地发送信息，而要通过一个集中控制的监控站，以循环方式轮 询每个节点，再决定信道的分配。典型的轮询访问控制协议是令牌传递协议。 在令牌传递协议中，一个令牌 (Token) 沿着环形总线在各站之间依次传递。令牌是一个特 殊的控制帧，它本身并不包含信息，仅控制信道的使用，确保同一时刻只有一个站独占信道。当 环上的一个站希望发送帧时，必须等待令牌。站点只有取得令牌后才能发送帧，因此令牌环网络 不会发生冲突(因为令牌只有一个)。站点发送完一帧后，应释...",
+    "content_length": 801,
+    "created_at": "2025-10-13T11:59:56.857531+00:00",
+    "updated_at": "2025-10-13T12:02:52.851549+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760356935,
+      "processing_end_time": 1760356972
+    }
+  },
+  "doc-8ec1cc43b53a75d3abceeacc27d01564": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-8ec1cc43b53a75d3abceeacc27d01564"
+    ],
+    "content_summary": "25.IPv6的特点 目前广泛使用的IPv4 是在20世纪70年代设计的，互联网经过几十年的飞速发展，到2011 年 2 月 ，IPv4 地址已经耗尽，为了解决 “IP地址耗尽”问题，有以下三种措施： 1)采用无类别编址CIDR, 使 IP 地址的分配更加合理。 2)采用网络地址转换 (NAT)方法以节省全球 IP 地址。 3)采用具有更大地址空间的新版本的IPv6。 前两种方法只是延长了IPv4 使用寿命，只有第三种方法能从根本上解决IP 地址耗尽问题。 IPv6 的主要特点如下： 1)更大的...",
+    "content_length": 874,
+    "created_at": "2025-10-13T11:59:56.857629+00:00",
+    "updated_at": "2025-10-13T12:03:18.271585+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760356957,
+      "processing_end_time": 1760356998
+    }
+  },
+  "doc-5086a97acf28dfe48979a0861070dab7": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-5086a97acf28dfe48979a0861070dab7"
+    ],
+    "content_summary": "HTTP的特点 HTTP 使用TCP 作为传输层协议，保证了数据的可靠传输。HTTP 不必考虑数据在传输过程 中被丢弃后又怎样被重传。但是，HTTP 本身 是无连接的 (务必注意)。也就是说，虽然HTTP 使 用了TCP 连接，但通信的双方在交换HTTP 报文之前不需要先建立HTTP 连接。 HTTP 是无状态的。也就是说，同一个客户第二次访问同一个服务器上的页面时，服务器的 响应与第一次被访问时的相同，因为服务器并不记得曾经服务过的这个客户。 HTTP 的无状态特性简化了服务器的设计，使之更易...",
+    "content_length": 656,
+    "created_at": "2025-10-13T11:59:56.857823+00:00",
+    "updated_at": "2025-10-13T12:03:33.899194+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760356972,
+      "processing_end_time": 1760357013
+    }
+  },
+  "doc-e138d554b6cd05839654386c2b499665": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-e138d554b6cd05839654386c2b499665"
+    ],
+    "content_summary": "CSMA/CD最短帧长 现在考虑一种情况：某站发送一个很短的帧，但在发送完之前并未检测出冲突。假定这个帧 在继续向前传播到达目的站之前和别的站发送的帧发生了冲突，因此目的站将收到有差错的帧 (当然会把它丢弃)。然而，发送站却不知道发生了冲突，因此不会重传这个帧。为了避免发生 这种情况，以太网规定了一个最短帧长 (争用期内可发送的数据长度)。在争用期内若检测到冲 突，就停止发送，此时已发送出去的数据一定小于最短帧长，因此凡长度小于这个最短帧长的帧， 就都是因为冲突而异常中止的无效帧。最短帧长的计算...",
+    "content_length": 578,
+    "created_at": "2025-10-13T11:59:56.857514+00:00",
+    "updated_at": "2025-10-13T12:03:50.140626+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760356998,
+      "processing_end_time": 1760357030
+    }
+  },
+  "doc-8de233eef29df2b5f5780ea3ec012c73": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-8de233eef29df2b5f5780ea3ec012c73"
+    ],
+    "content_summary": "10.双绞线 双绞线是最常用的传输介质，在局域网和传统电话网中普遍使用。双绞线由两根采用一定规 则并排绞合、相互绝缘的铜导线组成。绞合可减少对相邻导线的电磁干扰。为了进一步提高抗电 磁干扰的能力，还可在双绞线的外面加上一层金属丝编织成的屏蔽层，这就是屏蔽双绞线(STP)。 无屏蔽层的双绞线称为非屏蔽双绞线( UTP)。 双绞线的结构如图2.4所示。 双绞线的价格便宜，模拟传输和数字传输都可使用双绞线，通信距离一般为几千米到数十千 米。双绞线的带宽取决于铜线的粗细和传输的距离。距离太远时，对于模拟...",
+    "content_length": 292,
+    "created_at": "2025-10-13T11:59:56.857428+00:00",
+    "updated_at": "2025-10-13T12:03:56.779811+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760357013,
+      "processing_end_time": 1760357036
+    }
+  },
+  "doc-ded820cc4b9df1e3a9f4c6f9dd3fb3c0": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-ded820cc4b9df1e3a9f4c6f9dd3fb3c0"
+    ],
+    "content_summary": "40.广域网的基本概念 广域网 (Wide Area Network,WAN) 通常是指覆盖范围很广(远超一个城市的范围)的长距 离网络，任务是长距离运送主机所发送的数据。连接广域网各节点交换机的链路都是高速链路， 广域网首要考虑的问题是通信容量必须足够大，以便支持日益增长的通信量。 广域网不等于互联网。互联网可以连接不同类型的网络，通常使用路由器来连接。图3.32 显示了由相距较远的局域网通过路由器与广域网相连而成的一个覆盖范围很广的互联网。因 此，局域网可以通过广域网与另一个相隔很远的局域网...",
+    "content_length": 253,
+    "created_at": "2025-10-13T11:59:56.857552+00:00",
+    "updated_at": "2025-10-13T12:04:31.279441+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760357030,
+      "processing_end_time": 1760357071
+    }
+  },
+  "doc-9e5c83dc6ab2e9b79de27342e6bcf4f1": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-9e5c83dc6ab2e9b79de27342e6bcf4f1"
+    ],
+    "content_summary": "12.光纤 光纤通信是指利用光导纤维(简称光纤)传递光脉冲来进行通信。有光脉冲表示1,无光脉 冲表示0。可见光的频率约为10⁸MHz,因此光纤通信系统的带宽极大。 光纤主要由纤芯和包层构成,纤芯很细，直径仅为8~100 μm, 包层较纤芯有较 低的折射率，光波通过纤芯进行传导。当光线从高折射率的介质射向低折射率的介质时，其折射 角将大于入射角。因此，只要入射角大于某个临界角，就会出现全反射，即光线碰到包层时就会 折射回纤芯，这个过程不断重复，光也就沿着光纤传输下去。 利用光的全反射特性，可让从不...",
+    "content_length": 615,
+    "created_at": "2025-10-13T11:59:56.857432+00:00",
+    "updated_at": "2025-10-13T12:04:31.075721+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760357036,
+      "processing_end_time": 1760357071
+    }
+  },
+  "doc-b872e6d68299bd1edb20c872667c0401": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-b872e6d68299bd1edb20c872667c0401"
+    ],
+    "content_summary": "12.检错编码 检错编码都采用冗余编码技术，核心思想是在有效数据 (信息位)被发送前，按某种关系附 加一定的冗余位(检验位),构成一个符合某一规则的码字后发送。当要发送的有效数据变化时， 相应的冗余位也随之变化，使得码字遵从不变的规则。接收方根据收到的码字是否仍符合原规则 来判断是否出错。常见的检错编码有奇偶检验码和循环冗余码。 1. 奇偶检验码 奇偶检验码是奇检验码和偶检验码的统称，是一种最基本的检错码。它由n-1 位数据和1位 检验位组成，检验位的取值(0或1)将使整个检验码中“1”的个数为...",
+    "content_length": 1350,
+    "created_at": "2025-10-13T11:59:56.857473+00:00",
+    "updated_at": "2025-10-13T12:04:57.405553+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760357071,
+      "processing_end_time": 1760357097
+    }
+  },
+  "doc-a383ff24728cd86c12eb3a588a93b781": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-a383ff24728cd86c12eb3a588a93b781"
+    ],
+    "content_summary": "TCP连接建立的3次握手过程 第一步：客户机首先向服务器发送连接请求报文段。请求报文段的 SYN 位置1,同时选择一 个初始序号seq=x。TCP规定，SYN报文段 (SYN=1 的报文段)不能携带数据，但要消耗一个序号。这时，客户机进入SYN-SENT (同步已发送)状态。 第二步：服务器收到连接请求报文段后，如同意建立连接，则向客户机发回确认。确认报文 段的 SYN 位和 ACK 位都置1,确认号ack=x+1, 同时选择一个初始序号seq=y 。 确认报文段不 能携带数据，但也要消耗一个序...",
+    "content_length": 532,
+    "created_at": "2025-10-13T11:59:56.857745+00:00",
+    "updated_at": "2025-10-13T12:05:08.305579+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760357071,
+      "processing_end_time": 1760357108
+    }
+  },
+  "doc-91effd7dab51380f256eb6af95d2aaae": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-91effd7dab51380f256eb6af95d2aaae"
+    ],
+    "content_summary": "15.可靠传输机制 可靠传输是指发送方发送的数据都能被接收方正确地接收，通常采用确认和超时重传两种机 制来实现。确认是指接收方每收到发送方发来的数据帧，都要向发送方发回一个确认帧，表示已 正确地收到该数据帧。超时重传是指发送方在发送一个数据帧后就启动一个计时器，若在规定时 间内没有收到所发送数据帧的确认帧，则重发该数据帧，直到发送成功为止。 使用这两种机制的可靠传输协议称为自动重传请求( ARQ), 它意味着重传是自动进行的， 接收方不需要对发送方发出重传请求。在 ARQ协议中，数据帧和确认帧都...",
+    "content_length": 522,
+    "created_at": "2025-10-13T11:59:56.857482+00:00",
+    "updated_at": "2025-10-13T12:05:43.635735+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760357097,
+      "processing_end_time": 1760357143
+    }
+  },
+  "doc-6b7c657f1967dce5705d736f3efd0c32": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-6b7c657f1967dce5705d736f3efd0c32"
+    ],
+    "content_summary": "UDP检验 在计算检验和时，要在 UDP数据报之前增加12B的伪首部，伪首部并不是UDP的真正首部。只是在计算检验和时，临时添加在UDP数据报的前面，得到一个临时的UDP数据报。检验和就是按照这个临时的 UDP数据报来计算的。伪首部既不向下传送，又不向上递交，而只是为了计算检验和。 UDP 计算检验和的方法和计算IP 数据报首部检验和的方法基本相同。不同的是： IP 数据报 的检验和只检验IP 数据报的首部，但 UDP 的检验和要将首部和数据部分一起检验。 UDP 计算检验和的方法： 在发送方，...",
+    "content_length": 485,
+    "created_at": "2025-10-13T11:59:56.857726+00:00",
+    "updated_at": "2025-10-13T12:05:45.660542+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760357108,
+      "processing_end_time": 1760357145
+    }
+  },
+  "doc-9efc7a10d017bd1ef2dc172877b3ee17": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-9efc7a10d017bd1ef2dc172877b3ee17"
+    ],
+    "content_summary": "电子邮件的收发过程 ① 发件人调用用户代理来撰写和编辑要发送的邮件。 ② 邮件撰写完后，发件人点击“发送邮件”按钮，把发送邮件的工作全都交给用户代理来 完成，就什么都不用管了。用户代理用SMTP 把邮件传送给发送端邮件服务器。 ③ 发送端邮件服务器将邮件放入邮件缓存队列中，等待发送。 ④ 发送端邮件服务器的 SMTP 客户与接收端邮件服务器的SMTP 服务器建立TCP 连接，然 后就把邮件缓存队列中的邮件依次发送出去。注意，邮件是直接传送给接收端邮件服务 器的，而不会在互联网的某个中间邮件服务器...",
+    "content_length": 388,
+    "created_at": "2025-10-13T11:59:56.857804+00:00",
+    "updated_at": "2025-10-13T12:06:16.487027+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760357143,
+      "processing_end_time": 1760357176
+    }
+  },
+  "doc-d2c6d06a73e0ddce405a5b6e58fdcb93": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-d2c6d06a73e0ddce405a5b6e58fdcb93"
+    ],
+    "content_summary": "6.数字数据编码为数字信号 数字数据编码用于基带传输中，即在基本不改变数字数据信号频率的情况下，直接传输数字 信号。具体用什么样的数字信号表示0及用什么样的数字信号表示1,就是所谓的编码。编码的 规则有多种，只要能有效区分0和1即可。常用的数字数据编码有以下几种， 1)归零 (RZ) 编码。用高电平表示1、低电平表示0(或者相反),每个码元的中间均跳变 到零电平(归零),接收方根据该跳变调整本方的时钟基准，这就为收发双方提供了自同步机制。因为归零需要占用一部分带宽，所以传输效率受到了一定的影响。...",
+    "content_length": 697,
+    "created_at": "2025-10-13T11:59:56.857417+00:00",
+    "updated_at": "2025-10-13T12:06:06.014901+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760357145,
+      "processing_end_time": 1760357166
+    }
+  },
+  "doc-062bb13233440998dd19c64c269aecc9": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-f103ba38342f8a3eba1d49618e8050ae",
+      "chunk-7cca77902e720237f2625609d815f2c3"
+    ],
+    "content_summary": "11.OSI参考模型 国际标准化组织 (ISO)提出的网络体系结构模型称为开放系统互连参考模型 (OSI/RM),简称OSI 参考模型。OSI 参考模型有7层，自下而上(第1~7层)依次为物理层、数据链路层、网络层、传输层、会话层、表示层、应用层。OSI 参 ( 1 ) 物理层 (Physical Layer) 物理层的传输单位是比特，功能是在物理介质上为数据端设备透明地传输原始 比特流。物理层主要研究以下内容 ： ①通信链路与通信节点的连接需要一些电路接口，物理层规定了这些接口的 一些参数，如...",
+    "content_length": 1970,
+    "created_at": "2025-10-13T11:59:56.857394+00:00",
+    "updated_at": "2025-10-13T12:07:04.370461+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760357166,
+      "processing_end_time": 1760357224
+    }
+  },
+  "doc-cfbef1aa24796f655483739dd955928a": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-a014445aa1210d843a66968682785e38",
+      "chunk-5fde518140986e7b651f1d5fcbdd5faf"
+    ],
+    "content_summary": "20.信道划分介质访问控制 信道划分介质访问控制将使用同一传输介质的多个设备的通信隔离开来，把时域和频域资源 合理地分配给这些设备。信道划分介质访问控制通过复用技术实现。所谓复用，是指在发送端把 多个发送方的信号组合在一条物理信道上进行传输，在接收端把收到的复用信号分离出来，并发 送给对应的接收方，如图3.16所示。当传输介质的带宽超过传输单个信号所需的带宽时，通过在 一条介质上传输多个信号，还能提高传输系统的利用率。 信道划分的实质是通过分时、分频、分码等方法，将原来的一个广播信道，逻辑上分为...",
+    "content_length": 1707,
+    "created_at": "2025-10-13T11:59:56.857494+00:00",
+    "updated_at": "2025-10-13T12:07:13.962170+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760357176,
+      "processing_end_time": 1760357233
+    }
+  },
+  "doc-2193c45a2f66d8a152ee088f9a81d561": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-2193c45a2f66d8a152ee088f9a81d561"
+    ],
+    "content_summary": "9.模拟数据调制为模拟信号 为了实现传输的有效性，可能需要较高的频率。这种调制方式还可使用频分复用 (FDM) 技 术，充分利用带宽资源。电话机和本地局交换机采用模拟信号传输模拟数据的编码方式。？",
+    "content_length": 98,
+    "created_at": "2025-10-13T11:59:56.857425+00:00",
+    "updated_at": "2025-10-13T12:07:23.523133+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760357224,
+      "processing_end_time": 1760357243
+    }
+  },
+  "doc-4c7203a984d35ac46171bd77288ec178": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-4c7203a984d35ac46171bd77288ec178"
+    ],
+    "content_summary": "13.IP 地址有以下重要特点： 1)每个IP 地址都由网络号和主机号两部分组成，因此IP地址是一种分等级的地址结构。分 等级的好处是：①IP地址管理机构在分配 IP 地址时只分配网络号，而主机号则由得到该 网络的单位自行分配，方便了 IP 地址的管理；②路由器仅根据目的主机所连接的网络号 来转发分组(而不考虑目标主机号),从而减小了路由表所占的存储空间。 2)IP 地址是标志一台主机(或路由器)和一条链路的接口。当一台主机同时连接到两个网 络时，该主机就必须同时具有两个相应的IP 地址，其网络...",
+    "content_length": 511,
+    "created_at": "2025-10-13T11:59:56.857594+00:00",
+    "updated_at": "2025-10-13T12:07:44.253008+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760357234,
+      "processing_end_time": 1760357264
+    }
+  },
+  "doc-ef8a9f4c0c5c999299e0206e5631634d": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-ef8a9f4c0c5c999299e0206e5631634d"
+    ],
+    "content_summary": "路由器的组成与功能 路由器是一种具有多个输入/输出端口的专用计算机，其任务是连接不同的网络(连接异构网 络)并完成分组转发。在多个逻辑网络(多个广播域)互连时必须使用路由器。 当源主机向目标主机发送数据报时，路由器先检查源主机与目标主机是否连接在同一个网络 上。若源主机和目标主机在同一个网络上，则直接交付而无须通过路由器。若源主机和目标主机 不在同一个网络上，则路由器按照转发表(由路由表得出)指出的路由将分组转发给下一个路由 器，这称为间接交付。可见，在同一个网络中传递数据无须路由器的参与，而跨...",
+    "content_length": 837,
+    "created_at": "2025-10-13T11:59:56.857675+00:00",
+    "updated_at": "2025-10-13T12:08:12.119972+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760357243,
+      "processing_end_time": 1760357292
+    }
+  },
+  "doc-38ae3431155a02f16cd5bc37c2fc48e5": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-38ae3431155a02f16cd5bc37c2fc48e5"
+    ],
+    "content_summary": "38.边际网关协议（BGP） 边界网关协议 (Border Gateway Protocol,BGP) 是不同自治系统的路由器之间交换路由信息 的协议，是一种外部网关协议。BGP 常用于互联网的网关之间。而 RIP 和 OSPF 都只能在一个 AS 内工作，若没有BGP, 则全世界数以万计的AS 都是一个个没有联系的孤岛。 内部网关协议主要是设法使分组在一个 AS 中尽可能有效地从源站传送到目的站。在一个AS 内部也不需要考虑其他方面的策略。然而BGP 使用的环境却不同，主要原因如下： 1)互联...",
+    "content_length": 647,
+    "created_at": "2025-10-13T11:59:56.857662+00:00",
+    "updated_at": "2025-10-13T12:08:10.058373+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760357264,
+      "processing_end_time": 1760357290
+    }
+  },
+  "doc-d26e454e0cafa7054b8b83a7872f944d": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-d26e454e0cafa7054b8b83a7872f944d"
+    ],
+    "content_summary": "端口的作用 端口能让应用层的各种进程将其数据通过端口向下交付给传输层，以及让传输层知道应当将 其报文段中的数据向上通过端口交付给应用层相应的进程。端口在传输层的作用类似于IP 地址在 网络层的作用，只不过IP 地址标识的是主机，而端口标识的是主机中的应用进程。 数据链路层的服务访问点为帧的“类型”字段，网络层的服务访问点为IP 数据报的“协议” 字段，传输层的服务访问点为“端口号”字段 ，应用层的服务访问点为“用户界面”。 在协议栈层间的抽象的协议端口是软件端口，它与路由器或交换机上的硬件端口是...",
+    "content_length": 324,
+    "created_at": "2025-10-13T11:59:56.857681+00:00",
+    "updated_at": "2025-10-13T12:08:26.518345+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760357290,
+      "processing_end_time": 1760357306
+    }
+  },
+  "doc-7e83948c6bd846ef184f0946894f3d3d": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-7e83948c6bd846ef184f0946894f3d3d"
+    ],
+    "content_summary": "POP协议和IMAP协议 邮局协议 (Post Office Protocol,POP) 是一个非常简单但功能有限的邮件读取协议，现在使 用的版本是POP3 。POP 也采用客户/服务器模式，在传输层使用TCP, 端口号为110。 接收方的用户代理必须运行 POP 客户程序，而接收方的邮件服务器中则运行POP 服务器程 序。POP 有两种工作方式：“下载并保留”和“下载并删除”。在“下载并保留”方式下，用户从 邮件服务器上读取邮件后，邮件依然会保存在邮件服务器上，用户可再次从服务器上读取该邮件；...",
+    "content_length": 640,
+    "created_at": "2025-10-13T11:59:56.857813+00:00",
+    "updated_at": "2025-10-13T12:08:37.243974+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760357292,
+      "processing_end_time": 1760357317
+    }
+  },
+  "doc-fe29004a486eaaf37b6bdca0ac55e4a0": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-fe29004a486eaaf37b6bdca0ac55e4a0"
+    ],
+    "content_summary": "万维网WWW的概念 万维网 (World Wide Web,WWW) 是一个分布式、联机式的信息存储空间，在这个空间中一样有用的事物称为一样资源，并由一个全域统一资源定位符 (URL) 标识。这些资源通过超文 本传输协议 ( HTTP) 传送给使用者，而后者通过单击链接来获取资源。 万维网使用链接的方法能非常方便地从因特网上的一个站点访问另一个站点，从而主动地按 需获取丰富的信息。超文本标记语言使得万维网页面的设计者很方便地用一个超链接从本页面的某处链接到因特网上的任何一个页面，并能在自己的计算...",
+    "content_length": 261,
+    "created_at": "2025-10-13T11:59:56.857816+00:00",
+    "updated_at": "2025-10-13T12:08:46.673594+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760357306,
+      "processing_end_time": 1760357326
+    }
+  },
+  "doc-666a4563032265befd1f7a3d948c8021": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-666a4563032265befd1f7a3d948c8021"
+    ],
+    "content_summary": "4.报文交换 数据交换的单位是报文，用户数据加上源地址、目的地址等信息后，后封装成报 文(Message)。 报文交换采用存储转发技术，整个报文先传送到相邻的节点，全部存储后查找转发表，转发到下 一个节点，如此重复，直至到达目的节点。每个报文都可单独选择到达目的端的路径。 报文交换技术的优点： 1)无建立连接时延。通信前无须建立连接，没有建立连接时延，用户可随时发送报文。 2)灵活分配线路。交换节点存储整个报文后，选择 一条合适的空闲线路，转发报文。若某 条传输路径发生故障，则可重新选择另一条路...",
+    "content_length": 453,
+    "created_at": "2025-10-13T11:59:56.857375+00:00",
+    "updated_at": "2025-10-13T12:08:59.195427+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760357317,
+      "processing_end_time": 1760357339
+    }
+  },
+  "doc-a16eed83e89a604b1c6a3566a3048bc8": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-a16eed83e89a604b1c6a3566a3048bc8"
+    ],
+    "content_summary": "11.IPv4地址 IP 地址是给连接到互联网上的每台主机(或路由器)的每个接口，分配的一个在全球范围内 唯一的32位标识符。IP 地址由互联网名字和数字分配机构ICANN 进行分配。为方便书写和记忆， 常把32位IP 地址分成4段，每段8位，用等效的十进制数表示，并在每段数字之间加一个小数点，即一个IP 地址用4段十进制数表示，称为点分十进制记法。 无论哪类IP 地址，都由网络号和主机号两部分组成。即IP 地址：:={<网络号>,<主机号>}。 其中网络号标志主机(或路由器)所连接到的网络。 ...",
+    "content_length": 342,
+    "created_at": "2025-10-13T11:59:56.857589+00:00",
+    "updated_at": "2025-10-13T12:09:12.657231+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760357326,
+      "processing_end_time": 1760357352
+    }
+  },
+  "doc-53459c650e6a12b5e3b714838b4cbf03": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-53459c650e6a12b5e3b714838b4cbf03"
+    ],
+    "content_summary": "5.分组交换 分组交换也采用存储转发技术，但解决了报文交换中报文过长的问题。若报文太长，则对交 换节点的缓存容量就有很大的需求，在错误处理方面也比较低效。源主机在发送之前，先把较长 的报文划分成若干较小的等长数据段，在每个数据段前面添加一些由必要控制信息(如源地址、 目的地址和编号信息等)组成的首部，构成分组 (Packet), 源主机将分组发送到分组交换网中，分组交换网中的分组交换机收到一个分组后，先将其缓 存，然后从其首部中提取目的地址，据此查找自己的转发表，再后将分组转发给下一个分组交换 ...",
+    "content_length": 748,
+    "created_at": "2025-10-13T11:59:56.857378+00:00",
+    "updated_at": "2025-10-13T12:09:33.279722+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760357339,
+      "processing_end_time": 1760357373
+    }
+  },
+  "doc-e645b2b9f70b19b6c5dfa6825f63a4a1": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-e645b2b9f70b19b6c5dfa6825f63a4a1"
+    ],
+    "content_summary": "超文本传输协议HTTP的执行过程 超文本传输协议 (HTTP) 定义了浏览器(万维网客户进程)怎样向万维网服务器请求万维 网文档，以及服务器怎样把文档传送给浏览器。从层次的角度看，HTTP是面向事务 (Transaction-oriented) 的应用层协议，它规定了在浏览器和服务器之间的请求和响应的格式与规则，是万维网上能够可靠地交换文件(包括文本、声音、图像等各种多媒体文件)的重要基础。 从协议执行过程来说，浏览器要访问 WWW 服务器时，首先要完成对 WwW 服务器的域名 解析。一旦获得了...",
+    "content_length": 460,
+    "created_at": "2025-10-13T11:59:56.857821+00:00",
+    "updated_at": "2025-10-13T12:09:41.372774+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760357352,
+      "processing_end_time": 1760357381
+    }
+  },
+  "doc-806b33bc8df5a5e63aed8f0efea8d788": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-806b33bc8df5a5e63aed8f0efea8d788"
+    ],
+    "content_summary": "域名解析过程 域名解析是指把域名转化为IP 地址的过程。当客户端需要域名解析时，通过本机的DNS 客 户端构造一个DNS 请求报文，以UDP 数据报方式发往本地域名服务器。 域名解析有两种方式：递归查询和迭代查询。",
+    "content_length": 107,
+    "created_at": "2025-10-13T11:59:56.857792+00:00",
+    "updated_at": "2025-10-13T12:09:45.459901+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760357373,
+      "processing_end_time": 1760357385
+    }
+  },
+  "doc-fffe15e88f2df301f1faa7096f4391b0": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-fffe15e88f2df301f1faa7096f4391b0"
+    ],
+    "content_summary": "9.IPv4分组的格式 一个 IP 分组(或称IP 数据报)由首部和数据部分组成。首部前一部分的长度固定，共20B, 是所有IP 分组必须具有的。在首部固定部分的后面是一些可选字段，其长度可变，用来提供错误检测及安全等机制。 IPv4 首部的部分重要字段含义如下： 1)版本。占4位。指IP的版本，IPv4 数据报中该字段的值是4。 2)首部长度。占4位。以4B 为单位，最大可表示的首部长度为60B(15×4B)。最常用的首部长度是20B(5×4B), 该字段的值是5,此时不使用任何可选字段。 3...",
+    "content_length": 1080,
+    "created_at": "2025-10-13T11:59:56.857582+00:00",
+    "updated_at": "2025-10-13T12:10:18.601702+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760357381,
+      "processing_end_time": 1760357418
+    }
+  },
+  "doc-39bab698a0c52ee767bbb6ac6cf9fbdd": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-39bab698a0c52ee767bbb6ac6cf9fbdd"
+    ],
+    "content_summary": "10.IP数据报分片 一个链路层数据帧能承载的最大数据量称为最大传送单元(MTU) 。因 为IP 数据报被封装在 链路层的帧中，因此链路层的 MTU 严格地限制了IP 数据报的长度，而且在 IP 数据报的源与目 的地路径上的各段链路可能使用不同的链路层协议，有不同的 MTU 。 例如，以太网的 MTU 为1500B, 而许多广域网的MTU不超过576B 。当 IP数据报的总长度大于链路MTU 时，就需要将 IP 数据报中的数据分装在多个较小的IP数据报中，这些较小的数据报称为片。 命题追踪 分片...",
+    "content_length": 908,
+    "created_at": "2025-10-13T11:59:56.857586+00:00",
+    "updated_at": "2025-10-13T12:10:22.518048+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760357385,
+      "processing_end_time": 1760357422
+    }
+  },
+  "doc-43c572bd02bd404b10bd153d88d8fbb9": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-43c572bd02bd404b10bd153d88d8fbb9"
+    ],
+    "content_summary": "14.网络地址转换 (NAT) 网络地址转换 (Network Address Translation,NAT) 是指通过将专用网络地址(如Intranet) 转换为公用地址(如Intermet), 从而对外隐藏内部管理的IP 地址。它使得整个专用网只需要一个 全球 IP 地址就可与互联网连通，因为专用网本地IP 地址是可重用的，所以NAT 大大节省了 IP 地址的消耗。同时，它隐藏了内部网络结构，从而降低了内部网络受到攻击的风险。 此外，为了网络安全，划出了三个私有 IP 地址块。私有IP 地...",
+    "content_length": 843,
+    "created_at": "2025-10-13T11:59:56.857597+00:00",
+    "updated_at": "2025-10-13T12:10:47.974181+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760357418,
+      "processing_end_time": 1760357447
+    }
+  },
+  "doc-0a3e9fdd2bae4c043ac4479deaf96aaf": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-0a3e9fdd2bae4c043ac4479deaf96aaf"
+    ],
+    "content_summary": "6.SDN 的基本概念 网络层的主要任务是转发和路由选择。可以将网络层抽象地划分为数据平面(也称转发层面) 和控制平面，转发是数据平面实现的功能，而路由选择是控制平面实现的功能。 软件定义网络(Software Defined Network,SDN) 是近年流行的一种创新网络架构，它采用 集中式的控制平面和分布式的数据平面，两个平面相互分离，控制平面利用控制-数据接口对数 据平面上的路由器进行集中式控制，方便软件来控制网络。传统网络中的路由器既有转发表，又 有路由选择软件，即既有数据平面，又有...",
+    "content_length": 1084,
+    "created_at": "2025-10-13T11:59:56.857575+00:00",
+    "updated_at": "2025-10-13T12:10:59.837465+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760357422,
+      "processing_end_time": 1760357459
+    }
+  },
+  "doc-4e9b5aafd28be7a43063b73b9136ed62": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-4e9b5aafd28be7a43063b73b9136ed62"
+    ],
+    "content_summary": "13.流量控制与滑动窗口机制 流量控制是指由接收方控制发送方的发送速率，使接收方有足够的缓冲空间来接收每个帧。 常见的流量控制方法有两种：停止-等待协议和滑动窗口协议。数据链路层和传输层均有流量控 制的功能，它们都用到了滑动窗口协议，但也有所区别，主要体现如下： 1)数据链路层控制的是相邻节点之间的流量，而传输层控制的是端到端的流量。 2)数据链路层的控制手段是接收方收不下时就不返回确认。传输层的控制手段是接收方通 过确认报文段中的窗口值来调整发送方的发送窗口。",
+    "content_length": 233,
+    "created_at": "2025-10-13T11:59:56.857475+00:00",
+    "updated_at": "2025-10-13T12:11:13.138266+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760357448,
+      "processing_end_time": 1760357473
+    }
+  },
+  "doc-817204852828c5f6838e063ca6b23668": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-817204852828c5f6838e063ca6b23668"
+    ],
+    "content_summary": "23.CSMA 协议 ALOHA 网络发生冲突的概率很大。若每个站点在发送前都先监听公用信道，发现信道空闲 后再发送，则会大大降低冲突的可能性，从而提高信道的利用率，载波监听多路访问(Carrier Sense Multiple Access,CSMA) 协议依据的正是这一思想。CSMA 协议是在ALOHA 协议基础上提出的 一种改进协议，它与 ALOHA 协议的主要区别是多了一个载波监听装置。 根据监听方式和监听到信道忙后的处理方式的不同，CSMA 协议分为三种。 (1)1- 坚持CSMA 1...",
+    "content_length": 842,
+    "created_at": "2025-10-13T11:59:56.857509+00:00",
+    "updated_at": "2025-10-13T12:11:20.859553+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760357459,
+      "processing_end_time": 1760357480
+    }
+  },
+  "doc-cc04a362d157fd61bc7e5b5f37baffd0": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-cc04a362d157fd61bc7e5b5f37baffd0"
+    ],
+    "content_summary": "14.物理层接口的特性 物理层考虑的是如何在连接各种计算机的传输介质上传输比特流，而不指具体的传输介 质。网络中的硬件设备和传输介质的种类繁多，通信方式也各不相同。物理层应尽可能屏蔽 这些差异，让数据链路层感觉不到这些差异，使其只需考虑如何实现本层的协议和服务。 物理层的主要任务是确定与传输介质的接口有关的一些特性： 1)机械特性。 指明接口所用接线器的形状和尺寸、引脚数量和排列、固定和锁定装置等。 2)电气特性。 指明在接口电缆的各条线上的电压范围、传输速率和距离限制等。 3)功能特性。 指明...",
+    "content_length": 318,
+    "created_at": "2025-10-13T11:59:56.857437+00:00",
+    "updated_at": "2025-10-13T12:11:36.976132+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760357473,
+      "processing_end_time": 1760357496
+    }
+  },
+  "doc-59f3d7caae3d5c45d5c5a623b9526d26": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-59f3d7caae3d5c45d5c5a623b9526d26"
+    ],
+    "content_summary": "层次域名空间 因特网采用层次树状结构的命名方法。采用这种命名方法，任何一个连接到因特网的主机或 路由器，都有一个唯一的层次结构名称，即域名 (Domain Name)。域 (Domain) 是名字空间中一个可被管理的划分。域可以划分为子域，而子域还可以继续划分为子域的子域，这样就形成了 顶级域、二级域、三级域等。每个域名都由标号序列组成，而各标号之间用点(“.”)隔开。 关于域名中的标号有以下几点需要注意： 1)标号中的英文不区分大小写。 2)标号中除连字符(-)外不能使用其他的标点符号。 3)...",
+    "content_length": 727,
+    "created_at": "2025-10-13T11:59:56.857786+00:00",
+    "updated_at": "2025-10-13T12:11:48.403486+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760357480,
+      "processing_end_time": 1760357508
+    }
+  },
+  "doc-ece7afbed8b24a2e1404a2bc3714f1b1": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-ece7afbed8b24a2e1404a2bc3714f1b1"
+    ],
+    "content_summary": "37.IEEE 802.11无线局域网 1. 无线局域网的组成 无线局域网可分为两大类：有固定基础设施的无线局域网和无固定基础设施的移动自组织网 络。所谓 “固定基础设施”,是指预先建立的、能覆盖一定地理范围的固定基站。 (1)有固定基础设施无线局域网 对于有固定基础设施的无线局域网，IEEE 制定了无线局域网的802.11系列协议标准，包括 802.1la/b/g/n 等。802.11 标准使用星形拓扑，其中心称为接入点 (Access Point,AP), 在 MAC 层使用CSMA/CA ...",
+    "content_length": 746,
+    "created_at": "2025-10-13T11:59:56.857547+00:00",
+    "updated_at": "2025-10-13T12:12:24.973074+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760357497,
+      "processing_end_time": 1760357544
+    }
+  },
+  "doc-5f44fedcabe9f4f1dd232c71545e3bb2": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-5f44fedcabe9f4f1dd232c71545e3bb2"
+    ],
+    "content_summary": "3.计算机网络的功能 计算机网络的功能很多，现今的很多应用都与网络有关。主要有以下五大功能。 1. 数据通信 数据通信是计算机网络最基本和最重要的功能，用来实现联网计算机之间各种信息的传输。 例如，文件传输、电子邮件等应用，离开了计算机网络就无法实现。 2. 资源共享 资源共享既可是软件共享、数据共享，又可是硬件共享。它使计算机网络中的资源互通有无、 分工协作，从而极大地提高了硬件资源、软件资源和数据资源的利用率。 3. 分布式处理 当计算机网络中的某个计算机系统负荷过重时，可将其处理的某个复杂...",
+    "content_length": 435,
+    "created_at": "2025-10-13T11:59:56.857369+00:00",
+    "updated_at": "2025-10-13T12:12:35.209543+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760357508,
+      "processing_end_time": 1760357555
+    }
+  },
+  "doc-fbdebdfd7c256f8f71cf9ad7e0cef3cf": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-fbdebdfd7c256f8f71cf9ad7e0cef3cf"
+    ],
+    "content_summary": "TCP的确认机制 TCP 首部的确认号是期望收到对方的下一个报文段的数据的第一个字节的序号。在图5.8中， 若接收方B 已收到第一个报文段的数据，此时B 希望收到的下一个报文段的数据是从第3个字节 开始的，则B 发送给A 的报文段中的确认号字段应为3。发送方缓存区会继续存储那些已发送但 未收到确认的报文段，以便在需要时重传。 TCP 默认使用累积确认，即 TCP 只确认数据流中至第一个丢失字节为止的字节，这样可以 减小传输开销。接收方可在合适的时候发送确认，也可在自己有数据要发送时将确认信息顺便...",
+    "content_length": 373,
+    "created_at": "2025-10-13T11:59:56.857757+00:00",
+    "updated_at": "2025-10-13T12:12:49.869082+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760357545,
+      "processing_end_time": 1760357569
+    }
+  },
+  "doc-59b0cf1eb727058c846603b0f2b7811b": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-59b0cf1eb727058c846603b0f2b7811b"
+    ],
+    "content_summary": "23.动态主机配置协议 DHCP 动态主机配置协议 (Dynamic Host Configuration Protocol,DHCP) 常用于给主机动态地分配 IP 地址，它提供了即插即用的联网机制，这种机制允许一台计算机加入新的网络和自动获取 IP 地址而不用手工参与。DHCP是应用层协议，它是基于 UDP 的。 DHCP 使用客户/服务器模型。其工作原理：需要IP 地址的主机在启动时就向DHCP 服务器 广播发送发现报文，这时该主机就成为DHCP 客户。本地网络上的所有主机都能收到这个广播...",
+    "content_length": 1128,
+    "created_at": "2025-10-13T11:59:56.857624+00:00",
+    "updated_at": "2025-10-13T12:13:01.715585+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760357555,
+      "processing_end_time": 1760357581
+    }
+  },
+  "doc-8fef7be4e67739093a4cec71feb9f0e9": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-8fef7be4e67739093a4cec71feb9f0e9"
+    ],
+    "content_summary": "万维网在传输层所使用的协议 万维网的内核部分是由三个标准构成的： 1)统一资源定位符 (U RL) 。负责标识万维网上的各种文档，并使每个文档在整个万维网的 范围内具有唯一的标识符URL。 2)超文本传输协议 (HTT P) 。一个应用层协议，它使用 TCP 连接进行可靠的传输，HTTP 是万维网客户程序和服务器程序之间交互所必须严格遵守的协议。 3)超文本标记语言 (HTM L) 。一种文档结构的标记语言，它使用一些约定的标记对页面上 的各种信息(包括文字、声音、图像、视频等)、格式进行描述。...",
+    "content_length": 702,
+    "created_at": "2025-10-13T11:59:56.857818+00:00",
+    "updated_at": "2025-10-13T12:13:26.671793+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760357569,
+      "processing_end_time": 1760357606
+    }
+  },
+  "doc-611e7621716a5345608712ffe1e2097d": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-611e7621716a5345608712ffe1e2097d"
+    ],
+    "content_summary": "6.计算机网络的分类 1. 按分布范围分类 1)广域网 (WAN) 。 广域网的任务是提供长距离通信，运送主机所发送的数据，其覆盖范 围通常是直径为几十米到几千千米的区域。广域网是互联网的核心部分。连接广域网的 各节点交换机的链路一般都是高速链路，具有较大的通信容量。 2)城域网 (MA N) 。 城域网的覆盖范围可以跨越几个街区甚至整个城市，覆盖区域的直径 为5～50km。城域网大多采用以太网技术，因此有时也常并入局域网的范围讨论。 3)局域网(LA N) 。局域网一般用主机通过高速线路相连，...",
+    "content_length": 1332,
+    "created_at": "2025-10-13T11:59:56.857381+00:00",
+    "updated_at": "2025-10-13T12:14:58.562910+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760357581,
+      "processing_end_time": 1760357698
+    }
+  },
+  "doc-65be256e3317faf5641a3e4f4b015c9b": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-65be256e3317faf5641a3e4f4b015c9b"
+    ],
+    "content_summary": "3.速率、波特与带宽 速率是指数据传输速率，表示单位时间内传输的数据量，常有两种描述形式。 1)码元传输速率。又称波特率或调制速率，表示数字通信系统每秒传输的码元数，单位是波特 (Baud)。码元既可以是多进制的，也可以是二进制的，码元速率与进制无关。 2)信息传输速率。又称比特率，表示数字通信系统每秒传输的比特数，单位是比特/秒(b/s)。 波特和比特是两个不同的概念，但波特率与比特率在数量上又有一定的关系。若一个码元携带n 比 特的信息量，则波特率M Baud对应的比特率为Mn b/s。 在...",
+    "content_length": 378,
+    "created_at": "2025-10-13T11:59:56.857409+00:00",
+    "updated_at": "2025-10-13T12:14:10.289001+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760357606,
+      "processing_end_time": 1760357650
+    }
+  },
+  "doc-beb6fdcac65d2c86cf000de99dc83381": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-beb6fdcac65d2c86cf000de99dc83381"
+    ],
+    "content_summary": "12.TCP/IP模型 TCP/IP模型从低到高依次为网络接口层(对应 OSI 参考模型的物理层和数据链路层)、网际层、传输层和应用层(对应OSI 参考模型的会话层、表示层和应用层)。 TCP/IP 因为得到广泛 应用而成为事实上的国际标准。 网络接口层的功能类似于OSI 参考模型的物理层和数据链路层，其作用是从主机或节点接收IP分组，并将它们发送到指定的物理网络上。但TCP/IP并未具体描述网络接口层的功能和协议，只是指出主机必须使用某种协议与网络连接，以便在其上传送IP 分组。具体的物理网络...",
+    "content_length": 937,
+    "created_at": "2025-10-13T11:59:56.857396+00:00",
+    "updated_at": "2025-10-13T12:15:03.053097+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760357650,
+      "processing_end_time": 1760357703
+    }
+  },
+  "doc-ce1302477ab1c31403bdbb6a92d5ecee": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-ce1302477ab1c31403bdbb6a92d5ecee"
+    ],
+    "content_summary": "6.UDP 概述 UDP 仅在IP 层的数据报服务之上增加了复用、分用和差错检测的功能。若应用开发者选 择 UDP 而非 TCP, 则应用程序几乎直接与IP 打交道。为什么应用开发者宁愿在UDP 之上构 建应用，也不选择 TCP? 既然 TCP 提供可靠的服务，而UDP 不提供，则 TCP 总是首选吗?答案是否定的，因为有很多应用更适合用UDP, 主要因为UDP 具有如下优点： 1)UDP无须建立连接。因此 UDP 不会引入建立连接的时延。 2)无连接状态。 TCP 需要在端系统中维护连接状态。...",
+    "content_length": 999,
+    "created_at": "2025-10-13T11:59:56.857691+00:00",
+    "updated_at": "2025-10-13T12:15:40.270542+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760357698,
+      "processing_end_time": 1760357740
+    }
+  },
+  "doc-18bee586529138bada42c241645dd300": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-18bee586529138bada42c241645dd300"
+    ],
+    "content_summary": "IP多播地址 多播数据报的源地址是源主机的 IP 地址，目的地址是IP 多播地址。IP 多播地址就是 IPv4 中的D 类地址。D 类地址的前四位是1110,因此D 类地址范围是224.0.0.0~239.255.255.255。每 个D 类IP 地址标志一个多播组，一台主机可以随时加入或离开一个多播组。 多播数据报和一般的IP 数据报的区别是，前者使用D 类 IP 地址作为目的地址，并且首部中 的协议字段值是2,表明使用IGMP 。需要注意的是： 1)多播数据报也是“尽最大努力交付”,不提供可...",
+    "content_length": 943,
+    "created_at": "2025-10-13T11:59:56.857668+00:00",
+    "updated_at": "2025-10-13T12:15:44.886843+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760357703,
+      "processing_end_time": 1760357744
+    }
+  },
+  "doc-17b8c476eb789f091749311b17314b0f": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-17b8c476eb789f091749311b17314b0f"
+    ],
+    "content_summary": "30.距离-向量路由算法 距离-向量算法的基础是Bellman-Ford 算法，它用于计算单源最短路径。每个节点以自身为 源点执行Bellman-Ford 算法，所以全局上可以解决任意节点对之间的最短路径问题。 下面讨论Bellman-Ford 算法的基本思想。 假设d(v) 表示从节点x 到节点y 的带权最短路径的费用，则有 d(V)=min{c(x,v)+d,(v)}, v 是x 的所有邻居 式中 ，c(x,v) 是从x 到其邻居v的费用。已知x 的所有邻居到y 的最短路径费用后，从x 到y...",
+    "content_length": 332,
+    "created_at": "2025-10-13T11:59:56.857641+00:00",
+    "updated_at": "2025-10-13T12:16:08.548468+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760357740,
+      "processing_end_time": 1760357768
+    }
+  },
+  "doc-7d1a7ec32febe2dbc3e425bea4ac63ee": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-7d1a7ec32febe2dbc3e425bea4ac63ee"
+    ],
+    "content_summary": "28.CSMA/CA协议 CSMA/CD 协议已成功用于有线连接的局域网，但无线局域网不能简单地搬用CSMA/CD 协 议。无线局域网仍然使用CSMA, 但无法使用冲突检测，主要有两个原因： 1)适配器接收到的信号强度往往远小于发送信号的强度，且在无线介质上信号强度的动态 变化范围很大，因此若要实现冲突检测，则硬件上的花费会过大。 2)在无线通信中，并非所有站点都能够听见对方(但能产生冲突),即存在“隐蔽站”问题， 从而使得冲突检测机制并不能检测到所有的冲突。 为此，802.11标准定义了广泛用...",
+    "content_length": 462,
+    "created_at": "2025-10-13T11:59:56.857522+00:00",
+    "updated_at": "2025-10-13T12:16:02.904100+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760357744,
+      "processing_end_time": 1760357762
+    }
+  },
+  "doc-4c7c224b674691913a24d5b653c04f5a": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-4c7c224b674691913a24d5b653c04f5a"
+    ],
+    "content_summary": "高速以太网 (1)100BASE-T以太网 100BASE-T 是在双绞线上传送100Mb/s 基带信号的星形拓扑以太网，它仍然使用CSMA/CD 协议，也称快速以太网。100 BASE-T 既支持全双工方式，又支持半双工方式，可在全双工方式下 工作而无冲突发生，因此在全双工方式下不使用CSMA/CD 协议。 100BASE-T 的 MAC 帧格式仍然是802.3标准规定的帧格式。保持最短帧长不变，但将一个 网段的最大长度减小到100m。帧间最小间隔从原来的9.6μs 改为0.96 μs。 (2...",
+    "content_length": 634,
+    "created_at": "2025-10-13T11:59:56.857544+00:00",
+    "updated_at": "2025-10-13T12:17:14.877735+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760357763,
+      "processing_end_time": 1760357834
+    }
+  },
+  "doc-ed9d5c0a6f6d333f354f620c32460e29": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-ed9d5c0a6f6d333f354f620c32460e29"
+    ],
+    "content_summary": "计网掩码 子网掩码可用来指明分类IP 地址的主机号部分被借用了多少位作为子网号。 子网掩码是一个与IP 地址相对应的、长32位的二进制串，它由一串1和跟随的一串0组成。 其中，1对应于IP 地址中的网络号及子网号，而0对应于主机号。主机或路由器只需将 IP 地址 和其对应的子网掩码逐位“与” (AND 运算),就可得出相应子网的网络地址。",
+    "content_length": 170,
+    "created_at": "2025-10-13T11:59:56.857603+00:00",
+    "updated_at": "2025-10-13T12:16:27.774333+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760357768,
+      "processing_end_time": 1760357787
+    }
+  },
+  "doc-257fa84611db0e7c844fd5d11a1b6c73": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-257fa84611db0e7c844fd5d11a1b6c73"
+    ],
+    "content_summary": "29.静态路由与动态路由 路由器转发分组是通过路由表转发的，而路由表是通过各种算法得到的。从能否随网络的通 信量或拓扑自适应地进行调整变化来划分，路由算法可以分为如下两大类。 1)静态路由算法。指由网络管理员手工配置每一条路由。 2)动态路由算法。根据网络流量负载和拓扑结构的变化来动态调整自身的路由表。 静态路由算法的特点是简单和开销较小，但不能及时适应网络状态的变化，适用于简单的小 型网络。动态路由算法能较好地适应网络状态的变化，但实现复杂，开销也大，适用于较复杂的 大型网络。常用的动态路由算...",
+    "content_length": 276,
+    "created_at": "2025-10-13T11:59:56.857639+00:00",
+    "updated_at": "2025-10-13T12:16:49.715476+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760357787,
+      "processing_end_time": 1760357809
+    }
+  },
+  "doc-73ee2522bb31ab817b3e9046e8b38d04": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-73ee2522bb31ab817b3e9046e8b38d04"
+    ],
+    "content_summary": "客户/服务器模型 在客户/服务器(Client/Server,C/S) 模型中，有一个总是打开的主机称为服务器，它服务于 许多来自其他称为客户机的主机请求。其工作流程如下： 1)服务器处于接收请求的状态。 2)客户机发出服务请求，并等待接收结果。 3)服务器收到请求后，分析请求，进行必要的处理，得到结果并发送给客户机。 服务器上运行着专门用来提供某种服务的程序，可以同时处理多个远程或本地客户的请求。 客户程序必须知道服务器程序的地址。服务器启动后就一直不断地运行着，被动等待并接收来自 各地客户的...",
+    "content_length": 620,
+    "created_at": "2025-10-13T11:59:56.857778+00:00",
+    "updated_at": "2025-10-13T12:17:17.594265+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760357809,
+      "processing_end_time": 1760357837
+    }
+  },
+  "doc-6d9e7b22474c7ee3dae60acd2c204b3f": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-6d9e7b22474c7ee3dae60acd2c204b3f"
+    ],
+    "content_summary": "39.VLAN 基本概念与基本原理 一个以太网是一个广播域，当一个以太网中包含的计算机太多时，往往会导致： ●以太网中出现大量的广播帧，特别是经常使用的ARP 和DHCP (第4章)。 ●一个单位的不同部门共享一个局域网，对信息保密和安全不利。 通过虚拟局域网 (Virtual LAN,VLAN),可将一个较大的局域网分割成一些较小的与地理 位置无关的逻辑上的VLAN, 而 每 个 VLAN 是一个较小的广播域。属于同一个 VLAN 的计算机 之间可以直接通信，而不同VLAN 的计算机之间不能直...",
+    "content_length": 471,
+    "created_at": "2025-10-13T11:59:56.857549+00:00",
+    "updated_at": "2025-10-13T12:17:35.426802+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760357835,
+      "processing_end_time": 1760357855
+    }
+  },
+  "doc-6ed03433f41dbb5cb210556afbd6be4c": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-6ed03433f41dbb5cb210556afbd6be4c"
+    ],
+    "content_summary": "1. 数据、信号与码元 通信的目的是传输信息，如文字、图像和视频等。数据是指传送信息的实体。信号则是数据 的电气或电磁表现，是数据在传输过程中的存在形式。数据和信号都有模拟或数字之分：①模拟 数据(或模拟信号)的取值是连续的； ②数字数据(或数字信号)的取值是离散的。 在通信系统中，常用一个固定时长的信号波形表示一个k 进制数，这个时长内的信号称为码 元(可称k 进制码元),而该时长称为码元宽度(也称信号周期)。1码元可携带若干比特的信息 量。例如，在一个信号周期内可能出现2个信号，每个信号对应...",
+    "content_length": 303,
+    "created_at": "2025-10-13T11:59:56.857404+00:00",
+    "updated_at": "2025-10-13T12:17:43.818035+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760357837,
+      "processing_end_time": 1760357863
+    }
+  },
+  "doc-24840a1019bc106a9cab48990f50c813": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-24840a1019bc106a9cab48990f50c813"
+    ],
+    "content_summary": "7.模拟数据编码为数字信号 主要包括三个步骤，即采样、量化和编码，常用于对音频信号进行编码的PCM 编码。 1 ) 采样是指对模拟信号进行周期性扫描，将时间上连续的信号变成时间上离散的信号。根 据奈奎斯特定理，采样频率必须大于或等于模拟信号最大频率的两倍。 2 ) 量化是指将采样得到的电平幅值按照一定的分级标度转换为对应的数值并取整，这样就 将连续的电平幅值转换为了离散的数字量。采样和量化的实质就是分割和转换。 3 ) 编码是指将量化得到的离散整数转换为与之对应的二进制编码。？",
+    "content_length": 241,
+    "created_at": "2025-10-13T11:59:56.857420+00:00",
+    "updated_at": "2025-10-13T12:17:55.229044+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760357855,
+      "processing_end_time": 1760357875
+    }
+  },
+  "doc-dc0488130fc82fa8bedc4e058437b364": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-dc0488130fc82fa8bedc4e058437b364"
+    ],
+    "content_summary": "26.IPv6 地址 IPv6 数据报的目的地址有以下三种基本类型： 1)单播。就是传统的点对点通信。 2 )多播。一点对多点的通信，数据报发送到一组计算机中的每一台。 3)任播。这是IPv6增加的一种类型。任播的终点是一组计算机，但数据报只交付其中的一 台计算机，通常是距离最近的一台计算机。 IPv4地址通常使用点分十进制表示法。若IPv6也使用这种表示法，则地址书写起来将相当 长 。IPv6标准使用冒号十六进制记法，即把地址中的每4位用 一个十六进制数表示，并用冒号分隔每1 6位，如4BF5...",
+    "content_length": 995,
+    "created_at": "2025-10-13T11:59:56.857632+00:00",
+    "updated_at": "2025-10-13T12:18:38.635459+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760357863,
+      "processing_end_time": 1760357918
+    }
+  },
+  "doc-507284413ad80037617009093e1c30b0": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-507284413ad80037617009093e1c30b0"
+    ],
+    "content_summary": "14.滑动窗口流量控制基本原理 滑动窗口流量控制是一种更高效的流量控制方法。在任意时刻，发送方都维持一组连续的允 许发送帧的序号，称为发送窗口；同时接收方也维持一组连续的允许接收帧的序号，称为接收窗 口。发送窗口表示在还未收到对方确认信息的情况下，发送方最多还能发送多少个帧和哪些帧。 同理，在接收方设置接收窗口是为了控制可以接收哪些帧和不可以接收哪些帧。 发送方每收到一个按序确认的确认帧，就将发送窗口向前滑动一个位置。这样，就有一个新 的序号落入发送窗口，序号落入发送窗口内的数据帧可以继续发送。...",
+    "content_length": 739,
+    "created_at": "2025-10-13T11:59:56.857479+00:00",
+    "updated_at": "2025-10-13T12:18:35.084364+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760357875,
+      "processing_end_time": 1760357915
+    }
+  },
+  "doc-914af5fc1c2f1ce1d9cb8ac4afc2758e": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-914af5fc1c2f1ce1d9cb8ac4afc2758e"
+    ],
+    "content_summary": "16.单帧滑动窗口与停止-等待协议 ( S-W) 在停止-等待协议中，发送方每次只能发送一个帧，当发送方收到接收方的确认帧之后，才可 以发送下一个帧。从滑动窗口的角度看，停止-等待协议的发送窗口和接收窗口大小均为1。 在停止-等待协议中，可能出现两种差错：①数据帧出错或丢失，接收方检测到数据帧出了差 错，就简单地将该帧丢弃；若是数据帧在传输过程中丢失，接收方当然什么都不知道。为了应付这种可能的情况，发送方装备了计时器。在一个帧发送后，发送方等待确认，当计时器超时的时候， 若仍未收到确认，则重发该...",
+    "content_length": 719,
+    "created_at": "2025-10-13T11:59:56.857484+00:00",
+    "updated_at": "2025-10-13T12:19:48.949311+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760357915,
+      "processing_end_time": 1760357988
+    }
+  },
+  "doc-eacc7e9b7854960579f402d6ae85d7b3": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-eacc7e9b7854960579f402d6ae85d7b3"
+    ],
+    "content_summary": "路由信息协议 路由信息协议 (Routing Information Protocol,RIP)是内部网关协议IGP 中最先得到广泛应 用的协议。RIP 是一种分布式的基于距离向量的路由选择协议。 RIP有以下规定： 1)网络中的每个路由器都要维护从它自身到其他每个目的网络的距离记录，即距离向量。 2)RIP使用跳数 (Hop Count) (或称距离)来衡量到达目的网络的距离。规定从一路由器到直接连接的网络的距离定义为1;而每经过一个路由器，距离就加1。 3)RIP认为好的路由就是它通过的路由...",
+    "content_length": 798,
+    "created_at": "2025-10-13T11:59:56.857650+00:00",
+    "updated_at": "2025-10-13T12:19:13.778068+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760357918,
+      "processing_end_time": 1760357953
+    }
+  },
+  "doc-26eabdee6c53baf8193c1faec7b214b9": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-26eabdee6c53baf8193c1faec7b214b9"
+    ],
+    "content_summary": "2. 信源、信道与信宿 实际的通信系统大多数是双向的，可进行双向通信。数据通信系统主要划分为信源、信道和信宿三部分。信源是产生和发送数据的源头，信宿是接收数据的终点，它们通常都是计算机或其他数字终端装置。信道是信号的传输介质，一条双向通信的线路包含一个发送信道和一个接收信道。发送端信源发出的信息需要通过变换器转换成适合在 信道上传输的信号，而通过信道传输到接收端的信号首先由反变换器转换成原始信息，然后发送给信宿。噪声源是信道上的噪声及分散在通信系统其他各处的噪声的集中表示。 信道按传输信号形式的...",
+    "content_length": 704,
+    "created_at": "2025-10-13T11:59:56.857406+00:00",
+    "updated_at": "2025-10-13T12:19:55.594659+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760357954,
+      "processing_end_time": 1760357995
+    }
+  },
+  "doc-a51593b28a60440a340639663f24d23a": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-a51593b28a60440a340639663f24d23a"
+    ],
+    "content_summary": "32.局域网的基本概念和体系结构 局域网 (Local Area Network,LAN) 是指在一个较小的地理范围(如一所学校)内，将各种 计算机、外部设备和数据库系统等通过双绞线、同轴电缆等连接介质互相连接起来，组成资源和 信息共享的计算机互联网络。主要特点如下： 1)为一个单位所拥有，且地理范围和站点数量均有限。 2)所有站点共享较高的总带宽(较高的数据传输速率)。 3)较低的时延和较低的误码率。 4)各站为平等关系而非主从关系。 5)能进行广播和多播。 局域网的特性主要由三个要素决定：拓...",
+    "content_length": 928,
+    "created_at": "2025-10-13T11:59:56.857533+00:00",
+    "updated_at": "2025-10-13T12:21:11.443322+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760357989,
+      "processing_end_time": 1760358071
+    }
+  },
+  "doc-b3655c01fcb43160a48a157b051a0a43": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-b3655c01fcb43160a48a157b051a0a43"
+    ],
+    "content_summary": "8.计算机网络分层结构 计算机网络的各层及其协议的集合称为网络的体系结构(Architecture) 。换言之，计算机网络的体系结构就是这个计算机网络及其所应完成的功能的精确定义。需要强调的是，这些功能究竟是用何种硬件或软件完成的，是一个遵循这种体系结构的实现(Implementation)问题。体系结构是抽象的，而实现则是具体的，是真正在运行的计算机硬件和软件。计算机网络体系结构通常 都具有可分层的特性，它将复杂的大系统分成若干较容易实现的层次。 分层的基本原则如下： 1)每层都实现一种相对独...",
+    "content_length": 1119,
+    "created_at": "2025-10-13T11:59:56.857386+00:00",
+    "updated_at": "2025-10-13T12:21:17.537546+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760357995,
+      "processing_end_time": 1760358077
+    }
+  },
+  "doc-a7c13b58d3d9af6cebba7e581edd7e9f": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-a7c13b58d3d9af6cebba7e581edd7e9f"
+    ],
+    "content_summary": "26.二进制指数退避算法的应用 一旦发生冲突，参与冲突的两个站点紧接着再次发送就没有意义，若坚持这样做，则将导致无 休止的冲突。CSMA/CD采用截断二进制指数退避算法来确定冲突后重传的时机，它让发生冲突的 站点在停止发送后，推迟一个随机的时间再重新发送。算法精髓如下： 1)确定基本退避时间，一般取2倍的总线端到端的传播时延2t (争用期)。 2)从离散的整数集合[0,1, …,(2*-1]中随机取出一个数，记为r, 重传所需推迟的时间就是 r 倍的争用期，即2rt 。参数k=min [重传次数...",
+    "content_length": 677,
+    "created_at": "2025-10-13T11:59:56.857517+00:00",
+    "updated_at": "2025-10-13T12:21:55.595755+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760358071,
+      "processing_end_time": 1760358115
+    }
+  },
+  "doc-a55e7fcf00acc6d79c082f6e0508ffb7": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-a55e7fcf00acc6d79c082f6e0508ffb7"
+    ],
+    "content_summary": "TCP连接释放的4次挥手过程 第一步：客户机打算关闭连接时，向服务器发送连接释放报文段，并停止发送数据，主动关闭 TCP 连接，该报文段的FIN 位置1,序号seq=u, 它等于前面已传送的数据的最后一个字节的 序号加1,FIN 报文段即使不携带数据，也要消耗一个序号。这时，客户机进入FIN-WAIT-1 (终止等待1)状态。 TCP是全双工的，即可以想象为一条 TCP 连接上有两条数据通路，发送FIN的一端不能再发送数据，即关闭了其中一条数据通路，但对方还可以发送数据。 第二步：服务器收到连接...",
+    "content_length": 1252,
+    "created_at": "2025-10-13T11:59:56.857748+00:00",
+    "updated_at": "2025-10-13T12:21:59.049833+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760358077,
+      "processing_end_time": 1760358119
+    }
+  },
+  "doc-ebd9ee4b1439630cb47f3515878d35f1": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-ebd9ee4b1439630cb47f3515878d35f1"
+    ],
+    "content_summary": "41.点对点协议 点对点协议 (Point-to-Point Protocol,PPP) 是现在最流行的点对点链路控制协议。主要有两 种应用：①用户通常都要连接到某个ISP 才能接入互联网，PPP 就是用户计算机与ISP 通信时所 用的数据链路层协议；②两台网络设备之间的直连专用线路。 PPP 有三个组成部分： 1 ) 一个链路控制协议(L CP) 。用来建立、配置、测试数据链路连接，以及协商一些选项。 2)一套网络控制协议 (NCP) 。PPP允许采用多种网络层协议，每个不同的网络层协议要用 ...",
+    "content_length": 352,
+    "created_at": "2025-10-13T11:59:56.857554+00:00",
+    "updated_at": "2025-10-13T12:22:27.956342+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760358115,
+      "processing_end_time": 1760358147
+    }
+  },
+  "doc-16611ea90359b0db5f907596208e8099": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-16611ea90359b0db5f907596208e8099"
+    ],
+    "content_summary": "7.字符计数法 字符计数法是指在帧首部使用一个计数字段来记录该帧所含的字节数(包括计数字段自身所 占用的1字节),如图3.5所示。当接收方读出帧首部的字节计数值时，就知道后面跟随的字节数， 从而确定帧结束位置。因为帧与帧之间是连续传输的，所以也能确定下一帧的开始位置。 这种方法最大的问题在于若计数字段出错，即失去帧边界划分的依据，则接收方就无法判断 所传输帧的结束位和下一帧的开始位，收发双方将失去同步，造成灾难性后果。",
+    "content_length": 211,
+    "created_at": "2025-10-13T11:59:56.857459+00:00",
+    "updated_at": "2025-10-13T12:22:33.714376+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760358119,
+      "processing_end_time": 1760358153
+    }
+  },
+  "doc-cacf32feb754cc65ca6e8bf0a63ce973": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-cacf32feb754cc65ca6e8bf0a63ce973"
+    ],
+    "content_summary": "27.CSMA/CD 协议的归纳如下： ① 准备发送：适配器从网络层获得一个分组，封装成帧，放入适配器的缓存。 ② 检测信道：若信道忙，则持续检测，直至信道转为空闲；若在9.6μs的时间内信道保持空 闲(保证帧间最小间隔),则发送这个帧。 ③ 在发送过程中，适配器仍然持续检测信道。这里只有如下两种可能。 ●发送成功：在争用期内一直未检测到冲突，该帧肯定能发送成功。 ●发送失败：在争用期内检测到冲突，此时立即停止发送，适配器执行退避算法，等待 一段随机时间后返回步骤②。若重传16次仍不能成功，则停...",
+    "content_length": 259,
+    "created_at": "2025-10-13T11:59:56.857519+00:00",
+    "updated_at": "2025-10-13T12:22:56.410444+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760358148,
+      "processing_end_time": 1760358176
+    }
+  },
+  "doc-7068ff9c46e28ac2428df295a20059c8": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-7068ff9c46e28ac2428df295a20059c8"
+    ],
+    "content_summary": "21.随机访问介质访问控制 在随机访问协议中，不采用集中控制方式解决发送信息的次序问题，所有用户都能根据自己 的意愿随机地发送信息，占用信道的全部速率。在总线形网络中，当有两个或多个用户同时发送 信息时，就会产生帧冲突(也称碰撞),导致所有冲突用户的发送均以失败告终。为了解决随机 访问发生的冲突，每个用户需要按照一定的规则反复地重传它的帧，直到该帧无冲突地通过，这 些规则就是随机访问介质访问控制协议，其核心思想是：胜利者通过争用获得信道，进而获得信 息的发送权。因此，随机访问介质访问控制协议也称...",
+    "content_length": 373,
+    "created_at": "2025-10-13T11:59:56.857502+00:00",
+    "updated_at": "2025-10-13T12:22:57.570245+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760358153,
+      "processing_end_time": 1760358177
+    }
+  },
+  "doc-c5250602c5f116bcec924ef7f984c4a6": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-c5250602c5f116bcec924ef7f984c4a6"
+    ],
+    "content_summary": "TCP的序号机制 TCP 首部的序号字段用来保证数据能有序提交给应用层，TCP 把数据视为一个无结构但有序 的字节流，序号建立在传送的字节流之上，而不建立在报文段之上。 TCP 连接传送的数据流中的每个字节都编上一个序号。序号字段的值是指本报文段所发送的 数据的第一个字节的序号。如图5.8所示，假设A 和 B 之间建立了一条 TCP 连接，A 的发送缓存 区中共有10B, 序号从0开始标号，第一个报文段包含第0~2个字节，则该TCP 报文段的序号 是0,第二个报文段的序号是3。",
+    "content_length": 241,
+    "created_at": "2025-10-13T11:59:56.857753+00:00",
+    "updated_at": "2025-10-13T12:23:24.692204+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760358176,
+      "processing_end_time": 1760358204
+    }
+  },
+  "doc-0c897e520399735a3b7f817b63379819": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-0c897e520399735a3b7f817b63379819"
+    ],
+    "content_summary": "拥塞避免算法 拥塞避免算法的思路是让拥塞窗口cwnd 缓慢增大，具体做法是：每经过一个往返时延RTT 就 把发送方的拥塞窗口cwnd 加1,而不是加倍，使拥塞窗口cwnd 按线性规律缓慢增长(加法增大), 这比慢开始算法的拥塞窗口增长速率要缓慢得多。 根据cwnd 的大小执行不同的算法，可归纳如下： ● 当cwnd<ssthresh时，使用慢开始算法。 ● 当cwnd>ssthresh时，停止使用慢开始算法而改用拥塞避免算法。 ● 当cwnd=ssthresh时，既可使用慢开始算法，又可使用拥塞...",
+    "content_length": 261,
+    "created_at": "2025-10-13T11:59:56.857770+00:00",
+    "updated_at": "2025-10-13T12:23:18.419709+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760358177,
+      "processing_end_time": 1760358198
+    }
+  },
+  "doc-504e047ae6286b8ede0a563df9266e33": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-504e047ae6286b8ede0a563df9266e33"
+    ],
+    "content_summary": "10.计算机网络提供的服务可按以下三种方式分类。 (1)面向连接服务与无连接服务 在面向连接服务中，通信前双方必须先建立连接，分配相应的资源(如缓冲区),以保证通 信能正常进行，传输结束后释放连接和占用的资源。因此这种服务可分为连接建立、数据传输和 连接释放三个阶段。例如，TCP 就是一种面向连接服务的协议。 在无连接服务中，通信前双方不需要先建立连接，需要发送数据时可直接发送，将每个带有 目的地址的包(报文分组)传送到线路上，由系统选定路线进行传输。这种服务常被描述为“尽 最大努力交付”,是一...",
+    "content_length": 699,
+    "created_at": "2025-10-13T11:59:56.857391+00:00",
+    "updated_at": "2025-10-13T12:24:09.948629+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760358198,
+      "processing_end_time": 1760358249
+    }
+  },
+  "doc-073b68b4ea963beaa9f597d711fee66a": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-073b68b4ea963beaa9f597d711fee66a"
+    ],
+    "content_summary": "集线器与交换机的区别 假设交换机已通过自学习算法逐步建立了完整的转发表，下面举例说明使用集线器的共享式 以 太 网与全部使用交换机的交换式以太网的区别。 1)主机发送普通帧。对于共享式以太网，集线器将帧转发到其他所有接口，其他各主机中 的网卡根据帧的目的MAC 地址决定接收或丢弃该帧。对于交换式以太网，交换机收到帧 后，根据帧的目的MAC 地址和自身的交换表将帧明确地转发给目的主机。 2)主机发送广播帧。对于共享式以太网，集线器将帧转发到其他所有接口，其他各主机中 的网卡检测到帧的目的MAC 地...",
+    "content_length": 465,
+    "created_at": "2025-10-13T11:59:56.857559+00:00",
+    "updated_at": "2025-10-13T12:24:05.286835+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760358204,
+      "processing_end_time": 1760358245
+    }
+  },
+  "doc-28835eb23baf249b73744d20b2c845ed": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-28835eb23baf249b73744d20b2c845ed"
+    ],
+    "content_summary": "5.数据报 网络在发送分组前不需要先建立连接。源主机的高层协议将报文拆成若干较小的数据段，并 加上地址等控制信息后构成分组。中间节点存储分组很短一段时间，找到最佳的路由后，尽快转 发每个分组。网络层不提供服务质量的承诺。因为网络不提供端到端的可靠传输服务，所以这就 使得网络中的路由器比较简单，且造价低廉(与电话网络相比)。 下面用图4.3中的例子来说明数据报服务的原理。假定主机A向主机B 发送分组。 1 ) 主机A 先将分组逐个发往与它直接相连的交换节点A, 交换节点A 缓存收到的分组。 然后查...",
+    "content_length": 772,
+    "created_at": "2025-10-13T11:59:56.857573+00:00",
+    "updated_at": "2025-10-13T12:24:58.340939+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760358245,
+      "processing_end_time": 1760358298
+    }
+  },
+  "doc-732f8feba2a95c10610f0aae1e03b703": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-732f8feba2a95c10610f0aae1e03b703"
+    ],
+    "content_summary": "15.划分子网 两级 IP 地址的缺点：IP 地址空间的利用率有时很低；给每个物理网络分配一个网络号会使 路由表变得太大，进而使网络性能变坏；两级IP 地址不够灵活。 从1985年起，在IP 地址中又增加了一个“子网号字段”,使两级IP 地址变成了三级IP地 址。这种做法称为划分子网。划分子网已成为互联网的正式标准协议。 划分子网的基本思路如下 ： ●划分子网纯属一个单位内部的事情。单位对外仍然表现为没有划分子网的一个网络。 ●划分子网的方法是从网络的主机号借用若干位作为子网号，当然主机号也相应...",
+    "content_length": 523,
+    "created_at": "2025-10-13T11:59:56.857600+00:00",
+    "updated_at": "2025-10-13T12:24:33.920394+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760358250,
+      "processing_end_time": 1760358273
+    }
+  },
+  "doc-c5fbde46d116f9165f04f3577b739c1b": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-c5fbde46d116f9165f04f3577b739c1b"
+    ],
+    "content_summary": "5.流量控制 因为链路两端节点的工作速率和缓存空间存在差异，所以发送方的发送能力可能大于接收方 的接收能力，此时若不适当限制发送方的发送速率，前面来不及接收的帧将被后面不断发送来的 帧“淹没”,造成帧的丢失而出错。因此，流量控制实际上就是限制发送方的发送速率，使之不 超过接收方的接收能力。这个过程需通过某种反馈机制，使发送方知道在什么情况下可以接着发 送下一帧，而在什么情况下必须暂停发送，以等待收到某种反馈信息后继续发送。 在OSI 体系结构中，数据链路层具有流量控制的功能。而在TCP/IP 体...",
+    "content_length": 336,
+    "created_at": "2025-10-13T11:59:56.857454+00:00",
+    "updated_at": "2025-10-13T12:25:17.241227+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760358274,
+      "processing_end_time": 1760358317
+    }
+  },
+  "doc-6dccdc9db3377192e7e94197d0c8556c": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-6dccdc9db3377192e7e94197d0c8556c"
+    ],
+    "content_summary": "37.OSPF的基本工作原理 因为各路由器之间频繁地交换链路状态信息，所以所有路由器最终都能建立一个链路状态数 据库，即全网的拓扑结构图。然后，每个路由器利用链路状态数据库中的数据，使用 Dijkstra 算 法计算自己到达各目的网络的最优路径，构造出自己的路由表。此后，当链路状态发生变化时， 每个路由器重新计算到达各目的网络的最优路径，构造出新的路由表。 为了使OSPF 能用于规模很大的网络，将一个自治系统再划分为若干更小的范围，称为区域。 划分区域的好处是，把利用洪泛法交换链路状态信息的范围...",
+    "content_length": 580,
+    "created_at": "2025-10-13T11:59:56.857660+00:00",
+    "updated_at": "2025-10-13T12:25:28.652540+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760358298,
+      "processing_end_time": 1760358328
+    }
+  },
+  "doc-8eb3bcce6dce2b56cf4a0cf6d5ff1f50": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-8eb3bcce6dce2b56cf4a0cf6d5ff1f50"
+    ],
+    "content_summary": "7.UDP的首部格式 UDP数据报包含两部分：首部字段和数据字段。UDP 首部有8B, 由4个字段组成，每个字段的长度都是2B。各字段意义如下： 1)源端口。源端口号。在需要对方回信时选用，不需要时可用全0。 2)目的端口。目的端口号。这在终点交付报文时必须使用到。 3)长度。 UDP数据报的长度(包括首部和数据),其最小值是8(仅有首部)。 4)检验和。检测UDP 数据报在传输中是否有错。有错就丢弃。该字段是可选的，当源主机 不想计算检验和时，则直接令该字段为全0。",
+    "content_length": 236,
+    "created_at": "2025-10-13T11:59:56.857693+00:00",
+    "updated_at": "2025-10-13T12:25:38.634299+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760358317,
+      "processing_end_time": 1760358338
+    }
+  },
+  "doc-fd41ad5d48077ba0c967a181c41ac723": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-fd41ad5d48077ba0c967a181c41ac723"
+    ],
+    "content_summary": "计算机网络的概念 一般认为，计算机网络是一个将众多分散的、自治的计算机系统，通过通信设备与线路连接 起来，由功能完善的软件实现资源共享和信息传递的系统。 计算机网络(简称网络)由若干节点(Node, 或译为结点)和连接这些节点的链路(Link) 组成。网络中的节点可以是计算机、集线器、交换机或路由器等。网络之间还可通过路由器互连， 构成一个覆盖范围更广的计算机网络，这样的网络称为互连网 (intermet) 。 于是，我们可以这样 理解：网络把许多计算机连在一起，而互连网则把许多网络通过路由器连...",
+    "content_length": 461,
+    "created_at": "2025-10-13T11:59:56.857350+00:00",
+    "updated_at": "2025-10-13T12:25:58.758743+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760358328,
+      "processing_end_time": 1760358358
+    }
+  },
+  "doc-2b8a9b3e3f6b51e19fd954018e563258": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-2b8a9b3e3f6b51e19fd954018e563258"
+    ],
+    "content_summary": "27.从 IPv4 向 IPv6 过渡 从IPv4 向IPv6 过渡只能采用逐步演进的办法，同时还必须使新安装的IPv6 系统能够向后兼 容。IPv6 系统必须能够接收和转发IPv4 分组，并且能够为IPv4 分组选择路由。 从 IPv4向IPv6过渡可以采用下列两种策略： 1)双协议栈，是指在一台设备上同时装有 IPv4和IPv6 两个协议栈，分别配置了一个 IPv4 地址和一个 IPv6 地址，因此这台设备既能和IPv4 网络通信，又能和IPv6 网络 通信。双协议栈主机在与 IPv6 主机...",
+    "content_length": 532,
+    "created_at": "2025-10-13T11:59:56.857634+00:00",
+    "updated_at": "2025-10-13T12:26:02.211187+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760358338,
+      "processing_end_time": 1760358362
+    }
+  },
+  "doc-9f4b31637b48d520435417a1be1dfd21": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-9f4b31637b48d520435417a1be1dfd21"
+    ],
+    "content_summary": "CSMA/CD协议 载波监听多路访问/冲突检测(CSMA/CD) 协议是CSMA协议的改进方案，适用于总线形网络 或半双工网络环境。对于全双工网络，因为全双工采用两条信道，分别用来发送和接收，在任何 时候，发收双方都可以发送或接收数据，不可能产生冲突，所以不需要CSMA/CD 协议。 载波监听是指每个站点在发送前和发送过程中都必须不停地检测信道，在发送前检测信道是 为了获得发送权，在发送过程中检测信道是为了及时发现发送的数据是否发生冲突。站点要在发 送数据前先监听信道，只有信道空闲时才能发送。 ...",
+    "content_length": 409,
+    "created_at": "2025-10-13T11:59:56.857512+00:00",
+    "updated_at": "2025-10-13T12:26:34.704876+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760358358,
+      "processing_end_time": 1760358394
+    }
+  },
+  "doc-463827fa257a27d9bc774ef356cec309": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-463827fa257a27d9bc774ef356cec309"
+    ],
+    "content_summary": "TCP的拥塞控制 拥塞控制是指防止过多的数据注入网络，保证网络中的路由器或链路不致过载。出现拥塞时，端点并不了解拥塞发生的细节，对通信的端点来说，拥塞往往表现为通信时延的增加。 拥塞控制与流量控制的区别： 拥塞控制是让网络能够承受现有的网络负荷，是一个全局性的过程，涉及所有的主机、所有的路由器，以及与降低网络传输性能有关的所有因素。相反，流量 控制往往是指点对点的通信量的控制，是个端到端的问题(接收端控制发送端),它所要做的是 抑制发送端发送数据的速率，以便使接收端来得及接收。当然，拥塞控制和流...",
+    "content_length": 883,
+    "created_at": "2025-10-13T11:59:56.857765+00:00",
+    "updated_at": "2025-10-13T12:27:21.640486+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760358362,
+      "processing_end_time": 1760358441
+    }
+  },
+  "doc-52aee7f8dcda2139521cf885d71ddc50": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-52aee7f8dcda2139521cf885d71ddc50"
+    ],
+    "content_summary": "SMTP协议 简单邮件传输协议 (Simple Mail Transfer Protocol,SMTP) 是一种提供可靠且有效的电子邮 件传输的协议，它控制两个相互通信的SMTP 进程交换信息。因为SMTP 采用客户/服务器模式 工作，所以负责发送邮件的SMTP 进程就是SMTP 客户，而负责接收邮件的SMTP 进程就是SMTP服务器。SMTP 用的是 TCP连接，端口号为25。SMTP 通信有以下三个阶段。 (1)连接建立 发件人的邮件发送到发送方邮件服务器的邮件缓存中后，SMTP 客户就每隔...",
+    "content_length": 1085,
+    "created_at": "2025-10-13T11:59:56.857810+00:00",
+    "updated_at": "2025-10-13T12:27:57.344215+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760358394,
+      "processing_end_time": 1760358477
+    }
+  },
+  "doc-124f678afe64f6377e862ee0a85ea6bf": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-124f678afe64f6377e862ee0a85ea6bf"
+    ],
+    "content_summary": "6.差错检测 因为信道噪声等原因，帧在传输过程中可能会出现错误，这些错误分为位错和帧错。 1)位错：帧中某些位出现差错，通常采用循环冗余检验 (CR C) 来发现位错。 2)帧错：帧丢失、帧重复或帧失序等错误，它们都属于传输差错。 过去 OSI 的观点是：必须让数据链路层向上提供可靠传输。因此在CRC 检错的基础上，增加了帧编号、确认和重传机制。收到正确的帧就要向发送方发送确认。发送方在一定期限内若未 收到对方的确认，就认为出现了差错，因此进行重传，直到收到确认为止。现在，在通信质量较 差的无线...",
+    "content_length": 400,
+    "created_at": "2025-10-13T11:59:56.857457+00:00",
+    "updated_at": "2025-10-13T12:27:54.852432+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760358441,
+      "processing_end_time": 1760358474
+    }
+  },
+  "doc-452a1c28f81d332f1aa5869ef05c8061": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-452a1c28f81d332f1aa5869ef05c8061"
+    ],
+    "content_summary": "2.异构网络互连 互联网是由全球范围内数以百万计的异构网络互连起来的。这些网络的拓扑结构、寻址方案、 差错处理方法、路由选择机制等都不尽相同。网络层所要完成的任务之一就是实现这些异构网络 的互连。网络互连是指将两个以上的计算机网络，通过一定的方法，用一些中继系统相互连接起 来，以构成更大的网络系统。根据所在的层次，中继系统分为以下4种： 物理层中继系统：转发器，集线器。 2)数据链路层中继系统：网桥或交换机。 3)网络层中继系统：路由器。 4)网络层以上的中继系统：网关。 当使用物理层或数据链路...",
+    "content_length": 632,
+    "created_at": "2025-10-13T11:59:56.857565+00:00",
+    "updated_at": "2025-10-13T12:28:29.371106+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760358475,
+      "processing_end_time": 1760358509
+    }
+  },
+  "doc-f96becae64f455966932fb68f2078bea": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-f96becae64f455966932fb68f2078bea"
+    ],
+    "content_summary": "9.零比特填充法 零比特填充法允许数据帧包含任意个数的比特，它使用一个特定的比特串01111110来标志一 帧的开始和结束。为了不使数据字段中出现的比特流01111110被误判为帧的首尾 标志，发送方先扫描整个数据字段，每遇到5个连续的“1”,就自动在其后插入一个“0”。经过 这种比特填充后，就可保证数据字段中不会出现6个连续的“1”。接收方执行该过程的逆操作， 即每收到5个连续的“1”,就自动删除后面紧跟的“0”,以恢复原始数据。在数据链路层早期使 用的HDLC 协议中，便是采用这种比特填充的...",
+    "content_length": 291,
+    "created_at": "2025-10-13T11:59:56.857464+00:00",
+    "updated_at": "2025-10-13T12:28:19.175687+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760358477,
+      "processing_end_time": 1760358499
+    }
+  },
+  "doc-5193a12f652f95c1aac91b04abca6036": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-5193a12f652f95c1aac91b04abca6036"
+    ],
+    "content_summary": "12.特殊IP地址 在各类IP 地址中，有些 IP 地址具有特殊用途，不用作主机的IP 地址： ●主机号全为0表示本网络本身，如202.98.174.0。 ●主机号全为1表示本网络的广播地址，也称直接广播地址，如202.98.174.255。 ● 127.x.x.x保留作为本地软件环回测试(Loopback Test)本主机的进程之间的通信用，本主 机不会将目的地址为环回地址的IP 数据报发送到任何网络。 ● 32位全为0,即0.0.0.0,表示本网络上的本主机(见DHCP)。 ● 32位全为1...",
+    "content_length": 288,
+    "created_at": "2025-10-13T11:59:56.857592+00:00",
+    "updated_at": "2025-10-13T12:28:51.602327+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760358499,
+      "processing_end_time": 1760358531
+    }
+  },
+  "doc-f8a9d0be028c5c409c722c2f24f99a36": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-f8a9d0be028c5c409c722c2f24f99a36"
+    ],
+    "content_summary": "4.奈奎斯特定理(奈氏准则) 具体的信道所能通过的频率范围总是有限的。信号中的许多高频分量往往不能通过信道， 否则在传输中就会衰减，导致接收端收到的信号波形失去码元之间的清晰界限，这种现象称为 码间串扰。奈奎斯特定理规定：在理想低通(没有噪声、带宽有限)信道中，为了避免码间串 扰，极限码元传输速率为2W波特，其中 W是信道的频率带宽(单位为Hz) 。 若用V表示每个 码元的离散电平数量(码元的离散电平数量是指有多少种不同的码元，若有16种不同的码元， 则需要4个二进制位，因此数据传输速率是码元传...",
+    "content_length": 522,
+    "created_at": "2025-10-13T11:59:56.857412+00:00",
+    "updated_at": "2025-10-13T12:28:58.411499+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760358509,
+      "processing_end_time": 1760358538
+    }
+  },
+  "doc-e2d2f7b7b6ece2f9d71b50eb3ba2aef0": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-e2d2f7b7b6ece2f9d71b50eb3ba2aef0"
+    ],
+    "content_summary": "5.香农定理 实际的信道会有噪声，噪声是随机产生的。香农定理给出了带宽受限且有高斯噪声干扰的信 道的极限数据传输速率，当用该速率传输数据时，不会产生误差。香农定理定义为 信道的极限数据传输速率=Wlog (1+S/N) (单位为b/s) 式中 ，W为信道的频率带宽(单位为Hz),S 为信道内所传输信号的平均功率，N 为信道内的高斯噪声功率。S/N 为信噪比，即信号的平均功率与噪声的平均功率之比，信噪比有两种表示形式： 无单位记法和分贝 (dB) 记法。当采用无单位记法时，信噪比=S/N; 当采用...",
+    "content_length": 503,
+    "created_at": "2025-10-13T11:59:56.857414+00:00",
+    "updated_at": "2025-10-13T12:29:17.671043+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760358531,
+      "processing_end_time": 1760358557
+    }
+  },
+  "doc-4a4a1496c168f55f972a177b1a5aaa56": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-4a4a1496c168f55f972a177b1a5aaa56"
+    ],
+    "content_summary": "4.虚电路 在虚电路方式中，当两台计算机进行通信时，应当先建立网络层的连接，也就是建立一条逻 辑上的虚电路(Virtual Circuit,VC),连接一旦建立，就固定了虚电路对应的物理路径。与电路 交换类似，整个通信过程分为三个阶段：虚电路建立、数据传输与虚电路释放。 每次建立虚电路时，将一个未用过的虚电路号(VCID) 分配给该虚电路，以区别于本系统 中的其他虚电路，然后双方就沿着已建立的虚电路传送分组。分组的首部仅在连接建立时使用完 整的目的地址，之后每个分组的首部只需携带这条虚电路的编号...",
+    "content_length": 923,
+    "created_at": "2025-10-13T11:59:56.857570+00:00",
+    "updated_at": "2025-10-13T12:29:29.175634+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760358538,
+      "processing_end_time": 1760358569
+    }
+  },
+  "doc-672b11a546a2b3bcd7f6cad52a133de7": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-672b11a546a2b3bcd7f6cad52a133de7"
+    ],
+    "content_summary": "29.CSMAVCA 协议的确认机制(2011) 因为无线信道的通信质量远不如有线信道，所以802.11标准使用链路层确认/重传(ARQ) 方案，即站点每通过无线局域网发送完一帧，就要在收到对方的确认帧后才能继续发送下一帧。 可见，802.11标准无线局域网采用的停止-等待协议是一种可靠传输协议。 为了尽量避免冲突，802.11标准规定，所有站检测到信道空闲后，还要等待一段很短的时间 (继续监听)才能发送帧。这段时间称为帧间间隔 (InterFrame Space,IFS) 。 帧间间隔的长短取...",
+    "content_length": 667,
+    "created_at": "2025-10-13T11:59:56.857525+00:00",
+    "updated_at": "2025-10-13T12:30:02.893529+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760358557,
+      "processing_end_time": 1760358602
+    }
+  },
+  "doc-2109b69efddaf4ba592c0a1645bcd167": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-2109b69efddaf4ba592c0a1645bcd167"
+    ],
+    "content_summary": "3.链路管理 数据链路层连接的建立、维持和释放过程称为链路管理，它主要用于面向连接的服务。链路 两端的节点要进行通信，必须首先确认对方已处于就绪状态，并交换一些必要的信息以对帧序号 初始化，然后才能建立连接，在传输过程中要能维持连接，而在传输完毕后要释放该连接。",
+    "content_length": 131,
+    "created_at": "2025-10-13T11:59:56.857449+00:00",
+    "updated_at": "2025-10-13T12:29:46.638032+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760358569,
+      "processing_end_time": 1760358586
+    }
+  },
+  "doc-28f3a0853572fb49708462f779e9fb14": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-28f3a0853572fb49708462f779e9fb14"
+    ],
+    "content_summary": "P2P模型 在CS 模型中,服务器性能的好坏决定了整个系统的性能，当大量用户请求服务时，服务器就必然成为系统的瓶颈。P2P模型的思想是整个网络中的传输内容不再被保存在中心服务器上，每个节点都同时具有下载、上传的功能，其权利和义务都是大体对等的。 在P2P 模型中，各计算机没有固定的客户和服务器划分。相反，任意一对计算机——称为对 等方(Pe er), 直接相互通信。实际上，P2P 模型从本质上来看仍然使用客户/服务器模型，每个节 点既作为客户访问其他节点的资源，又作为服务器提供资源给其他节点访问...",
+    "content_length": 594,
+    "created_at": "2025-10-13T11:59:56.857781+00:00",
+    "updated_at": "2025-10-13T12:30:16.749476+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760358586,
+      "processing_end_time": 1760358616
+    }
+  },
+  "doc-ef013831c0a3724f44a051ef1a45d285": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-ef013831c0a3724f44a051ef1a45d285"
+    ],
+    "content_summary": "3.路由与转发 路由器主要完成两个功能：一是路由选择(确定哪一条路径),二是分组转发 (当一个分组到达时所采取的动作)。前者根据路由选择协议构造并维护路由表。后者处理通过路由器的数据 流，关键操作是转发表查询、转发及相关的队列管理和任务调度等。 1)路由选择。根据路由协议构造路由表，同时经常或定期地与相邻路由器交换信息，获取 网络最新拓扑，动态更新维护路由表，以决定分组到达目的地节点的最优路径。 2)分组转发。 指路由器根据转发表将分组从合适的端口转发出去。 路由表是根据路由选择算法得出的，而转...",
+    "content_length": 335,
+    "created_at": "2025-10-13T11:59:56.857568+00:00",
+    "updated_at": "2025-10-13T12:30:22.012719+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760358603,
+      "processing_end_time": 1760358622
+    }
+  },
+  "doc-eb52228a86bc0b8a86dd9b02f73e2a03": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-eb52228a86bc0b8a86dd9b02f73e2a03"
+    ],
+    "content_summary": "11.同轴电缆 同轴电缆由内导体、绝缘层、外导体屏蔽层和绝缘保护套层构成，同轴电缆一般分为两类：①50Ω同轴电缆，主要用于传送基带数字信号，在早期局域网中应用广泛；②75Ω 同轴电缆，主要用于传送宽带信号，在有线电视系统中应用广泛。因为外导体屏蔽层的作用，所 以同轴电缆具有良好的抗干扰特性而被广泛用于传输较高速率的数据。？",
+    "content_length": 162,
+    "created_at": "2025-10-13T11:59:56.857430+00:00",
+    "updated_at": "2025-10-13T12:30:44.206817+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760358617,
+      "processing_end_time": 1760358644
+    }
+  },
+  "doc-20bb73fe2c922586106075dd78af569f": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-681e0a784ec7e40193f0d092a879cfc1",
+      "chunk-16717578322e1f65ca6e26d27d5c196d"
+    ],
+    "content_summary": "TCP报文段首部各个字段的含义 1)源端口和目的端口。各占2B。分别表示发送方和接收方使用的端口号。 命题追踪 TCP 首部中序号、确认号的含义(2009、2016) 2)序号。占4B, 范围为0~2³² -1,共2³2个序号。 TCP 连接中传送的字节流中的每个字节 都要按顺序编号，序号字段值指的是本报文段所发送的数据的第一个字节的序号。 例如，一报文段的序号字段值是301,而携带的数据共有100B, 表明本报文段的数据的 最后一个字节的序号是400,因此下一个报文段的数据序号应从401开始。...",
+    "content_length": 1803,
+    "created_at": "2025-10-13T11:59:56.857740+00:00",
+    "updated_at": "2025-10-13T12:31:25.919448+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760358622,
+      "processing_end_time": 1760358685
+    }
+  },
+  "doc-a8824c1aea800afa58be48a3762992c8": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-a8824c1aea800afa58be48a3762992c8"
+    ],
+    "content_summary": "28. 路由算法 路由选择协议的核心是路由算法，即需要何种算法来获得路由表中的各个项目。路由算法的 目的很简单：给定一组路由器及连接路由器的链路，路由算法要找到一条从源路由器到目的路由 器的“最佳”路径。通常，“最佳”路径是指具有最低费用的路径。",
+    "content_length": 123,
+    "created_at": "2025-10-13T11:59:56.857637+00:00",
+    "updated_at": "2025-10-13T12:30:57.062218+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760358644,
+      "processing_end_time": 1760358657
+    }
+  },
+  "doc-f038f5da30901d2ce42833321f62625e": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-f038f5da30901d2ce42833321f62625e"
+    ],
+    "content_summary": "8.字节填充法 字节填充法使用特定字节来定界一帧的开始与结束，控制字符SOH 放在帧的最前面，表示帧的开始，控制字符EOT 表示帧的结束。为了使信息位中出现的特殊字符不被误判为帧的首尾定界符，可在特殊字符之前填充一个转义字符ESC 来加以区分(注意，转义字符 是ASCII 码中的控制字符，是一个字符，而非“E”“S”“C”三个字符的组合),以实现数据的透 明传输。接收方收到转义字符后，就知道其后面紧跟的是数据信息，而不是控制信息。 帧的数据段中出现EOT 或 SOH 字符，发送方在每个EOT或S...",
+    "content_length": 359,
+    "created_at": "2025-10-13T11:59:56.857461+00:00",
+    "updated_at": "2025-10-13T12:31:20.635100+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760358657,
+      "processing_end_time": 1760358680
+    }
+  },
+  "doc-f746800dc318223d381ac24dc0e6b1f0": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-f746800dc318223d381ac24dc0e6b1f0"
+    ],
+    "content_summary": "套接字 在网络中通过 IP 地址来标识和区别不同的主机，通过端口号来标识和区分一台主机中的不 同应用进程，端口号拼接到 IP 地址就构成套接字 (Soc ket) 。在网络中采用发送方和接收方的套 接字来识别端点。套接字，实际上是一个通信端点，即： 套接字 (Socket)=(IP地址：端口号) ，它唯一地标识网络中的一台主机上的一个应用进程。 在网络通信中，主机A 发给主机 B 的报文包含目的端口号和源端口号，源端口号是“返回地 址”的一部分，即当B 需要发回一个报文给A 时 ，B 到 A 的...",
+    "content_length": 302,
+    "created_at": "2025-10-13T11:59:56.857686+00:00",
+    "updated_at": "2025-10-13T12:31:40.699481+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760358680,
+      "processing_end_time": 1760358700
+    }
+  },
+  "doc-4c759b9c1f4a3bd192b6f500521adb66": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-4c759b9c1f4a3bd192b6f500521adb66"
+    ],
+    "content_summary": "19.介质访问控制 介质访问控制所要完成的主要任务是，为使用介质的每个节点隔离来自同一信道上其他节点 所传送的信号，以协调活动节点的传输。图3.15是广播信道的通信方式，节点 A、B、C、D、E共享广播信道，假设A 要与C 通 信 ，B 要与D 通信，因为它们共用一条信道，若不加控制，则两 对节点之间的通信可能会因互相干扰而失败。用来决定广播信道中信道分配的协议属于数据链路 层的一个子层，称为介质访问控制 (Medium Access Control,MAC)子层。 常见的介质访问控制方法有信道...",
+    "content_length": 312,
+    "created_at": "2025-10-13T11:59:56.857491+00:00",
+    "updated_at": "2025-10-13T12:31:53.403012+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760358686,
+      "processing_end_time": 1760358713
+    }
+  },
+  "doc-8ae594c4084153ff7f383278dd04f63e": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-8ae594c4084153ff7f383278dd04f63e"
+    ],
+    "content_summary": "域名服务器 域名到IP 地址的解析是由运行在域名服务器上的程序完成的，一个服务器所负责管辖的(或 有权限的)范围称为区(小于或等于域),一个区中的所有节点必须是能够连通的，每个区设置 相应的权限域名服务器，用来保存该区中的所有主机的域名到IP 地址的映射。每个域名服务器不 但能够进行一些域名到IP 地址的解析，而且必须具有连向其他域名服务器的信息。当自己不能进 行域名到IP 地址的转换时，能够知道到什么地方去找其他域名服务器。 DNS 使用了大量的域名服务器，它们按层次方式组织。没有一台域名服务...",
+    "content_length": 1012,
+    "created_at": "2025-10-13T11:59:56.857788+00:00",
+    "updated_at": "2025-10-13T12:32:13.318625+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760358700,
+      "processing_end_time": 1760358733
+    }
+  },
+  "doc-5aebc920ddd1c203a2f57f4ddca32e60": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-5aebc920ddd1c203a2f57f4ddca32e60"
+    ],
+    "content_summary": "21.IP地址与硬件地址 IP 地址是网络层及网络层之上使用的地址，它是分层式的。硬件地址 (MA C 地址)是数据 链路层使用的地址，它是平面式的。IP 地址放在IP 数据报的首部，而MAC 地址放在MAC 帧的 首部。把IP 数据报封装为 MAC 帧后，数据链路层看不见IP 数据报中的IP 地址。 因为路由器的隔离，IP 网络中无法通过广播MAC 地址来完成跨网络的寻址，所以在网络 层只使用 IP 地址来完成寻址。寻址时，每个路由器依据其路由表(依靠路由协议生成)选择 到目标网络(主机号全为...",
+    "content_length": 662,
+    "created_at": "2025-10-13T11:59:56.857619+00:00",
+    "updated_at": "2025-10-13T12:32:19.986644+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760358713,
+      "processing_end_time": 1760358739
+    }
+  },
+  "doc-13041c4cacbd85f34fd9db4c648a9ca7": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-13041c4cacbd85f34fd9db4c648a9ca7"
+    ],
+    "content_summary": "域名系统 域名系统 (Domain Name System,DNS) 是因特网使用的命名系统，用来把便于人们记忆的 具有特定含义的主机名(如www.cskaoyan.com) 转换为便于机器处理的IP 地址。相对于IP 地址，人们更喜欢使用具有特定含义的字符串来标识因特网上的计算机。DNS系统采用客户/服务器模型，其协议运行在UDP 之上，使用53号端口。 从概念上可将DNS 分为三部分：层次域名空间、域名服务器和解析器。",
+    "content_length": 213,
+    "created_at": "2025-10-13T11:59:56.857783+00:00",
+    "updated_at": "2025-10-13T12:32:37.763706+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760358733,
+      "processing_end_time": 1760358757
+    }
+  },
+  "doc-0521f3bc9331aa3d7662dc79770a2de4": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-0521f3bc9331aa3d7662dc79770a2de4"
+    ],
+    "content_summary": "19.路由聚合 一个大的CIDR 地址块中包含很多小地址块，因此在路由表中就可利用较大的一个CIDR地 址块来代替许多较小的地址块。这种方法称为路由聚合，它使得路由表中的一个项目可以表示原 来传统分类地址的多条路由项目，压缩了路由表所占的空间，从而提高了网络性能。 最长前缀匹配(也称最佳匹配): 使用CIDR 时，路由表中的表项由“网络前缀”和\"下一跳地址”组成。在查找路由表时可能会得到不止一个匹配结果。此时，应当从匹配结果中选择具 有最长网络前缀的路由，因为网络前缀越长，其地址块就越小，因而路...",
+    "content_length": 414,
+    "created_at": "2025-10-13T11:59:56.857612+00:00",
+    "updated_at": "2025-10-13T12:32:51.974536+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760358740,
+      "processing_end_time": 1760358771
+    }
+  },
+  "doc-740043ec1153417d3eebaa494d90cd2b": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-740043ec1153417d3eebaa494d90cd2b"
+    ],
+    "content_summary": "快重传和快恢复算法 有时个别报文段会在网络中丢失，但实际上网络并未发生拥塞。若发送方迟迟收不到确认， 就会产生超时，并误认为网络发生了拥塞，这就导致发送方错误地启动慢开始算法，从而降低传 输效率。采用快重传算法可以让发送方尽早知道发生了个别报文段的丢失。 (1)快重传 快重传算法是使发送方尽快(尽早)进行重传，而不等超时计时器超时再重传。这就要求接 收方不要等待自己发送数据时才进行捎带确认，而要立即发送确认，即使收到了失序的报文段也 要立即发出对已收到报文段的重复确认。发送方一旦连续收到3个冗余...",
+    "content_length": 539,
+    "created_at": "2025-10-13T11:59:56.857775+00:00",
+    "updated_at": "2025-10-13T12:33:07.515754+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760358758,
+      "processing_end_time": 1760358787
+    }
+  },
+  "doc-0cb26282bf2e5da7a85c0bacfde3e99e": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-0cb26282bf2e5da7a85c0bacfde3e99e"
+    ],
+    "content_summary": "34.以太网的传输介质与网卡 以太网常用的传输介质有4种：粗缆、细缆、双绞线和光纤。 计算机与外界局域网的连接是通过主板上嵌入的一块网络适配器 (Adapter ) [也称网络接口卡 (Network Interface Card,NIC)]实现的。适配器上装有处理器和存储器，工作在数据链路层。适 配器和局域网的通信是通过电缆或双绞线以串行方式进行的，而适配器和计算机的通信则是通过 计算机的I/O 总线以并行方式进行的。因此，适配器的重要功能就是进行数据的串并转换。 适配器不仅能实现与局域网传输...",
+    "content_length": 394,
+    "created_at": "2025-10-13T11:59:56.857538+00:00",
+    "updated_at": "2025-10-13T12:33:31.886446+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760358772,
+      "processing_end_time": 1760358811
+    }
+  },
+  "doc-ba22fc744317f0871bc093f62c94a231": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-ba22fc744317f0871bc093f62c94a231"
+    ],
+    "content_summary": "24.网际控制报文协议ICMP 为了有效地转发 IP 数据报和提高交付成功的机会，在网络层使用了网际控制报文协议 (Intemet Control Message Protocol,ICMP),让主机或路由器报告差错和异常情况。ICMP报文被 封装在IP 数据报中发送，但ICMP 不是高层协议，而是网络层的协议。 ICMP 报文有两种，即ICMP 差错报告报文和 ICMP 询问报文。 ICMP 差错报告报文用于目标主机或到目标主机路径上的路由器，向源主机报告差错和异常 情况。共有以下5种常用的类...",
+    "content_length": 916,
+    "created_at": "2025-10-13T11:59:56.857627+00:00",
+    "updated_at": "2025-10-13T12:33:46.555837+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760358787,
+      "processing_end_time": 1760358826
+    }
+  },
+  "doc-c8f3d2373147341871d12f8cdb9a5d16": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-c8f3d2373147341871d12f8cdb9a5d16"
+    ],
+    "content_summary": "传输层的功能 数据链路层提供链路上相邻节点之间的逻辑通信，网络层提供主机之间的逻辑通信。传输层 位于网络层之上、应用层之下，它为运行在不同主机上的进程之间提供逻辑通信①。传输层属于 面向通信部分的最高层，同时也是用户功能中的最低层。显然，即使网络层协议不可靠(网络层 协议使分组丢失、混乱或重复),传输层同样能为应用程序提供可靠的服务。 从图5.1可看出，网络的边缘部分的两台主机使用网络的核心部分的功能进行端到端的通信 时，只有主机的协议栈才有传输层，而路由器在转发分组时都只用到下三层的功能(在通...",
+    "content_length": 921,
+    "created_at": "2025-10-13T11:59:56.857678+00:00",
+    "updated_at": "2025-10-13T12:34:11.444055+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760358812,
+      "processing_end_time": 1760358851
+    }
+  },
+  "doc-eeb7136306177f890bbbf6e655857c68": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-eeb7136306177f890bbbf6e655857c68"
+    ],
+    "content_summary": "42.以太网交换机 交换机的原理： 以太网交换机也称二层交换机，二层是指以太网交换机工作在数据链路层。以太网交换机实 质上是一个多接口的网桥，它能将网络分成小的冲突域，为每个用户提供更大的带宽。对于传统 使用集线器的共享式10Mb/s 以太网，若共有N 个用户，则每个用户的平均带宽为总带宽(10Mb/s) 的1/N。 使用以太网交换机(全双工方式)连接这些主机时，虽然从每个接口到主机的带宽还是 10Mb/s, 但是因为一个用户通信时是独占带宽的(而不是和其他网络用户共享传输介质带宽的), 所以拥...",
+    "content_length": 858,
+    "created_at": "2025-10-13T11:59:56.857557+00:00",
+    "updated_at": "2025-10-13T12:34:32.939422+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760358826,
+      "processing_end_time": 1760358872
+    }
+  },
+  "doc-48063a7c317ce6fdac84b05196bda8af": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-48063a7c317ce6fdac84b05196bda8af"
+    ],
+    "content_summary": "2.计算机网络的组成 从不同的角度看，可将计算机网络的组成分为如下几类。 1)从组成部分看，计算机网络主要由硬件、软件、协议三大部分组成。硬件主要由主机(也 称端系统)、通信链路(如双绞线、光纤)、交换设备(如路由器、交换机等)和通信 处理机(如网卡)等组成。软件主要包括各种实现资源共享的软件和方便用户使用的各 种工具软件(如E-mail 程序、FTP 程序、聊天程序等)。协议是计算机网络的核心，如同 交通规则制约汽车驾驶一样，协议规定了网络传输数据时所遵循的规范。 2)从工作方式看，计算机网络...",
+    "content_length": 533,
+    "created_at": "2025-10-13T11:59:56.857365+00:00",
+    "updated_at": "2025-10-13T12:34:53.214792+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760358851,
+      "processing_end_time": 1760358893
+    }
+  },
+  "doc-91e8fdad419900769a30727553786231": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-91e8fdad419900769a30727553786231"
+    ],
+    "content_summary": "7.计算机网络的性能指标 性能指标从不同方面度量计算机网络的性能。常用的性能指标如下。 1)速率 (Speed)。指连接到网络上的节点在数字信道上传送数据的速率，也称数据传输速 率、数据率或比特率，单位为 b/s(比特/秒)或bit/s(有时也写为bps)。当数据率较高时，可用kb/s(k=10³) ,Mb/s(M=10⁶)或Gb/s(G=109)表示。 2)带宽(Bandwidth)。带宽原本表示通信线路允许通过的信号频率范围，单位是赫兹(Hz)。但在计算机网络中，带宽表示网络的通信线路所能传...",
+    "content_length": 1251,
+    "created_at": "2025-10-13T11:59:56.857383+00:00",
+    "updated_at": "2025-10-13T12:35:27.276866+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760358873,
+      "processing_end_time": 1760358927
+    }
+  },
+  "doc-89493c0ca63b6b323e20f543d0988ba0": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-89493c0ca63b6b323e20f543d0988ba0"
+    ],
+    "content_summary": "路由选择协议分类 1. 内部网关协议 (Interior Gateway Protocol,IGP) 内部网关协议即在一个自治系统内部使用的路由选择协议，它与在互联网中的其他自治系统 选用什么路由选择协议无关。目前这类路由选择协议使用得最多，如RIP 和OSPF。 2. 外部网关协议 (External Gateway Protocol,EGP) 若源主机和目的主机处在不同的自治系统中(两个自治系统可能使用不同的 IGP), 则当数 据报传到一个自治系统的边界时，就需要使用一种协议将路由选择信息...",
+    "content_length": 472,
+    "created_at": "2025-10-13T11:59:56.857647+00:00",
+    "updated_at": "2025-10-13T12:35:20.054217+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760358893,
+      "processing_end_time": 1760358920
+    }
+  },
+  "doc-3aeacef0a6ca3fd5e102a1808d47e884": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-3aeacef0a6ca3fd5e102a1808d47e884"
+    ],
+    "content_summary": "RIP的优缺点 RIP 的优点： 1)实现简单、开销小、收敛过程较快。 2)若一个路由器发现了更短的路由，则这种更新信息就传播得很快，在较短时间内便可被 传至所有路由器，俗称 “好消息传播得快”。 RIP的缺点： 1)RIP限制了网络的规模，它能使用的最大距离为15(16表示不可达)。 2)路由器之间交换的是路由器中的完整路由表，因此网络规模越大，开销也越大。 3)当网络出现故障时，路由器之间需反复多次交换信息才能完成收敛，要经过较长时间才 能将故障消息传送到所有路由器 (慢收敛现象),俗称坏消...",
+    "content_length": 256,
+    "created_at": "2025-10-13T11:59:56.857655+00:00",
+    "updated_at": "2025-10-13T12:35:37.247228+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760358920,
+      "processing_end_time": 1760358937
+    }
+  },
+  "doc-327048b1420ca42a4a95c708fe9bd0c2": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-327048b1420ca42a4a95c708fe9bd0c2"
+    ],
+    "content_summary": "3.电路交换 最典型的电路交换网是传统电话网，从通信资源分配的角度看，交换就是按照某种方式动态地分配传输线路的资源。电路交换分为三步：建立连接(开始占用通信资源)、传输数据(一直占用通信资源)和释放连接(归还通信资源)。在进行数据传输前，两个用户之间必须先建立一条专用的物理通信路径(由通信双方之间的交换设备和链路逐段连接而成)。在数据传输过程中，这一物理通信路径始终被两个用户独占，直到通信结束后才被释放。 在电路交换中，电路建立后，除源节点和目的节点外，电路上的任何节点都采取“直通方式” 发送数...",
+    "content_length": 728,
+    "created_at": "2025-10-13T11:59:56.857372+00:00",
+    "updated_at": "2025-10-13T12:36:24.732424+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760358927,
+      "processing_end_time": 1760358984
+    }
+  },
+  "doc-3180a25741105031630bc39816af71b0": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-3180a25741105031630bc39816af71b0"
+    ],
+    "content_summary": "7.拥塞控制 因出现过量的分组而引起网络性能下降的现象称为拥塞。判断网络是否进入拥塞状态的方 法是，观察网络的吞吐量与网络负载的关系：若随着网络负载的增加，网络的吞吐量明显小于正 常的吞吐量，则网络就可能已进入轻度拥塞状态；若网络的吞吐量随着网络负载的增大而下降， 则网络就可能已进入拥塞状态。拥塞控制主要解决的问题是如何获取网络中发生拥塞的信息，从 而利用这些信息进行控制，以避免因拥塞而出现分组的丢失。 拥塞控制的作用是确保网络能够承载所达到的流量，这是一个全局性的过程，涉及网络中所 有的主机、...",
+    "content_length": 636,
+    "created_at": "2025-10-13T11:59:56.857578+00:00",
+    "updated_at": "2025-10-13T12:36:19.665315+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760358937,
+      "processing_end_time": 1760358979
+    }
+  },
+  "doc-4e2b7a3b6ee26a95e658864cfabe2311": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-4e2b7a3b6ee26a95e658864cfabe2311"
+    ],
+    "content_summary": "4.封装成帧与透明传输 封装成帧是指在一段数据的前后分别添加首部和尾部，构成帧，帧是数据链路层的传送单元。 帧长等于帧的数据部分长度加上首部和尾部的长度。首部和尾部中含有很多控制信息，它们的一 个重要作用是确定帧的界限，即帧定界。接收方能从接收到的二进制比特流中区分出帧的开始与 结束。如在HDLC 协议中，用标识位F(01111110) 来标识帧的开始和结束。在通信过程中，检 测到帧标识位F 即认为其是帧的开始，然后一旦检测到帧标识位F 即表示帧的结束。HDLC 标准 帧格式如图3.4所示。为了...",
+    "content_length": 563,
+    "created_at": "2025-10-13T11:59:56.857452+00:00",
+    "updated_at": "2025-10-13T12:37:04.564488+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760358979,
+      "processing_end_time": 1760359024
+    }
+  },
+  "doc-79fa3daf5b1b04c98384ec68b90f035a": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-79fa3daf5b1b04c98384ec68b90f035a"
+    ],
+    "content_summary": "TCP的流量控制 流量控制的功能就是让发送方的发送速率不要太快，以便让接收方来得及接收，因此可以说流量控制是一个速度匹配服务(匹配发送方的发送速率与接收方的读取速率)。 TCP 利用滑动窗口机制来实现流量控制，滑动窗口的基本原理已在第3章中介绍过，这里要介绍的是TCP 如何使用窗口机制来实现流量控制。 TCP要求接收方维持一个接收窗口(rwnd), 接收方根据当前接收缓存的大小，动态地调整接收窗口的大小，其大小反映了接收方的容量。接 收方将其放在TCP 报文段首部中的“窗口”字段，以通知发送方。...",
+    "content_length": 866,
+    "created_at": "2025-10-13T11:59:56.857762+00:00",
+    "updated_at": "2025-10-13T12:37:02.964557+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760358985,
+      "processing_end_time": 1760359022
+    }
+  },
+  "doc-0a5a21c871858bbf9575fa15feaee0a8": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-0a5a21c871858bbf9575fa15feaee0a8"
+    ],
+    "content_summary": "20.网络层转发分组的过程 分组转发都是基于目的主机所在网络的，这是因为互联网上的网络数远小于主机数，这样可 以极大地压缩转发表的大小。当分组到达路由器后，路由器根据目的IP 地址的网络前缀来查找转 发表，确定下一跳应当到哪个路由器。因此，在转发表中，每条路由必须有下面两条信息：(目的网络地址，下一跳地址) 这样，IP 数据报最终一定可以找到目的主机所在目的网络上的路由器(可能要通过多次间接 交付),当到达最后一个路由器时，才试图向目的主机进行直接交付。 采用 CIDR 编址时，若一个分组在转发...",
+    "content_length": 1172,
+    "created_at": "2025-10-13T11:59:56.857616+00:00",
+    "updated_at": "2025-10-13T12:37:49.989021+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760359023,
+      "processing_end_time": 1760359069
+    }
+  },
+  "doc-74696275a43cf6de7f70e953dbd8cd72": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-74696275a43cf6de7f70e953dbd8cd72"
+    ],
+    "content_summary": "开放最短路径优先协议（OSPF） OSPF 协议是使用分布式链路状态路由算法的典型代表，也是内部网关协议 (IGP) 的 一种。 与 RIP相比 ，OSPF有下面4个主要特点： 1)OSPF使用洪泛法向本自治系统中所有路由器发送信息，路由器通过所有输出端口向所有 相邻的路由器发送信息，而每个相邻的路由器又将此信息发往所有的相邻路由器(但不再发送给刚刚发来信息的那个路由器)。这样，最终整个区域中所有的路由器都得到了这个信息的一个副本。而RIP仅仅向自己相邻的几个路由器发送信息。 2)发送的信息是与...",
+    "content_length": 715,
+    "created_at": "2025-10-13T11:59:56.857657+00:00",
+    "updated_at": "2025-10-13T12:37:52.179829+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760359024,
+      "processing_end_time": 1760359072
+    }
+  },
+  "doc-c1e8cd306816c9f8974fb42aafc0a5df": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-c1e8cd306816c9f8974fb42aafc0a5df"
+    ],
+    "content_summary": "8.数字数据调制为模拟信号 数字数据调制技术在发送端将数字信号转换为模拟信号，而在接收端将模拟信号还原为数字 信号，分别对应于调制解调器的调制和解调过程。 1 ) 调幅 (AM)或幅移键控 (ASK)。通过改变载波的振幅来表示数字信号1 和0。例如， 用有载波和无载波输出分别表示1和0。这种方式比较容易实现，但抗干扰能力差。 2 ) 调频 (FM)或频移键控( FSK) 。通过改变载波的频率来表示数字信号1和0。例如，用 频率大和频率f左分别表示1和0。这种方式容易实现，抗干扰能力强，目前应用较...",
+    "content_length": 516,
+    "created_at": "2025-10-13T11:59:56.857422+00:00",
+    "updated_at": "2025-10-13T12:38:22.885441+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760359070,
+      "processing_end_time": 1760359102
+    }
+  },
+  "doc-588eb259656960c3f3e0c8fe1508c214": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-588eb259656960c3f3e0c8fe1508c214"
+    ],
+    "content_summary": "TCP对网络拥塞的处理 无论在慢开始阶段还是在拥塞避免阶段，只要发送方判断网络出现拥塞(未按时收到确认), 就要首先把慢开始门限ssthresh 设置为出现拥塞时的发送方的cwnd 值的一半(但不能小于2), 然后把拥塞窗口cwnd 重新设置为1,执行慢开始算法。这样做的目的是迅速减少主机发送到网络中的分组数，使得发生拥塞的路由器有足够时间把队列中积压的分组处理完。",
+    "content_length": 184,
+    "created_at": "2025-10-13T11:59:56.857773+00:00",
+    "updated_at": "2025-10-13T12:38:05.360231+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760359072,
+      "processing_end_time": 1760359085
+    }
+  },
+  "doc-8df1684622e14f4dc123ffc82ec264f9": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-8df1684622e14f4dc123ffc82ec264f9"
+    ],
+    "content_summary": "电子邮件格式 一个电子邮件分为信封和内容两大部分，邮件内容又分为首部和主体两部分。RFC 822规定 了邮件的首部格式，而邮件的主体部分则让用户自由撰写。用户写好首部后，邮件系统自动地将 信封所需的信息提取出来并写在信封上，用户不需要亲自填写信封上的信息。 邮件内容的首部包含一些首部行，每个首部行由一个关键字后跟冒号和值组成。有些关键字 是必需的，有些则是可选的。最重要的关键字是To 和 Subject。 To是必填的关键字，后面填入一个或多个收件人的电子邮件地址。电子邮件地址的格式为： 收件人...",
+    "content_length": 433,
+    "created_at": "2025-10-13T11:59:56.857808+00:00",
+    "updated_at": "2025-10-13T12:38:30.182710+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760359085,
+      "processing_end_time": 1760359110
+    }
+  },
+  "doc-db3ccd39bbf8db8451887a2e313c745b": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-db3ccd39bbf8db8451887a2e313c745b"
+    ],
+    "content_summary": "链路状态算法 链路状态是指本路由器都和哪些路由器相邻，以及相应链路的代价。链路状态算法要求每个 节点都具有全网拓扑结构图(这个拓扑结构图在全网范围内是一致的),它们执行下列两项任务： 第一，主动测试所有相邻节点的状态；第二，定期地将链路状态传播给所有其他节点。因此每个 节点都知道全网共有多少个节点、哪些节点是相连的、其代价是多少等，于是每个节点都可使用 Dijkstra 最短路径算法计算出到达其他节点的最短路径。 在链路状态算法中，节点每收到一个链路状态报文，便用其更新自己的网络状态“视野图”,...",
+    "content_length": 707,
+    "created_at": "2025-10-13T11:59:56.857645+00:00",
+    "updated_at": "2025-10-13T12:38:56.082411+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760359103,
+      "processing_end_time": 1760359136
+    }
+  },
+  "doc-0e8bd78e0727aeb56d5fa3f094dd829f": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-0e8bd78e0727aeb56d5fa3f094dd829f"
+    ],
+    "content_summary": "TCP的特点 TCP 是在不可靠的IP 层之上实现的可靠的数据传输协议，它主要解决传输的可靠、有序、 无丢失和不重复问题。TCP 是TCP/IP 体系中非常复杂的一个协议，主要特点如下： 1)TCP是面向连接的传输层协议，TCP 连接是一条逻辑连接。 2)每一条TCP 连接只能有两个端点，每一条TCP 连接只能是一对一的。 3)TCP 提供可靠交付的服务，保证传送的数据无差错、不丢失、不重复且有序。 4)TCP 提供全双工通信，允许通信双方的应用进程在任何时候都能发送数据，为此TCP 连 接的两...",
+    "content_length": 615,
+    "created_at": "2025-10-13T11:59:56.857734+00:00",
+    "updated_at": "2025-10-13T12:38:55.561579+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760359110,
+      "processing_end_time": 1760359135
+    }
+  },
+  "doc-169053a2232207c83234da77af38a353": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-169053a2232207c83234da77af38a353"
+    ],
+    "content_summary": "11.差错控制 实际通信链路都不是理想的，比特在传输过程中可能产生差错，1可能变成0,0也可能 变成1,这就是比特差错。比特差错是传输差错中的一种，本节仅讨论比特差错。 通常利用编码技术进行差错控制，主要有两类：自动重传请求 (Automatic Repeat reQuest, ARQ) 和前向纠错 (Forward Error Correction,FEC)。在 ARQ 方式中，当接收方检测到差错时， 就设法通知发送方重发，直到收到正确的数据为止。在FEC 方式中，接收方不但能发现差错，而 且...",
+    "content_length": 285,
+    "created_at": "2025-10-13T11:59:56.857470+00:00",
+    "updated_at": "2025-10-13T12:39:26.878057+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760359135,
+      "processing_end_time": 1760359166
+    }
+  },
+  "doc-3334aa0786dc2897d44d448c9a247cf9": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-3334aa0786dc2897d44d448c9a247cf9"
+    ],
+    "content_summary": "FTP的数据连接与控制连接 FTP 在工作时使用两个并行的TCP 连接(见图6.7):一个是控制连接(服务器端口号21), 一个是数据连接(服务器端口号20)。使用两个不同的端口号可以使协议更容易实现。 1. 控制连接 服务器监听21号端口，等待客户连接，建立在这个端口上的连接称为控制连接，用来传输 控制信息(如连接请求、传送请求等)。 FTP客户发出的传送请求，通过控制连接发送给服务器 端的控制进程，但控制连接并不用来传送文件。在传输文件时还可以使用控制连接(如客户在传输中途发一个中止传输的命...",
+    "content_length": 922,
+    "created_at": "2025-10-13T11:59:56.857797+00:00",
+    "updated_at": "2025-10-13T12:39:28.604809+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760359136,
+      "processing_end_time": 1760359168
+    }
+  },
+  "doc-3f5132f330747329c26f7601c6af729a": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-3f5132f330747329c26f7601c6af729a"
+    ],
+    "content_summary": "端口号 应用进程通过端口号进行标识，端口号长度为16比特，能够表示65536(2¹⁶)个不同的端 口号。端口号只具有本地意义，即端口号只标识本计算机应用层中的各进程，在因特网中不同计 算机的相同端口号是没有联系的。根据端口号范围可将端口分为两类： 1)服务器端使用的端口号。它又分为两类，最重要的一类是熟知端口号，数值为0～1023, IANA (互联网地址指派机构)把这些端口号指派给了 TCP/IP 最重要的一些应用程序， 让所有的用户都知道。另一类称为登记端口号，数值为1024～49151,它...",
+    "content_length": 520,
+    "created_at": "2025-10-13T11:59:56.857684+00:00",
+    "updated_at": "2025-10-13T12:40:01.733043+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760359167,
+      "processing_end_time": 1760359201
+    }
+  },
+  "doc-c06771e1eb5bb3cec6ec51a65632acd0": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-c06771e1eb5bb3cec6ec51a65632acd0"
+    ],
+    "content_summary": "15.中继器 中继器的主要功能是放大、整形并转发信号，以消除信号经过一长段电缆后产生的失真和衰 减，使信号的波形和强度达到所需的要求，进而扩大网络传输的距离。其原理是信号再生(而非 简单地放大衰减的信号)。中继器有两个端口，数据从一个端口输入，从另一个端口发出。端口 仅作用于信号的电气部分，而不管是否有错误数据或不适于网段的数据。 中继器两端的网络部分是网段，而不是子网，使用中继器连接的几个网段仍是一个局域 网。中继器若出现故障，则对相邻两个网段的工作都产生影响。 从理论上讲，中继器的使用数量是...",
+    "content_length": 520,
+    "created_at": "2025-10-13T11:59:56.857440+00:00",
+    "updated_at": "2025-10-13T12:40:00.867749+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760359168,
+      "processing_end_time": 1760359200
+    }
+  },
+  "doc-5b1d47ca7da9d5a7ab5dc2840d5ed9f6": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-5b1d47ca7da9d5a7ab5dc2840d5ed9f6"
+    ],
+    "content_summary": "TCP的重传机制 两种事件会导致TCP 对报文段进行重传：超时和冗余 ACK。 (1)超时 TCP 每发送一个报文段，就对这个报文段设置一个超时计时器。计时器设置的重传时间到期 但还未收到确认时，就要重传这一报文段。 因为 TCP 的下层是互联网环境，IP 数据报所选择的路由变化很大，所以传输层的往返时延 的方差也很大。为了计算超时计时器的重传时间，TCP 采用一种自适应算法，它记录一个报文段 发出的时间，以及收到相应确认的时间，这两个时间之差称为报文段的往返时间 (Round-Trip Tim...",
+    "content_length": 888,
+    "created_at": "2025-10-13T11:59:56.857760+00:00",
+    "updated_at": "2025-10-13T12:40:33.666036+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760359201,
+      "processing_end_time": 1760359233
+    }
+  },
+  "doc-dbba4dd414ecddd29738035d33f3ca3b": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-dbba4dd414ecddd29738035d33f3ca3b"
+    ],
+    "content_summary": "41.IGMP与多播路由协议 路由器要获得多播组的成员信息，需要利用网际组管理协议 (Internet Group Management Protocol,IGMP) 。连接到局域网上的多播路由器还必须和互联网上的其他多播路由器协同工 作，以便把多播数据报用最小代价传送给所有组成员，这就需要使用多播路由选择协议。 IGMP 是让连接到本地局域网上的多播路由器，知道本局域网上是否有主机参加或退出了某 个多播组。IGMP 并不是在互联网范围内对所有多播组成员进行管理的协议。IGMP 不知道IP 多 ...",
+    "content_length": 764,
+    "created_at": "2025-10-13T11:59:56.857670+00:00",
+    "updated_at": "2025-10-13T12:40:31.432296+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760359201,
+      "processing_end_time": 1760359231
+    }
+  },
+  "doc-74cd39b29d5c7a9dfcb41fbed25d63d0": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-74cd39b29d5c7a9dfcb41fbed25d63d0"
+    ],
+    "content_summary": "5.无连接服务与面向连接服务 TCP/IP 族在IP 层之上使用了两个传输协议：一个是面向连接的传输控制协议 (TCP), 采用TCP时，传输层向上提供的是一条全双工的可靠逻辑信道；另一个是无连接的用户数据报协议 (UDP), 采用UDP 时，传输层向上提供的是一条不可靠的逻辑信道。 TCP 提供面向连接的可靠服务，通信双方在传送数据之前必须先建立连接，然后基于此连接 进行可靠数据传输，数据传输结束后要释放连接。TCP不提供广播或多播服务。TCP 为了实现可靠数据传输，就必须增加许多措施，如确认...",
+    "content_length": 592,
+    "created_at": "2025-10-13T11:59:56.857688+00:00",
+    "updated_at": "2025-10-13T12:41:19.062086+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760359232,
+      "processing_end_time": 1760359279
+    }
+  },
+  "doc-528dfb25f22949fe9ea4111070de3c61": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-528dfb25f22949fe9ea4111070de3c61"
+    ],
+    "content_summary": "慢开始算法 慢开始算法的思路是当发送方刚开始发送数据时，因为并不清楚网络的负荷情况，若立即把 大量数据注入网络，则有可能引发网络拥塞。具体方法是：先发送少量数据探测一下，若没有发 生拥塞，则适当增大拥塞窗口，即由小到大逐渐增大拥塞窗口(发送窗口)。 例如，A向B发送数据，发送方先令cwnd=1,即一个MSS 。A发送第一个报文段，A收到 B 对第一个报文段的确认后，把cwnd 从1增大到2。于是A 接着发送两个报文段，A收到B对这两个报文段的确认后，把cwnd 从2增大到4,下次就可一次发送4个...",
+    "content_length": 529,
+    "created_at": "2025-10-13T11:59:56.857768+00:00",
+    "updated_at": "2025-10-13T12:40:50.818072+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760359234,
+      "processing_end_time": 1760359250
+    }
+  },
+  "doc-5a5bd9dacfaef1b13999f924eee82889": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-5a5bd9dacfaef1b13999f924eee82889"
+    ],
+    "content_summary": "基于RIP协议的距离向量算法 对每个相邻路由器发送来的RIP 报文，执行如下步骤： 1)对地址为X 的相邻路由器发来的RIP 报文，先修改该报文中的所有项目：把“下一跳” 字段中的地址都改为X, 并把所有“距离”字段的值加1。 2)对修改后的RIP 报文中的每个项目，执行如下步骤： IF(若原来的路由表中没有目的网络N) 则把该项目添加到路由表中(表明这是新的目的网络)。 ELSEIF (若原来的路由表中有目的网络N, 且下一跳路由器的地址是X) 用收到的项目替换原路由表中的项目(因为要以更新的...",
+    "content_length": 415,
+    "created_at": "2025-10-13T11:59:56.857653+00:00",
+    "updated_at": "2025-10-13T12:41:16.126217+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760359251,
+      "processing_end_time": 1760359276
+    }
+  },
+  "doc-90854237162527620c06990af4b61242": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-90854237162527620c06990af4b61242"
+    ],
+    "content_summary": "42.冲突域与广播域 这里的“域”表示冲突或广播在其中发生并传播的区域。 1. 冲突域 冲突域是指连接到同一物理介质上的所有节点的集合，这些节点之间存在介质争用的现象。 在OSI 参考模型中，冲突域被视为第1层的概念，像集线器、中继器等简单复制转发信号的第1 层设备所连接的节点都属于同一个冲突域，也就是说它们不能划分冲突域。而第2层(网桥、交 换机)、第3层(路由器)设备都可以划分冲突域。 2. 广播域 广播域是指接收同样广播消息的节点集合。也就是说，在该集合中的任何一个节点发送一个 广播帧，其...",
+    "content_length": 408,
+    "created_at": "2025-10-13T11:59:56.857673+00:00",
+    "updated_at": "2025-10-13T12:41:50.828960+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760359276,
+      "processing_end_time": 1760359310
+    }
+  },
+  "doc-e154de1eb0dc691bb53be3a8ede745b5": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-e154de1eb0dc691bb53be3a8ede745b5"
+    ],
+    "content_summary": "电子邮件系统的组成结构 自从有了因特网，电子邮件就在因特网上流行起来。电子邮件是一种异步通信方式，通信时 不需要双方同时在场。电子邮件把邮件发送到收件人使用的邮件服务器，并放在其中的收件人邮 箱中，收件人可以随时上网到自己使用的邮件服务器进行读取。 一个电子邮件系统应具有三个最主要的组成构件，即用户代理 (User Agent)、 邮件服务器和电子邮件使用的协议，如 SMTP 、POP3 (或IMAP)等。 用户代理(UA): 用户与电子邮件系统的接口。用户代理向用户提供一个很友好的接口来发送 ...",
+    "content_length": 733,
+    "created_at": "2025-10-13T11:59:56.857799+00:00",
+    "updated_at": "2025-10-13T12:41:52.880355+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760359279,
+      "processing_end_time": 1760359312
+    }
+  },
+  "doc-91a00947f0ffba20abf053cd6609f4b4": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-91a00947f0ffba20abf053cd6609f4b4"
+    ],
+    "content_summary": "22.ALOHA协议 ALOHA 协议分为纯ALOHA 协议和时隙 ALOHA 协议两种。 ( 1 ) 纯ALOHA协议 纯 ALOHA 协议的基本思想是，当总线形网络中的任何站点需要发送数据时，可以不进行任 何检测就发送数据。若在一段时间内未收到确认，则该站点就认为传输过程中发生了冲突。发送 站点需要等待一段随机的时间后再发送数据，直至发送成功。 纯 ALOHA 网络的吞吐量很低，为了克服这个缺点，便产生了时隙 ALOHA 协议。 (2)时隙ALOHA 协议 时隙ALOHA 协议同步各站点的时...",
+    "content_length": 356,
+    "created_at": "2025-10-13T11:59:56.857506+00:00",
+    "updated_at": "2025-10-13T12:42:16.802410+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760359311,
+      "processing_end_time": 1760359336
+    }
+  },
+  "doc-d16aae67dc3497ccf86dee7749557668": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-d16aae67dc3497ccf86dee7749557668"
+    ],
+    "content_summary": "16.集线器 集线器(Hub) 实质上是一个多端口的中继器。当Hub 工作时，一个端口接收到数据信号后， 因为信号在从端口到Hub 的传输过程中已有衰减，所以 Hub 便对该信号进行整形放大，使之再生 (恢复)到发送时的状态，紧接着转发到其他所有(除输入端口外)处于工作状态的端口。若同 时有两个或多个端口输入，则输出时将发生冲突，致使这些数据都无效。从Hub 的工作方式可以 看出，它在网络中只起信号放大和转发作用，目的是扩大网络的传输范围，而不具备信号的定向 传送能力，即信息传输的方向是固定的，...",
+    "content_length": 380,
+    "created_at": "2025-10-13T11:59:56.857442+00:00",
+    "updated_at": "2025-10-13T12:42:24.037908+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760359313,
+      "processing_end_time": 1760359344
+    }
+  },
+  "doc-2a63d10fa3d4c016a761cb8f1ae3c704": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-2a63d10fa3d4c016a761cb8f1ae3c704"
+    ],
+    "content_summary": "22.地址解析协议 无论网络层使用什么协议，在实际网络的链路上传送数据帧时，最终必须使用硬件地址。所 以需要一种方法来完成 IP 地址到 MAC 地址的映射，这就是地址解析协议 (Address Resolution Protocol,ARP) 。 每台主机都设有一个 ARP 高速缓存，用来存放本局域网上各主机和路由器的 IP 地址到 MAC 地址的映射表，称ARP 表。使用ARP 来动态维护ARP 表。ARP对高速缓存中的 每个映射表项都设置了生存时间(如20min), 超时的项目会从高速缓存...",
+    "content_length": 1151,
+    "created_at": "2025-10-13T11:59:56.857622+00:00",
+    "updated_at": "2025-10-13T12:43:00.144756+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760359337,
+      "processing_end_time": 1760359380
+    }
+  },
+  "doc-52a207a3ccb7b9cffa0c5af13890b31c": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-52a207a3ccb7b9cffa0c5af13890b31c"
+    ],
+    "content_summary": "35.以太网的MAC 地址 IEEE 802 标准为局域网规定了一种48位的全球地址，是指局域网上的每台计算机中固化在网 络适配器的ROM 中的地址，称为物理地址或MAC 地址(因为这种地址用在MAC 帧中),这个地 址用于控制主机在网络上的数据通信。全世界所有的局域网适配器都具有不同的地址，一台计算机只要没有更换适配器，不管其地理位置如何变化，其MAC 地址都不会变化。 MAC 地址长6字节，一般用由连字符(或冒号)分隔的12个十六进制数表示，如02-60-8c-e4- b1-21。高24位为...",
+    "content_length": 533,
+    "created_at": "2025-10-13T11:59:56.857541+00:00",
+    "updated_at": "2025-10-13T12:42:59.667370+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760359344,
+      "processing_end_time": 1760359379
+    }
+  },
+  "doc-b437fcc9f1d822942164e84a58be978c": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-b437fcc9f1d822942164e84a58be978c"
+    ],
+    "content_summary": "33.以太网与IEEE 802.3 以太网是目前最流行的有线局域网技术。 以太网规约的第一个版本是DIX V1,它 由DEC 、Intel 和 Xerox 联合提出。之后，它被修 改为第二版规约 DIX Ethernet V2,是世界上第一个局域网产品的规约。在此基础上， IEEE 802 委员会的IEEE 802.3工作组制定了第一个IEEE 的以太网标准IEEE 802.3。 严格来说，以太网是指符合DIX Ethernet V2 标准的局域网，但DIX Ethernet V2 标准与 IE...",
+    "content_length": 438,
+    "created_at": "2025-10-13T11:59:56.857536+00:00",
+    "updated_at": "2025-10-13T12:43:27.065552+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760359379,
+      "processing_end_time": 1760359407
+    }
+  },
+  "doc-923e96e4d4b52bb3b04cfe246c6719a2": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-923e96e4d4b52bb3b04cfe246c6719a2"
+    ],
+    "content_summary": "文件传输协议FTP的工作原理 文件传输协议( File Transfer Protocol,FTP) 是因特网上使用得最广泛的文件传输协议。FTP 提供交互式的访问，允许客户指明文件的类型与格式，并允许文件具有存取权限。它屏蔽了各计 算机系统的细节，因而适合于在异构网络中的任意计算机之间传送文件。 FTP 提供以下功能： ① 提供不同种类主机系统(硬、软件体系等都可以不同)之间的文件传输能力。 ② 以用户权限管理的方式提供用户对远程 FTP 服务器上的文件管理能力。 ③ 以匿名FTP 的方式提供...",
+    "content_length": 579,
+    "created_at": "2025-10-13T11:59:56.857794+00:00",
+    "updated_at": "2025-10-13T12:43:25.414958+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760359380,
+      "processing_end_time": 1760359405
+    }
+  },
+  "doc-6d0c5176c7587384840d073ee892cd5d": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-6d0c5176c7587384840d073ee892cd5d"
+    ],
+    "content_summary": "8.IPv4 分组 IPv4 (版本4)即现在普遍使用的网际协议( Internet Protocol,IP) 。IP 定义数据传送的基本 单元——IP 分组及其确切的数据格式。IP 也包括一套规则，指明分组如何处理、错误怎样控制。 特别是IP 还包含非可靠投递的思想，以及与此关联的路由选择的思想。",
+    "content_length": 150,
+    "created_at": "2025-10-13T11:59:56.857580+00:00",
+    "updated_at": "2025-10-13T12:43:35.872845+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760359405,
+      "processing_end_time": 1760359415
+    }
+  },
+  "doc-0318afa67c7c85cf3251f467138be0c5": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-0318afa67c7c85cf3251f467138be0c5"
+    ],
+    "content_summary": "17.多帧滑动窗口与后退N 帧协议 (GBN ) 在后退N帧协议中，发送方可在未收到确认帧的情况下，将序号在发送窗口内的多个数据帧 全部发送出去。后退 N 帧的含义是：发送方发送N 个数据帧后，若发现这N 个帧的前一个数据 帧在计时器超时的时候仍未收到其确认信息，则该帧被判为出错或丢失，此时发送方不得不重传该出错帧及随后的N 个帧。这意味着，接收方只允许按顺序接收帧。 发送方向接收方发送数据帧。发送方发完0号帧后，可以继续发送后续的1 号帧、2号帧等。发送方每发送完一个数据帧，就要为该帧设置超时...",
+    "content_length": 839,
+    "created_at": "2025-10-13T11:59:56.857487+00:00",
+    "updated_at": "2025-10-13T12:44:27.871766+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760359407,
+      "processing_end_time": 1760359467
+    }
+  },
+  "doc-9b66a4cbfbcae1dc4a7368ac6414968b": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-9b66a4cbfbcae1dc4a7368ac6414968b"
+    ],
+    "content_summary": "18.多帧滑动窗口与选择重传协议 (SR) 为了进一步提高信道的利用率，可以设法只重传出现差错和计时器超时的数据帧，但此时必 须加大接收窗口，以便先收下失序但正确到达且序号仍落在接收窗口内的那些数据帧，等到所缺 序号的数据帧收齐后，再一并送交上层。这就是选择重传协议。 为了使发送方仅重传出错的帧，接收方不能再采用累积确认，而要对每个正确接收的数据帧 逐一进行确认。显然，选择重传协议比后退N 帧协议更复杂，且接收方需要设置足够的帧缓冲区 (帧缓冲区的数量等于接收窗口大小)来暂存那些失序但正确到达且...",
+    "content_length": 874,
+    "created_at": "2025-10-13T11:59:56.857489+00:00",
+    "updated_at": "2025-10-13T12:44:24.271948+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760359416,
+      "processing_end_time": 1760359464
+    }
+  },
+  "doc-3847f9aa49369d22b4fdfc26cedada4d": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-3847f9aa49369d22b4fdfc26cedada4d"
+    ],
+    "content_summary": "默认网关 默认网关是子网与外部网络连接的设备，也就是连接本机或子网的路由器接口的 IP地址。 当主机发送数据时，根据所发送数据的目的IP 地址，通过子网掩码来判定目的主机是否在子网中， 若目的主机在子网中，则直接发送。若目的主机不在子网中，则将该数据发送到默认网关，由网 关(路由器)将其转发到其他网络，进一步寻找目的主机。 现在的互联网标准规定：所有网络都必须使用子网掩码。若一个网络未划分子网，则该网络 的子网掩码就使用默认子网掩码。A、B、C 类地址的默认子网掩码分别为255.0.0.0、25...",
+    "content_length": 594,
+    "created_at": "2025-10-13T11:59:56.857606+00:00",
+    "updated_at": "2025-10-13T12:45:05.711253+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760359464,
+      "processing_end_time": 1760359505
+    }
+  },
+  "doc-1959dab4eb3600f3898213e5023c1c88": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-1959dab4eb3600f3898213e5023c1c88"
+    ],
+    "content_summary": "1.数据链路层使用的信道主要有两种： 1)点对点信道，使用一对一的通信方式。PPP 则是目前使用最广泛的点对点协议。 2)广播信道，这种信道上连接的主机很多，使用一对多的广播通信方式。采用共享广播信 道的有线局域网普遍使用CSMA/CD 协议，而无线局域网则使用CSMA/CA 协议。",
+    "content_length": 142,
+    "created_at": "2025-10-13T11:59:56.857444+00:00",
+    "updated_at": "2025-10-13T12:44:45.072460+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760359468,
+      "processing_end_time": 1760359485
+    }
+  },
+  "doc-e51d5ea9f8f7fb96cca4b0ddd7154dc3": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-e51d5ea9f8f7fb96cca4b0ddd7154dc3"
+    ],
+    "content_summary": "2.数据链路层的功能： 数据链路层的主要任务是让帧在一段链路上或一个网络中传输。数据链路层协议有多种，但 有三个基本问题则是共同的，即封装成帧、透明传输和差错检测。",
+    "content_length": 82,
+    "created_at": "2025-10-13T11:59:56.857447+00:00",
+    "updated_at": "2025-10-13T12:44:59.859547+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760359485,
+      "processing_end_time": 1760359499
+    }
+  },
+  "doc-f1f3b50c9d92ca833a45c57b098f4840": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-f1f3b50c9d92ca833a45c57b098f4840"
+    ],
+    "content_summary": "TCP连接管理 TCP 是面向连接的协议，因此每个 TCP 连接都有三个阶段：连接建立、数据传送和连接释 放。TCP 连接的管理就是使运输连接的建立和释放都能正常进行。 在TCP 连接建立的过程中，要解决以下三个问题： 1)要使每一方能够确知对方的存在。 2)要允许双方协商一些参数(如最大窗口值、是否使用窗口扩大选项、时间戳选项等)。 3)能够对运输实体资源(如缓存大小、连接表中的项目等)进行分配。 TCP把连接作为最基本的抽象，每条 TCP 连接有两个端点，TCP连接的端点不是主机，不是主机的...",
+    "content_length": 463,
+    "created_at": "2025-10-13T11:59:56.857743+00:00",
+    "updated_at": "2025-10-13T12:45:26.518599+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760359500,
+      "processing_end_time": 1760359526
+    }
+  },
+  "doc-bd4ce9d03fdbaa35af640be89cae47e3": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-bd4ce9d03fdbaa35af640be89cae47e3"
+    ],
+    "content_summary": "9.计算机网络协议、接口、服务的概念 1. 协议 要在网络中做到有条不紊地交换数据，就必须遵循一些事先约定好的规则，其规定了所交换 数据的格式及有关的同步问题。为了在网络中进行数据交换而建立的这些规则、标准或约定称为 网络协议 (Network Protocol),是控制在对等实体之间进行通信的规则的集合，是水平的。不对 等实体之间是没有协议的，如用TCP/IP 栈通信的两个节点A 和节点 B, 节点A 的传输层和节点 B的传输层之间存在协议，但节点A 的传输层和节点B 的网络层之间不存在协议。...",
+    "content_length": 878,
+    "created_at": "2025-10-13T11:59:56.857388+00:00",
+    "updated_at": "2025-10-13T12:46:11.767020+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251013_195956_678557d6",
+    "metadata": {
+      "processing_start_time": 1760359506,
+      "processing_end_time": 1760359571
+    }
+  }
+}

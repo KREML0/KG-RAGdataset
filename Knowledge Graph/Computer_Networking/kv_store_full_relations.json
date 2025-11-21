@@ -1,0 +1,9430 @@
+{
+  "doc-d693d1041a7c71771a82a6eb9d69572e": {
+    "relation_pairs": [
+      [
+        "Checksum Mechanism",
+        "UDP"
+      ],
+      [
+        "Reliable Data Transmission Service",
+        "TCP"
+      ],
+      [
+        "IP Layer",
+        "TCP"
+      ],
+      [
+        "Byte Stream",
+        "Reliable Data Transmission Service"
+      ],
+      [
+        "Retransmission Mechanism",
+        "TCP"
+      ],
+      [
+        "Checksum Mechanism",
+        "TCP"
+      ],
+      [
+        "Acknowledgment Mechanism",
+        "TCP"
+      ],
+      [
+        "Sequence Number",
+        "TCP"
+      ]
+    ],
+    "count": 8,
+    "create_time": 1760356822,
+    "update_time": 1760356822,
+    "_id": "doc-d693d1041a7c71771a82a6eb9d69572e"
+  },
+  "doc-435bdd9d26a21bb6e0962f9964419d8a": {
+    "relation_pairs": [
+      [
+        "Group Address",
+        "Multicast"
+      ],
+      [
+        "Multicast",
+        "Video Server"
+      ],
+      [
+        "Data Replication",
+        "Multicast"
+      ],
+      [
+        "Multicast Protocol",
+        "Multicast Router"
+      ],
+      [
+        "90 Hosts",
+        "Multicast"
+      ],
+      [
+        "IP Multicast",
+        "Multicast"
+      ],
+      [
+        "IP Multicast",
+        "Unicast"
+      ],
+      [
+        "Multicast",
+        "Network Resource Conservation"
+      ]
+    ],
+    "count": 8,
+    "create_time": 1760356822,
+    "update_time": 1760356822,
+    "_id": "doc-435bdd9d26a21bb6e0962f9964419d8a"
+  },
+  "doc-e8fe3bc0c61afa98b433519e51df1934": {
+    "relation_pairs": [
+      [
+        "Interface",
+        "OSI Reference Model"
+      ],
+      [
+        "OSI Reference Model",
+        "Protocol Stack"
+      ],
+      [
+        "Layered Architecture",
+        "TCP/IP Model"
+      ],
+      [
+        "Heterogeneous Network Interconnection",
+        "OSI Reference Model"
+      ],
+      [
+        "OSI Reference Model",
+        "Seven-Layer Model"
+      ],
+      [
+        "TCP/IP Model",
+        "Transport Layer"
+      ],
+      [
+        "Application Layer",
+        "TCP/IP Model"
+      ],
+      [
+        "Reliability",
+        "TCP/IP Model"
+      ],
+      [
+        "Layered Architecture",
+        "OSI Reference Model"
+      ],
+      [
+        "Network Interface Layer",
+        "TCP/IP Model"
+      ],
+      [
+        "OSI Reference Model",
+        "Service"
+      ],
+      [
+        "Network Layer",
+        "TCP/IP Model"
+      ],
+      [
+        "OSI Reference Model",
+        "Transport Layer"
+      ],
+      [
+        "Protocol Stack",
+        "TCP/IP Model"
+      ],
+      [
+        "Network Layer",
+        "OSI Reference Model"
+      ],
+      [
+        "End-to-End Principle",
+        "TCP/IP Model"
+      ],
+      [
+        "Heterogeneous Network Interconnection",
+        "TCP/IP Model"
+      ],
+      [
+        "OSI Reference Model",
+        "Protocol"
+      ],
+      [
+        "Four-Layer Model",
+        "TCP/IP Model"
+      ]
+    ],
+    "count": 19,
+    "create_time": 1760356866,
+    "update_time": 1760356866,
+    "_id": "doc-e8fe3bc0c61afa98b433519e51df1934"
+  },
+  "doc-2f9682e67c13ca61b23bdfa696f033fb": {
+    "relation_pairs": [
+      [
+        "Propagation Delay",
+        "Satellite Communication"
+      ],
+      [
+        "Geostationary Satellite",
+        "Satellite Communication"
+      ],
+      [
+        "Bandwidth",
+        "Digital Signal"
+      ],
+      [
+        "Cellular Mobile Phone",
+        "Wireless Transmission Medium"
+      ],
+      [
+        "Bandwidth",
+        "Microwave"
+      ],
+      [
+        "Military",
+        "Mobile Communication"
+      ],
+      [
+        "Wireless Local Area Network",
+        "Wireless Transmission Medium"
+      ],
+      [
+        "Mobile Communication",
+        "Portable Computer"
+      ],
+      [
+        "Field",
+        "Mobile Communication"
+      ],
+      [
+        "Infrared",
+        "Line of Sight"
+      ],
+      [
+        "Satellite Communication",
+        "Security"
+      ],
+      [
+        "Line of Sight",
+        "Microwave"
+      ],
+      [
+        "Microwave",
+        "Relay Station"
+      ],
+      [
+        "Laser",
+        "Line of Sight"
+      ],
+      [
+        "Microwave",
+        "Propagation Delay"
+      ],
+      [
+        "Carrier Frequency",
+        "Microwave"
+      ],
+      [
+        "Bandwidth",
+        "Voice Line"
+      ],
+      [
+        "2MHz",
+        "Bandwidth"
+      ],
+      [
+        "2～40GHz",
+        "Microwave"
+      ],
+      [
+        "120°",
+        "Geostationary Satellite"
+      ],
+      [
+        "Broadcast Direction",
+        "Radio Waves"
+      ],
+      [
+        "Geostationary Satellite",
+        "Global Coverage"
+      ]
+    ],
+    "count": 22,
+    "create_time": 1760356882,
+    "update_time": 1760356882,
+    "_id": "doc-2f9682e67c13ca61b23bdfa696f033fb"
+  },
+  "doc-c5fd84bdd36dbfe5f2c13e2df224891b": {
+    "relation_pairs": [
+      [
+        "CIDR",
+        "Classless Inter-Domain Routing"
+      ],
+      [
+        "CIDR",
+        "Network Prefix"
+      ],
+      [
+        "Broadcast Address",
+        "IP Address Block"
+      ],
+      [
+        "CIDR",
+        "Slash Notation"
+      ],
+      [
+        "CIDR",
+        "Classful Addressing"
+      ],
+      [
+        "IP Address Block",
+        "Network Address"
+      ],
+      [
+        "128.14.32.5/20",
+        "128.14.47.255"
+      ],
+      [
+        "2^N - 2",
+        "Host Number"
+      ],
+      [
+        "CIDR",
+        "IP Address Block"
+      ],
+      [
+        "Host Number",
+        "Network Prefix"
+      ],
+      [
+        "CIDR",
+        "IPv4 Address Space"
+      ],
+      [
+        "128.14.32.0",
+        "128.14.32.5/20"
+      ],
+      [
+        "Network Prefix",
+        "Subnet Mask"
+      ],
+      [
+        "CIDR",
+        "Variable-Length Subnet Mask"
+      ],
+      [
+        "CIDR",
+        "Subnetting"
+      ]
+    ],
+    "count": 15,
+    "create_time": 1760356913,
+    "update_time": 1760356913,
+    "_id": "doc-c5fd84bdd36dbfe5f2c13e2df224891b"
+  },
+  "doc-90a6889a42d72981da53ed2ad8c557b5": {
+    "relation_pairs": [
+      [
+        "局域网IEEE 802标准",
+        "规编码法"
+      ],
+      [
+        "低-低电平对",
+        "违规编码法"
+      ],
+      [
+        "数据透明传输",
+        "违规编码法"
+      ],
+      [
+        "违规编码法",
+        "高-高电平对"
+      ],
+      [
+        "字符计数法",
+        "零比特填充法"
+      ],
+      [
+        "字节填充法",
+        "零比特填充法"
+      ],
+      [
+        "曼彻斯特编码",
+        "违规编码法"
+      ],
+      [
+        "冗余编码环境",
+        "违规编码法"
+      ],
+      [
+        "局域网IEEE 802标准",
+        "违规编码法"
+      ]
+    ],
+    "count": 9,
+    "create_time": 1760356933,
+    "update_time": 1760356933,
+    "_id": "doc-90a6889a42d72981da53ed2ad8c557b5"
+  },
+  "doc-33e5d43933775bf940b52ea89a1ddcf7": {
+    "relation_pairs": [
+      [
+        "Best-Effort Delivery",
+        "Router"
+      ],
+      [
+        "Datagram Service",
+        "TCP/IP Architecture"
+      ],
+      [
+        "Internet",
+        "TCP/IP Architecture"
+      ],
+      [
+        "OSI Reference Model",
+        "Virtual Circuit Service"
+      ],
+      [
+        "End-to-End Reliability",
+        "Transport Layer"
+      ],
+      [
+        "Best-Effort Delivery",
+        "Network Layer"
+      ],
+      [
+        "Flexibility",
+        "TCP/IP Architecture"
+      ],
+      [
+        "Network Layer",
+        "Packet Forwarding"
+      ],
+      [
+        "Network Layer",
+        "Routing Selection"
+      ],
+      [
+        "Cost Efficiency",
+        "TCP/IP Architecture"
+      ],
+      [
+        "End-to-End Reliability",
+        "TCP/IP Architecture"
+      ]
+    ],
+    "count": 11,
+    "create_time": 1760356935,
+    "update_time": 1760356935,
+    "_id": "doc-33e5d43933775bf940b52ea89a1ddcf7"
+  },
+  "doc-64fefe780381280a30e8fe1364129eb0": {
+    "relation_pairs": [
+      [
+        "CSMA/CA Algorithm",
+        "DIFS"
+      ],
+      [
+        "Retransmission Timer",
+        "Station"
+      ],
+      [
+        "CSMA/CA Algorithm",
+        "Station"
+      ],
+      [
+        "Backoff Algorithm",
+        "CSMA/CA Algorithm"
+      ],
+      [
+        "CSMA/CA Algorithm",
+        "Frame Transmission"
+      ],
+      [
+        "ACK",
+        "Frame Transmission"
+      ],
+      [
+        "Backoff Timer",
+        "Station"
+      ],
+      [
+        "Backoff Timer",
+        "Channel Status"
+      ],
+      [
+        "Backoff Timer",
+        "Frame Transmission"
+      ],
+      [
+        "Frame Transmission",
+        "Retransmission Timer"
+      ]
+    ],
+    "count": 10,
+    "create_time": 1760356957,
+    "update_time": 1760356957,
+    "_id": "doc-64fefe780381280a30e8fe1364129eb0"
+  },
+  "doc-2c39734eccce84bf0d9f02407e80d6ba": {
+    "relation_pairs": [
+      [
+        "Data Link Layer",
+        "Logical Point-to-Point Channel"
+      ],
+      [
+        "Broadcast Channel",
+        "Data Frame"
+      ],
+      [
+        "Data Link Layer",
+        "Token Passing Protocol"
+      ],
+      [
+        "Data Frame",
+        "Token"
+      ],
+      [
+        "Token",
+        "Token Ring Network"
+      ],
+      [
+        "Broadcast Channel",
+        "Token"
+      ],
+      [
+        "Random Medium Access Control",
+        "Token Ring Network"
+      ],
+      [
+        "Data Frame",
+        "Token Ring Network"
+      ],
+      [
+        "Polling Access",
+        "Token Passing Protocol"
+      ],
+      [
+        "Ring Bus",
+        "Token Ring Network"
+      ]
+    ],
+    "count": 10,
+    "create_time": 1760356972,
+    "update_time": 1760356972,
+    "_id": "doc-2c39734eccce84bf0d9f02407e80d6ba"
+  },
+  "doc-8ec1cc43b53a75d3abceeacc27d01564": {
+    "relation_pairs": [
+      [
+        "CIDR",
+        "IPv4"
+      ],
+      [
+        "Fixed Header Length",
+        "IPv6"
+      ],
+      [
+        "IPv6",
+        "UDP"
+      ],
+      [
+        "IPv6",
+        "Improved Options"
+      ],
+      [
+        "Extended Address Hierarchy",
+        "IPv6"
+      ],
+      [
+        "DNS",
+        "IPv6"
+      ],
+      [
+        "Enhanced Security",
+        "IPv6"
+      ],
+      [
+        "IGMP",
+        "IPv6"
+      ],
+      [
+        "2011 February",
+        "IPv6"
+      ],
+      [
+        "IPv6",
+        "Larger Address Space"
+      ],
+      [
+        "Flexible Header Format",
+        "IPv6"
+      ],
+      [
+        "IPv6",
+        "Resource Preallocation"
+      ],
+      [
+        "IPv4",
+        "NAT"
+      ],
+      [
+        "IPv6",
+        "Plug And Play"
+      ],
+      [
+        "ICMP",
+        "IPv6"
+      ],
+      [
+        "IPv6",
+        "TCP"
+      ],
+      [
+        "End-to-End Fragmentation",
+        "IPv6"
+      ],
+      [
+        "IPv6",
+        "Protocol Extensibility"
+      ],
+      [
+        "IP Address Exhaustion",
+        "IPv4"
+      ]
+    ],
+    "count": 19,
+    "create_time": 1760356998,
+    "update_time": 1760356998,
+    "_id": "doc-8ec1cc43b53a75d3abceeacc27d01564"
+  },
+  "doc-5086a97acf28dfe48979a0861070dab7": {
+    "relation_pairs": [
+      [
+        "HTTP",
+        "Stateless Nature"
+      ],
+      [
+        "Database",
+        "User Activity Tracking"
+      ],
+      [
+        "Cookie",
+        "Database"
+      ],
+      [
+        "HTTP Response",
+        "Set-Cookie Header"
+      ],
+      [
+        "HTTP",
+        "No-Connection Model"
+      ],
+      [
+        "Personalization",
+        "User Activity Tracking"
+      ],
+      [
+        "Cookie",
+        "Set-Cookie Header"
+      ],
+      [
+        "Cookie Identifier",
+        "Database"
+      ],
+      [
+        "Cookie",
+        "HTTP Request"
+      ],
+      [
+        "HTTP",
+        "TCP"
+      ]
+    ],
+    "count": 10,
+    "create_time": 1760357013,
+    "update_time": 1760357013,
+    "_id": "doc-5086a97acf28dfe48979a0861070dab7"
+  },
+  "doc-e138d554b6cd05839654386c2b499665": {
+    "relation_pairs": [
+      [
+        "64B",
+        "Ethernet"
+      ],
+      [
+        "Maximum One-Way Propagation Delay",
+        "Shortest Frame Length"
+      ],
+      [
+        "10Mb/s Ethernet",
+        "Shortest Frame Length"
+      ],
+      [
+        "MAC Sublayer",
+        "Padding Field"
+      ],
+      [
+        "40B Frame",
+        "Shortest Frame Length"
+      ],
+      [
+        "CSMA/CD",
+        "Ethernet"
+      ],
+      [
+        "Ethernet",
+        "Shortest Frame Length"
+      ],
+      [
+        "51.2 μs",
+        "Contention Period"
+      ],
+      [
+        "Data Transmission Rate",
+        "Shortest Frame Length"
+      ],
+      [
+        "64B",
+        "Shortest Frame Length"
+      ],
+      [
+        "Contention Period",
+        "Shortest Frame Length"
+      ],
+      [
+        "CSMA/CD",
+        "Shortest Frame Length"
+      ]
+    ],
+    "count": 12,
+    "create_time": 1760357030,
+    "update_time": 1760357030,
+    "_id": "doc-e138d554b6cd05839654386c2b499665"
+  },
+  "doc-8de233eef29df2b5f5780ea3ec012c73": {
+    "relation_pairs": [
+      [
+        "Digital Transmission",
+        "Repeater"
+      ],
+      [
+        "Copper Wire",
+        "Twisted Pair Cable"
+      ],
+      [
+        "Electromagnetic Interference",
+        "Twisted Pair Cable"
+      ],
+      [
+        "Bandwidth",
+        "Twisted Pair Cable"
+      ],
+      [
+        "Transmission Distance",
+        "Twisted Pair Cable"
+      ],
+      [
+        "Twisted Pair Cable",
+        "Unshielded Twisted Pair"
+      ],
+      [
+        "Figure 2.4",
+        "Twisted Pair Cable"
+      ],
+      [
+        "Analog Transmission",
+        "Signal Amplifier"
+      ],
+      [
+        "Shielded Twisted Pair",
+        "Twisted Pair Cable"
+      ]
+    ],
+    "count": 9,
+    "create_time": 1760357036,
+    "update_time": 1760357036,
+    "_id": "doc-8de233eef29df2b5f5780ea3ec012c73"
+  },
+  "doc-9e5c83dc6ab2e9b79de27342e6bcf4f1": {
+    "relation_pairs": [
+      [
+        "Critical Angle",
+        "Total Internal Reflection"
+      ],
+      [
+        "Attenuation",
+        "Single Mode Fiber"
+      ],
+      [
+        "Distance",
+        "Multimode Fiber"
+      ],
+      [
+        "Cladding",
+        "Optical Fiber"
+      ],
+      [
+        "Figure 2.8",
+        "Single Mode Fiber"
+      ],
+      [
+        "Critical Angle",
+        "Light Pulse"
+      ],
+      [
+        "Optical Fiber",
+        "Transmission Loss"
+      ],
+      [
+        "Electromagnetic Interference",
+        "Optical Fiber"
+      ],
+      [
+        "Optical Fiber",
+        "Security"
+      ],
+      [
+        "Cable Conduit",
+        "Optical Fiber"
+      ],
+      [
+        "Bandwidth",
+        "Fiber Optic Communication"
+      ],
+      [
+        "Cladding",
+        "Core"
+      ],
+      [
+        "Fiber Optic Communication",
+        "Light Pulse"
+      ],
+      [
+        "Multimode Fiber",
+        "Total Internal Reflection"
+      ],
+      [
+        "Core",
+        "Optical Fiber"
+      ],
+      [
+        "Semiconductor Laser",
+        "Single Mode Fiber"
+      ],
+      [
+        "Core",
+        "Single Mode Fiber"
+      ]
+    ],
+    "count": 17,
+    "create_time": 1760357071,
+    "update_time": 1760357071,
+    "_id": "doc-9e5c83dc6ab2e9b79de27342e6bcf4f1"
+  },
+  "doc-ded820cc4b9df1e3a9f4c6f9dd3fb3c0": {
+    "relation_pairs": [
+      [
+        "High-Speed Link",
+        "Wide Area Network"
+      ],
+      [
+        "Local Area Network",
+        "Wide Area Network"
+      ],
+      [
+        "Internet",
+        "Wide Area Network"
+      ],
+      [
+        "Figure 3.32",
+        "Wide Area Network"
+      ],
+      [
+        "Data Transmission",
+        "Wide Area Network"
+      ],
+      [
+        "Internet",
+        "Router"
+      ],
+      [
+        "Communication Capacity",
+        "Wide Area Network"
+      ]
+    ],
+    "count": 7,
+    "create_time": 1760357071,
+    "update_time": 1760357071,
+    "_id": "doc-ded820cc4b9df1e3a9f4c6f9dd3fb3c0"
+  },
+  "doc-b872e6d68299bd1edb20c872667c0401": {
+    "relation_pairs": [
+      [
+        "奇偶检验码",
+        "奇检验码"
+      ],
+      [
+        "循环冗余码",
+        "生成多项式"
+      ],
+      [
+        "循环冗余码",
+        "硬件实现"
+      ],
+      [
+        "冗余编码技术",
+        "检错编码"
+      ],
+      [
+        "偶检验码",
+        "奇偶检验码"
+      ],
+      [
+        "信息位",
+        "检验位"
+      ],
+      [
+        "检错编码",
+        "码字"
+      ],
+      [
+        "循环冗余码",
+        "数据链路层"
+      ],
+      [
+        "余数",
+        "误码"
+      ],
+      [
+        "循环冗余码",
+        "模2除法"
+      ],
+      [
+        "余数",
+        "帧检验序列"
+      ],
+      [
+        "帧检验序列",
+        "循环冗余码"
+      ]
+    ],
+    "count": 12,
+    "create_time": 1760357097,
+    "update_time": 1760357097,
+    "_id": "doc-b872e6d68299bd1edb20c872667c0401"
+  },
+  "doc-a383ff24728cd86c12eb3a588a93b781": {
+    "relation_pairs": [
+      [
+        "Client",
+        "SYN-SENT State"
+      ],
+      [
+        "Initial Sequence Number",
+        "Sequence Number"
+      ],
+      [
+        "SYN Bit",
+        "Three-Way Handshake"
+      ],
+      [
+        "ACK Bit",
+        "Three-Way Handshake"
+      ],
+      [
+        "SYN-ACK Packet",
+        "Server"
+      ],
+      [
+        "SYN-RCVD State",
+        "Server"
+      ],
+      [
+        "Client",
+        "Server"
+      ],
+      [
+        "Acknowledgment Number",
+        "Sequence Number"
+      ],
+      [
+        "Full-Duplex Communication",
+        "TCP Connection"
+      ],
+      [
+        "Client",
+        "ESTABLISHED State"
+      ],
+      [
+        "Client",
+        "SYN-ACK Packet"
+      ],
+      [
+        "TCP Connection",
+        "Three-Way Handshake"
+      ],
+      [
+        "ESTABLISHED State",
+        "Server"
+      ]
+    ],
+    "count": 13,
+    "create_time": 1760357108,
+    "update_time": 1760357108,
+    "_id": "doc-a383ff24728cd86c12eb3a588a93b781"
+  },
+  "doc-91effd7dab51380f256eb6af95d2aaae": {
+    "relation_pairs": [
+      [
+        "Bit Error Rate",
+        "Wired Network"
+      ],
+      [
+        "Data Link Layer",
+        "Reliable Transmission Mechanism"
+      ],
+      [
+        "Acknowledgment Frame",
+        "Data Frame"
+      ],
+      [
+        "Acknowledgment",
+        "Reliable Transmission Mechanism"
+      ],
+      [
+        "Automatic Repeat Request",
+        "Stop-and-Wait Protocol"
+      ],
+      [
+        "Acknowledgment",
+        "Data Frame"
+      ],
+      [
+        "Reliable Transmission Mechanism",
+        "Upper Layer"
+      ],
+      [
+        "Automatic Repeat Request",
+        "Selective Repeat Protocol"
+      ],
+      [
+        "Reliable Transmission Mechanism",
+        "Timeout Retransmission"
+      ],
+      [
+        "Data Frame",
+        "Timeout Retransmission"
+      ],
+      [
+        "Automatic Repeat Request",
+        "Go-Back-N Protocol"
+      ],
+      [
+        "Bit Error Rate",
+        "Wireless Network"
+      ]
+    ],
+    "count": 12,
+    "create_time": 1760357143,
+    "update_time": 1760357143,
+    "_id": "doc-91effd7dab51380f256eb6af95d2aaae"
+  },
+  "doc-6b7c657f1967dce5705d736f3efd0c32": {
+    "relation_pairs": [
+      [
+        "16位字",
+        "UDP检验和"
+      ],
+      [
+        "UDP检验和",
+        "伪首部"
+      ],
+      [
+        "UDP检验和",
+        "全0字节"
+      ],
+      [
+        "UDP检验和",
+        "二进制反码"
+      ],
+      [
+        "UDP检验和",
+        "接收方"
+      ],
+      [
+        "UDP检验和",
+        "发送方"
+      ],
+      [
+        "IP数据报首部检验和",
+        "UDP检验和"
+      ]
+    ],
+    "count": 7,
+    "create_time": 1760357145,
+    "update_time": 1760357145,
+    "_id": "doc-6b7c657f1967dce5705d736f3efd0c32"
+  },
+  "doc-d2c6d06a73e0ddce405a5b6e58fdcb93": {
+    "relation_pairs": [
+      [
+        "Manchester Encoding",
+        "NRZI Encoding"
+      ],
+      [
+        "Baseband Transmission",
+        "RZ Encoding"
+      ],
+      [
+        "Baseband Transmission",
+        "NRZ Encoding"
+      ],
+      [
+        "Manchester Encoding",
+        "Standard Ethernet"
+      ],
+      [
+        "NRZI Encoding",
+        "RZ Encoding"
+      ],
+      [
+        "NRZ Encoding",
+        "NRZI Encoding"
+      ],
+      [
+        "NRZI Encoding",
+        "USB 2.0"
+      ],
+      [
+        "Broadband High-Speed Network",
+        "Differential Manchester Encoding"
+      ],
+      [
+        "Baseband Transmission",
+        "Digital Data Encoding"
+      ],
+      [
+        "Differential Manchester Encoding",
+        "Manchester Encoding"
+      ]
+    ],
+    "count": 10,
+    "create_time": 1760357166,
+    "update_time": 1760357166,
+    "_id": "doc-d2c6d06a73e0ddce405a5b6e58fdcb93"
+  },
+  "doc-9efc7a10d017bd1ef2dc172877b3ee17": {
+    "relation_pairs": [
+      [
+        "Recipient",
+        "User Mailbox"
+      ],
+      [
+        "Sending-End Mail Server",
+        "TCP Connection"
+      ],
+      [
+        "Receiving-End Mail Server",
+        "User Mailbox"
+      ],
+      [
+        "POP3",
+        "Recipient"
+      ],
+      [
+        "SMTP",
+        "User Agent"
+      ],
+      [
+        "IMAP",
+        "Recipient"
+      ],
+      [
+        "SMTP",
+        "Sending-End Mail Server"
+      ],
+      [
+        "Mail Cache Queue",
+        "Sending-End Mail Server"
+      ],
+      [
+        "Email Sending Process",
+        "User Agent"
+      ],
+      [
+        "Receiving-End Mail Server",
+        "Sending-End Mail Server"
+      ]
+    ],
+    "count": 10,
+    "create_time": 1760357176,
+    "update_time": 1760357176,
+    "_id": "doc-9efc7a10d017bd1ef2dc172877b3ee17"
+  },
+  "doc-062bb13233440998dd19c64c269aecc9": {
+    "relation_pairs": [
+      [
+        "Application Layer",
+        "User Application"
+      ],
+      [
+        "Congestion Control",
+        "Transport Layer"
+      ],
+      [
+        "Demultiplexing",
+        "Transport Layer"
+      ],
+      [
+        "International Organization for Standardization",
+        "OSI Reference Model"
+      ],
+      [
+        "Process",
+        "Session Layer"
+      ],
+      [
+        "Application Layer",
+        "Application Protocol"
+      ],
+      [
+        "Error Control",
+        "Network Layer"
+      ],
+      [
+        "Session Layer",
+        "Synchronization"
+      ],
+      [
+        "Presentation Layer",
+        "Standard Encoding"
+      ],
+      [
+        "Bit",
+        "Physical Layer"
+      ],
+      [
+        "Multiplexing",
+        "Transport Layer"
+      ],
+      [
+        "Data Link Layer",
+        "Frame"
+      ],
+      [
+        "Error Control",
+        "Transport Layer"
+      ],
+      [
+        "Layer 0",
+        "Physical Layer"
+      ],
+      [
+        "Optical Fiber",
+        "Physical Layer"
+      ],
+      [
+        "Data Encryption",
+        "Presentation Layer"
+      ],
+      [
+        "Application Layer",
+        "Network Access"
+      ],
+      [
+        "Data Link Layer",
+        "OSI Reference Model"
+      ],
+      [
+        "Double Twisted Pair Cable",
+        "Physical Layer"
+      ],
+      [
+        "Application Layer",
+        "OSI Reference Model"
+      ],
+      [
+        "Data Link Layer",
+        "Error Control"
+      ],
+      [
+        "Checkpoints",
+        "Session Layer"
+      ],
+      [
+        "OSI Reference Model",
+        "Transport Layer"
+      ],
+      [
+        "OSI Reference Model",
+        "Physical Layer"
+      ],
+      [
+        "Data Representation",
+        "Presentation Layer"
+      ],
+      [
+        "Connection",
+        "Session Layer"
+      ],
+      [
+        "Checkpoint Mechanism",
+        "Session Layer"
+      ],
+      [
+        "OSI Reference Model",
+        "Presentation Layer"
+      ],
+      [
+        "Data Compression",
+        "Presentation Layer"
+      ],
+      [
+        "Network Layer",
+        "OSI Reference Model"
+      ],
+      [
+        "Flow Control",
+        "Transport Layer"
+      ],
+      [
+        "Congestion Control",
+        "Network Layer"
+      ],
+      [
+        "OSI Reference Model",
+        "Session Layer"
+      ],
+      [
+        "Data Packet",
+        "Network Layer"
+      ],
+      [
+        "Physical Layer",
+        "Wireless Channel"
+      ]
+    ],
+    "count": 35,
+    "create_time": 1760357224,
+    "update_time": 1760357224,
+    "_id": "doc-062bb13233440998dd19c64c269aecc9"
+  },
+  "doc-cfbef1aa24796f655483739dd955928a": {
+    "relation_pairs": [
+      [
+        "Channel Division Medium Access Control",
+        "Multi-User Communication"
+      ],
+      [
+        "Channel",
+        "Code Chip Sequence"
+      ],
+      [
+        "Frequency Division Multiplexing",
+        "Isolation Band"
+      ],
+      [
+        "Frequency Division Multiplexing",
+        "Sub-Band"
+      ],
+      [
+        "Chip",
+        "Code Division Multiplexing"
+      ],
+      [
+        "Statistical Time Division Multiplexing",
+        "Time Division Multiplexing"
+      ],
+      [
+        "Code Division Multiple Access",
+        "Orthogonal Code"
+      ],
+      [
+        "Broadcast Channel",
+        "Point-to-Point Channel"
+      ],
+      [
+        "Code Division Multiplexing",
+        "Code Sequence"
+      ],
+      [
+        "Channel Division Medium Access Control",
+        "Time Division Multiplexing"
+      ],
+      [
+        "Transmission Medium",
+        "Wavelength Division Multiplexing"
+      ],
+      [
+        "Station A",
+        "Station C"
+      ],
+      [
+        "TDM Frame",
+        "Time Division Multiplexing"
+      ],
+      [
+        "Orthogonality",
+        "Vector"
+      ],
+      [
+        "STDM Frame",
+        "Statistical Time Division Multiplexing"
+      ],
+      [
+        "Station A",
+        "Vector"
+      ],
+      [
+        "Bit Value",
+        "Code Chip Sequence"
+      ],
+      [
+        "Channel Division Medium Access Control",
+        "Code Division Multiplexing"
+      ],
+      [
+        "Station B",
+        "Station C"
+      ],
+      [
+        "Bandwidth",
+        "Transmission Medium"
+      ],
+      [
+        "Station B",
+        "Vector"
+      ],
+      [
+        "Channel Division Medium Access Control",
+        "Wavelength Division Multiplexing"
+      ],
+      [
+        "Channel Division Medium Access Control",
+        "Frequency Division Multiplexing"
+      ]
+    ],
+    "count": 23,
+    "create_time": 1760357233,
+    "update_time": 1760357233,
+    "_id": "doc-cfbef1aa24796f655483739dd955928a"
+  },
+  "doc-2193c45a2f66d8a152ee088f9a81d561": {
+    "relation_pairs": [
+      [
+        "Analog Signal",
+        "Frequency Division Multiplexing"
+      ],
+      [
+        "Bandwidth",
+        "Frequency Division Multiplexing"
+      ],
+      [
+        "Local Exchange Switch",
+        "Telephone"
+      ],
+      [
+        "Analog Signal",
+        "Signal Encoding"
+      ],
+      [
+        "Analog Signal",
+        "Frequency"
+      ],
+      [
+        "Analog Data",
+        "Analog Signal"
+      ]
+    ],
+    "count": 6,
+    "create_time": 1760357243,
+    "update_time": 1760357243,
+    "_id": "doc-2193c45a2f66d8a152ee088f9a81d561"
+  },
+  "doc-4c7203a984d35ac46171bd77288ec178": {
+    "relation_pairs": [
+      [
+        "Router",
+        "Routing Table"
+      ],
+      [
+        "Classification of IP Addresses",
+        "Classless IP Addressing"
+      ],
+      [
+        "IP Address",
+        "LAN"
+      ],
+      [
+        "IP Address",
+        "Link Interface"
+      ],
+      [
+        "Broadcast Domain",
+        "LAN"
+      ],
+      [
+        "Network Number",
+        "Router"
+      ],
+      [
+        "Link Interface",
+        "Router"
+      ],
+      [
+        "IP Address",
+        "Network Number"
+      ],
+      [
+        "Bridge",
+        "LAN"
+      ],
+      [
+        "Address Allocation",
+        "Network Number"
+      ],
+      [
+        "Network Number",
+        "Subnet"
+      ],
+      [
+        "Host Number",
+        "IP Address"
+      ]
+    ],
+    "count": 12,
+    "create_time": 1760357264,
+    "update_time": 1760357264,
+    "_id": "doc-4c7203a984d35ac46171bd77288ec178"
+  },
+  "doc-38ae3431155a02f16cd5bc37c2fc48e5": {
+    "relation_pairs": [
+      [
+        "BGP-4",
+        "Open Message"
+      ],
+      [
+        "BGP",
+        "Path Vector Routing Selection Protocol"
+      ],
+      [
+        "BGP-4",
+        "Notification Message"
+      ],
+      [
+        "BGP-4",
+        "Keepalive Message"
+      ],
+      [
+        "BGP",
+        "Link State Protocol"
+      ],
+      [
+        "Autonomous System",
+        "BGP"
+      ],
+      [
+        "BGP-4",
+        "Update Message"
+      ],
+      [
+        "BGP",
+        "Internal Gateway Protocol"
+      ],
+      [
+        "BGP",
+        "Distance Vector Protocol"
+      ]
+    ],
+    "count": 9,
+    "create_time": 1760357290,
+    "update_time": 1760357290,
+    "_id": "doc-38ae3431155a02f16cd5bc37c2fc48e5"
+  },
+  "doc-ef8a9f4c0c5c999299e0206e5631634d": {
+    "relation_pairs": [
+      [
+        "Packet Forwarding Part",
+        "Switching Fabric"
+      ],
+      [
+        "Router",
+        "WAN"
+      ],
+      [
+        "Indirect Delivery",
+        "Router"
+      ],
+      [
+        "Buffer Queue",
+        "Output Port"
+      ],
+      [
+        "Network Layer Device",
+        "Router"
+      ],
+      [
+        "Packet Forwarding",
+        "Router"
+      ],
+      [
+        "Physical Layer",
+        "Router"
+      ],
+      [
+        "Router",
+        "Switching Fabric"
+      ],
+      [
+        "Routing Selection Part",
+        "Routing Table"
+      ],
+      [
+        "Output Port",
+        "Router"
+      ],
+      [
+        "Forwarding Table",
+        "Routing Table"
+      ],
+      [
+        "Data Link Layer",
+        "Router"
+      ],
+      [
+        "Routing Selection Processor",
+        "Routing Table"
+      ],
+      [
+        "Logical Network",
+        "Router"
+      ],
+      [
+        "Direct Delivery",
+        "Router"
+      ],
+      [
+        "Broadcast Domain",
+        "Router"
+      ],
+      [
+        "Router",
+        "VLAN"
+      ],
+      [
+        "Network Layer",
+        "Router"
+      ],
+      [
+        "Input Port",
+        "Router"
+      ],
+      [
+        "LAN",
+        "Router"
+      ],
+      [
+        "Buffer Queue",
+        "Input Port"
+      ]
+    ],
+    "count": 21,
+    "create_time": 1760357292,
+    "update_time": 1760357292,
+    "_id": "doc-ef8a9f4c0c5c999299e0206e5631634d"
+  },
+  "doc-d26e454e0cafa7054b8b83a7872f944d": {
+    "relation_pairs": [
+      [
+        "IP Address",
+        "Network Layer"
+      ],
+      [
+        "Hardware Port",
+        "Software Port"
+      ],
+      [
+        "Application Layer",
+        "Port"
+      ],
+      [
+        "Protocol Stack",
+        "Transport Layer"
+      ],
+      [
+        "Application Layer",
+        "Service Access Point"
+      ],
+      [
+        "Service Access Point",
+        "Transport Layer"
+      ],
+      [
+        "IP Address",
+        "Port"
+      ],
+      [
+        "Port",
+        "Transport Layer"
+      ]
+    ],
+    "count": 8,
+    "create_time": 1760357306,
+    "update_time": 1760357306,
+    "_id": "doc-d26e454e0cafa7054b8b83a7872f944d"
+  },
+  "doc-7e83948c6bd846ef184f0946894f3d3d": {
+    "relation_pairs": [
+      [
+        "POP",
+        "Port 110"
+      ],
+      [
+        "HTTP",
+        "Web-Based Email"
+      ],
+      [
+        "HTTP",
+        "Hotmail"
+      ],
+      [
+        "POP",
+        "TCP"
+      ],
+      [
+        "Download And Delete",
+        "POP"
+      ],
+      [
+        "POP",
+        "POP3"
+      ],
+      [
+        "IMAP",
+        "MIME"
+      ],
+      [
+        "POP",
+        "User Agent"
+      ],
+      [
+        "Download And Keep",
+        "POP"
+      ],
+      [
+        "Gmail",
+        "SMTP"
+      ],
+      [
+        "IMAP",
+        "User Agent"
+      ],
+      [
+        "Hotmail",
+        "SMTP"
+      ],
+      [
+        "Gmail",
+        "HTTP"
+      ],
+      [
+        "Mail Server",
+        "POP"
+      ],
+      [
+        "IMAP",
+        "Low Bandwidth"
+      ],
+      [
+        "IMAP",
+        "IMAP Server"
+      ]
+    ],
+    "count": 16,
+    "create_time": 1760357317,
+    "update_time": 1760357317,
+    "_id": "doc-7e83948c6bd846ef184f0946894f3d3d"
+  },
+  "doc-fe29004a486eaaf37b6bdca0ac55e4a0": {
+    "relation_pairs": [
+      [
+        "Resource",
+        "URL"
+      ],
+      [
+        "URL",
+        "World Wide Web"
+      ],
+      [
+        "Hyperlink",
+        "World Wide Web"
+      ],
+      [
+        "HTML",
+        "Hyperlink"
+      ],
+      [
+        "HTTP",
+        "World Wide Web"
+      ],
+      [
+        "HTML",
+        "World Wide Web"
+      ]
+    ],
+    "count": 6,
+    "create_time": 1760357326,
+    "update_time": 1760357326,
+    "_id": "doc-fe29004a486eaaf37b6bdca0ac55e4a0"
+  },
+  "doc-666a4563032265befd1f7a3d948c8021": {
+    "relation_pairs": [
+      [
+        "存储转发技术",
+        "报文交换"
+      ],
+      [
+        "建立连接时延",
+        "报文交换"
+      ],
+      [
+        "报文交换",
+        "缓存开销"
+      ],
+      [
+        "报文交换",
+        "线路利用率"
+      ],
+      [
+        "差错检验",
+        "报文交换"
+      ],
+      [
+        "报文",
+        "报文交换"
+      ],
+      [
+        "报文交换",
+        "转发表"
+      ],
+      [
+        "报文交换",
+        "错误处理"
+      ]
+    ],
+    "count": 8,
+    "create_time": 1760357339,
+    "update_time": 1760357339,
+    "_id": "doc-666a4563032265befd1f7a3d948c8021"
+  },
+  "doc-a16eed83e89a604b1c6a3566a3048bc8": {
+    "relation_pairs": [
+      [
+        "ICANN",
+        "IPv4 Address"
+      ],
+      [
+        "Host Number",
+        "Network Number"
+      ],
+      [
+        "Host Number",
+        "IPv4 Address"
+      ],
+      [
+        "IPv4 Address",
+        "Network Number"
+      ],
+      [
+        "Internet",
+        "Network Number"
+      ],
+      [
+        "IPv4 Address",
+        "Internet"
+      ],
+      [
+        "IPv4 Address",
+        "Point-Dot Decimal Notation"
+      ]
+    ],
+    "count": 7,
+    "create_time": 1760357352,
+    "update_time": 1760357352,
+    "_id": "doc-a16eed83e89a604b1c6a3566a3048bc8"
+  },
+  "doc-53459c650e6a12b5e3b714838b4cbf03": {
+    "relation_pairs": [
+      [
+        "分组",
+        "分组交换"
+      ],
+      [
+        "分组",
+        "首部"
+      ],
+      [
+        "分组交换",
+        "数据报服务"
+      ],
+      [
+        "分组",
+        "编码编号信息"
+      ],
+      [
+        "分组交换",
+        "存储转发时延"
+      ],
+      [
+        "分组交换机",
+        "缓冲区"
+      ],
+      [
+        "分组交换",
+        "流水线方式"
+      ],
+      [
+        "控制信息",
+        "通信效率"
+      ],
+      [
+        "分组",
+        "目的主机"
+      ],
+      [
+        "报文",
+        "报文交换"
+      ],
+      [
+        "分组交换机",
+        "转发表"
+      ],
+      [
+        "分组",
+        "源主机"
+      ],
+      [
+        "分组交换",
+        "报文交换"
+      ],
+      [
+        "控制信息",
+        "数据量"
+      ],
+      [
+        "分组交换",
+        "虚电路服务"
+      ],
+      [
+        "分组交换",
+        "控制信息"
+      ],
+      [
+        "分组交换",
+        "分组交换机"
+      ]
+    ],
+    "count": 17,
+    "create_time": 1760357373,
+    "update_time": 1760357373,
+    "_id": "doc-53459c650e6a12b5e3b714838b4cbf03"
+  },
+  "doc-e645b2b9f70b19b6c5dfa6825f63a4a1": {
+    "relation_pairs": [
+      [
+        "Browser",
+        "HTTP"
+      ],
+      [
+        "HTTP Response",
+        "Web Page Display"
+      ],
+      [
+        "Port 80",
+        "World Wide Web Server"
+      ],
+      [
+        "HTTP Response",
+        "World Wide Web Server"
+      ],
+      [
+        "TCP",
+        "TCP Connection Release"
+      ],
+      [
+        "Browser",
+        "TCP"
+      ],
+      [
+        "Browser",
+        "Domain Name Resolution"
+      ],
+      [
+        "HTTP",
+        "World Wide Web Server"
+      ],
+      [
+        "Browser",
+        "Web Page Request"
+      ]
+    ],
+    "count": 9,
+    "create_time": 1760357381,
+    "update_time": 1760357381,
+    "_id": "doc-e645b2b9f70b19b6c5dfa6825f63a4a1"
+  },
+  "doc-806b33bc8df5a5e63aed8f0efea8d788": {
+    "relation_pairs": [
+      [
+        "域名解析",
+        "域名解析过程"
+      ],
+      [
+        "DNS客户端",
+        "DNS请求报文"
+      ],
+      [
+        "迭代查询",
+        "递归查询"
+      ],
+      [
+        "DNS请求报文",
+        "UDP数据报"
+      ],
+      [
+        "DNS请求报文",
+        "本地域名服务器"
+      ]
+    ],
+    "count": 5,
+    "create_time": 1760357385,
+    "update_time": 1760357385,
+    "_id": "doc-806b33bc8df5a5e63aed8f0efea8d788"
+  },
+  "doc-fffe15e88f2df301f1faa7096f4391b0": {
+    "relation_pairs": [
+      [
+        "IP Header",
+        "IPv4 Datagram"
+      ],
+      [
+        "IPv4",
+        "Version Field"
+      ],
+      [
+        "Header Checksum",
+        "IP Header"
+      ],
+      [
+        "Protocol Field",
+        "UDP"
+      ],
+      [
+        "IP Header",
+        "Optional Fields"
+      ],
+      [
+        "Fragment Offset Field",
+        "Fragmentation"
+      ],
+      [
+        "Destination Address Field",
+        "IPv4 Datagram"
+      ],
+      [
+        "Fixed Header Part",
+        "IP Header"
+      ],
+      [
+        "Maximum Transmission Unit",
+        "Total Length Field"
+      ],
+      [
+        "Don't Fragment Flag",
+        "Flag Field"
+      ],
+      [
+        "Protocol Field",
+        "TCP"
+      ],
+      [
+        "Data Part",
+        "IPv4 Datagram"
+      ],
+      [
+        "Fixed Header Part",
+        "Header Length Field"
+      ],
+      [
+        "Router Hop Limit",
+        "Time To Live"
+      ],
+      [
+        "Flag Field",
+        "More Fragments Flag"
+      ],
+      [
+        "IPv4 Datagram",
+        "Source Address Field"
+      ],
+      [
+        "Fragmentation",
+        "Identification Field"
+      ]
+    ],
+    "count": 17,
+    "create_time": 1760357418,
+    "update_time": 1760357418,
+    "_id": "doc-fffe15e88f2df301f1faa7096f4391b0"
+  },
+  "doc-39bab698a0c52ee767bbb6ac6cf9fbdd": {
+    "relation_pairs": [
+      [
+        "1020B Fragment",
+        "4000B IP Datagram"
+      ],
+      [
+        "IP Data Datagram",
+        "Identifier Field"
+      ],
+      [
+        "Fragment",
+        "Reassembly"
+      ],
+      [
+        "Fragment Offset Field",
+        "Reassembly"
+      ],
+      [
+        "8B Unit",
+        "Fragment Offset Field"
+      ],
+      [
+        "IP Data Datagram",
+        "Link Layer"
+      ],
+      [
+        "Fragment",
+        "Original Datagram"
+      ],
+      [
+        "Fragmentation",
+        "More Fragment Bit"
+      ],
+      [
+        "1480B Fragment",
+        "4000B IP Datagram"
+      ],
+      [
+        "Fragmentation",
+        "Router"
+      ],
+      [
+        "Flags Field",
+        "Fragmentation"
+      ],
+      [
+        "1500B MTU Link",
+        "4000B IP Datagram"
+      ],
+      [
+        "777 Identifier",
+        "Fragment"
+      ],
+      [
+        "Fragment",
+        "Header"
+      ],
+      [
+        "Fragmentation",
+        "IP Data Datagram"
+      ],
+      [
+        "Fragment",
+        "Payload"
+      ],
+      [
+        "IP Data Datagram",
+        "Maximum Transmission Unit"
+      ],
+      [
+        "Don't Fragment Bit",
+        "Fragmentation"
+      ]
+    ],
+    "count": 18,
+    "create_time": 1760357422,
+    "update_time": 1760357422,
+    "_id": "doc-39bab698a0c52ee767bbb6ac6cf9fbdd"
+  },
+  "doc-43c572bd02bd404b10bd153d88d8fbb9": {
+    "relation_pairs": [
+      [
+        "Network Address Translation",
+        "Port Mapping"
+      ],
+      [
+        "Global IP Address",
+        "NAT Router"
+      ],
+      [
+        "Intranet",
+        "Private IP Address"
+      ],
+      [
+        "Local Internet",
+        "Private IP Address"
+      ],
+      [
+        "Global IP Address",
+        "WAN Connection"
+      ],
+      [
+        "Network Address Translation",
+        "Private IP Address"
+      ],
+      [
+        "NAT Conversion Table",
+        "NAT Router"
+      ],
+      [
+        "Global IP Address",
+        "Public Internet"
+      ],
+      [
+        "Global IP Address",
+        "Network Address Translation"
+      ],
+      [
+        "LAN",
+        "Private IP Address"
+      ],
+      [
+        "Internet",
+        "NAT"
+      ],
+      [
+        "172.16.0.0/12",
+        "Private IP Address"
+      ],
+      [
+        "NAT Conversion Table",
+        "NAT Software"
+      ],
+      [
+        "192.168.0.0/16",
+        "Private IP Address"
+      ],
+      [
+        "10.0.0.0/8",
+        "Private IP Address"
+      ]
+    ],
+    "count": 15,
+    "create_time": 1760357447,
+    "update_time": 1760357447,
+    "_id": "doc-43c572bd02bd404b10bd153d88d8fbb9"
+  },
+  "doc-0a3e9fdd2bae4c043ac4479deaf96aaf": {
+    "relation_pairs": [
+      [
+        "Flow Table",
+        "Remote Controller"
+      ],
+      [
+        "Control Plane",
+        "SDN"
+      ],
+      [
+        "Data Plane",
+        "Forwarding"
+      ],
+      [
+        "SDN",
+        "Security Risk"
+      ],
+      [
+        "Global Network Optimization",
+        "SDN"
+      ],
+      [
+        "Performance Bottleneck",
+        "SDN"
+      ],
+      [
+        "Controller Cluster",
+        "East-West Interface"
+      ],
+      [
+        "Control Plane",
+        "Remote Controller"
+      ],
+      [
+        "Data Plane",
+        "SDN"
+      ],
+      [
+        "Control Plane",
+        "Routing Selection"
+      ],
+      [
+        "Controller Cluster",
+        "Flow Table"
+      ],
+      [
+        "Large-Scale Data Center WAN",
+        "SDN"
+      ],
+      [
+        "SDN",
+        "Software Defined Network"
+      ],
+      [
+        "Northbound Interface",
+        "SDN"
+      ],
+      [
+        "Data Plane",
+        "Flow Table"
+      ],
+      [
+        "Network Programmability",
+        "SDN"
+      ],
+      [
+        "Reduced Cost",
+        "SDN"
+      ],
+      [
+        "SDN",
+        "Southbound Interface"
+      ]
+    ],
+    "count": 18,
+    "create_time": 1760357459,
+    "update_time": 1760357459,
+    "_id": "doc-0a3e9fdd2bae4c043ac4479deaf96aaf"
+  },
+  "doc-4e9b5aafd28be7a43063b73b9136ed62": {
+    "relation_pairs": [
+      [
+        "发送方",
+        "接收方"
+      ],
+      [
+        "接收方",
+        "数据链路层流量控制"
+      ],
+      [
+        "发送方",
+        "确认机制"
+      ],
+      [
+        "发送窗口",
+        "确认报文段"
+      ],
+      [
+        "停止-等待协议",
+        "滑动窗口机制"
+      ],
+      [
+        "流量控制",
+        "滑动窗口机制"
+      ],
+      [
+        "传输层",
+        "数据链路层"
+      ],
+      [
+        "数据链路层",
+        "相邻节点之间的流量"
+      ],
+      [
+        "传输层流量控制",
+        "接收方"
+      ],
+      [
+        "传输层",
+        "端到端的流量"
+      ]
+    ],
+    "count": 10,
+    "create_time": 1760357473,
+    "update_time": 1760357473,
+    "_id": "doc-4e9b5aafd28be7a43063b73b9136ed62"
+  },
+  "doc-817204852828c5f6838e063ca6b23668": {
+    "relation_pairs": [
+      [
+        "CSMA Protocol",
+        "p-坚持CSMA"
+      ],
+      [
+        "CSMA Protocol",
+        "Carrier Sensing Device"
+      ],
+      [
+        "Non-Persistent CSMA",
+        "p-坚持CSMA"
+      ],
+      [
+        "CSMA Protocol",
+        "Channel Collision"
+      ],
+      [
+        "ALOHA Network",
+        "CSMA Protocol"
+      ],
+      [
+        "Non-Persistent CSMA",
+        "Transmission Delay"
+      ],
+      [
+        "1-坚持CSMA",
+        "CSMA Protocol"
+      ],
+      [
+        "CSMA Protocol",
+        "非坚持CSMA"
+      ],
+      [
+        "1-坚持CSMA",
+        "p-坚持CSMA"
+      ]
+    ],
+    "count": 9,
+    "create_time": 1760357480,
+    "update_time": 1760357480,
+    "_id": "doc-817204852828c5f6838e063ca6b23668"
+  },
+  "doc-cc04a362d157fd61bc7e5b5f37baffd0": {
+    "relation_pairs": [
+      [
+        "Physical Layer",
+        "Procedural Characteristics"
+      ],
+      [
+        "Physical Layer",
+        "Transmission Medium"
+      ],
+      [
+        "Functional Characteristics",
+        "Interface"
+      ],
+      [
+        "Interface",
+        "Procedural Characteristics"
+      ],
+      [
+        "Data Link Layer",
+        "Physical Layer"
+      ],
+      [
+        "Mechanical Characteristics",
+        "Physical Layer"
+      ],
+      [
+        "Interface",
+        "Physical Layer"
+      ],
+      [
+        "Hardware Devices",
+        "Physical Layer"
+      ],
+      [
+        "Functional Characteristics",
+        "Physical Layer"
+      ],
+      [
+        "Electrical Characteristics",
+        "Interface"
+      ],
+      [
+        "OSI Model",
+        "Physical Layer"
+      ],
+      [
+        "Electrical Characteristics",
+        "Physical Layer"
+      ],
+      [
+        "Bitstream",
+        "Physical Layer"
+      ],
+      [
+        "Interface",
+        "Mechanical Characteristics"
+      ]
+    ],
+    "count": 14,
+    "create_time": 1760357496,
+    "update_time": 1760357496,
+    "_id": "doc-cc04a362d157fd61bc7e5b5f37baffd0"
+  },
+  "doc-59f3d7caae3d5c45d5c5a623b9526d26": {
+    "relation_pairs": [
+      [
+        "Domain Name",
+        "Label"
+      ],
+      [
+        "Generic Top Level Domain",
+        "Top Level Domain"
+      ],
+      [
+        "Domain Hierarchy",
+        "Subdomain"
+      ],
+      [
+        "Arpa",
+        "IP Address Reverse Resolution"
+      ],
+      [
+        "255 Characters",
+        "Domain Name"
+      ],
+      [
+        "63 Characters",
+        "Label"
+      ],
+      [
+        "Hyphen",
+        "Label"
+      ],
+      [
+        "ICANN",
+        "Top Level Domain"
+      ],
+      [
+        "Country Code Top Level Domain",
+        "Top Level Domain"
+      ],
+      [
+        "CERNET",
+        "Subdomain"
+      ],
+      [
+        "Dot",
+        "Label"
+      ],
+      [
+        "China",
+        "ICANN"
+      ],
+      [
+        "Domain Name",
+        "Hierarchical Naming System"
+      ]
+    ],
+    "count": 13,
+    "create_time": 1760357508,
+    "update_time": 1760357508,
+    "_id": "doc-59f3d7caae3d5c45d5c5a623b9526d26"
+  },
+  "doc-ece7afbed8b24a2e1404a2bc3714f1b1": {
+    "relation_pairs": [
+      [
+        "Access Point",
+        "Fixed Infrastructure Wireless Local Area Network"
+      ],
+      [
+        "IEEE 802.11",
+        "Wireless Local Area Network"
+      ],
+      [
+        "802.11a",
+        "IEEE 802.11"
+      ],
+      [
+        "Basic Service Area",
+        "Basic Service Set"
+      ],
+      [
+        "802.11g",
+        "IEEE 802.11"
+      ],
+      [
+        "802.11n",
+        "IEEE 802.11"
+      ],
+      [
+        "Access Point",
+        "Channel"
+      ],
+      [
+        "Basic Service Set",
+        "Mobile Station"
+      ],
+      [
+        "Fixed Infrastructure Wireless Local Area Network",
+        "Star Topology"
+      ],
+      [
+        "Mobile Ad Hoc Network",
+        "Wireless Local Area Network"
+      ],
+      [
+        "IEEE 802.11",
+        "Wi-Fi"
+      ],
+      [
+        "CSMA/CA",
+        "Wireless Local Area Network"
+      ],
+      [
+        "Access Point",
+        "Basic Service Set"
+      ],
+      [
+        "802.11b",
+        "IEEE 802.11"
+      ],
+      [
+        "Access Point",
+        "Service Set Identifier"
+      ]
+    ],
+    "count": 15,
+    "create_time": 1760357544,
+    "update_time": 1760357544,
+    "_id": "doc-ece7afbed8b24a2e1404a2bc3714f1b1"
+  },
+  "doc-5f44fedcabe9f4f1dd232c71545e3bb2": {
+    "relation_pairs": [
+      [
+        "Data Communication",
+        "Email"
+      ],
+      [
+        "Computer Network",
+        "Resource Sharing"
+      ],
+      [
+        "Data Resource",
+        "Resource Sharing"
+      ],
+      [
+        "Data Communication",
+        "File Transfer"
+      ],
+      [
+        "Resource Sharing",
+        "Software Resource"
+      ],
+      [
+        "Computer Network",
+        "Improved Reliability"
+      ],
+      [
+        "Computer Network",
+        "Entertainment"
+      ],
+      [
+        "Computer Network",
+        "Data Communication"
+      ],
+      [
+        "Computer Network",
+        "Load Balancing"
+      ],
+      [
+        "Computer Network",
+        "Electronic Office Work"
+      ],
+      [
+        "Hardware Resource",
+        "Resource Sharing"
+      ],
+      [
+        "Computer Network",
+        "Distributed Processing"
+      ],
+      [
+        "Computer Network",
+        "Remote Education"
+      ]
+    ],
+    "count": 13,
+    "create_time": 1760357555,
+    "update_time": 1760357555,
+    "_id": "doc-5f44fedcabe9f4f1dd232c71545e3bb2"
+  },
+  "doc-fbdebdfd7c256f8f71cf9ad7e0cef3cf": {
+    "relation_pairs": [
+      [
+        "Acknowledgment Number",
+        "Receiver B"
+      ],
+      [
+        "Acknowledgment Number",
+        "Data Segment"
+      ],
+      [
+        "Byte 3",
+        "Receiver B"
+      ],
+      [
+        "Figure 5.8",
+        "Sender A"
+      ],
+      [
+        "Buffer",
+        "Retransmission"
+      ],
+      [
+        "Buffer",
+        "Sender A"
+      ],
+      [
+        "Figure 5.8",
+        "TCP"
+      ],
+      [
+        "Data Segment",
+        "Sequence Number"
+      ],
+      [
+        "Cumulative Acknowledgment",
+        "TCP"
+      ],
+      [
+        "Figure 5.8",
+        "Receiver B"
+      ],
+      [
+        "Acknowledgment Mechanism",
+        "TCP"
+      ],
+      [
+        "Data Segment",
+        "Packet"
+      ],
+      [
+        "Receiver B",
+        "Sender A"
+      ]
+    ],
+    "count": 13,
+    "create_time": 1760357569,
+    "update_time": 1760357569,
+    "_id": "doc-fbdebdfd7c256f8f71cf9ad7e0cef3cf"
+  },
+  "doc-59b0cf1eb727058c846603b0f2b7811b": {
+    "relation_pairs": [
+      [
+        "DHCP Server",
+        "Dynamic Host Configuration Protocol"
+      ],
+      [
+        "DHCP Server",
+        "IP Address Pool"
+      ],
+      [
+        "DHCP Acknowledgment Message",
+        "DHCP Server"
+      ],
+      [
+        "Broadcast",
+        "Dynamic Host Configuration Protocol"
+      ],
+      [
+        "DHCP Client",
+        "DHCP Release Message"
+      ],
+      [
+        "Dynamic Host Configuration Protocol",
+        "IP Address"
+      ],
+      [
+        "DHCP Client",
+        "DHCP Request Message"
+      ],
+      [
+        "Dynamic Host Configuration Protocol",
+        "UDP"
+      ],
+      [
+        "Automatic Network Configuration",
+        "DHCP Client"
+      ],
+      [
+        "DHCP Client",
+        "DHCP Discovery Message"
+      ],
+      [
+        "DHCP Client",
+        "Dynamic Host Configuration Protocol"
+      ],
+      [
+        "DHCP Client",
+        "Lease Period"
+      ],
+      [
+        "Client-Server Model",
+        "Dynamic Host Configuration Protocol"
+      ],
+      [
+        "DHCP Offer Message",
+        "DHCP Server"
+      ]
+    ],
+    "count": 14,
+    "create_time": 1760357581,
+    "update_time": 1760357581,
+    "_id": "doc-59b0cf1eb727058c846603b0f2b7811b"
+  },
+  "doc-8fef7be4e67739093a4cec71feb9f0e9": {
+    "relation_pairs": [
+      [
+        "Hypertext Transfer Protocol",
+        "World Wide Web"
+      ],
+      [
+        "Client/Server Model",
+        "Web Browser"
+      ],
+      [
+        "Client/Server Model",
+        "World Wide Web"
+      ],
+      [
+        "Hypertext Transfer Protocol",
+        "Transmission Control Protocol"
+      ],
+      [
+        "Web Browser",
+        "Web Document"
+      ],
+      [
+        "Client Program",
+        "Web Browser"
+      ],
+      [
+        "Server Program",
+        "Web Server"
+      ],
+      [
+        "Internet",
+        "World Wide Web"
+      ],
+      [
+        "Web Document",
+        "Web Server"
+      ],
+      [
+        "Hypertext Markup Language",
+        "World Wide Web"
+      ],
+      [
+        "Universal Resource Locator",
+        "World Wide Web"
+      ],
+      [
+        "Client/Server Model",
+        "Web Server"
+      ],
+      [
+        "URL Format",
+        "Universal Resource Locator"
+      ]
+    ],
+    "count": 13,
+    "create_time": 1760357606,
+    "update_time": 1760357606,
+    "_id": "doc-8fef7be4e67739093a4cec71feb9f0e9"
+  },
+  "doc-65be256e3317faf5641a3e4f4b015c9b": {
+    "relation_pairs": [
+      [
+        "Number Of Bits Per Symbol",
+        "Symbol Transmission Rate"
+      ],
+      [
+        "Baud",
+        "Symbol Transmission Rate"
+      ],
+      [
+        "Bandwidth",
+        "Computer Network"
+      ],
+      [
+        "Bandwidth",
+        "Hertz"
+      ],
+      [
+        "Bit Rate",
+        "Rate"
+      ],
+      [
+        "Analog Signal System",
+        "Bandwidth"
+      ],
+      [
+        "Bandwidth",
+        "Bits Per Second"
+      ],
+      [
+        "Bit Rate",
+        "Information Transmission Rate"
+      ],
+      [
+        "Baud",
+        "Rate"
+      ]
+    ],
+    "count": 9,
+    "create_time": 1760357650,
+    "update_time": 1760357650,
+    "_id": "doc-65be256e3317faf5641a3e4f4b015c9b"
+  },
+  "doc-611e7621716a5345608712ffe1e2097d": {
+    "relation_pairs": [
+      [
+        "Computer Network",
+        "Public Network"
+      ],
+      [
+        "Computer Network",
+        "Wide Area Network"
+      ],
+      [
+        "High-Speed Link",
+        "Wide Area Network"
+      ],
+      [
+        "Internet",
+        "Wide Area Network"
+      ],
+      [
+        "Mesh Network",
+        "Reliability"
+      ],
+      [
+        "Bluetooth Network",
+        "Wireless Network"
+      ],
+      [
+        "Twisted Pair Network",
+        "Wired Network"
+      ],
+      [
+        "Computer Network",
+        "Private Network"
+      ],
+      [
+        "Coaxial Cable Network",
+        "Wired Network"
+      ],
+      [
+        "Computer Network",
+        "Wired Network"
+      ],
+      [
+        "Bus Topology",
+        "Fault Sensitivity"
+      ],
+      [
+        "Computer Network",
+        "Ring Topology"
+      ],
+      [
+        "Computer Network",
+        "Wireless Network"
+      ],
+      [
+        "Switching Technology",
+        "Wide Area Network"
+      ],
+      [
+        "Computer Network",
+        "Metropolitan Area Network"
+      ],
+      [
+        "Computer Network",
+        "Star Topology"
+      ],
+      [
+        "Computer Network",
+        "Point-to-Point Network"
+      ],
+      [
+        "Organization",
+        "Private Network"
+      ],
+      [
+        "Microwave Network",
+        "Wireless Network"
+      ],
+      [
+        "Computer Network",
+        "Local Area Network"
+      ],
+      [
+        "Central Node Dependency",
+        "Star Topology"
+      ],
+      [
+        "Computer Network",
+        "Personal Area Network"
+      ],
+      [
+        "Public Network",
+        "Telecommunications Company"
+      ],
+      [
+        "Broadcast Technology",
+        "Local Area Network"
+      ],
+      [
+        "Radio Network",
+        "Wireless Network"
+      ],
+      [
+        "Computer Network",
+        "Mesh Network"
+      ],
+      [
+        "Bus Topology",
+        "Computer Network"
+      ],
+      [
+        "Broadcast Network",
+        "Computer Network"
+      ]
+    ],
+    "count": 28,
+    "create_time": 1760357698,
+    "update_time": 1760357698,
+    "_id": "doc-611e7621716a5345608712ffe1e2097d"
+  },
+  "doc-beb6fdcac65d2c86cf000de99dc83381": {
+    "relation_pairs": [
+      [
+        "OSI Reference Model",
+        "TCP/IP Model"
+      ],
+      [
+        "Application Layer",
+        "Domain Name System"
+      ],
+      [
+        "Transport Layer",
+        "User Datagram"
+      ],
+      [
+        "Data Segment",
+        "Transport Layer"
+      ],
+      [
+        "Application Layer",
+        "Hypertext Transfer Protocol"
+      ],
+      [
+        "ATM",
+        "Network Interface Layer"
+      ],
+      [
+        "IP Datagram",
+        "Internet Layer"
+      ],
+      [
+        "Everything Over IP",
+        "TCP/IP Model"
+      ],
+      [
+        "Transport Layer",
+        "User Datagram Protocol"
+      ],
+      [
+        "Transmission Control Protocol",
+        "Transport Layer"
+      ],
+      [
+        "Application Layer",
+        "Simple Mail Transfer Protocol"
+      ],
+      [
+        "Application Layer",
+        "File Transfer Protocol"
+      ],
+      [
+        "IPv6",
+        "Internet Layer"
+      ],
+      [
+        "Internet Layer",
+        "OSI Reference Model"
+      ],
+      [
+        "Network Interface Layer",
+        "Token Ring"
+      ],
+      [
+        "Application Layer",
+        "OSI Reference Model"
+      ],
+      [
+        "User Datagram",
+        "User Datagram Protocol"
+      ],
+      [
+        "OSI Reference Model",
+        "Transport Layer"
+      ],
+      [
+        "Data Segment",
+        "Transmission Control Protocol"
+      ],
+      [
+        "Network Interface Layer",
+        "OSI Reference Model"
+      ],
+      [
+        "IP Over Everything",
+        "TCP/IP Model"
+      ],
+      [
+        "IPv4",
+        "Internet Layer"
+      ],
+      [
+        "Network Interface Layer",
+        "Telephone Network"
+      ],
+      [
+        "Ethernet",
+        "Network Interface Layer"
+      ],
+      [
+        "Application Layer",
+        "Telnet"
+      ]
+    ],
+    "count": 25,
+    "create_time": 1760357703,
+    "update_time": 1760357703,
+    "_id": "doc-beb6fdcac65d2c86cf000de99dc83381"
+  },
+  "doc-ce1302477ab1c31403bdbb6a92d5ecee": {
+    "relation_pairs": [
+      [
+        "Data Fragmentation",
+        "UDP"
+      ],
+      [
+        "Many-to-Many Communication",
+        "UDP"
+      ],
+      [
+        "One-to-One Communication",
+        "UDP"
+      ],
+      [
+        "Real-Time Video Conference",
+        "UDP"
+      ],
+      [
+        "Many-to-One Communication",
+        "UDP"
+      ],
+      [
+        "Stream Media",
+        "UDP"
+      ],
+      [
+        "IP Telephone",
+        "UDP"
+      ],
+      [
+        "TCP",
+        "UDP"
+      ],
+      [
+        "UDP",
+        "UDP Header"
+      ],
+      [
+        "One-to-Many Communication",
+        "UDP"
+      ],
+      [
+        "TCP",
+        "TCP Header"
+      ],
+      [
+        "SNMP",
+        "UDP"
+      ],
+      [
+        "IP Layer",
+        "UDP"
+      ],
+      [
+        "Network Congestion",
+        "UDP"
+      ],
+      [
+        "Reliability Mechanism",
+        "UDP"
+      ],
+      [
+        "DNS",
+        "UDP"
+      ],
+      [
+        "Packet Boundary",
+        "UDP"
+      ],
+      [
+        "Application Layer",
+        "UDP"
+      ],
+      [
+        "Connection State",
+        "UDP"
+      ]
+    ],
+    "count": 19,
+    "create_time": 1760357740,
+    "update_time": 1760357740,
+    "_id": "doc-ce1302477ab1c31403bdbb6a92d5ecee"
+  },
+  "doc-18bee586529138bada42c241645dd300": {
+    "relation_pairs": [
+      [
+        "224.128.64.32",
+        "IP Multicast Address"
+      ],
+      [
+        "IGMP",
+        "Multicast Datagram"
+      ],
+      [
+        "Ethernet Multicast Address",
+        "IANA"
+      ],
+      [
+        "ICMP",
+        "Multicast Datagram"
+      ],
+      [
+        "TCP",
+        "UDP"
+      ],
+      [
+        "28-bit",
+        "D Class Address"
+      ],
+      [
+        "IP Multicast Mapping",
+        "Multicast MAC Address"
+      ],
+      [
+        "224.0.64.32",
+        "IP Multicast Address"
+      ],
+      [
+        "D Class Address",
+        "Multicast Group"
+      ],
+      [
+        "01-00-5E-00-40-20",
+        "IP Multicast Address"
+      ],
+      [
+        "01-00-5E-00-40-20",
+        "Multicast MAC Address"
+      ],
+      [
+        "Multicast Datagram",
+        "UDP"
+      ],
+      [
+        "IP Multicast Address",
+        "Multicast MAC Address"
+      ],
+      [
+        "Best-Effort Delivery",
+        "Multicast Datagram"
+      ],
+      [
+        "D Class Address",
+        "IP Multicast Address"
+      ],
+      [
+        "224.0.0.0 to 239.255.255.255",
+        "D Class Address"
+      ],
+      [
+        "23-bit",
+        "Ethernet Multicast Address"
+      ],
+      [
+        "Ethernet Multicast Address",
+        "Multicast MAC Address"
+      ]
+    ],
+    "count": 18,
+    "create_time": 1760357744,
+    "update_time": 1760357744,
+    "_id": "doc-18bee586529138bada42c241645dd300"
+  },
+  "doc-7d1a7ec32febe2dbc3e425bea4ac63ee": {
+    "relation_pairs": [
+      [
+        "CSMA/CD Protocol",
+        "Wireless Local Area Network"
+      ],
+      [
+        "802.11 Standard",
+        "CSMA/CA Protocol"
+      ],
+      [
+        "Hidden Station Problem",
+        "Wireless Local Area Network"
+      ],
+      [
+        "CSMA/CA Protocol",
+        "Collision Avoidance"
+      ],
+      [
+        "Adaptor",
+        "Signal Strength"
+      ],
+      [
+        "Frame Transmission",
+        "Network Efficiency"
+      ]
+    ],
+    "count": 6,
+    "create_time": 1760357762,
+    "update_time": 1760357762,
+    "_id": "doc-7d1a7ec32febe2dbc3e425bea4ac63ee"
+  },
+  "doc-17b8c476eb789f091749311b17314b0f": {
+    "relation_pairs": [
+      [
+        "x",
+        "y"
+      ],
+      [
+        "c(x,v)",
+        "d(v)"
+      ],
+      [
+        "Edge Cost",
+        "Weighted Shortest Path"
+      ],
+      [
+        "Bellman-Ford Algorithm",
+        "Distance-Vector Routing Algorithm"
+      ],
+      [
+        "d(v)",
+        "d,(v)"
+      ],
+      [
+        "Neighbor Node",
+        "Node"
+      ],
+      [
+        "Bellman-Ford Algorithm",
+        "Single-Source Shortest Path"
+      ],
+      [
+        "Bellman-Ford Algorithm",
+        "Optimality Principle"
+      ],
+      [
+        "Optimality Principle",
+        "Weighted Shortest Path"
+      ],
+      [
+        "Distance-Vector Routing Algorithm",
+        "Weighted Shortest Path"
+      ]
+    ],
+    "count": 10,
+    "create_time": 1760357768,
+    "update_time": 1760357768,
+    "_id": "doc-17b8c476eb789f091749311b17314b0f"
+  },
+  "doc-ed9d5c0a6f6d333f354f620c32460e29": {
+    "relation_pairs": [
+      [
+        "Network ID",
+        "Subnet Mask"
+      ],
+      [
+        "AND Operation",
+        "IP Address"
+      ],
+      [
+        "Classful IP Address",
+        "Subnet Mask"
+      ],
+      [
+        "Host ID",
+        "Subnet Mask"
+      ],
+      [
+        "AND Operation",
+        "Subnet Mask"
+      ],
+      [
+        "Subnet ID",
+        "Subnet Mask"
+      ]
+    ],
+    "count": 6,
+    "create_time": 1760357787,
+    "update_time": 1760357787,
+    "_id": "doc-ed9d5c0a6f6d333f354f620c32460e29"
+  },
+  "doc-257fa84611db0e7c844fd5d11a1b6c73": {
+    "relation_pairs": [
+      [
+        "Simple Small Network",
+        "Static Routing Algorithm"
+      ],
+      [
+        "Complex Large Network",
+        "Dynamic Routing Algorithm"
+      ],
+      [
+        "Distance-Vector Routing Algorithm",
+        "Dynamic Routing Algorithm"
+      ],
+      [
+        "Dynamic Routing Algorithm",
+        "Link-State Routing Algorithm"
+      ],
+      [
+        "Dynamic Routing Algorithm",
+        "Routing Table"
+      ],
+      [
+        "Routing Table",
+        "Static Routing Algorithm"
+      ],
+      [
+        "Dynamic Routing Algorithm",
+        "Network Topology"
+      ],
+      [
+        "Dynamic Routing Algorithm",
+        "Network Traffic Load"
+      ]
+    ],
+    "count": 8,
+    "create_time": 1760357809,
+    "update_time": 1760357809,
+    "_id": "doc-257fa84611db0e7c844fd5d11a1b6c73"
+  },
+  "doc-4c7c224b674691913a24d5b653c04f5a": {
+    "relation_pairs": [
+      [
+        "802.3 Standard",
+        "Gigabit Ethernet"
+      ],
+      [
+        "CSMA/CD Protocol",
+        "Gigabit Ethernet"
+      ],
+      [
+        "Ethernet Evolution",
+        "Scalability"
+      ],
+      [
+        "10 Gigabit Ethernet",
+        "Full-Duplex Mode"
+      ],
+      [
+        "100BASE-T",
+        "Maximum Segment Length"
+      ],
+      [
+        "10 Gigabit Ethernet",
+        "Fiber Optic"
+      ],
+      [
+        "100BASE-T",
+        "Frame Interval"
+      ],
+      [
+        "Fiber Optic",
+        "Gigabit Ethernet"
+      ],
+      [
+        "Ethernet Evolution",
+        "Flexibility"
+      ],
+      [
+        "Ease of Installation, Robustness",
+        "Ethernet Evolution"
+      ],
+      [
+        "10 Gigabit Ethernet",
+        "802.3 Standard"
+      ],
+      [
+        "100BASE-T",
+        "Twisted-Pair Cable"
+      ],
+      [
+        "100BASE-T",
+        "CSMA/CD Protocol"
+      ],
+      [
+        "10 Gigabit Ethernet",
+        "CSMA/CD Protocol"
+      ],
+      [
+        "100BASE-T",
+        "802.3 Standard"
+      ],
+      [
+        "Gigabit Ethernet",
+        "Twisted-Pair Cable"
+      ]
+    ],
+    "count": 16,
+    "create_time": 1760357834,
+    "update_time": 1760357834,
+    "_id": "doc-4c7c224b674691913a24d5b653c04f5a"
+  },
+  "doc-73ee2522bb31ab817b3e9046e8b38d04": {
+    "relation_pairs": [
+      [
+        "Web Application",
+        "Web Server"
+      ],
+      [
+        "Client/Server Model",
+        "Server"
+      ],
+      [
+        "Client/Server Model",
+        "Email"
+      ],
+      [
+        "Network Management",
+        "Server"
+      ],
+      [
+        "Hardware Limitations",
+        "Server"
+      ],
+      [
+        "Server",
+        "Server Response"
+      ],
+      [
+        "Client/Server Model",
+        "Remote Login"
+      ],
+      [
+        "Network Bandwidth",
+        "Server"
+      ],
+      [
+        "Browser",
+        "Web Application"
+      ],
+      [
+        "Network Management",
+        "User Permissions"
+      ],
+      [
+        "Client/Server Model",
+        "File Transfer Protocol"
+      ],
+      [
+        "Client",
+        "Client/Server Model"
+      ],
+      [
+        "Client Request",
+        "Server"
+      ]
+    ],
+    "count": 13,
+    "create_time": 1760357837,
+    "update_time": 1760357837,
+    "_id": "doc-73ee2522bb31ab817b3e9046e8b38d04"
+  },
+  "doc-6d9e7b22474c7ee3dae60acd2c204b3f": {
+    "relation_pairs": [
+      [
+        "Interface-Based VLAN",
+        "Switch"
+      ],
+      [
+        "Broadcast Domain",
+        "DHCP"
+      ],
+      [
+        "Broadcast Domain",
+        "VLAN"
+      ],
+      [
+        "Physical Location",
+        "VLAN"
+      ],
+      [
+        "Logical VLAN",
+        "VLAN"
+      ],
+      [
+        "IP Address-Based VLAN",
+        "Router"
+      ],
+      [
+        "IP Address-Based VLAN",
+        "Subnet"
+      ],
+      [
+        "MAC Address-Based VLAN",
+        "Switch"
+      ],
+      [
+        "Ethernet",
+        "VLAN"
+      ],
+      [
+        "ARP",
+        "Broadcast Domain"
+      ]
+    ],
+    "count": 10,
+    "create_time": 1760357855,
+    "update_time": 1760357855,
+    "_id": "doc-6d9e7b22474c7ee3dae60acd2c204b3f"
+  },
+  "doc-6ed03433f41dbb5cb210556afbd6be4c": {
+    "relation_pairs": [
+      [
+        "Code Element",
+        "K-ary Number"
+      ],
+      [
+        "Digital Data",
+        "Digital Signal"
+      ],
+      [
+        "Bit",
+        "K-ary Number"
+      ],
+      [
+        "Data",
+        "Signal"
+      ],
+      [
+        "Code Element",
+        "Code Element Width"
+      ],
+      [
+        "Analog Data",
+        "Analog Signal"
+      ],
+      [
+        "Code Element",
+        "Information Quantity"
+      ]
+    ],
+    "count": 7,
+    "create_time": 1760357863,
+    "update_time": 1760357863,
+    "_id": "doc-6ed03433f41dbb5cb210556afbd6be4c"
+  },
+  "doc-24840a1019bc106a9cab48990f50c813": {
+    "relation_pairs": [
+      [
+        "Encoding",
+        "Quantization"
+      ],
+      [
+        "Analog Signal",
+        "Sampling"
+      ],
+      [
+        "Pcm Encoding",
+        "Sampling"
+      ],
+      [
+        "Binary Code",
+        "Encoding"
+      ],
+      [
+        "Encoding",
+        "Pcm Encoding"
+      ],
+      [
+        "Quantization",
+        "Sampling"
+      ],
+      [
+        "Nyquist Theorem",
+        "Sampling Frequency"
+      ],
+      [
+        "Pcm Encoding",
+        "Quantization"
+      ],
+      [
+        "Amplitude Level",
+        "Quantization"
+      ]
+    ],
+    "count": 9,
+    "create_time": 1760357875,
+    "update_time": 1760357875,
+    "_id": "doc-24840a1019bc106a9cab48990f50c813"
+  },
+  "doc-507284413ad80037617009093e1c30b0": {
+    "relation_pairs": [
+      [
+        "Data Frame",
+        "Receive Window"
+      ],
+      [
+        "Selective Repeat Protocol",
+        "n-Bit Frame Numbering"
+      ],
+      [
+        "Go-Back-N Protocol",
+        "Send Window"
+      ],
+      [
+        "Acknowledgment Frame",
+        "Send Window"
+      ],
+      [
+        "Receive Window",
+        "Sliding Window Flow Control"
+      ],
+      [
+        "Send Window",
+        "Sliding Window Flow Control"
+      ],
+      [
+        "Selective Repeat Protocol",
+        "Send Window"
+      ],
+      [
+        "Go-Back-N Protocol",
+        "Receive Window"
+      ],
+      [
+        "Receive Window",
+        "Selective Repeat Protocol"
+      ],
+      [
+        "Data Link Layer",
+        "Fixed Window Size"
+      ],
+      [
+        "Send Window",
+        "Stop-Wait Protocol"
+      ],
+      [
+        "Fixed Window Size",
+        "Transmission Layer"
+      ],
+      [
+        "Go-Back-N Protocol",
+        "n-Bit Frame Numbering"
+      ]
+    ],
+    "count": 13,
+    "create_time": 1760357915,
+    "update_time": 1760357915,
+    "_id": "doc-507284413ad80037617009093e1c30b0"
+  },
+  "doc-dc0488130fc82fa8bedc4e058437b364": {
+    "relation_pairs": [
+      [
+        "IPv4",
+        "IPv6"
+      ],
+      [
+        "Global Unicast Address",
+        "Subnet Identifier"
+      ],
+      [
+        "Global Routing Prefix",
+        "Global Unicast Address"
+      ],
+      [
+        "Global Unicast Address",
+        "IPv6 Address"
+      ],
+      [
+        "64-Bit Interface Identifier",
+        "IPv6"
+      ],
+      [
+        "IPv6 Address",
+        "Zero Compression"
+      ],
+      [
+        "IPv6 Address",
+        "Loopback Address"
+      ],
+      [
+        "IPv6 Address",
+        "Unspecified Address"
+      ],
+      [
+        "Global Unicast Address",
+        "Interface Identifier"
+      ],
+      [
+        "IPv6",
+        "Singlecast"
+      ],
+      [
+        "IPv6",
+        "Multicast"
+      ],
+      [
+        "128-Bit Address",
+        "IPv6"
+      ],
+      [
+        "Anycast",
+        "IPv6"
+      ],
+      [
+        "IPv6 Address",
+        "Link-Local Unicast Address"
+      ],
+      [
+        "Colon-Hexadecimal Notation",
+        "IPv6 Address"
+      ],
+      [
+        "Address Resolution Protocol",
+        "Interface Identifier"
+      ],
+      [
+        "IPv6 Address",
+        "Multicast Address"
+      ]
+    ],
+    "count": 17,
+    "create_time": 1760357918,
+    "update_time": 1760357918,
+    "_id": "doc-dc0488130fc82fa8bedc4e058437b364"
+  },
+  "doc-eacc7e9b7854960579f402d6ae85d7b3": {
+    "relation_pairs": [
+      [
+        "RIP Route Selection",
+        "Routing Information Protocol"
+      ],
+      [
+        "Routing Convergence",
+        "Routing Information Protocol"
+      ],
+      [
+        "RIP Message Exchange",
+        "Routing Information Protocol"
+      ],
+      [
+        "RIP Application Layer Protocol",
+        "Routing Information Protocol"
+      ],
+      [
+        "RIP Route Table Entry",
+        "Routing Information Protocol"
+      ],
+      [
+        "Routing Information Protocol",
+        "UDP Port 520"
+      ],
+      [
+        "Autonomous System",
+        "Routing Information Protocol"
+      ],
+      [
+        "Internal Gateway Protocol",
+        "Routing Information Protocol"
+      ],
+      [
+        "Network Topology Change",
+        "Routing Information Protocol"
+      ],
+      [
+        "RIP Maximum Hop Count",
+        "Routing Information Protocol"
+      ],
+      [
+        "Distance Vector",
+        "Routing Information Protocol"
+      ],
+      [
+        "Hop Count",
+        "Routing Information Protocol"
+      ]
+    ],
+    "count": 12,
+    "create_time": 1760357953,
+    "update_time": 1760357953,
+    "_id": "doc-eacc7e9b7854960579f402d6ae85d7b3"
+  },
+  "doc-914af5fc1c2f1ce1d9cb8ac4afc2758e": {
+    "relation_pairs": [
+      [
+        "Continuous ARQ Protocol",
+        "Selective Repeat Protocol"
+      ],
+      [
+        "Channel Utilization",
+        "Stop-and-Wait Protocol"
+      ],
+      [
+        "Data Frame",
+        "Receiver"
+      ],
+      [
+        "Data Frame",
+        "Sender"
+      ],
+      [
+        "Single Frame Sliding Window",
+        "Stop-and-Wait Protocol"
+      ],
+      [
+        "Data Frame",
+        "Sequence Number"
+      ],
+      [
+        "Frame Buffer",
+        "Receiver"
+      ],
+      [
+        "Continuous ARQ Protocol",
+        "Go-Back-N Protocol"
+      ],
+      [
+        "Sender",
+        "Timer"
+      ],
+      [
+        "Acknowledgment Frame",
+        "Receiver"
+      ],
+      [
+        "Acknowledgment Frame",
+        "Sender"
+      ],
+      [
+        "ACK0",
+        "Data Frame"
+      ],
+      [
+        "ACK1",
+        "Data Frame"
+      ],
+      [
+        "Frame Buffer",
+        "Sender"
+      ]
+    ],
+    "count": 14,
+    "create_time": 1760357988,
+    "update_time": 1760357988,
+    "_id": "doc-914af5fc1c2f1ce1d9cb8ac4afc2758e"
+  },
+  "doc-26eabdee6c53baf8193c1faec7b214b9": {
+    "relation_pairs": [
+      [
+        "Channel",
+        "Wireless Channel"
+      ],
+      [
+        "Communication System",
+        "Unidirectional Communication"
+      ],
+      [
+        "Baseband Signal",
+        "Baseband Transmission"
+      ],
+      [
+        "Communication System",
+        "Full-Duplex Communication"
+      ],
+      [
+        "Channel",
+        "Wired Channel"
+      ],
+      [
+        "Channel",
+        "Signal"
+      ],
+      [
+        "Communication System",
+        "Half-Duplex Communication"
+      ],
+      [
+        "Channel",
+        "Data Communication System"
+      ],
+      [
+        "Bidirectional Communication",
+        "Communication System"
+      ],
+      [
+        "Channel",
+        "Noise Source"
+      ],
+      [
+        "Analog Channel",
+        "Channel"
+      ],
+      [
+        "Destination",
+        "Signal"
+      ],
+      [
+        "Source",
+        "Transformer"
+      ],
+      [
+        "Communication System",
+        "Parallel Transmission"
+      ],
+      [
+        "Channel",
+        "Digital Channel"
+      ],
+      [
+        "Data Communication System",
+        "Destination"
+      ],
+      [
+        "Data Communication System",
+        "Source"
+      ],
+      [
+        "Communication System",
+        "Serial Transmission"
+      ],
+      [
+        "Broadband Signal",
+        "Broadband Transmission"
+      ],
+      [
+        "Channel",
+        "Transmission Medium"
+      ],
+      [
+        "Destination",
+        "Inverse Transformer"
+      ],
+      [
+        "Signal",
+        "Source"
+      ]
+    ],
+    "count": 22,
+    "create_time": 1760357995,
+    "update_time": 1760357995,
+    "_id": "doc-26eabdee6c53baf8193c1faec7b214b9"
+  },
+  "doc-a51593b28a60440a340639663f24d23a": {
+    "relation_pairs": [
+      [
+        "Hybrid Topology",
+        "Local Area Network"
+      ],
+      [
+        "IEEE 802",
+        "Media Access Control Sublayer"
+      ],
+      [
+        "Local Area Network",
+        "Token Bus Protocol"
+      ],
+      [
+        "Local Area Network",
+        "Media Access Control Sublayer"
+      ],
+      [
+        "Error Detection",
+        "Media Access Control Sublayer"
+      ],
+      [
+        "Media Access Control Sublayer",
+        "Transparent Transmission"
+      ],
+      [
+        "Physical Star Topology",
+        "Token Ring"
+      ],
+      [
+        "Broadcasting",
+        "Local Area Network"
+      ],
+      [
+        "IEEE 802",
+        "Logical Link Control Sublayer"
+      ],
+      [
+        "Local Area Network",
+        "Twisted Pair Cable"
+      ],
+      [
+        "Fiber Optic Cable",
+        "Local Area Network"
+      ],
+      [
+        "FDDI",
+        "Local Area Network"
+      ],
+      [
+        "Bus Topology",
+        "Local Area Network"
+      ],
+      [
+        "Ethernet",
+        "Physical Star Topology"
+      ],
+      [
+        "CSMA/CD Protocol",
+        "Local Area Network"
+      ],
+      [
+        "Local Area Network",
+        "Logical Link Control Sublayer"
+      ],
+      [
+        "Framing",
+        "Media Access Control Sublayer"
+      ],
+      [
+        "Local Area Network",
+        "Ring Topology"
+      ],
+      [
+        "Dual Ring Physical Structure",
+        "FDDI"
+      ],
+      [
+        "Local Area Network",
+        "Peer-to-Peer Relationship"
+      ],
+      [
+        "Coaxial Cable",
+        "Local Area Network"
+      ],
+      [
+        "Local Area Network",
+        "Star Topology"
+      ],
+      [
+        "High Bandwidth",
+        "Local Area Network"
+      ],
+      [
+        "Local Area Network",
+        "Token Ring"
+      ],
+      [
+        "IEEE 802",
+        "Local Area Network"
+      ],
+      [
+        "Local Area Network",
+        "Low Error Rate"
+      ],
+      [
+        "Ethernet",
+        "Local Area Network"
+      ],
+      [
+        "Local Area Network",
+        "Multicasting"
+      ],
+      [
+        "Local Area Network",
+        "Low Latency"
+      ],
+      [
+        "Local Area Network",
+        "Token Ring Protocol"
+      ]
+    ],
+    "count": 30,
+    "create_time": 1760358071,
+    "update_time": 1760358071,
+    "_id": "doc-a51593b28a60440a340639663f24d23a"
+  },
+  "doc-b3655c01fcb43160a48a157b051a0a43": {
+    "relation_pairs": [
+      [
+        "(n-1)-SDU",
+        "n-PDU"
+      ],
+      [
+        "Network Layer",
+        "Transport Layer"
+      ],
+      [
+        "Peer Entity",
+        "Peer Layer"
+      ],
+      [
+        "Segment",
+        "Transport Layer"
+      ],
+      [
+        "Data Link Layer",
+        "Frame"
+      ],
+      [
+        "Protocol Data Unit",
+        "Service Data Unit"
+      ],
+      [
+        "Network Layer",
+        "Packet"
+      ],
+      [
+        "Bit Stream",
+        "Physical Layer"
+      ],
+      [
+        "Application Layer",
+        "Virtual Communication"
+      ],
+      [
+        "Computer Network Architecture",
+        "Network Implementation"
+      ],
+      [
+        "Layer n Entity",
+        "Service User"
+      ],
+      [
+        "Data Link Layer",
+        "Network Layer"
+      ],
+      [
+        "Layer n Entity",
+        "Layered Structure"
+      ],
+      [
+        "Layer n Entity",
+        "Service Provider"
+      ],
+      [
+        "Protocol Control Information",
+        "Protocol Data Unit"
+      ],
+      [
+        "Layered Structure",
+        "Service User"
+      ],
+      [
+        "Layered Structure",
+        "Physical Layer"
+      ],
+      [
+        "Protocol Control Information",
+        "Service Data Unit"
+      ],
+      [
+        "Layered Structure",
+        "Service Provider"
+      ],
+      [
+        "Data Link Layer",
+        "Physical Layer"
+      ],
+      [
+        "Application Layer",
+        "Transport Layer"
+      ],
+      [
+        "Application Layer",
+        "Layered Structure"
+      ],
+      [
+        "Peer Entity",
+        "Virtual Communication"
+      ],
+      [
+        "Layer n Entity",
+        "Peer Entity"
+      ],
+      [
+        "Service Provider",
+        "Service User"
+      ]
+    ],
+    "count": 25,
+    "create_time": 1760358077,
+    "update_time": 1760358077,
+    "_id": "doc-b3655c01fcb43160a48a157b051a0a43"
+  },
+  "doc-a7c13b58d3d9af6cebba7e581edd7e9f": {
+    "relation_pairs": [
+      [
+        "参数k",
+        "随机数r"
+      ],
+      [
+        "CSMA/CD",
+        "二进制指数退避算法"
+      ],
+      [
+        "丢弃该帧",
+        "重传"
+      ],
+      [
+        "参数k",
+        "重传次数"
+      ],
+      [
+        "争用期",
+        "二进制指数退避算法"
+      ],
+      [
+        "争用期",
+        "传播时延"
+      ],
+      [
+        "2t",
+        "争用期"
+      ],
+      [
+        "重传推迟时间",
+        "随机数r"
+      ],
+      [
+        "二进制指数退避算法",
+        "重传次数"
+      ],
+      [
+        "帧",
+        "重传"
+      ],
+      [
+        "2^k - 1",
+        "参数k"
+      ],
+      [
+        "以太网",
+        "帧间最小间隔"
+      ],
+      [
+        "帧",
+        "适配器"
+      ],
+      [
+        "冲突",
+        "帧"
+      ],
+      [
+        "96比特",
+        "帧间最小间隔"
+      ]
+    ],
+    "count": 15,
+    "create_time": 1760358115,
+    "update_time": 1760358115,
+    "_id": "doc-a7c13b58d3d9af6cebba7e581edd7e9f"
+  },
+  "doc-a55e7fcf00acc6d79c082f6e0508ffb7": {
+    "relation_pairs": [
+      [
+        "1.5 RTT",
+        "TCP Connection Release"
+      ],
+      [
+        "ACK Bit",
+        "ACK Field"
+      ],
+      [
+        "ACK Field",
+        "Acknowledgment Number"
+      ],
+      [
+        "Keep-Alive Timer",
+        "TCP Connection Release"
+      ],
+      [
+        "LAST-ACK State",
+        "TCP Connection Release"
+      ],
+      [
+        "Keep-Alive Timer",
+        "Probe Segment"
+      ],
+      [
+        "1 RTT",
+        "TCP Connection Release"
+      ],
+      [
+        "2 MSL",
+        "Maximum Segment Lifetime"
+      ],
+      [
+        "FIN Bit",
+        "FIN-WAIT-1 State"
+      ],
+      [
+        "Sequence Number",
+        "Sequence Number Field"
+      ],
+      [
+        "Four-Way Handshake",
+        "TCP Connection Release"
+      ],
+      [
+        "FIN-WAIT-2 State",
+        "TCP Connection Release"
+      ],
+      [
+        "2 MSL",
+        "TIME-WAIT State"
+      ],
+      [
+        "CLOSE-WAIT State",
+        "TCP Connection Release"
+      ],
+      [
+        "TCP Connection Release",
+        "Three-Way Handshake"
+      ],
+      [
+        "FIN-WAIT-1 State",
+        "TCP Connection Release"
+      ],
+      [
+        "TCP Connection Release",
+        "TIME-WAIT State"
+      ]
+    ],
+    "count": 17,
+    "create_time": 1760358119,
+    "update_time": 1760358119,
+    "_id": "doc-a55e7fcf00acc6d79c082f6e0508ffb7"
+  },
+  "doc-ebd9ee4b1439630cb47f3515878d35f1": {
+    "relation_pairs": [
+      [
+        "ISP",
+        "User Computer"
+      ],
+      [
+        "IP Data报",
+        "Point-to-Point Protocol"
+      ],
+      [
+        "PPP Frame",
+        "Point-to-Point Protocol"
+      ],
+      [
+        "Maximum Transmission Unit",
+        "PPP Frame"
+      ],
+      [
+        "ISP",
+        "Point-to-Point Protocol"
+      ],
+      [
+        "Network Control Protocol",
+        "Point-to-Point Protocol"
+      ],
+      [
+        "Point-to-Point Protocol",
+        "User Computer"
+      ],
+      [
+        "Point-to-Point Protocol",
+        "Serial Link"
+      ],
+      [
+        "Link Control Protocol",
+        "Point-to-Point Protocol"
+      ]
+    ],
+    "count": 9,
+    "create_time": 1760358147,
+    "update_time": 1760358147,
+    "_id": "doc-ebd9ee4b1439630cb47f3515878d35f1"
+  },
+  "doc-16611ea90359b0db5f907596208e8099": {
+    "relation_pairs": [
+      [
+        "Character Counting Method",
+        "Synchronization Loss"
+      ],
+      [
+        "Continuous Transmission",
+        "Synchronization Loss"
+      ],
+      [
+        "Character Counting Method",
+        "Figure 3.5"
+      ],
+      [
+        "Character Counting Method",
+        "Frame Boundary"
+      ],
+      [
+        "Frame End Position",
+        "Receiver"
+      ],
+      [
+        "Byte Count Field",
+        "Transmitter"
+      ],
+      [
+        "Next Frame Start Position",
+        "Receiver"
+      ],
+      [
+        "Byte Count Field",
+        "Character Counting Method"
+      ],
+      [
+        "Byte Count Field",
+        "Receiver"
+      ]
+    ],
+    "count": 9,
+    "create_time": 1760358153,
+    "update_time": 1760358153,
+    "_id": "doc-16611ea90359b0db5f907596208e8099"
+  },
+  "doc-cacf32feb754cc65ca6e8bf0a63ce973": {
+    "relation_pairs": [
+      [
+        "Adapter",
+        "Channel"
+      ],
+      [
+        "Channel",
+        "Collision"
+      ],
+      [
+        "Adapter",
+        "Frame"
+      ],
+      [
+        "9.6μs",
+        "Channel"
+      ],
+      [
+        "Adapter",
+        "Network Layer"
+      ],
+      [
+        "Contention Period",
+        "Transmit Failure"
+      ],
+      [
+        "Adapter",
+        "Backoff Algorithm"
+      ],
+      [
+        "Adapter",
+        "Retry Limit"
+      ],
+      [
+        "Contention Period",
+        "Transmit Success"
+      ],
+      [
+        "Adapter",
+        "CSMA/CD Protocol"
+      ]
+    ],
+    "count": 10,
+    "create_time": 1760358176,
+    "update_time": 1760358176,
+    "_id": "doc-cacf32feb754cc65ca6e8bf0a63ce973"
+  },
+  "doc-7068ff9c46e28ac2428df295a20059c8": {
+    "relation_pairs": [
+      [
+        "Frame Collision",
+        "Random Access Media Access Control"
+      ],
+      [
+        "Bus Network",
+        "Frame Collision"
+      ],
+      [
+        "Channel Occupation",
+        "Random Access Media Access Control"
+      ],
+      [
+        "Channel Division Mechanism",
+        "Random Access Media Access Control"
+      ],
+      [
+        "Contention-Based Protocol",
+        "Random Access Media Access Control"
+      ],
+      [
+        "Random Access Media Access Control",
+        "Time Sharing"
+      ],
+      [
+        "Broadcast Channel",
+        "Random Access Media Access Control"
+      ],
+      [
+        "Broadcast Channel",
+        "Point-to-Point Channel"
+      ],
+      [
+        "Random Access Media Access Control",
+        "Retransmission Rule"
+      ],
+      [
+        "Random Access Media Access Control",
+        "Space Sharing"
+      ]
+    ],
+    "count": 10,
+    "create_time": 1760358177,
+    "update_time": 1760358177,
+    "_id": "doc-7068ff9c46e28ac2428df295a20059c8"
+  },
+  "doc-0c897e520399735a3b7f817b63379819": {
+    "relation_pairs": [
+      [
+        "Congestion Avoidance Algorithm",
+        "Network Congestion"
+      ],
+      [
+        "Congestion Avoidance Algorithm",
+        "Congestion Window"
+      ],
+      [
+        "Congestion Avoidance Algorithm",
+        "Round-Trip Time"
+      ],
+      [
+        "Slow Start Algorithm",
+        "SsThresh"
+      ],
+      [
+        "Congestion Window",
+        "SsThresh"
+      ],
+      [
+        "Congestion Avoidance Algorithm",
+        "Slow Start Algorithm"
+      ],
+      [
+        "Congestion Window",
+        "Slow Start Algorithm"
+      ],
+      [
+        "Additive Increase",
+        "Congestion Avoidance Algorithm"
+      ]
+    ],
+    "count": 8,
+    "create_time": 1760358198,
+    "update_time": 1760358198,
+    "_id": "doc-0c897e520399735a3b7f817b63379819"
+  },
+  "doc-c5250602c5f116bcec924ef7f984c4a6": {
+    "relation_pairs": [
+      [
+        "Host A",
+        "Sender Buffer"
+      ],
+      [
+        "Segment",
+        "Sender Buffer"
+      ],
+      [
+        "Byte Stream",
+        "Data Transmission"
+      ],
+      [
+        "Sequence Number Field",
+        "TCP Header"
+      ],
+      [
+        "Byte Stream",
+        "Sequence Number Mechanism"
+      ],
+      [
+        "Byte 0 to 2",
+        "Segment"
+      ],
+      [
+        "Host A",
+        "Segment"
+      ],
+      [
+        "Sequence Number Mechanism",
+        "TCP"
+      ],
+      [
+        "Byte 3",
+        "Segment"
+      ],
+      [
+        "Segment",
+        "Sequence Number Field"
+      ],
+      [
+        "Host A",
+        "Host B"
+      ]
+    ],
+    "count": 11,
+    "create_time": 1760358204,
+    "update_time": 1760358204,
+    "_id": "doc-c5250602c5f116bcec924ef7f984c4a6"
+  },
+  "doc-073b68b4ea963beaa9f597d711fee66a": {
+    "relation_pairs": [
+      [
+        "Forwarding Table",
+        "Switch"
+      ],
+      [
+        "Collision Domain",
+        "Switch"
+      ],
+      [
+        "Hub",
+        "Shared Ethernet"
+      ],
+      [
+        "Noah Carter",
+        "World Athletics Championship"
+      ],
+      [
+        "Broadcast Domain",
+        "Hub"
+      ],
+      [
+        "Self-Learning Algorithm",
+        "Switch"
+      ],
+      [
+        "Tokyo",
+        "World Athletics Championship"
+      ],
+      [
+        "Carbon-Fiber Spikes",
+        "Noah Carter"
+      ],
+      [
+        "Collision Domain",
+        "Hub"
+      ],
+      [
+        "100m Sprint Record",
+        "Noah Carter"
+      ],
+      [
+        "Switch",
+        "Switched Ethernet"
+      ],
+      [
+        "Frame",
+        "MAC Address"
+      ],
+      [
+        "Broadcast Domain",
+        "Switch"
+      ]
+    ],
+    "count": 13,
+    "create_time": 1760358245,
+    "update_time": 1760358245,
+    "_id": "doc-073b68b4ea963beaa9f597d711fee66a"
+  },
+  "doc-504e047ae6286b8ede0a563df9266e33": {
+    "relation_pairs": [
+      [
+        "IP",
+        "报文分组"
+      ],
+      [
+        "连接建立",
+        "面向连接服务"
+      ],
+      [
+        "检错",
+        "用户"
+      ],
+      [
+        "应答机制",
+        "有应答服务"
+      ],
+      [
+        "可靠服务",
+        "纠错"
+      ],
+      [
+        "可靠服务",
+        "检错"
+      ],
+      [
+        "TCP",
+        "数据包"
+      ],
+      [
+        "报文分组",
+        "无连接服务"
+      ],
+      [
+        "TCP",
+        "面向连接服务"
+      ],
+      [
+        "应答机制",
+        "用户"
+      ],
+      [
+        "可靠服务",
+        "应答机制"
+      ],
+      [
+        "数据包",
+        "无连接服务"
+      ],
+      [
+        "不可靠服务",
+        "用户"
+      ],
+      [
+        "IP",
+        "无连接服务"
+      ],
+      [
+        "文件传输服务",
+        "有应答服务"
+      ],
+      [
+        "用户",
+        "纠错"
+      ],
+      [
+        "应答机制",
+        "肯定应答"
+      ],
+      [
+        "数据传输",
+        "面向连接服务"
+      ],
+      [
+        "连接释放",
+        "面向连接服务"
+      ],
+      [
+        "不可靠服务",
+        "尽最大努力交付"
+      ],
+      [
+        "不可靠服务",
+        "网络可靠性"
+      ],
+      [
+        "否定应答",
+        "应答机制"
+      ],
+      [
+        "UDP",
+        "无连接服务"
+      ],
+      [
+        "WWW服务",
+        "无应答服务"
+      ],
+      [
+        "UDP",
+        "数据包"
+      ]
+    ],
+    "count": 25,
+    "create_time": 1760358249,
+    "update_time": 1760358249,
+    "_id": "doc-504e047ae6286b8ede0a563df9266e33"
+  },
+  "doc-732f8feba2a95c10610f0aae1e03b703": {
+    "relation_pairs": [
+      [
+        "1985",
+        "划分子网"
+      ],
+      [
+        "三级IP地址",
+        "划分子网"
+      ],
+      [
+        "主机号",
+        "子网号字段"
+      ],
+      [
+        "2⁶-2=62",
+        "子网地址"
+      ],
+      [
+        "两级IP地址",
+        "划分子网"
+      ],
+      [
+        "208.115.21.0",
+        "子网地址"
+      ],
+      [
+        "三级IP地址",
+        "网络号"
+      ],
+      [
+        "C类网络",
+        "划分子网"
+      ],
+      [
+        "IP数据报",
+        "路由器"
+      ]
+    ],
+    "count": 9,
+    "create_time": 1760358273,
+    "update_time": 1760358273,
+    "_id": "doc-732f8feba2a95c10610f0aae1e03b703"
+  },
+  "doc-28835eb23baf249b73744d20b2c845ed": {
+    "relation_pairs": [
+      [
+        "时延",
+        "网络拥塞"
+      ],
+      [
+        "中间节点",
+        "主机B"
+      ],
+      [
+        "网络拥塞",
+        "资源利用率"
+      ],
+      [
+        "时延",
+        "链路"
+      ],
+      [
+        "交换节点A",
+        "交换节点D"
+      ],
+      [
+        "分组",
+        "服务质量"
+      ],
+      [
+        "图4.3",
+        "数据报网络"
+      ],
+      [
+        "分组",
+        "源主机"
+      ],
+      [
+        "分组",
+        "地址"
+      ],
+      [
+        "交换节点A",
+        "转发表"
+      ],
+      [
+        "冗余路径",
+        "分组"
+      ],
+      [
+        "分组",
+        "存储转发技术"
+      ],
+      [
+        "交换节点A",
+        "交换节点C"
+      ],
+      [
+        "中间节点",
+        "交换节点A"
+      ],
+      [
+        "分组",
+        "转发表"
+      ]
+    ],
+    "count": 15,
+    "create_time": 1760358298,
+    "update_time": 1760358298,
+    "_id": "doc-28835eb23baf249b73744d20b2c845ed"
+  },
+  "doc-c5fbde46d116f9165f04f3577b739c1b": {
+    "relation_pairs": [
+      [
+        "发送速率",
+        "流量控制"
+      ],
+      [
+        "传输层",
+        "源端到目的端"
+      ],
+      [
+        "数据链路层",
+        "流量控制"
+      ],
+      [
+        "传输层",
+        "流量控制"
+      ],
+      [
+        "接收能力",
+        "流量控制"
+      ],
+      [
+        "OSI体系结构",
+        "TCP/IP体系结构"
+      ],
+      [
+        "反馈机制",
+        "发送方"
+      ],
+      [
+        "帧",
+        "流量控制"
+      ],
+      [
+        "发送方",
+        "接收方"
+      ],
+      [
+        "数据链路层",
+        "相邻节点之间"
+      ]
+    ],
+    "count": 10,
+    "create_time": 1760358317,
+    "update_time": 1760358317,
+    "_id": "doc-c5fbde46d116f9165f04f3577b739c1b"
+  },
+  "doc-6dccdc9db3377192e7e94197d0c8556c": {
+    "relation_pairs": [
+      [
+        "Autonomous System",
+        "Autonomous System Boundary Router"
+      ],
+      [
+        "Autonomous System Boundary Router",
+        "R6"
+      ],
+      [
+        "OSPF",
+        "Routing Table"
+      ],
+      [
+        "Area Border Router",
+        "R7"
+      ],
+      [
+        "Area",
+        "Autonomous System"
+      ],
+      [
+        "Autonomous System",
+        "Backbone Area"
+      ],
+      [
+        "Area Border Router",
+        "R3"
+      ],
+      [
+        "Area Border Router",
+        "Backbone Area"
+      ],
+      [
+        "Area Border Router",
+        "R4"
+      ],
+      [
+        "Dijkstra Algorithm",
+        "OSPF"
+      ],
+      [
+        "Area Border Router",
+        "Link State Information"
+      ],
+      [
+        "Link State Database",
+        "OSPF"
+      ]
+    ],
+    "count": 12,
+    "create_time": 1760358328,
+    "update_time": 1760358328,
+    "_id": "doc-6dccdc9db3377192e7e94197d0c8556c"
+  },
+  "doc-8eb3bcce6dce2b56cf4a0cf6d5ff1f50": {
+    "relation_pairs": [
+      [
+        "Header Field",
+        "UDP Data报"
+      ],
+      [
+        "Checksum",
+        "Header Field"
+      ],
+      [
+        "Destination Port",
+        "Header Field"
+      ],
+      [
+        "Checksum",
+        "Error Detection"
+      ],
+      [
+        "Data Field",
+        "UDP Data报"
+      ],
+      [
+        "Header Field",
+        "Source Port"
+      ],
+      [
+        "UDP",
+        "UDP Data报"
+      ],
+      [
+        "Header Field",
+        "Length"
+      ],
+      [
+        "Connectionless Communication",
+        "UDP"
+      ]
+    ],
+    "count": 9,
+    "create_time": 1760358338,
+    "update_time": 1760358338,
+    "_id": "doc-8eb3bcce6dce2b56cf4a0cf6d5ff1f50"
+  },
+  "doc-fd41ad5d48077ba0c967a181c41ac723": {
+    "relation_pairs": [
+      [
+        "Computer Network",
+        "Node"
+      ],
+      [
+        "Computer Network",
+        "Resource Sharing"
+      ],
+      [
+        "Computer Network",
+        "Information Transfer"
+      ],
+      [
+        "Computer Network",
+        "internet"
+      ],
+      [
+        "Node",
+        "Router"
+      ],
+      [
+        "Intermet",
+        "internet"
+      ],
+      [
+        "Computer Network",
+        "Link"
+      ],
+      [
+        "Internet",
+        "TCP/IP"
+      ],
+      [
+        "Internet",
+        "Router"
+      ]
+    ],
+    "count": 9,
+    "create_time": 1760358358,
+    "update_time": 1760358358,
+    "_id": "doc-fd41ad5d48077ba0c967a181c41ac723"
+  },
+  "doc-2b8a9b3e3f6b51e19fd954018e563258": {
+    "relation_pairs": [
+      [
+        "Domain Name System",
+        "IPv6"
+      ],
+      [
+        "Dual Protocol Stack",
+        "Transition from IPv4 to IPv6"
+      ],
+      [
+        "Dual Protocol Stack",
+        "IPv4"
+      ],
+      [
+        "Backward Compatibility",
+        "IPv4"
+      ],
+      [
+        "Transition from IPv4 to IPv6",
+        "Tunneling Technology"
+      ],
+      [
+        "IPv6",
+        "Network Routing"
+      ],
+      [
+        "Domain Name System",
+        "IPv4"
+      ],
+      [
+        "IPv4",
+        "Network Routing"
+      ],
+      [
+        "Dual Protocol Stack",
+        "IPv6"
+      ],
+      [
+        "IPv6 Data Packet",
+        "Tunneling Technology"
+      ],
+      [
+        "IPv4 Data Packet",
+        "Tunneling Technology"
+      ]
+    ],
+    "count": 11,
+    "create_time": 1760358362,
+    "update_time": 1760358362,
+    "_id": "doc-2b8a9b3e3f6b51e19fd954018e563258"
+  },
+  "doc-9f4b31637b48d520435417a1be1dfd21": {
+    "relation_pairs": [
+      [
+        "Adapter",
+        "Data Transmission"
+      ],
+      [
+        "CSMA/CD Protocol",
+        "Half-Duplex Network"
+      ],
+      [
+        "Bus Network",
+        "CSMA/CD Protocol"
+      ],
+      [
+        "Collision Detection",
+        "Random Backoff"
+      ],
+      [
+        "CSMA/CD Protocol",
+        "Full-Duplex Network"
+      ],
+      [
+        "CSMA Protocol",
+        "CSMA/CD Protocol"
+      ],
+      [
+        "Carrier Sensing",
+        "Channel"
+      ],
+      [
+        "Adapter",
+        "Collision Detection"
+      ],
+      [
+        "Collision Detection",
+        "Data Transmission"
+      ]
+    ],
+    "count": 9,
+    "create_time": 1760358394,
+    "update_time": 1760358394,
+    "_id": "doc-9f4b31637b48d520435417a1be1dfd21"
+  },
+  "doc-463827fa257a27d9bc774ef356cec309": {
+    "relation_pairs": [
+      [
+        "发送窗口",
+        "接收窗口"
+      ],
+      [
+        "发送窗口",
+        "拥塞窗口"
+      ],
+      [
+        "接收端",
+        "确认报文"
+      ],
+      [
+        "拥塞控制",
+        "流量控制"
+      ],
+      [
+        "拥塞窗口",
+        "网络负荷"
+      ],
+      [
+        "数据传输速率",
+        "链路"
+      ],
+      [
+        "拥塞控制",
+        "通信时延"
+      ],
+      [
+        "接收窗口",
+        "窗口字段"
+      ],
+      [
+        "TCP报文首部",
+        "接收窗口"
+      ],
+      [
+        "TCP",
+        "拥塞控制"
+      ],
+      [
+        "慢开始",
+        "拥塞避免"
+      ],
+      [
+        "TCP",
+        "单方向传送"
+      ],
+      [
+        "快恢复",
+        "快重传"
+      ]
+    ],
+    "count": 13,
+    "create_time": 1760358441,
+    "update_time": 1760358441,
+    "_id": "doc-463827fa257a27d9bc774ef356cec309"
+  },
+  "doc-124f678afe64f6377e862ee0a85ea6bf": {
+    "relation_pairs": [
+      [
+        "无线传输",
+        "重传"
+      ],
+      [
+        "TCP",
+        "传输层"
+      ],
+      [
+        "CRC检错",
+        "有线链路"
+      ],
+      [
+        "确认",
+        "重传"
+      ],
+      [
+        "帧编号",
+        "确认"
+      ],
+      [
+        "位错",
+        "循环冗余检验"
+      ],
+      [
+        "差错检测",
+        "帧错"
+      ],
+      [
+        "传输层",
+        "高层协议"
+      ],
+      [
+        "可靠传输",
+        "数据链路层"
+      ],
+      [
+        "信道噪声",
+        "差错检测"
+      ],
+      [
+        "位错",
+        "差错检测"
+      ]
+    ],
+    "count": 11,
+    "create_time": 1760358474,
+    "update_time": 1760358474,
+    "_id": "doc-124f678afe64f6377e862ee0a85ea6bf"
+  },
+  "doc-52aee7f8dcda2139521cf885d71ddc50": {
+    "relation_pairs": [
+      [
+        "MAIL Command",
+        "SMTP Client"
+      ],
+      [
+        "No Intermediate Mail Servers",
+        "SMTP Protocol"
+      ],
+      [
+        "Client/Server Model",
+        "SMTP Protocol"
+      ],
+      [
+        "Mail Transmission",
+        "SMTP Protocol"
+      ],
+      [
+        "Mail Cache",
+        "SMTP Server"
+      ],
+      [
+        "550 No Such User Here",
+        "SMTP Server"
+      ],
+      [
+        "SMTP Client",
+        "SMTP Server"
+      ],
+      [
+        "DATA Command",
+        "SMTP Client"
+      ],
+      [
+        "Connection Release Phase",
+        "Mail Transmission"
+      ],
+      [
+        "250 OK",
+        "SMTP Server"
+      ],
+      [
+        "Mail Cache",
+        "SMTP Client"
+      ],
+      [
+        "Mail Transfer Phase",
+        "Mail Transmission"
+      ],
+      [
+        "Port 25",
+        "SMTP Protocol"
+      ],
+      [
+        "220 Service Ready",
+        "SMTP Server"
+      ],
+      [
+        "Connection Establishment Phase",
+        "Mail Transmission"
+      ],
+      [
+        "HELO Command",
+        "SMTP Client"
+      ],
+      [
+        "354 Start Mail Input",
+        "SMTP Server"
+      ],
+      [
+        "RCPT Command",
+        "SMTP Client"
+      ],
+      [
+        "221 Service Closed",
+        "SMTP Server"
+      ],
+      [
+        "SMTP Protocol",
+        "TCP Connection"
+      ],
+      [
+        "QUIT Command",
+        "SMTP Client"
+      ]
+    ],
+    "count": 21,
+    "create_time": 1760358477,
+    "update_time": 1760358477,
+    "_id": "doc-52aee7f8dcda2139521cf885d71ddc50"
+  },
+  "doc-f96becae64f455966932fb68f2078bea": {
+    "relation_pairs": [
+      [
+        "Frame Boundary Delimiter",
+        "Zero-Bit Insertion Method"
+      ],
+      [
+        "Hardware Implementation",
+        "Zero-Bit Insertion Method"
+      ],
+      [
+        "Transparent Transmission",
+        "Zero-Bit Insertion Method"
+      ],
+      [
+        "Data Field",
+        "Zero-Bit Insertion Method"
+      ],
+      [
+        "HDLC Protocol",
+        "Zero-Bit Insertion Method"
+      ],
+      [
+        "Five Consecutive 1s",
+        "Zero-Bit Insertion Method"
+      ],
+      [
+        "Byte Stuffing",
+        "Zero-Bit Insertion Method"
+      ]
+    ],
+    "count": 7,
+    "create_time": 1760358499,
+    "update_time": 1760358499,
+    "_id": "doc-f96becae64f455966932fb68f2078bea"
+  },
+  "doc-452a1c28f81d332f1aa5869ef05c8061": {
+    "relation_pairs": [
+      [
+        "Relay System",
+        "Upper Network Layer Relay System"
+      ],
+      [
+        "Network Layer",
+        "Router"
+      ],
+      [
+        "Physical Layer Relay System",
+        "Relay System"
+      ],
+      [
+        "IP Network",
+        "Routing Protocol"
+      ],
+      [
+        "Data Link Layer Relay System",
+        "Relay System"
+      ],
+      [
+        "IP Network",
+        "TCP/IP"
+      ],
+      [
+        "Network Interconnection",
+        "Network Layer"
+      ],
+      [
+        "IP Network",
+        "Virtual Interconnected Network"
+      ],
+      [
+        "Heterogeneous Networks",
+        "Internet"
+      ],
+      [
+        "Network Layer Relay System",
+        "Relay System"
+      ],
+      [
+        "Addressing Scheme",
+        "IP Network"
+      ]
+    ],
+    "count": 11,
+    "create_time": 1760358509,
+    "update_time": 1760358509,
+    "_id": "doc-452a1c28f81d332f1aa5869ef05c8061"
+  },
+  "doc-5193a12f652f95c1aac91b04abca6036": {
+    "relation_pairs": [
+      [
+        "0.0.0.0",
+        "Special IP Address"
+      ],
+      [
+        "Host Number All Zeros",
+        "Network Address"
+      ],
+      [
+        "Direct Broadcast Address",
+        "Host Number All Ones"
+      ],
+      [
+        "127.x.x.x",
+        "Special IP Address"
+      ],
+      [
+        "255.255.255.255",
+        "Limited Broadcast Address"
+      ],
+      [
+        "0.0.0.0",
+        "DHCP"
+      ],
+      [
+        "Broadcast Address",
+        "Host Number All Ones"
+      ],
+      [
+        "255.255.255.255",
+        "Special IP Address"
+      ],
+      [
+        "127.x.x.x",
+        "Loopback Test"
+      ],
+      [
+        "Host Number All Ones",
+        "Special IP Address"
+      ],
+      [
+        "Host Number All Zeros",
+        "Special IP Address"
+      ]
+    ],
+    "count": 11,
+    "create_time": 1760358531,
+    "update_time": 1760358531,
+    "_id": "doc-5193a12f652f95c1aac91b04abca6036"
+  },
+  "doc-f8a9d0be028c5c409c722c2f24f99a36": {
+    "relation_pairs": [
+      [
+        "2W log₂V b/s Formula",
+        "V"
+      ],
+      [
+        "Data Transmission Rate",
+        "Discrete Level Count"
+      ],
+      [
+        "Multi-Level Modulation",
+        "Nyquist Theorem"
+      ],
+      [
+        "2W Baud Limit",
+        "2W log₂V b/s Formula"
+      ],
+      [
+        "2W Baud Limit",
+        "W"
+      ],
+      [
+        "Discrete Level Count",
+        "Log₂V"
+      ],
+      [
+        "Baud",
+        "Symbol Rate"
+      ],
+      [
+        "Ideal Low-Pass Channel",
+        "Nyquist Theorem"
+      ],
+      [
+        "2W Baud Limit",
+        "Symbol Rate"
+      ],
+      [
+        "Bandwidth",
+        "Symbol Rate"
+      ],
+      [
+        "Data Transmission Rate",
+        "b/s"
+      ],
+      [
+        "Intersymbol Interference",
+        "Symbol Rate"
+      ],
+      [
+        "Bandwidth",
+        "Ideal Low-Pass Channel"
+      ],
+      [
+        "Data Transmission Rate",
+        "Multi-Level Modulation"
+      ],
+      [
+        "2W Baud Limit",
+        "Intersymbol Interference"
+      ]
+    ],
+    "count": 15,
+    "create_time": 1760358538,
+    "update_time": 1760358538,
+    "_id": "doc-f8a9d0be028c5c409c722c2f24f99a36"
+  },
+  "doc-e2d2f7b7b6ece2f9d71b50eb3ba2aef0": {
+    "relation_pairs": [
+      [
+        "Decibel",
+        "Signal-to-Noise Ratio"
+      ],
+      [
+        "Bandwidth",
+        "Limiting Data Transmission Rate"
+      ],
+      [
+        "Limiting Data Transmission Rate",
+        "Shannon Formula"
+      ],
+      [
+        "Noise Power",
+        "Signal-to-Noise Ratio"
+      ],
+      [
+        "Limiting Data Transmission Rate",
+        "Signal-to-Noise Ratio"
+      ],
+      [
+        "Signal Power",
+        "Signal-to-Noise Ratio"
+      ],
+      [
+        "Limiting Data Transmission Rate",
+        "Shannon's Theorem"
+      ],
+      [
+        "Error-Free Transmission",
+        "Shannon's Theorem"
+      ]
+    ],
+    "count": 8,
+    "create_time": 1760358557,
+    "update_time": 1760358557,
+    "_id": "doc-e2d2f7b7b6ece2f9d71b50eb3ba2aef0"
+  },
+  "doc-4a4a1496c168f55f972a177b1a5aaa56": {
+    "relation_pairs": [
+      [
+        "Call Answer Packet",
+        "Confirmed Data Transmission"
+      ],
+      [
+        "Call Request Packet",
+        "Virtual Circuit Establishment"
+      ],
+      [
+        "Confirmed Data Transmission",
+        "Data Packet"
+      ],
+      [
+        "Host A",
+        "Virtual Circuit Establishment"
+      ],
+      [
+        "Data Packet",
+        "Data Transmission"
+      ],
+      [
+        "Call Answer Packet",
+        "Virtual Circuit Establishment"
+      ],
+      [
+        "Virtual Circuit",
+        "Virtual Circuit Release"
+      ],
+      [
+        "Flow Control",
+        "Virtual Circuit"
+      ],
+      [
+        "Routing Selection",
+        "Virtual Circuit"
+      ],
+      [
+        "Virtual Circuit",
+        "Virtual Circuit Identifier"
+      ],
+      [
+        "Host B",
+        "Virtual Circuit Establishment"
+      ],
+      [
+        "Data Packet",
+        "Packet Header"
+      ],
+      [
+        "Network Node Failure",
+        "Virtual Circuit"
+      ],
+      [
+        "Data Transmission",
+        "Virtual Circuit"
+      ],
+      [
+        "Virtual Circuit",
+        "Virtual Circuit Table"
+      ]
+    ],
+    "count": 15,
+    "create_time": 1760358569,
+    "update_time": 1760358569,
+    "_id": "doc-4a4a1496c168f55f972a177b1a5aaa56"
+  },
+  "doc-2109b69efddaf4ba592c0a1645bcd167": {
+    "relation_pairs": [
+      [
+        "连接建立",
+        "链路管理"
+      ],
+      [
+        "数据链路层连接",
+        "链路管理"
+      ],
+      [
+        "节点",
+        "连接建立"
+      ],
+      [
+        "连接维持",
+        "链路管理"
+      ],
+      [
+        "帧序号初始化",
+        "连接建立"
+      ],
+      [
+        "链路管理",
+        "面向连接的服务"
+      ],
+      [
+        "数据链路层",
+        "链路管理"
+      ],
+      [
+        "连接释放",
+        "链路管理"
+      ]
+    ],
+    "count": 8,
+    "create_time": 1760358586,
+    "update_time": 1760358586,
+    "_id": "doc-2109b69efddaf4ba592c0a1645bcd167"
+  },
+  "doc-672b11a546a2b3bcd7f6cad52a133de7": {
+    "relation_pairs": [
+      [
+        "Channel Busy Detection",
+        "Virtual Carrier Sensing"
+      ],
+      [
+        "802.11 Standard",
+        "Management Frame"
+      ],
+      [
+        "InterFrame Space",
+        "PIFS"
+      ],
+      [
+        "802.11 Standard",
+        "SIFS"
+      ],
+      [
+        "802.11 Standard",
+        "IEEE 802.11"
+      ],
+      [
+        "InterFrame Space",
+        "SIFS"
+      ],
+      [
+        "802.11 Standard",
+        "InterFrame Space"
+      ],
+      [
+        "ACK Frame",
+        "Virtual Carrier Sensing"
+      ],
+      [
+        "Access Point",
+        "PIFS"
+      ],
+      [
+        "DIFS",
+        "InterFrame Space"
+      ],
+      [
+        "ACK Frame",
+        "RTS/CTS Handshake"
+      ],
+      [
+        "2011",
+        "CSMAVCA Protocol"
+      ],
+      [
+        "802.11 Standard",
+        "ACK Frame"
+      ],
+      [
+        "Access Point",
+        "SIFS"
+      ],
+      [
+        "CTS Frame",
+        "RTS/CTS Handshake"
+      ],
+      [
+        "802.11 Standard",
+        "CTS Frame"
+      ],
+      [
+        "AP Probe Response",
+        "Access Point"
+      ],
+      [
+        "Channel Busy Detection",
+        "Wireless Local Area Network"
+      ],
+      [
+        "802.11 Standard",
+        "DIFS"
+      ],
+      [
+        "802.11 Standard",
+        "Stop-Wait Protocol"
+      ],
+      [
+        "CSMAVCA Protocol",
+        "Link Layer Acknowledgment/Retransmission"
+      ],
+      [
+        "802.11 Standard",
+        "PIFS"
+      ]
+    ],
+    "count": 22,
+    "create_time": 1760358602,
+    "update_time": 1760358602,
+    "_id": "doc-672b11a546a2b3bcd7f6cad52a133de7"
+  },
+  "doc-28f3a0853572fb49708462f779e9fb14": {
+    "relation_pairs": [
+      [
+        "C/S Model",
+        "P2P Model"
+      ],
+      [
+        "Memory Usage",
+        "P2P Model"
+      ],
+      [
+        "Internet Service Provider",
+        "Network Traffic"
+      ],
+      [
+        "Node",
+        "P2P Model"
+      ],
+      [
+        "Bandwidth Limitation",
+        "P2P Model"
+      ],
+      [
+        "Network Traffic",
+        "P2P Model"
+      ],
+      [
+        "P2P Model",
+        "Resource Utilization"
+      ],
+      [
+        "P2P Model",
+        "Scalability"
+      ],
+      [
+        "Disk Wear",
+        "P2P Model"
+      ],
+      [
+        "P2P Model",
+        "Resource Sharing"
+      ],
+      [
+        "P2P Model",
+        "System Efficiency"
+      ],
+      [
+        "Network Robustness",
+        "P2P Model"
+      ]
+    ],
+    "count": 12,
+    "create_time": 1760358616,
+    "update_time": 1760358616,
+    "_id": "doc-28f3a0853572fb49708462f779e9fb14"
+  },
+  "doc-ef013831c0a3724f44a051ef1a45d285": {
+    "relation_pairs": [
+      [
+        "Packet Forwarding",
+        "Router"
+      ],
+      [
+        "Router",
+        "Routing Selection"
+      ],
+      [
+        "Network Topology",
+        "Routing Selection"
+      ],
+      [
+        "Optimal Path",
+        "Routing Selection"
+      ],
+      [
+        "Routing Selection",
+        "Routing Table"
+      ],
+      [
+        "Forwarding Table Query",
+        "Packet Forwarding"
+      ],
+      [
+        "Forwarding Table",
+        "Packet Forwarding"
+      ],
+      [
+        "Forwarding Table",
+        "Routing Table"
+      ],
+      [
+        "Routing Protocol",
+        "Routing Table"
+      ]
+    ],
+    "count": 9,
+    "create_time": 1760358622,
+    "update_time": 1760358622,
+    "_id": "doc-ef013831c0a3724f44a051ef1a45d285"
+  },
+  "doc-eb52228a86bc0b8a86dd9b02f73e2a03": {
+    "relation_pairs": [
+      [
+        "Coaxial Cable",
+        "Outer Conductive Shield"
+      ],
+      [
+        "Coaxial Cable",
+        "Electromagnetic Interference Resistance"
+      ],
+      [
+        "Coaxial Cable",
+        "Inner Conductor"
+      ],
+      [
+        "Coaxial Cable",
+        "Insulation Protective Layer"
+      ],
+      [
+        "75Ω Coaxial Cable",
+        "Broadband Signal"
+      ],
+      [
+        "Coaxial Cable",
+        "High-Speed Data Transmission"
+      ],
+      [
+        "50Ω Coaxial Cable",
+        "Coaxial Cable"
+      ],
+      [
+        "50Ω Coaxial Cable",
+        "Baseband Digital Signal"
+      ],
+      [
+        "75Ω Coaxial Cable",
+        "Coaxial Cable"
+      ],
+      [
+        "Coaxial Cable",
+        "Insulating Layer"
+      ]
+    ],
+    "count": 10,
+    "create_time": 1760358644,
+    "update_time": 1760358644,
+    "_id": "doc-eb52228a86bc0b8a86dd9b02f73e2a03"
+  },
+  "doc-a8824c1aea800afa58be48a3762992c8": {
+    "relation_pairs": [
+      [
+        "Destination Router",
+        "Source Router"
+      ],
+      [
+        "Best Path",
+        "Routing Algorithm"
+      ],
+      [
+        "Network Links",
+        "Routing Algorithm"
+      ],
+      [
+        "Routing Algorithm",
+        "Routing Table"
+      ],
+      [
+        "Lowest Cost",
+        "Routing Algorithm"
+      ]
+    ],
+    "count": 5,
+    "create_time": 1760358657,
+    "update_time": 1760358657,
+    "_id": "doc-a8824c1aea800afa58be48a3762992c8"
+  },
+  "doc-f038f5da30901d2ce42833321f62625e": {
+    "relation_pairs": [
+      [
+        "ASCII Code",
+        "ESC"
+      ],
+      [
+        "EOT",
+        "ESC"
+      ],
+      [
+        "Byte Stuffing Method",
+        "ESC"
+      ],
+      [
+        "Byte Stuffing Method",
+        "SOH"
+      ],
+      [
+        "ESC",
+        "SOH"
+      ],
+      [
+        "Byte Stuffing Method",
+        "EOT"
+      ],
+      [
+        "Frame",
+        "Transparent Transmission"
+      ],
+      [
+        "Data Segment",
+        "SOH"
+      ],
+      [
+        "Data Segment",
+        "EOT"
+      ]
+    ],
+    "count": 9,
+    "create_time": 1760358680,
+    "update_time": 1760358680,
+    "_id": "doc-f038f5da30901d2ce42833321f62625e"
+  },
+  "doc-20bb73fe2c922586106075dd78af569f": {
+    "relation_pairs": [
+      [
+        "字节流",
+        "序号"
+      ],
+      [
+        "TCP连接",
+        "接收方"
+      ],
+      [
+        "字节流",
+        "确认号"
+      ],
+      [
+        "TCP连接",
+        "窗口"
+      ],
+      [
+        "Urgent Pointer",
+        "Window Zero"
+      ],
+      [
+        "TCP Header",
+        "TCP Header Options"
+      ],
+      [
+        "伪首部",
+        "检验和"
+      ],
+      [
+        "TCP Header Options",
+        "Window Scale Option"
+      ],
+      [
+        "Padding",
+        "TCP Header"
+      ],
+      [
+        "Protocol Field",
+        "UDP Pseudo Header"
+      ],
+      [
+        "TCP Header",
+        "Urgent Data"
+      ],
+      [
+        "TCP报文段首部",
+        "数据偏移"
+      ],
+      [
+        "TCP Protocol",
+        "TCP Pseudo Header"
+      ],
+      [
+        "TCP Header Options",
+        "Timestamp Option"
+      ],
+      [
+        "TCP报文段首部",
+        "目的端口"
+      ],
+      [
+        "TCP报文段首部",
+        "紧急指针"
+      ],
+      [
+        "Length Field",
+        "UDP Pseudo Header"
+      ],
+      [
+        "TCP报文段首部",
+        "同步位SYN"
+      ],
+      [
+        "TCP报文段首部",
+        "推送位PSH"
+      ],
+      [
+        "TCP报文段首部",
+        "窗口"
+      ],
+      [
+        "TCP报文段首部",
+        "检验和"
+      ],
+      [
+        "TCP报文段首部",
+        "源端口"
+      ],
+      [
+        "TCP连接",
+        "序号"
+      ],
+      [
+        "Maximum Segment Size",
+        "TCP Header Options"
+      ],
+      [
+        "TCP连接",
+        "确认号"
+      ],
+      [
+        "TCP连接",
+        "紧急位URG"
+      ],
+      [
+        "TCP报文段首部",
+        "确认位ACK"
+      ],
+      [
+        "TCP连接",
+        "字节流"
+      ],
+      [
+        "TCP连接",
+        "发送方"
+      ],
+      [
+        "TCP报文段首部",
+        "复位位RST"
+      ],
+      [
+        "接收方",
+        "接收缓存空间"
+      ],
+      [
+        "接收方",
+        "窗口"
+      ],
+      [
+        "UDP Protocol",
+        "UDP Pseudo Header"
+      ],
+      [
+        "TCP Header",
+        "Urgent Pointer"
+      ],
+      [
+        "TCP报文段首部",
+        "序号"
+      ],
+      [
+        "紧急位URG",
+        "紧急指针"
+      ],
+      [
+        "TCP报文段首部",
+        "确认号"
+      ],
+      [
+        "TCP报文段首部",
+        "终止位FIN"
+      ],
+      [
+        "TCP报文段首部",
+        "紧急位URG"
+      ],
+      [
+        "Segment Data",
+        "Urgent Data"
+      ],
+      [
+        "发送方",
+        "窗口"
+      ]
+    ],
+    "count": 41,
+    "create_time": 1760358685,
+    "update_time": 1760358685,
+    "_id": "doc-20bb73fe2c922586106075dd78af569f"
+  },
+  "doc-f746800dc318223d381ac24dc0e6b1f0": {
+    "relation_pairs": [
+      [
+        "Host B",
+        "Socket"
+      ],
+      [
+        "Host A",
+        "Return Address"
+      ],
+      [
+        "Destination Port Number",
+        "Packet"
+      ],
+      [
+        "Packet",
+        "Source Port Number"
+      ],
+      [
+        "Application Process",
+        "Socket"
+      ],
+      [
+        "Port Number",
+        "Socket"
+      ],
+      [
+        "Host A",
+        "Socket"
+      ],
+      [
+        "IP Address",
+        "Socket"
+      ]
+    ],
+    "count": 8,
+    "create_time": 1760358700,
+    "update_time": 1760358700,
+    "_id": "doc-f746800dc318223d381ac24dc0e6b1f0"
+  },
+  "doc-4c759b9c1f4a3bd192b6f500521adb66": {
+    "relation_pairs": [
+      [
+        "Broadcast Channel",
+        "Medium Access Control"
+      ],
+      [
+        "Node B",
+        "Node D"
+      ],
+      [
+        "Polling Access",
+        "Signal Isolation"
+      ],
+      [
+        "Interference",
+        "Random Access"
+      ],
+      [
+        "Channel Allocation Protocol",
+        "Medium Access Control"
+      ],
+      [
+        "Broadcast Channel",
+        "Figure 3.15"
+      ],
+      [
+        "Node A",
+        "Node C"
+      ],
+      [
+        "Dynamic Channel Allocation",
+        "Polling Access"
+      ],
+      [
+        "Channel Division",
+        "Static Channel Allocation"
+      ],
+      [
+        "Data Link Layer",
+        "Medium Access Control"
+      ],
+      [
+        "Dynamic Channel Allocation",
+        "Random Access"
+      ]
+    ],
+    "count": 11,
+    "create_time": 1760358713,
+    "update_time": 1760358713,
+    "_id": "doc-4c759b9c1f4a3bd192b6f500521adb66"
+  },
+  "doc-8ae594c4084153ff7f383278dd04f63e": {
+    "relation_pairs": [
+      [
+        "Permission Domain Name Server",
+        "Top-Level Domain Server"
+      ],
+      [
+        "Internet Service Provider",
+        "Local Domain Name Server"
+      ],
+      [
+        "DNS Hierarchy",
+        "DNS Query"
+      ],
+      [
+        "Redundant Server Cluster",
+        "Root Domain Name Server"
+      ],
+      [
+        "DNS Query",
+        "Host"
+      ],
+      [
+        "Domain Name Server",
+        "Domain Name to IP Address Resolution"
+      ],
+      [
+        "DNS Query",
+        "Local Domain Name Server"
+      ],
+      [
+        "Domain Name Mapping",
+        "Permission Domain Name Server"
+      ],
+      [
+        "13 Root Domain Name Servers",
+        "Root Domain Name Server"
+      ],
+      [
+        "DNS Hierarchy",
+        "Domain Name Server"
+      ],
+      [
+        "Permission Domain Name Server",
+        "Zone"
+      ],
+      [
+        "Root Domain Name Server",
+        "Top-Level Domain Server"
+      ],
+      [
+        "Local Domain Name Server",
+        "University"
+      ],
+      [
+        "Host Registration",
+        "Permission Domain Name Server"
+      ],
+      [
+        "Host",
+        "Permission Domain Name Server"
+      ]
+    ],
+    "count": 15,
+    "create_time": 1760358733,
+    "update_time": 1760358733,
+    "_id": "doc-8ae594c4084153ff7f383278dd04f63e"
+  },
+  "doc-5aebc920ddd1c203a2f57f4ddca32e60": {
+    "relation_pairs": [
+      [
+        "IP Datagram",
+        "Router"
+      ],
+      [
+        "Router",
+        "Routing Table"
+      ],
+      [
+        "IP Address",
+        "Network Layer"
+      ],
+      [
+        "Internet",
+        "Network Layer"
+      ],
+      [
+        "MAC Address",
+        "MAC Frame"
+      ],
+      [
+        "Data Link Layer",
+        "MAC Address"
+      ],
+      [
+        "IP Datagram",
+        "MAC Frame"
+      ],
+      [
+        "Next Hop",
+        "Router"
+      ],
+      [
+        "IP Address",
+        "IP Datagram"
+      ],
+      [
+        "Host",
+        "IP Address"
+      ]
+    ],
+    "count": 10,
+    "create_time": 1760358739,
+    "update_time": 1760358739,
+    "_id": "doc-5aebc920ddd1c203a2f57f4ddca32e60"
+  },
+  "doc-13041c4cacbd85f34fd9db4c648a9ca7": {
+    "relation_pairs": [
+      [
+        "Domain Name Servers",
+        "Domain Name System"
+      ],
+      [
+        "Domain Name System",
+        "IP Addresses"
+      ],
+      [
+        "Domain Name System",
+        "Resolver"
+      ],
+      [
+        "Domain Name System",
+        "Hostnames"
+      ],
+      [
+        "Domain Name System",
+        "Port 53"
+      ],
+      [
+        "Customer/Server Model",
+        "Domain Name System"
+      ],
+      [
+        "Domain Name System",
+        "UDP"
+      ],
+      [
+        "Domain Name System",
+        "Hierarchical Domain Name Space"
+      ]
+    ],
+    "count": 8,
+    "create_time": 1760358757,
+    "update_time": 1760358757,
+    "_id": "doc-13041c4cacbd85f34fd9db4c648a9ca7"
+  },
+  "doc-0521f3bc9331aa3d7662dc79770a2de4": {
+    "relation_pairs": [
+      [
+        "Binary Trie",
+        "Routing Table"
+      ],
+      [
+        "CIDR",
+        "Longest Prefix Match"
+      ],
+      [
+        "Network Prefix",
+        "Next Hop Address"
+      ],
+      [
+        "CIDR Address Block",
+        "Subnetting"
+      ],
+      [
+        "Hierarchical Data Structure",
+        "Longest Prefix Match"
+      ],
+      [
+        "CIDR",
+        "Routing Aggregation"
+      ],
+      [
+        "Network Performance",
+        "Routing Aggregation"
+      ],
+      [
+        "Routing Aggregation",
+        "Routing Table"
+      ],
+      [
+        "Longest Prefix Match",
+        "Routing Table"
+      ],
+      [
+        "CIDR",
+        "CIDR Address Block"
+      ]
+    ],
+    "count": 10,
+    "create_time": 1760358771,
+    "update_time": 1760358771,
+    "_id": "doc-0521f3bc9331aa3d7662dc79770a2de4"
+  },
+  "doc-740043ec1153417d3eebaa494d90cd2b": {
+    "relation_pairs": [
+      [
+        "快恢复算法",
+        "报文段丢失"
+      ],
+      [
+        "慢开始门限",
+        "拥塞窗口"
+      ],
+      [
+        "快恢复算法",
+        "拥塞避免算法"
+      ],
+      [
+        "慢开始算法",
+        "拥塞窗口"
+      ],
+      [
+        "乘法减小",
+        "快恢复算法"
+      ],
+      [
+        "冗余ACK",
+        "快重传算法"
+      ],
+      [
+        "快重传算法",
+        "报文段丢失"
+      ],
+      [
+        "快重传算法",
+        "超时计时器"
+      ],
+      [
+        "冗余ACK",
+        "网络拥塞"
+      ],
+      [
+        "快恢复算法",
+        "拥塞窗口"
+      ]
+    ],
+    "count": 10,
+    "create_time": 1760358787,
+    "update_time": 1760358787,
+    "_id": "doc-740043ec1153417d3eebaa494d90cd2b"
+  },
+  "doc-0cb26282bf2e5da7a85c0bacfde3e99e": {
+    "relation_pairs": [
+      [
+        "Memory",
+        "Network Adapter"
+      ],
+      [
+        "Network Adapter",
+        "Protocol Stack"
+      ],
+      [
+        "Ethernet",
+        "Twisted Pair Wire"
+      ],
+      [
+        "Ethernet",
+        "Thin Coaxial Cable"
+      ],
+      [
+        "Network Adapter",
+        "Processor"
+      ],
+      [
+        "Ethernet",
+        "Transmission Medium"
+      ],
+      [
+        "Ethernet",
+        "Fiber Optic Cable"
+      ],
+      [
+        "Data Buffering",
+        "Network Adapter"
+      ],
+      [
+        "Network Adapter",
+        "Parallel Communication"
+      ],
+      [
+        "Data Link Layer",
+        "Network Adapter"
+      ],
+      [
+        "Data Encoding",
+        "Network Adapter"
+      ],
+      [
+        "Frame",
+        "Network Adapter"
+      ],
+      [
+        "Ethernet",
+        "Thick Coaxial Cable"
+      ],
+      [
+        "Network Adapter",
+        "Serial Communication"
+      ],
+      [
+        "Data Decoding",
+        "Network Adapter"
+      ],
+      [
+        "Interrupt",
+        "Network Adapter"
+      ],
+      [
+        "I/O Bus",
+        "Network Adapter"
+      ],
+      [
+        "IP Datagram",
+        "Network Adapter"
+      ],
+      [
+        "Media Access Control",
+        "Network Adapter"
+      ]
+    ],
+    "count": 19,
+    "create_time": 1760358811,
+    "update_time": 1760358811,
+    "_id": "doc-0cb26282bf2e5da7a85c0bacfde3e99e"
+  },
+  "doc-ba22fc744317f0871bc093f62c94a231": {
+    "relation_pairs": [
+      [
+        "Parameter Problem",
+        "Router"
+      ],
+      [
+        "ICMP Error Report Message",
+        "Source Host"
+      ],
+      [
+        "Echo Request and Reply",
+        "ICMP Query Message"
+      ],
+      [
+        "Redirect",
+        "Router"
+      ],
+      [
+        "Host",
+        "Timestamp Request and Reply"
+      ],
+      [
+        "ICMP",
+        "IP Datagram"
+      ],
+      [
+        "Host",
+        "IP Datagram"
+      ],
+      [
+        "ICMP Error Report Message",
+        "Time Exceeded"
+      ],
+      [
+        "IP Datagram",
+        "Loopback Address"
+      ],
+      [
+        "IP Datagram",
+        "Router"
+      ],
+      [
+        "IP Datagram",
+        "Network Layer"
+      ],
+      [
+        "IP Datagram",
+        "Time To Live"
+      ],
+      [
+        "IP Datagram",
+        "Multicast Address"
+      ],
+      [
+        "Echo Request and Reply",
+        "Host"
+      ],
+      [
+        "Destination Unreachable",
+        "Router"
+      ],
+      [
+        "Router",
+        "Time Exceeded"
+      ],
+      [
+        "ICMP Query Message",
+        "Timestamp Request and Reply"
+      ],
+      [
+        "ICMP Error Report Message",
+        "Parameter Problem"
+      ],
+      [
+        "Internet Control Message Protocol",
+        "Network Layer"
+      ],
+      [
+        "ICMP Error Report Message",
+        "Source Quench"
+      ],
+      [
+        "Destination Unreachable",
+        "ICMP Error Report Message"
+      ],
+      [
+        "Router",
+        "Source Quench"
+      ],
+      [
+        "ICMP Error Report Message",
+        "Redirect"
+      ]
+    ],
+    "count": 23,
+    "create_time": 1760358826,
+    "update_time": 1760358826,
+    "_id": "doc-ba22fc744317f0871bc093f62c94a231"
+  },
+  "doc-c8f3d2373147341871d12f8cdb9a5d16": {
+    "relation_pairs": [
+      [
+        "Segment",
+        "TCP"
+      ],
+      [
+        "Demultiplexing",
+        "Transmission Layer"
+      ],
+      [
+        "Transmission Layer",
+        "Unreliable Service"
+      ],
+      [
+        "Network Layer",
+        "Transmission Layer"
+      ],
+      [
+        "Network Core",
+        "Transmission Layer"
+      ],
+      [
+        "Communication Subnet",
+        "Router"
+      ],
+      [
+        "Host",
+        "Layered Protocol Stack"
+      ],
+      [
+        "Multiplexing",
+        "Transmission Layer"
+      ],
+      [
+        "Error Detection",
+        "Transmission Layer"
+      ],
+      [
+        "IPv4",
+        "Transmission Layer"
+      ],
+      [
+        "IP Datagram",
+        "Network Layer"
+      ],
+      [
+        "TCP",
+        "Transmission Layer"
+      ],
+      [
+        "Port Number",
+        "Transmission Layer"
+      ],
+      [
+        "Transmission Layer",
+        "UDP"
+      ],
+      [
+        "Datagram",
+        "UDP"
+      ],
+      [
+        "End-to-End Communication",
+        "Transmission Layer"
+      ],
+      [
+        "Reliable Service",
+        "Transmission Layer"
+      ],
+      [
+        "Logical Communication",
+        "Transmission Layer"
+      ],
+      [
+        "Process",
+        "Transmission Layer"
+      ],
+      [
+        "Application Layer",
+        "Transmission Layer"
+      ]
+    ],
+    "count": 20,
+    "create_time": 1760358851,
+    "update_time": 1760358851,
+    "_id": "doc-c8f3d2373147341871d12f8cdb9a5d16"
+  },
+  "doc-eeb7136306177f890bbbf6e655857c68": {
+    "relation_pairs": [
+      [
+        "Ethernet Switch",
+        "Store-and-Forward Switching"
+      ],
+      [
+        "Ethernet Switch",
+        "Full Duplex"
+      ],
+      [
+        "Error Checking",
+        "Store-and-Forward Switching"
+      ],
+      [
+        "10Mb/s Ethernet",
+        "Hub"
+      ],
+      [
+        "Ethernet Switch",
+        "Switching Chip"
+      ],
+      [
+        "Collision Domain",
+        "Ethernet Switch"
+      ],
+      [
+        "Ethernet Switch",
+        "Self-Learning Algorithm"
+      ],
+      [
+        "Ethernet Switch",
+        "Layer 2"
+      ],
+      [
+        "Broadcast Domain",
+        "Ethernet Switch"
+      ],
+      [
+        "Cut-Through Switching",
+        "Store-and-Forward Switching"
+      ],
+      [
+        "CSMA/CD",
+        "Ethernet Switch"
+      ],
+      [
+        "100Mb/s Interface",
+        "Ethernet Switch"
+      ],
+      [
+        "Ethernet Switch",
+        "MAC Address"
+      ],
+      [
+        "Full Duplex",
+        "Half Duplex"
+      ],
+      [
+        "10Mb/s Interface",
+        "Ethernet Switch"
+      ],
+      [
+        "Cut-Through Switching",
+        "Ethernet Switch"
+      ],
+      [
+        "Cut-Through Switching",
+        "Latency"
+      ],
+      [
+        "Ethernet Switch",
+        "Frame Forwarding Table"
+      ],
+      [
+        "Ethernet Switch",
+        "Network Traffic"
+      ],
+      [
+        "Auto-Negotiation Interface",
+        "Ethernet Switch"
+      ]
+    ],
+    "count": 20,
+    "create_time": 1760358872,
+    "update_time": 1760358872,
+    "_id": "doc-eeb7136306177f890bbbf6e655857c68"
+  },
+  "doc-48063a7c317ce6fdac84b05196bda8af": {
+    "relation_pairs": [
+      [
+        "Edge Part",
+        "Internet"
+      ],
+      [
+        "Communication Subnet",
+        "Fiber Optics"
+      ],
+      [
+        "Core Part",
+        "Internet"
+      ],
+      [
+        "FTP Program",
+        "Resource Subnet"
+      ],
+      [
+        "Communication Subnet",
+        "Switch"
+      ],
+      [
+        "Communication Subnet",
+        "Data Transmission"
+      ],
+      [
+        "Computer Network",
+        "Protocol"
+      ],
+      [
+        "Email Program",
+        "Resource Subnet"
+      ],
+      [
+        "Computer Network",
+        "Software"
+      ],
+      [
+        "Core Part",
+        "Switching Service"
+      ],
+      [
+        "Computer Network",
+        "Hardware"
+      ],
+      [
+        "Communication Devices",
+        "Communication Subnet"
+      ],
+      [
+        "Communication Subnet",
+        "Router"
+      ],
+      [
+        "Resource Subnet",
+        "Software Resources"
+      ],
+      [
+        "Communication Subnet",
+        "Transmission Media"
+      ],
+      [
+        "Hardware Resources",
+        "Resource Subnet"
+      ],
+      [
+        "Computer Network",
+        "Resource Subnet"
+      ],
+      [
+        "Chat Program",
+        "Resource Subnet"
+      ],
+      [
+        "Resource Sharing",
+        "Resource Subnet"
+      ],
+      [
+        "Data Resources",
+        "Resource Subnet"
+      ],
+      [
+        "Communication Subnet",
+        "Network Protocol"
+      ],
+      [
+        "Communication Subnet",
+        "Network Interface Card"
+      ],
+      [
+        "Communication Subnet",
+        "Computer Network"
+      ],
+      [
+        "Communication Subnet",
+        "Twisted Pair Cable"
+      ],
+      [
+        "Connectivity",
+        "Core Part"
+      ]
+    ],
+    "count": 25,
+    "create_time": 1760358893,
+    "update_time": 1760358893,
+    "_id": "doc-48063a7c317ce6fdac84b05196bda8af"
+  },
+  "doc-89493c0ca63b6b323e20f543d0988ba0": {
+    "relation_pairs": [
+      [
+        "Autonomous System",
+        "External Gateway Protocol"
+      ],
+      [
+        "BGP-4",
+        "External Gateway Protocol"
+      ],
+      [
+        "Interior Gateway Protocol",
+        "RIP"
+      ],
+      [
+        "Autonomous System",
+        "Interior Gateway Protocol"
+      ],
+      [
+        "Autonomous System",
+        "Domain-Internal Routing"
+      ],
+      [
+        "Autonomous System",
+        "Figure 4.16"
+      ],
+      [
+        "BGP-4",
+        "Router R1"
+      ],
+      [
+        "Autonomous System",
+        "Domain-External Routing"
+      ],
+      [
+        "Interior Gateway Protocol",
+        "OSPF"
+      ],
+      [
+        "BGP-4",
+        "Router R2"
+      ]
+    ],
+    "count": 10,
+    "create_time": 1760358920,
+    "update_time": 1760358920,
+    "_id": "doc-89493c0ca63b6b323e20f543d0988ba0"
+  },
+  "doc-91e8fdad419900769a30727553786231": {
+    "relation_pairs": [
+      [
+        "时延带宽积",
+        "网络性能指标"
+      ],
+      [
+        "数字信道",
+        "速率"
+      ],
+      [
+        "吞吐量",
+        "数字信道"
+      ],
+      [
+        "带宽",
+        "数字信道"
+      ],
+      [
+        "吞吐量",
+        "网络性能指标"
+      ],
+      [
+        "数字信道",
+        "时延"
+      ],
+      [
+        "信道利用率",
+        "无数据通过的时间"
+      ],
+      [
+        "带宽",
+        "网络性能指标"
+      ],
+      [
+        "总时延",
+        "排队时延"
+      ],
+      [
+        "发送时延",
+        "发送速率"
+      ],
+      [
+        "分组长度",
+        "发送时延"
+      ],
+      [
+        "信道利用率",
+        "网络性能指标"
+      ],
+      [
+        "时延",
+        "网络性能指标"
+      ],
+      [
+        "发送时延",
+        "往返时延"
+      ],
+      [
+        "网络性能指标",
+        "计算机网络"
+      ],
+      [
+        "往返时延",
+        "网络性能指标"
+      ],
+      [
+        "分组",
+        "处理时延"
+      ],
+      [
+        "传播时延",
+        "电磁波传播速率"
+      ],
+      [
+        "往返时延",
+        "排队时延"
+      ],
+      [
+        "分组",
+        "发送时延"
+      ],
+      [
+        "分组",
+        "排队时延"
+      ],
+      [
+        "发送时延",
+        "总时延"
+      ],
+      [
+        "吞吐量",
+        "比特/秒"
+      ],
+      [
+        "带宽",
+        "比特/秒"
+      ],
+      [
+        "传播时延",
+        "信道长度"
+      ],
+      [
+        "信道带宽",
+        "时延带宽积"
+      ],
+      [
+        "传播时延",
+        "总时延"
+      ],
+      [
+        "传播时延",
+        "时延带宽积"
+      ],
+      [
+        "处理时延",
+        "往返时延"
+      ],
+      [
+        "网络性能指标",
+        "速率"
+      ],
+      [
+        "比特/秒",
+        "速率"
+      ],
+      [
+        "处理时延",
+        "总时延"
+      ],
+      [
+        "传播时延",
+        "分组"
+      ],
+      [
+        "信道利用率",
+        "有数据通过的时间"
+      ]
+    ],
+    "count": 34,
+    "create_time": 1760358927,
+    "update_time": 1760358927,
+    "_id": "doc-91e8fdad419900769a30727553786231"
+  },
+  "doc-3aeacef0a6ca3fd5e102a1808d47e884": {
+    "relation_pairs": [
+      [
+        "Bad News Propagation",
+        "RIP"
+      ],
+      [
+        "Network Scale Limitation",
+        "RIP"
+      ],
+      [
+        "Hop Count",
+        "RIP"
+      ],
+      [
+        "RIP",
+        "Slow Convergence"
+      ],
+      [
+        "RIP",
+        "Routing Table Exchange"
+      ],
+      [
+        "Distance-Vector Algorithm",
+        "RIP"
+      ],
+      [
+        "Good News Propagation",
+        "RIP"
+      ]
+    ],
+    "count": 7,
+    "create_time": 1760358937,
+    "update_time": 1760358937,
+    "_id": "doc-3aeacef0a6ca3fd5e102a1808d47e884"
+  },
+  "doc-3180a25741105031630bc39816af71b0": {
+    "relation_pairs": [
+      [
+        "网络负载",
+        "轻度拥塞状态"
+      ],
+      [
+        "拥塞控制",
+        "闭环控制"
+      ],
+      [
+        "主机",
+        "路由器"
+      ],
+      [
+        "开环控制",
+        "系统启动"
+      ],
+      [
+        "拥塞",
+        "网络负载"
+      ],
+      [
+        "监测网络系统",
+        "闭环控制"
+      ],
+      [
+        "拥塞控制",
+        "流量控制"
+      ],
+      [
+        "分组丢失",
+        "拥塞控制"
+      ],
+      [
+        "信息反馈",
+        "闭环控制"
+      ],
+      [
+        "反馈环路",
+        "闭环控制"
+      ],
+      [
+        "开环控制",
+        "调度策略"
+      ],
+      [
+        "事先设计",
+        "开环控制"
+      ],
+      [
+        "开环控制",
+        "拥塞控制"
+      ],
+      [
+        "拥塞",
+        "网络吞吐量"
+      ],
+      [
+        "拥塞状态",
+        "网络吞吐量"
+      ],
+      [
+        "全局性过程",
+        "拥塞控制"
+      ]
+    ],
+    "count": 16,
+    "create_time": 1760358979,
+    "update_time": 1760358979,
+    "_id": "doc-3180a25741105031630bc39816af71b0"
+  },
+  "doc-327048b1420ca42a4a95c708fe9bd0c2": {
+    "relation_pairs": [
+      [
+        "Dedicated Physical Communication Path",
+        "Switching Devices"
+      ],
+      [
+        "Circuit Switching",
+        "Data Transmission"
+      ],
+      [
+        "Circuit Switching",
+        "Straight-Through Forwarding"
+      ],
+      [
+        "Circuit Switching",
+        "Traditional Telephone Network"
+      ],
+      [
+        "Circuit Switching",
+        "Dedicated Physical Communication Path"
+      ],
+      [
+        "Circuit Switching",
+        "No Resource Conflict"
+      ],
+      [
+        "Circuit Switching",
+        "Connection Establishment"
+      ],
+      [
+        "Destination Node",
+        "Source Node"
+      ],
+      [
+        "Circuit Switching",
+        "High Real-Time Performance"
+      ],
+      [
+        "Communication Links",
+        "Dedicated Physical Communication Path"
+      ],
+      [
+        "Circuit Switching",
+        "Resource Idle Time"
+      ],
+      [
+        "Circuit Switching",
+        "Poor Flexibility"
+      ],
+      [
+        "Circuit Switching",
+        "Limited Error Control"
+      ],
+      [
+        "Circuit Switching",
+        "Source Node"
+      ],
+      [
+        "Circuit Switching",
+        "Long Connection Setup Time"
+      ],
+      [
+        "Circuit Switching",
+        "Low Communication Delay"
+      ],
+      [
+        "Circuit Switching",
+        "Ordered Data Transmission"
+      ],
+      [
+        "Bursty Data Transmission",
+        "Circuit Switching"
+      ],
+      [
+        "Bitstream Continuity",
+        "Circuit Switching"
+      ],
+      [
+        "Circuit Switching",
+        "Low Line Utilization"
+      ],
+      [
+        "Circuit Switching",
+        "Connection Release"
+      ],
+      [
+        "Circuit Switching",
+        "Destination Node"
+      ]
+    ],
+    "count": 22,
+    "create_time": 1760358984,
+    "update_time": 1760358984,
+    "_id": "doc-327048b1420ca42a4a95c708fe9bd0c2"
+  },
+  "doc-79fa3daf5b1b04c98384ec68b90f035a": {
+    "relation_pairs": [
+      [
+        "Sliding Window Mechanism",
+        "TCP"
+      ],
+      [
+        "Persistent Timer",
+        "Zero Window Notification"
+      ],
+      [
+        "Persistent Timer",
+        "Zero Window Probe"
+      ],
+      [
+        "Sender Window",
+        "Unacknowledged Data"
+      ],
+      [
+        "Buffer Overflow",
+        "Flow Control"
+      ],
+      [
+        "TCP Header",
+        "Window Field"
+      ],
+      [
+        "ACK=1",
+        "TCP Header"
+      ],
+      [
+        "Data Transmission Rate",
+        "Network Injection Rate"
+      ],
+      [
+        "Receiver Window (rwnd)",
+        "Sender Window"
+      ],
+      [
+        "Receiver Window (rwnd)",
+        "Receiving Buffer"
+      ],
+      [
+        "Dynamic Window Adjustment",
+        "Sliding Window Mechanism"
+      ],
+      [
+        "Flow Control",
+        "Receiver Window (rwnd)"
+      ],
+      [
+        "Flow Control",
+        "TCP"
+      ],
+      [
+        "End-to-End Flow Control",
+        "Link-Level Flow Control"
+      ]
+    ],
+    "count": 14,
+    "create_time": 1760359022,
+    "update_time": 1760359022,
+    "_id": "doc-79fa3daf5b1b04c98384ec68b90f035a"
+  },
+  "doc-4e2b7a3b6ee26a95e658864cfabe2311": {
+    "relation_pairs": [
+      [
+        "HDLC协议",
+        "标识位F"
+      ],
+      [
+        "尾部",
+        "帧"
+      ],
+      [
+        "差错概率",
+        "帧长"
+      ],
+      [
+        "帧",
+        "帧长"
+      ],
+      [
+        "封装成帧",
+        "帧"
+      ],
+      [
+        "帧",
+        "最大传送单元"
+      ],
+      [
+        "帧定界",
+        "标识位F"
+      ],
+      [
+        "帧长",
+        "重传代价"
+      ],
+      [
+        "帧",
+        "首部"
+      ],
+      [
+        "二进制比特流",
+        "透明传输"
+      ]
+    ],
+    "count": 10,
+    "create_time": 1760359024,
+    "update_time": 1760359024,
+    "_id": "doc-4e2b7a3b6ee26a95e658864cfabe2311"
+  },
+  "doc-0a5a21c871858bbf9575fa15feaee0a8": {
+    "relation_pairs": [
+      [
+        "Packet Forwarding",
+        "Router"
+      ],
+      [
+        "Forwarding Table",
+        "Network Prefix"
+      ],
+      [
+        "CIDR Addressing",
+        "Subnet Mask"
+      ],
+      [
+        "Forwarding Table",
+        "Specific Host Route"
+      ],
+      [
+        "CIDR Addressing",
+        "Longest Prefix Match"
+      ],
+      [
+        "Destination IP Address",
+        "Forwarding Table"
+      ],
+      [
+        "Forwarding Table",
+        "Internet"
+      ],
+      [
+        "Forwarding Table",
+        "Next-Hop Address"
+      ],
+      [
+        "Direct Delivery",
+        "Indirect Delivery"
+      ],
+      [
+        "Bitwise AND Operation",
+        "Longest Prefix Match"
+      ],
+      [
+        "0.0.0.0/0",
+        "Specific Host Route"
+      ],
+      [
+        "Forwarding Table Lookup",
+        "Longest Prefix Match"
+      ],
+      [
+        "Default Route",
+        "Forwarding Table"
+      ],
+      [
+        "Network Layer",
+        "Packet Forwarding"
+      ],
+      [
+        "Forwarding Table",
+        "Packet Forwarding"
+      ],
+      [
+        "Forwarding Table",
+        "Routing Table"
+      ],
+      [
+        "Forwarding Table Lookup",
+        "IP Datagram"
+      ]
+    ],
+    "count": 17,
+    "create_time": 1760359069,
+    "update_time": 1760359069,
+    "_id": "doc-0a5a21c871858bbf9575fa15feaee0a8"
+  },
+  "doc-74696275a43cf6de7f70e953dbd8cd72": {
+    "relation_pairs": [
+      [
+        "RIP",
+        "UDP"
+      ],
+      [
+        "RIP",
+        "洪泛法"
+      ],
+      [
+        "Network Layer",
+        "RIP"
+      ],
+      [
+        "Distributed Link-State Routing Algorithm",
+        "RIP"
+      ],
+      [
+        "OSPF Protocol",
+        "RIP"
+      ],
+      [
+        "OSPF Protocol",
+        "Routing Table"
+      ],
+      [
+        "Interior Gateway Protocol",
+        "OSPF Protocol"
+      ],
+      [
+        "Link-State Advertisement",
+        "OSPF Protocol"
+      ],
+      [
+        "IP Datagram",
+        "OSPF Protocol"
+      ],
+      [
+        "Cost-Based Routing",
+        "OSPF Protocol"
+      ],
+      [
+        "OSPF Protocol",
+        "洪泛法"
+      ],
+      [
+        "Convergence",
+        "OSPF Protocol"
+      ],
+      [
+        "OSPF Protocol",
+        "Variable Length Subnetting"
+      ],
+      [
+        "Link-State Information",
+        "OSPF Protocol"
+      ],
+      [
+        "OSPF Protocol",
+        "Protocol Field 89"
+      ],
+      [
+        "Distributed Link-State Routing Algorithm",
+        "OSPF Protocol"
+      ],
+      [
+        "OSPF Protocol",
+        "Sequence Number"
+      ],
+      [
+        "Neighbor Router",
+        "OSPF Protocol"
+      ],
+      [
+        "Authentication",
+        "OSPF Protocol"
+      ],
+      [
+        "Load Balancing",
+        "OSPF Protocol"
+      ],
+      [
+        "CIDR",
+        "OSPF Protocol"
+      ],
+      [
+        "Network Layer Protocol",
+        "OSPF Protocol"
+      ],
+      [
+        "Autonomous System",
+        "OSPF Protocol"
+      ],
+      [
+        "RIP",
+        "Routing Table"
+      ]
+    ],
+    "count": 24,
+    "create_time": 1760359072,
+    "update_time": 1760359072,
+    "_id": "doc-74696275a43cf6de7f70e953dbd8cd72"
+  },
+  "doc-588eb259656960c3f3e0c8fe1508c214": {
+    "relation_pairs": [
+      [
+        "Slow Start",
+        "Slow Start Threshold"
+      ],
+      [
+        "Network Congestion",
+        "TCP"
+      ],
+      [
+        "Slow Start",
+        "TCP"
+      ],
+      [
+        "Congestion Avoidance",
+        "Slow Start Threshold"
+      ],
+      [
+        "Congestion Window",
+        "Slow Start Threshold"
+      ],
+      [
+        "Congestion Avoidance",
+        "TCP"
+      ],
+      [
+        "Congestion Window",
+        "TCP"
+      ]
+    ],
+    "count": 7,
+    "create_time": 1760359085,
+    "update_time": 1760359085,
+    "_id": "doc-588eb259656960c3f3e0c8fe1508c214"
+  },
+  "doc-c1e8cd306816c9f8974fb42aafc0a5df": {
+    "relation_pairs": [
+      [
+        "Absolute Phase Shift Keying",
+        "Phase Modulation"
+      ],
+      [
+        "Analog Signal",
+        "Phase Modulation"
+      ],
+      [
+        "Differential Phase Shift Keying",
+        "Phase Modulation"
+      ],
+      [
+        "Analog Signal",
+        "Frequency Modulation"
+      ],
+      [
+        "Digital Data Modulation",
+        "Modem"
+      ],
+      [
+        "Baud Rate",
+        "Quadrature Amplitude Modulation"
+      ],
+      [
+        "Bit Rate",
+        "Quadrature Amplitude Modulation"
+      ],
+      [
+        "Analog Signal",
+        "Carrier Wave"
+      ],
+      [
+        "Amplitude Modulation",
+        "Analog Signal"
+      ],
+      [
+        "Analog Signal",
+        "Quadrature Amplitude Modulation"
+      ]
+    ],
+    "count": 10,
+    "create_time": 1760359102,
+    "update_time": 1760359102,
+    "_id": "doc-c1e8cd306816c9f8974fb42aafc0a5df"
+  },
+  "doc-8df1684622e14f4dc123ffc82ec264f9": {
+    "relation_pairs": [
+      [
+        "Email Content",
+        "Email Format"
+      ],
+      [
+        "From",
+        "Header"
+      ],
+      [
+        "Email Format",
+        "Envelope"
+      ],
+      [
+        "Body",
+        "Email Content"
+      ],
+      [
+        "Header",
+        "Subject"
+      ],
+      [
+        "Email Address",
+        "Local Part"
+      ],
+      [
+        "Header",
+        "RFC 822"
+      ],
+      [
+        "Header",
+        "To"
+      ],
+      [
+        "Internet",
+        "cskaoyan.com"
+      ],
+      [
+        "Email Address",
+        "cskaoyan.com"
+      ],
+      [
+        "Domain",
+        "Email Address"
+      ],
+      [
+        "Email Content",
+        "Header"
+      ],
+      [
+        "Body",
+        "Header"
+      ],
+      [
+        "Email System",
+        "Envelope"
+      ]
+    ],
+    "count": 14,
+    "create_time": 1760359110,
+    "update_time": 1760359110,
+    "_id": "doc-8df1684622e14f4dc123ffc82ec264f9"
+  },
+  "doc-0e8bd78e0727aeb56d5fa3f094dd829f": {
+    "relation_pairs": [
+      [
+        "Byte Stream",
+        "TCP"
+      ],
+      [
+        "Network Congestion",
+        "TCP"
+      ],
+      [
+        "TCP",
+        "Window Value"
+      ],
+      [
+        "Receive Buffer",
+        "TCP"
+      ],
+      [
+        "IP Layer",
+        "TCP"
+      ],
+      [
+        "Reliable Data Transmission",
+        "TCP"
+      ],
+      [
+        "TCP",
+        "UDP"
+      ],
+      [
+        "One-to-One Connection",
+        "TCP"
+      ],
+      [
+        "Full Duplex Communication",
+        "TCP"
+      ],
+      [
+        "Send Buffer",
+        "TCP"
+      ],
+      [
+        "Connection-Oriented",
+        "TCP"
+      ]
+    ],
+    "count": 11,
+    "create_time": 1760359135,
+    "update_time": 1760359135,
+    "_id": "doc-0e8bd78e0727aeb56d5fa3f094dd829f"
+  },
+  "doc-db3ccd39bbf8db8451887a2e313c745b": {
+    "relation_pairs": [
+      [
+        "链路状态报文",
+        "链路状态算法"
+      ],
+      [
+        "规模可伸展性",
+        "链路状态算法"
+      ],
+      [
+        "节点",
+        "链路状态报文"
+      ],
+      [
+        "收敛",
+        "链路状态算法"
+      ],
+      [
+        "链路状态",
+        "链路状态算法"
+      ],
+      [
+        "故障查找",
+        "链路状态算法"
+      ],
+      [
+        "OSPF算法",
+        "链路状态算法"
+      ],
+      [
+        "Dijkstra最短路径算法",
+        "链路状态算法"
+      ],
+      [
+        "全网拓扑结构图",
+        "链路状态算法"
+      ],
+      [
+        "全网拓扑结构图",
+        "节点"
+      ],
+      [
+        "距离-向量算法",
+        "路由表"
+      ],
+      [
+        "广播",
+        "链路状态算法"
+      ],
+      [
+        "距离-向量算法",
+        "链路状态算法"
+      ]
+    ],
+    "count": 13,
+    "create_time": 1760359136,
+    "update_time": 1760359136,
+    "_id": "doc-db3ccd39bbf8db8451887a2e313c745b"
+  },
+  "doc-169053a2232207c83234da77af38a353": {
+    "relation_pairs": [
+      [
+        "检错编码",
+        "纠错编码"
+      ],
+      [
+        "自动重传请求",
+        "通信链路"
+      ],
+      [
+        "纠错编码",
+        "自动重传请求"
+      ],
+      [
+        "差错控制",
+        "比特差错"
+      ],
+      [
+        "FEC",
+        "前向纠错"
+      ],
+      [
+        "ARQ",
+        "自动重传请求"
+      ],
+      [
+        "前向纠错",
+        "编码技术"
+      ],
+      [
+        "差错控制",
+        "编码技术"
+      ]
+    ],
+    "count": 8,
+    "create_time": 1760359166,
+    "update_time": 1760359166,
+    "_id": "doc-169053a2232207c83234da77af38a353"
+  },
+  "doc-3334aa0786dc2897d44d448c9a247cf9": {
+    "relation_pairs": [
+      [
+        "FTP",
+        "Out-of-band"
+      ],
+      [
+        "FTP",
+        "Network File System"
+      ],
+      [
+        "Client",
+        "Passive Mode PASV"
+      ],
+      [
+        "Control Connection",
+        "FTP"
+      ],
+      [
+        "Control Connection",
+        "File Transfer Request"
+      ],
+      [
+        "Data Connection",
+        "Port 20"
+      ],
+      [
+        "Data Connection",
+        "FTP"
+      ],
+      [
+        "Data Transfer Process",
+        "FTP"
+      ],
+      [
+        "Control Connection",
+        "Port 21"
+      ],
+      [
+        "Active Mode PORT",
+        "Server"
+      ]
+    ],
+    "count": 10,
+    "create_time": 1760359168,
+    "update_time": 1760359168,
+    "_id": "doc-3334aa0786dc2897d44d448c9a247cf9"
+  },
+  "doc-c06771e1eb5bb3cec6ec51a65632acd0": {
+    "relation_pairs": [
+      [
+        "中继器",
+        "延迟范围"
+      ],
+      [
+        "10BASE5以太网规范",
+        "5-4-3规则"
+      ],
+      [
+        "放大器",
+        "模拟信号"
+      ],
+      [
+        "10BASE5以太网规范",
+        "粗同轴电缆"
+      ],
+      [
+        "中继器",
+        "电气部分"
+      ],
+      [
+        "中继器",
+        "数字信号"
+      ],
+      [
+        "两个端口",
+        "中继器"
+      ],
+      [
+        "10BASE5以太网规范",
+        "中继器"
+      ],
+      [
+        "中继器",
+        "网段"
+      ],
+      [
+        "中继器",
+        "信号再生"
+      ]
+    ],
+    "count": 10,
+    "create_time": 1760359200,
+    "update_time": 1760359200,
+    "_id": "doc-c06771e1eb5bb3cec6ec51a65632acd0"
+  },
+  "doc-3f5132f330747329c26f7601c6af729a": {
+    "relation_pairs": [
+      [
+        "TFTP",
+        "Well-Known Port"
+      ],
+      [
+        "Client-Side Port",
+        "Ephemeral Port"
+      ],
+      [
+        "TELNET",
+        "Well-Known Port"
+      ],
+      [
+        "IANA",
+        "Well-Known Port"
+      ],
+      [
+        "HTTP",
+        "Well-Known Port"
+      ],
+      [
+        "FTP",
+        "Well-Known Port"
+      ],
+      [
+        "DNS",
+        "Well-Known Port"
+      ],
+      [
+        "IANA",
+        "Registered Port"
+      ],
+      [
+        "Port Number",
+        "Server-Side Port"
+      ],
+      [
+        "16-Bit Length",
+        "Port Number"
+      ],
+      [
+        "Local Significance",
+        "Port Number"
+      ],
+      [
+        "SNMP",
+        "Well-Known Port"
+      ],
+      [
+        "Client-Side Port",
+        "Port Number"
+      ],
+      [
+        "SMTP",
+        "Well-Known Port"
+      ]
+    ],
+    "count": 14,
+    "create_time": 1760359201,
+    "update_time": 1760359201,
+    "_id": "doc-3f5132f330747329c26f7601c6af729a"
+  },
+  "doc-dbba4dd414ecddd29738035d33f3ca3b": {
+    "relation_pairs": [
+      [
+        "IP Datagram",
+        "Multicast Data Report"
+      ],
+      [
+        "Host",
+        "Network Probe"
+      ],
+      [
+        "Local Area Network",
+        "Multicast Router"
+      ],
+      [
+        "Multicast Forwarding Tree",
+        "Source Host"
+      ],
+      [
+        "IGMP",
+        "IP Datagram"
+      ],
+      [
+        "Host",
+        "IGMP"
+      ],
+      [
+        "IP Multicast Group",
+        "Multicast Address"
+      ],
+      [
+        "IGMP",
+        "Multicast Router"
+      ],
+      [
+        "Multicast Forwarding Tree",
+        "Multicast Routing Protocol"
+      ]
+    ],
+    "count": 9,
+    "create_time": 1760359231,
+    "update_time": 1760359231,
+    "_id": "doc-dbba4dd414ecddd29738035d33f3ca3b"
+  },
+  "doc-5b1d47ca7da9d5a7ab5dc2840d5ed9f6": {
+    "relation_pairs": [
+      [
+        "IP Datagram",
+        "Router"
+      ],
+      [
+        "Duplicate ACK",
+        "Fast Retransmit"
+      ],
+      [
+        "IP Datagram",
+        "Internet Environment"
+      ],
+      [
+        "Retransmission Time-Out",
+        "Timeout"
+      ],
+      [
+        "Sender",
+        "Timeout"
+      ],
+      [
+        "RTTS",
+        "Retransmission Time-Out"
+      ],
+      [
+        "Expected Sequence Number",
+        "Out-of-Order Segment"
+      ],
+      [
+        "Internet Environment",
+        "Round Trip Time"
+      ],
+      [
+        "Lost Segment",
+        "Transmission"
+      ],
+      [
+        "Re Transmission Mechanism",
+        "TCP"
+      ],
+      [
+        "ACK",
+        "Sequence Number"
+      ],
+      [
+        "RTTS",
+        "Round Trip Time"
+      ],
+      [
+        "Receiver",
+        "Sender"
+      ],
+      [
+        "Duplicate ACK",
+        "Receiver"
+      ]
+    ],
+    "count": 14,
+    "create_time": 1760359233,
+    "update_time": 1760359233,
+    "_id": "doc-5b1d47ca7da9d5a7ab5dc2840d5ed9f6"
+  },
+  "doc-528dfb25f22949fe9ea4111070de3c61": {
+    "relation_pairs": [
+      [
+        "传输轮次",
+        "拥塞窗口"
+      ],
+      [
+        "慢开始算法",
+        "拥塞窗口"
+      ],
+      [
+        "慢开始门限",
+        "拥塞避免算法"
+      ],
+      [
+        "A",
+        "拥塞窗口"
+      ],
+      [
+        "A",
+        "B"
+      ],
+      [
+        "MSS",
+        "拥塞窗口"
+      ],
+      [
+        "慢开始算法",
+        "慢开始门限"
+      ],
+      [
+        "传输轮次",
+        "往返时延RTT"
+      ]
+    ],
+    "count": 8,
+    "create_time": 1760359250,
+    "update_time": 1760359250,
+    "_id": "doc-528dfb25f22949fe9ea4111070de3c61"
+  },
+  "doc-5a5bd9dacfaef1b13999f924eee82889": {
+    "relation_pairs": [
+      [
+        "Distance 16",
+        "Routing Table"
+      ],
+      [
+        "Distance Field",
+        "Hop Count"
+      ],
+      [
+        "Destination Network N",
+        "Routing Table"
+      ],
+      [
+        "Adjacent Router",
+        "Routing Table"
+      ],
+      [
+        "RIP Protocol",
+        "Routing Table"
+      ],
+      [
+        "Reachable State",
+        "Unreachable State"
+      ],
+      [
+        "Distance Vector Algorithm",
+        "RIP Protocol"
+      ],
+      [
+        "Distance Field",
+        "RIP Datagram"
+      ],
+      [
+        "Next Hop Field",
+        "RIP Datagram"
+      ],
+      [
+        "Adjacent Router",
+        "RIP Datagram"
+      ],
+      [
+        "180 Seconds",
+        "Unreachable State"
+      ]
+    ],
+    "count": 11,
+    "create_time": 1760359276,
+    "update_time": 1760359276,
+    "_id": "doc-5a5bd9dacfaef1b13999f924eee82889"
+  },
+  "doc-74cd39b29d5c7a9dfcb41fbed25d63d0": {
+    "relation_pairs": [
+      [
+        "TCP",
+        "TELNET"
+      ],
+      [
+        "TFTP",
+        "UDP"
+      ],
+      [
+        "Broadcast Service",
+        "TCP"
+      ],
+      [
+        "IP Layer",
+        "TCP"
+      ],
+      [
+        "Reliable Data Transmission",
+        "TCP"
+      ],
+      [
+        "TCP",
+        "Timers"
+      ],
+      [
+        "HTTP",
+        "TCP"
+      ],
+      [
+        "DNS",
+        "UDP"
+      ],
+      [
+        "Acknowledgment",
+        "TCP"
+      ],
+      [
+        "SNMP",
+        "UDP"
+      ],
+      [
+        "Error Checking",
+        "UDP"
+      ],
+      [
+        "Multicast Service",
+        "TCP"
+      ],
+      [
+        "Connection Management",
+        "TCP"
+      ],
+      [
+        "Multiplexing",
+        "UDP"
+      ],
+      [
+        "IP Layer",
+        "UDP"
+      ],
+      [
+        "FTP",
+        "TCP"
+      ],
+      [
+        "RTP",
+        "UDP"
+      ],
+      [
+        "Flow Control",
+        "TCP"
+      ]
+    ],
+    "count": 18,
+    "create_time": 1760359279,
+    "update_time": 1760359279,
+    "_id": "doc-74cd39b29d5c7a9dfcb41fbed25d63d0"
+  },
+  "doc-90854237162527620c06990af4b61242": {
+    "relation_pairs": [
+      [
+        "Broadcast Domain",
+        "Router"
+      ],
+      [
+        "Broadcast Domain",
+        "Local Area Network"
+      ],
+      [
+        "Conflict Domain",
+        "Switch"
+      ],
+      [
+        "Bridge",
+        "Conflict Domain"
+      ],
+      [
+        "Broadcast Domain",
+        "Hub"
+      ],
+      [
+        "Broadcast Domain",
+        "Data Link Layer"
+      ],
+      [
+        "Conflict Domain",
+        "Physical Layer"
+      ],
+      [
+        "Conflict Domain",
+        "Repeater"
+      ],
+      [
+        "Conflict Domain",
+        "Hub"
+      ],
+      [
+        "Broadcast Domain",
+        "Switch"
+      ]
+    ],
+    "count": 10,
+    "create_time": 1760359310,
+    "update_time": 1760359310,
+    "_id": "doc-90854237162527620c06990af4b61242"
+  },
+  "doc-e154de1eb0dc691bb53be3a8ede745b5": {
+    "relation_pairs": [
+      [
+        "Email Client Software",
+        "User Agent"
+      ],
+      [
+        "Asynchronous Communication",
+        "Email System"
+      ],
+      [
+        "Email System",
+        "Internet"
+      ],
+      [
+        "Mail Server",
+        "POP3"
+      ],
+      [
+        "Push Communication",
+        "SMTP"
+      ],
+      [
+        "Mail Server",
+        "User Agent"
+      ],
+      [
+        "Mail Server",
+        "SMTP"
+      ],
+      [
+        "IMAP",
+        "Mail Server"
+      ],
+      [
+        "SMTP",
+        "User Agent"
+      ],
+      [
+        "IMAP",
+        "User Agent"
+      ],
+      [
+        "POP3",
+        "Pull Communication"
+      ],
+      [
+        "POP3",
+        "User Agent"
+      ]
+    ],
+    "count": 12,
+    "create_time": 1760359312,
+    "update_time": 1760359312,
+    "_id": "doc-e154de1eb0dc691bb53be3a8ede745b5"
+  },
+  "doc-91a00947f0ffba20abf053cd6609f4b4": {
+    "relation_pairs": [
+      [
+        "Pure ALOHA Protocol",
+        "Slotted ALOHA Protocol"
+      ],
+      [
+        "Frame Transmission",
+        "Slotted ALOHA Protocol"
+      ],
+      [
+        "Slotted ALOHA Protocol",
+        "Time Slot"
+      ],
+      [
+        "Pure ALOHA Protocol",
+        "Random Delay"
+      ],
+      [
+        "Pure ALOHA Protocol",
+        "Transmission Conflict"
+      ],
+      [
+        "Channel Utilization",
+        "Pure ALOHA Protocol"
+      ],
+      [
+        "Channel Utilization",
+        "Slotted ALOHA Protocol"
+      ],
+      [
+        "Bus Network",
+        "Slotted ALOHA Protocol"
+      ]
+    ],
+    "count": 8,
+    "create_time": 1760359336,
+    "update_time": 1760359336,
+    "_id": "doc-91a00947f0ffba20abf053cd6609f4b4"
+  },
+  "doc-d16aae67dc3497ccf86dee7749557668": {
+    "relation_pairs": [
+      [
+        "Hub",
+        "Logical Bus Network"
+      ],
+      [
+        "Hub",
+        "Port"
+      ],
+      [
+        "Hub",
+        "Network Segment"
+      ],
+      [
+        "Hub",
+        "Network Transmission Range"
+      ],
+      [
+        "Hub",
+        "Repeater Function"
+      ],
+      [
+        "Noah Carter",
+        "World Athletics Championship"
+      ],
+      [
+        "Tokyo",
+        "World Athletics Championship"
+      ],
+      [
+        "Hub",
+        "Shared-Mode Device"
+      ],
+      [
+        "Carbon-Fiber Spikes",
+        "Noah Carter"
+      ],
+      [
+        "100m Sprint Record",
+        "Noah Carter"
+      ],
+      [
+        "Half-Duplex Operation",
+        "Hub"
+      ],
+      [
+        "Data Conflict",
+        "Hub"
+      ],
+      [
+        "Hub",
+        "Signal Amplification"
+      ]
+    ],
+    "count": 13,
+    "create_time": 1760359344,
+    "update_time": 1760359344,
+    "_id": "doc-d16aae67dc3497ccf86dee7749557668"
+  },
+  "doc-52a207a3ccb7b9cffa0c5af13890b31c": {
+    "relation_pairs": [
+      [
+        "Adapter Serial Number",
+        "MAC Address"
+      ],
+      [
+        "MAC Address",
+        "Vendor Code"
+      ],
+      [
+        "Network Adapter",
+        "Router"
+      ],
+      [
+        "MAC Frame",
+        "Multicast Frame"
+      ],
+      [
+        "MAC Address",
+        "MAC Frame"
+      ],
+      [
+        "MAC Address",
+        "Network Adapter"
+      ],
+      [
+        "MAC Address",
+        "Router"
+      ],
+      [
+        "Local Area Network",
+        "MAC Address"
+      ],
+      [
+        "Ethernet",
+        "IEEE 802 Standard"
+      ],
+      [
+        "6-Byte Address",
+        "MAC Address"
+      ],
+      [
+        "MAC Frame",
+        "Unicast Frame"
+      ],
+      [
+        "Broadcast Frame",
+        "MAC Frame"
+      ],
+      [
+        "Hexadecimal Representation",
+        "MAC Address"
+      ],
+      [
+        "Local Area Network",
+        "Network Adapter"
+      ],
+      [
+        "Network Adapter",
+        "ROM"
+      ]
+    ],
+    "count": 15,
+    "create_time": 1760359379,
+    "update_time": 1760359379,
+    "_id": "doc-52a207a3ccb7b9cffa0c5af13890b31c"
+  },
+  "doc-2a63d10fa3d4c016a761cb8f1ae3c704": {
+    "relation_pairs": [
+      [
+        "ARP Cache",
+        "IP Address"
+      ],
+      [
+        "ARP Cache",
+        "MAC Address"
+      ],
+      [
+        "IP Datagram",
+        "Network Layer"
+      ],
+      [
+        "ARP Request",
+        "ARP Response"
+      ],
+      [
+        "Address Resolution Protocol",
+        "IP Address"
+      ],
+      [
+        "Hardware Address",
+        "MAC Frame"
+      ],
+      [
+        "Address Resolution Protocol",
+        "Network Layer"
+      ],
+      [
+        "Address Resolution Protocol",
+        "MAC Address"
+      ],
+      [
+        "NAT Router",
+        "Transmission Layer"
+      ],
+      [
+        "Default Gateway",
+        "Router"
+      ],
+      [
+        "Address Resolution Protocol",
+        "Data Link Layer"
+      ],
+      [
+        "ARP Response",
+        "Unicast Frame"
+      ],
+      [
+        "ARP Cache",
+        "ARP Table"
+      ],
+      [
+        "ARP Cache",
+        "Survival Time"
+      ],
+      [
+        "Broadcast Frame",
+        "FF-FF-FF-FF-FF-FF"
+      ],
+      [
+        "Host",
+        "Local Network"
+      ],
+      [
+        "ARP Request",
+        "Broadcast Frame"
+      ]
+    ],
+    "count": 17,
+    "create_time": 1760359380,
+    "update_time": 1760359380,
+    "_id": "doc-2a63d10fa3d4c016a761cb8f1ae3c704"
+  },
+  "doc-923e96e4d4b52bb3b04cfe246c6719a2": {
+    "relation_pairs": [
+      [
+        "File Transfer Protocol",
+        "Heterogeneous Network"
+      ],
+      [
+        "FTP Server Process",
+        "File Transfer Protocol"
+      ],
+      [
+        "FTP Server Process",
+        "State Information Retention"
+      ],
+      [
+        "Control Port",
+        "Well-Known Port 21"
+      ],
+      [
+        "Anonymous FTP",
+        "File Transfer Protocol"
+      ],
+      [
+        "FTP Client Process",
+        "File Transfer Protocol"
+      ],
+      [
+        "File Transfer Protocol",
+        "TCP Reliable Transmission Service"
+      ],
+      [
+        "File Transfer Protocol",
+        "User Permission Management"
+      ],
+      [
+        "Control Port",
+        "File Transfer Protocol"
+      ],
+      [
+        "File Transfer Protocol",
+        "Remote Directory Tree"
+      ],
+      [
+        "Control Port",
+        "FTP Server Process"
+      ]
+    ],
+    "count": 11,
+    "create_time": 1760359405,
+    "update_time": 1760359405,
+    "_id": "doc-923e96e4d4b52bb3b04cfe246c6719a2"
+  },
+  "doc-b437fcc9f1d822942164e84a58be978c": {
+    "relation_pairs": [
+      [
+        "Ethernet",
+        "Unreliable Service"
+      ],
+      [
+        "Ethernet",
+        "Manchester Encoding"
+      ],
+      [
+        "DIX Ethernet V2",
+        "Ethernet"
+      ],
+      [
+        "DIX Ethernet V2",
+        "Intel"
+      ],
+      [
+        "DIX Ethernet V2",
+        "IEEE 802.3"
+      ],
+      [
+        "IEEE 802.3",
+        "IEEE 802.3 Working Group"
+      ],
+      [
+        "DEC",
+        "DIX Ethernet V2"
+      ],
+      [
+        "DIX V1",
+        "Ethernet"
+      ],
+      [
+        "Bit Synchronization",
+        "Manchester Encoding"
+      ],
+      [
+        "DIX Ethernet V2",
+        "Xerox"
+      ]
+    ],
+    "count": 10,
+    "create_time": 1760359407,
+    "update_time": 1760359407,
+    "_id": "doc-b437fcc9f1d822942164e84a58be978c"
+  },
+  "doc-6d0c5176c7587384840d073ee892cd5d": {
+    "relation_pairs": [
+      [
+        "IPv4",
+        "Routing Selection"
+      ],
+      [
+        "Error Control",
+        "IPv4"
+      ],
+      [
+        "IPv4",
+        "Unreliable Delivery"
+      ],
+      [
+        "IPv4",
+        "Internet Protocol"
+      ],
+      [
+        "IP Datagram",
+        "IPv4"
+      ]
+    ],
+    "count": 5,
+    "create_time": 1760359415,
+    "update_time": 1760359415,
+    "_id": "doc-6d0c5176c7587384840d073ee892cd5d"
+  },
+  "doc-9b66a4cbfbcae1dc4a7368ac6414968b": {
+    "relation_pairs": [
+      [
+        "接收窗口",
+        "选择重传协议"
+      ],
+      [
+        "WR",
+        "条件①"
+      ],
+      [
+        "WR",
+        "条件②"
+      ],
+      [
+        "发送窗口",
+        "计时器"
+      ],
+      [
+        "2^n⁻¹",
+        "WR"
+      ],
+      [
+        "否定帧NAK",
+        "数据帧"
+      ],
+      [
+        "WR",
+        "WT"
+      ],
+      [
+        "否定帧NAK",
+        "确认帧"
+      ],
+      [
+        "发送窗口",
+        "选择重传协议"
+      ],
+      [
+        "2号帧",
+        "图3.12"
+      ],
+      [
+        "帧缓冲区",
+        "接收窗口"
+      ],
+      [
+        "多帧滑动窗口",
+        "选择重传协议"
+      ],
+      [
+        "10号帧",
+        "图3.12"
+      ],
+      [
+        "图3.12",
+        "选择重传协议"
+      ]
+    ],
+    "count": 14,
+    "create_time": 1760359464,
+    "update_time": 1760359464,
+    "_id": "doc-9b66a4cbfbcae1dc4a7368ac6414968b"
+  },
+  "doc-0318afa67c7c85cf3251f467138be0c5": {
+    "relation_pairs": [
+      [
+        "ACKn",
+        "Backward N Frame Protocol"
+      ],
+      [
+        "Backward N Frame Protocol",
+        "Sending Window"
+      ],
+      [
+        "Backward N Frame Protocol",
+        "Cumulative Acknowledgment"
+      ],
+      [
+        "Backward N Frame Protocol",
+        "Channel Utilization"
+      ],
+      [
+        "2^n - 1",
+        "N-Bit Frame Numbering"
+      ],
+      [
+        "Frame Numbering",
+        "Sequence Number"
+      ],
+      [
+        "Backward N Frame Protocol",
+        "Stop-Wait Protocol"
+      ],
+      [
+        "Incorrect Frame",
+        "Retransmission"
+      ],
+      [
+        "Backward N Frame Protocol",
+        "Timeout Timer"
+      ],
+      [
+        "Frame Sequence",
+        "Receiver Window"
+      ],
+      [
+        "Correct Frame",
+        "Cumulative Acknowledgment"
+      ],
+      [
+        "Backward N Frame Protocol",
+        "Receiver Window"
+      ],
+      [
+        "Backward N Frame Protocol",
+        "Error Rate"
+      ],
+      [
+        "2^n - 1",
+        "Sending Window"
+      ],
+      [
+        "Backward N Frame Protocol",
+        "Retransmission"
+      ]
+    ],
+    "count": 15,
+    "create_time": 1760359467,
+    "update_time": 1760359467,
+    "_id": "doc-0318afa67c7c85cf3251f467138be0c5"
+  },
+  "doc-1959dab4eb3600f3898213e5023c1c88": {
+    "relation_pairs": [
+      [
+        "CSMA/CD",
+        "Collision Detection"
+      ],
+      [
+        "CSMA/CA",
+        "Carrier Sense Multiple Access"
+      ],
+      [
+        "CSMA/CA",
+        "Wireless Local Area Network"
+      ],
+      [
+        "CSMA/CD",
+        "Wired Local Area Network"
+      ],
+      [
+        "Data Link Layer",
+        "Point-to-Point Channel"
+      ],
+      [
+        "CSMA/CD",
+        "Carrier Sense Multiple Access"
+      ],
+      [
+        "PPP",
+        "Point-to-Point Channel"
+      ],
+      [
+        "Broadcast Channel",
+        "Data Link Layer"
+      ],
+      [
+        "CSMA/CA",
+        "Collision Avoidance"
+      ]
+    ],
+    "count": 9,
+    "create_time": 1760359485,
+    "update_time": 1760359485,
+    "_id": "doc-1959dab4eb3600f3898213e5023c1c88"
+  },
+  "doc-e51d5ea9f8f7fb96cca4b0ddd7154dc3": {
+    "relation_pairs": [
+      [
+        "Data Link Layer",
+        "Frame Transmission"
+      ],
+      [
+        "Data Link Layer",
+        "Transparent Transmission"
+      ],
+      [
+        "Data Link Layer",
+        "Encapsulation into Frames"
+      ],
+      [
+        "Data Link Layer",
+        "Error Detection"
+      ]
+    ],
+    "count": 4,
+    "create_time": 1760359499,
+    "update_time": 1760359499,
+    "_id": "doc-e51d5ea9f8f7fb96cca4b0ddd7154dc3"
+  },
+  "doc-3847f9aa49369d22b4fdfc26cedada4d": {
+    "relation_pairs": [
+      [
+        "Internet Standard",
+        "Subnet Mask"
+      ],
+      [
+        "Router",
+        "Routing Table"
+      ],
+      [
+        "Network Number",
+        "Subnet Mask"
+      ],
+      [
+        "Next Hop Address",
+        "Routing Table"
+      ],
+      [
+        "IP Address",
+        "Subnet Mask"
+      ],
+      [
+        "Bitwise AND Operation",
+        "Subnet Mask"
+      ],
+      [
+        "Class A Address",
+        "Class A Default Subnet Mask"
+      ],
+      [
+        "Subnet Mask",
+        "Subnetting"
+      ],
+      [
+        "Default Gateway",
+        "Router"
+      ],
+      [
+        "Default Gateway",
+        "Destination IP Address"
+      ],
+      [
+        "Class C Address",
+        "Class C Default Subnet Mask"
+      ],
+      [
+        "Class B Address",
+        "Class B Default Subnet Mask"
+      ],
+      [
+        "Host",
+        "IP Address"
+      ],
+      [
+        "Host",
+        "Subnet"
+      ]
+    ],
+    "count": 14,
+    "create_time": 1760359505,
+    "update_time": 1760359505,
+    "_id": "doc-3847f9aa49369d22b4fdfc26cedada4d"
+  },
+  "doc-f1f3b50c9d92ca833a45c57b098f4840": {
+    "relation_pairs": [
+      [
+        "Socket",
+        "TCP Connection"
+      ],
+      [
+        "Connection Establishment",
+        "Window Scale Option"
+      ],
+      [
+        "IP Address",
+        "TCP Connection"
+      ],
+      [
+        "Connection Release",
+        "TCP Connection Management"
+      ],
+      [
+        "Server",
+        "TCP Connection"
+      ],
+      [
+        "Port Number",
+        "TCP Connection"
+      ],
+      [
+        "Connection Establishment",
+        "Maximum Window Value"
+      ],
+      [
+        "Connection Establishment",
+        "Timestamp Option"
+      ],
+      [
+        "TCP Connection",
+        "Three-Phase Model"
+      ],
+      [
+        "Client",
+        "TCP Connection"
+      ],
+      [
+        "Connection Establishment",
+        "TCP Connection Management"
+      ],
+      [
+        "Data Transfer",
+        "TCP Connection Management"
+      ],
+      [
+        "Connection Establishment",
+        "Transport Entity Resource"
+      ]
+    ],
+    "count": 13,
+    "create_time": 1760359526,
+    "update_time": 1760359526,
+    "_id": "doc-f1f3b50c9d92ca833a45c57b098f4840"
+  },
+  "doc-bd4ce9d03fdbaa35af640be89cae47e3": {
+    "relation_pairs": [
+      [
+        "Layer n+1",
+        "Service Access Point"
+      ],
+      [
+        "Node A",
+        "Node B"
+      ],
+      [
+        "Network Protocol",
+        "Synchronization"
+      ],
+      [
+        "Node A Transport Layer",
+        "Node B Transport Layer"
+      ],
+      [
+        "Network Protocol",
+        "Syntax"
+      ],
+      [
+        "Layer n",
+        "SAP"
+      ],
+      [
+        "Protocol",
+        "Service"
+      ],
+      [
+        "Network Layer",
+        "Transport Layer"
+      ],
+      [
+        "TCP",
+        "Three-Way Handshake"
+      ],
+      [
+        "Network Protocol",
+        "Peer Entity"
+      ],
+      [
+        "Service",
+        "Service Access Point"
+      ],
+      [
+        "Network Protocol",
+        "Semantics"
+      ],
+      [
+        "Layer n",
+        "Layer n+1"
+      ],
+      [
+        "Layer n",
+        "Layered Network Model"
+      ],
+      [
+        "Network Protocol",
+        "Peer Entity Communication"
+      ],
+      [
+        "Syntax",
+        "TCP Segments"
+      ],
+      [
+        "Layer n",
+        "Layer n-1"
+      ]
+    ],
+    "count": 17,
+    "create_time": 1760359571,
+    "update_time": 1760359571,
+    "_id": "doc-bd4ce9d03fdbaa35af640be89cae47e3"
+  }
+}
