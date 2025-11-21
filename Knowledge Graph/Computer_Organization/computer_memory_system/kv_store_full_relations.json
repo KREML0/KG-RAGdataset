@@ -1,0 +1,2290 @@
+{
+  "doc-14ad8c0a834e0ce37fd97c7ac9177add": {
+    "relation_pairs": [
+      [
+        "Data Bus",
+        "MDR"
+      ],
+      [
+        "Addressing",
+        "Main Memory"
+      ],
+      [
+        "Data Bus",
+        "Storage Matrix"
+      ],
+      [
+        "Storage Cell",
+        "Storage Matrix"
+      ],
+      [
+        "Binary Representation",
+        "Storage Cell"
+      ],
+      [
+        "Address Bus",
+        "Address Decoder"
+      ],
+      [
+        "CPU",
+        "Read/Write Control Circuit"
+      ],
+      [
+        "CPU",
+        "MAR"
+      ],
+      [
+        "Address Decoder",
+        "Storage Matrix"
+      ],
+      [
+        "MDR",
+        "Storage Word Length"
+      ],
+      [
+        "Addressing",
+        "Byte Addressing"
+      ],
+      [
+        "CPU",
+        "MDR"
+      ],
+      [
+        "Data Bus",
+        "Storage Word Length"
+      ],
+      [
+        "64-Bit Data Bus",
+        "Byte Addressing"
+      ],
+      [
+        "Read/Write Control Circuit",
+        "Storage Matrix"
+      ],
+      [
+        "Address Bus",
+        "MAR"
+      ],
+      [
+        "36-Bit Address Bus",
+        "Addressable Memory Space"
+      ],
+      [
+        "Addressing",
+        "Word Addressing"
+      ],
+      [
+        "Main Memory",
+        "Storage Matrix"
+      ]
+    ],
+    "count": 19,
+    "create_time": 1761468064,
+    "update_time": 1761468064,
+    "_id": "doc-14ad8c0a834e0ce37fd97c7ac9177add"
+  },
+  "doc-e100f5adcf7f52281eb1c5920bc2d5d0": {
+    "relation_pairs": [
+      [
+        "DRAM",
+        "Distributed Refresh"
+      ],
+      [
+        "DRAM",
+        "Storage Cell"
+      ],
+      [
+        "DRAM",
+        "Memory Chip"
+      ],
+      [
+        "DRAM",
+        "Read-After-Write Regeneration"
+      ],
+      [
+        "DRAM",
+        "Power Supply"
+      ],
+      [
+        "Asynchronous Refresh",
+        "DRAM"
+      ],
+      [
+        "Concentrated Refresh",
+        "Distributed Refresh"
+      ],
+      [
+        "Bit Price",
+        "DRAM"
+      ],
+      [
+        "Gate Capacitor",
+        "Storage Cell"
+      ],
+      [
+        "100m Sprint Record",
+        "Noah Carter"
+      ],
+      [
+        "Concentrated Refresh",
+        "DRAM"
+      ],
+      [
+        "DRAM",
+        "Gate Capacitor"
+      ],
+      [
+        "Column Address",
+        "Row Address"
+      ],
+      [
+        "Carbon-Fiber Spikes",
+        "Noah Carter"
+      ],
+      [
+        "DRAM",
+        "Destructive Readout"
+      ],
+      [
+        "DRAM",
+        "Refresh Cycle"
+      ],
+      [
+        "DRAM",
+        "SRAM"
+      ],
+      [
+        "Noah Carter",
+        "World Athletics Championship"
+      ],
+      [
+        "Tokyo",
+        "World Athletics Championship"
+      ],
+      [
+        "CPU",
+        "DRAM"
+      ],
+      [
+        "Address Pin Multiplexing",
+        "DRAM"
+      ]
+    ],
+    "count": 21,
+    "create_time": 1761468069,
+    "update_time": 1761468069,
+    "_id": "doc-e100f5adcf7f52281eb1c5920bc2d5d0"
+  },
+  "doc-9dccf612396a3accbfe19f8f0ed1d51b": {
+    "relation_pairs": [
+      [
+        "Multi-Level Storage System",
+        "Storage Hierarchy Structure"
+      ],
+      [
+        "CPU",
+        "Cache"
+      ],
+      [
+        "Disk Storage",
+        "Main Memory"
+      ],
+      [
+        "Programmer",
+        "Virtual Storage System"
+      ],
+      [
+        "Main Memory- Auxiliary Storage Layer",
+        "Operating System"
+      ],
+      [
+        "Cache- Main Memory Layer",
+        "Speed-Matching Solution"
+      ],
+      [
+        "Cache",
+        "Main Memory"
+      ],
+      [
+        "Address Space",
+        "Virtual Storage System"
+      ],
+      [
+        "Cache- Main Memory Layer",
+        "Hardware"
+      ],
+      [
+        "Capacity Expansion Solution",
+        "Main Memory- Auxiliary Storage Layer"
+      ]
+    ],
+    "count": 10,
+    "create_time": 1761468104,
+    "update_time": 1761468104,
+    "_id": "doc-9dccf612396a3accbfe19f8f0ed1d51b"
+  },
+  "doc-ed6056f0e58f2d01493e9eeb4c4363bd": {
+    "relation_pairs": [
+      [
+        "Cache",
+        "Replacement Policy"
+      ],
+      [
+        "Page Directory Index",
+        "Page Table"
+      ],
+      [
+        "TLB",
+        "Virtual Memory"
+      ],
+      [
+        "Cache",
+        "Tag Field"
+      ],
+      [
+        "Page Table",
+        "Page Table Index"
+      ],
+      [
+        "Main Memory",
+        "Physical Address"
+      ],
+      [
+        "Cache",
+        "Physical Address"
+      ],
+      [
+        "Full Associative TLB",
+        "TLB"
+      ],
+      [
+        "2 Way Set Associative Cache",
+        "Cache Line"
+      ],
+      [
+        "Block Offset",
+        "Physical Address"
+      ],
+      [
+        "Page Table",
+        "Virtual Memory"
+      ],
+      [
+        "Main Memory",
+        "Page Table"
+      ],
+      [
+        "TLB",
+        "Virtual Page Number"
+      ]
+    ],
+    "count": 13,
+    "create_time": 1761468114,
+    "update_time": 1761468114,
+    "_id": "doc-ed6056f0e58f2d01493e9eeb4c4363bd"
+  },
+  "doc-3dce61048f7c557d41879fb4d9705cdc": {
+    "relation_pairs": [
+      [
+        "CPU",
+        "High-Speed Buffering Technology"
+      ],
+      [
+        "Program Access Locality Principle",
+        "Time Locality"
+      ],
+      [
+        "Program Access Locality Principle",
+        "Spatial Locality"
+      ],
+      [
+        "Cache",
+        "High-Speed Buffering Technology"
+      ]
+    ],
+    "count": 4,
+    "create_time": 1761468118,
+    "update_time": 1761468118,
+    "_id": "doc-3dce61048f7c557d41879fb4d9705cdc"
+  },
+  "doc-0d5d7f0f10bdd7e081046bf9fbfdf10a": {
+    "relation_pairs": [
+      [
+        "Main Memory",
+        "Physical Page"
+      ],
+      [
+        "Virtual Address Space",
+        "Virtual Page"
+      ],
+      [
+        "Page Table",
+        "Virtual Page"
+      ],
+      [
+        "Page Table",
+        "Page-Based Virtual Memory"
+      ],
+      [
+        "Page-Based Virtual Memory",
+        "Virtual Page"
+      ],
+      [
+        "Page Table",
+        "Physical Page"
+      ],
+      [
+        "Page-Based Virtual Memory",
+        "Physical Page"
+      ]
+    ],
+    "count": 7,
+    "create_time": 1761468131,
+    "update_time": 1761468131,
+    "_id": "doc-0d5d7f0f10bdd7e081046bf9fbfdf10a"
+  },
+  "doc-8ce34f8853facbe5658d8d7a94051590": {
+    "relation_pairs": [
+      [
+        "ROM",
+        "Structural Simplicity"
+      ],
+      [
+        "DRAM",
+        "Random Access"
+      ],
+      [
+        "RAM",
+        "Random Access"
+      ],
+      [
+        "DRAM",
+        "Volatile"
+      ],
+      [
+        "Random Access",
+        "SRAM"
+      ],
+      [
+        "SRAM",
+        "Volatile"
+      ],
+      [
+        "Bit Density",
+        "ROM"
+      ],
+      [
+        "Non-Volatile",
+        "ROM"
+      ]
+    ],
+    "count": 8,
+    "create_time": 1761468136,
+    "update_time": 1761468136,
+    "_id": "doc-8ce34f8853facbe5658d8d7a94051590"
+  },
+  "doc-263465ac01c4eb10c3c852d62559620b": {
+    "relation_pairs": [
+      [
+        "TLB Entry",
+        "Virtual Page Number"
+      ],
+      [
+        "SRAM",
+        "TLB"
+      ],
+      [
+        "TLB Entry",
+        "TLB Tag"
+      ],
+      [
+        "Locality Principle",
+        "TLB"
+      ],
+      [
+        "Full Associative Mapping",
+        "TLB"
+      ],
+      [
+        "Slow Table",
+        "TLB"
+      ],
+      [
+        "TLB",
+        "Virtual Address Translation"
+      ],
+      [
+        "Main Memory",
+        "TLB"
+      ],
+      [
+        "Cache",
+        "TLB"
+      ],
+      [
+        "Main Memory",
+        "Page Table"
+      ],
+      [
+        "Set Associative Mapping",
+        "TLB"
+      ]
+    ],
+    "count": 11,
+    "create_time": 1761468165,
+    "update_time": 1761468165,
+    "_id": "doc-263465ac01c4eb10c3c852d62559620b"
+  },
+  "doc-833bb1bcf85cd79d91b4dcd6ca2eb3db": {
+    "relation_pairs": [
+      [
+        "Page Fault",
+        "System Performance"
+      ],
+      [
+        "Cache",
+        "Replacement Algorithm"
+      ],
+      [
+        "Update Strategy",
+        "Virtual Memory"
+      ],
+      [
+        "Cache",
+        "Main Memory"
+      ],
+      [
+        "Cache",
+        "Cache Miss"
+      ],
+      [
+        "Cache",
+        "Virtual Memory"
+      ],
+      [
+        "Replacement Algorithm",
+        "Virtual Memory"
+      ],
+      [
+        "System Performance",
+        "Virtual Memory"
+      ],
+      [
+        "Address Mapping",
+        "Virtual Memory"
+      ],
+      [
+        "Cache",
+        "Update Strategy"
+      ],
+      [
+        "CPU",
+        "Main Memory"
+      ],
+      [
+        "Address Mapping",
+        "Cache"
+      ],
+      [
+        "Cache",
+        "Hardware"
+      ],
+      [
+        "Fast Cache",
+        "Locality Principle"
+      ],
+      [
+        "Page Fault",
+        "Virtual Memory System"
+      ],
+      [
+        "Main Memory",
+        "Virtual Memory"
+      ],
+      [
+        "CPU",
+        "Cache"
+      ],
+      [
+        "Information Block",
+        "Virtual Memory"
+      ],
+      [
+        "Cache Miss",
+        "System Performance"
+      ],
+      [
+        "Cache",
+        "Information Block"
+      ],
+      [
+        "Secondary Storage",
+        "Virtual Memory"
+      ],
+      [
+        "Cache",
+        "System Performance"
+      ],
+      [
+        "Operating System",
+        "Virtual Memory"
+      ]
+    ],
+    "count": 23,
+    "create_time": 1761468192,
+    "update_time": 1761468192,
+    "_id": "doc-833bb1bcf85cd79d91b4dcd6ca2eb3db"
+  },
+  "doc-b1c06d839960e789e3e60c72b78fd928": {
+    "relation_pairs": [
+      [
+        "Page Table Base Register",
+        "Process"
+      ],
+      [
+        "Page Table",
+        "Virtual Page Number"
+      ],
+      [
+        "Page Fault",
+        "Page Table"
+      ],
+      [
+        "Operating System",
+        "Page Fault"
+      ],
+      [
+        "Page Offset",
+        "Physical Address"
+      ],
+      [
+        "Main Memory",
+        "Page Fault"
+      ],
+      [
+        "Page Table",
+        "Page Table Base Register"
+      ],
+      [
+        "Physical Address",
+        "Virtual Address"
+      ],
+      [
+        "Page Offset",
+        "Virtual Address"
+      ],
+      [
+        "Page Table",
+        "Physical Page Number"
+      ]
+    ],
+    "count": 10,
+    "create_time": 1761468192,
+    "update_time": 1761468192,
+    "_id": "doc-b1c06d839960e789e3e60c72b78fd928"
+  },
+  "doc-d6bddd3dfdc4b05e9f684acd41e40adb": {
+    "relation_pairs": [
+      [
+        "主存容量的扩展",
+        "字位同时扩展法"
+      ],
+      [
+        "片选控制线",
+        "高位译码"
+      ],
+      [
+        "字位同时扩展法",
+        "字扩展法"
+      ],
+      [
+        "并联",
+        "系统总线"
+      ],
+      [
+        "系统地址线",
+        "高位译码"
+      ],
+      [
+        "低位连接",
+        "系统地址线"
+      ],
+      [
+        "位扩展法",
+        "存储芯片"
+      ],
+      [
+        "位扩展法",
+        "字位同时扩展法"
+      ],
+      [
+        "主存容量的扩展",
+        "字扩展法"
+      ],
+      [
+        "主存容量的扩展",
+        "位扩展法"
+      ],
+      [
+        "字扩展法",
+        "存储芯片"
+      ]
+    ],
+    "count": 11,
+    "create_time": 1761468225,
+    "update_time": 1761468225,
+    "_id": "doc-d6bddd3dfdc4b05e9f684acd41e40adb"
+  },
+  "doc-946a56828431f2eb84c208ded0826aae": {
+    "relation_pairs": [
+      [
+        "Chip Select Control Line",
+        "Storage Chip"
+      ],
+      [
+        "Address Line",
+        "Storage Chip"
+      ],
+      [
+        "Address Line",
+        "CPU"
+      ],
+      [
+        "CPU",
+        "Data Line"
+      ],
+      [
+        "CPU",
+        "External Decoder Logic"
+      ],
+      [
+        "MREQ",
+        "Memory Access Request"
+      ],
+      [
+        "CPU",
+        "Chip Select Control Line"
+      ],
+      [
+        "CPU",
+        "MREQ"
+      ],
+      [
+        "Chip Interior Logic",
+        "Storage Chip"
+      ],
+      [
+        "Read/Write Control Line",
+        "Storage Chip"
+      ],
+      [
+        "Data Line",
+        "Storage Chip"
+      ],
+      [
+        "CPU",
+        "Storage Chip"
+      ],
+      [
+        "CPU",
+        "Read/Write Control Line"
+      ]
+    ],
+    "count": 13,
+    "create_time": 1761468227,
+    "update_time": 1761468227,
+    "_id": "doc-946a56828431f2eb84c208ded0826aae"
+  },
+  "doc-364aa0dbd990ea22dbb324056cc5473e": {
+    "relation_pairs": [
+      [
+        "EPROM",
+        "Programming"
+      ],
+      [
+        "Flash Memory",
+        "Integration Density"
+      ],
+      [
+        "Cost Efficiency",
+        "SSD"
+      ],
+      [
+        "Flash Memory",
+        "SSD"
+      ],
+      [
+        "Non-Volatile Storage",
+        "SSD"
+      ],
+      [
+        "Electric Erasure",
+        "Flash Memory"
+      ],
+      [
+        "EPROM",
+        "Ultraviolet Erasure"
+      ],
+      [
+        "Flash Memory",
+        "Non-Volatile Storage"
+      ],
+      [
+        "Cost Efficiency",
+        "Flash Memory"
+      ],
+      [
+        "Power Consumption",
+        "SSD"
+      ],
+      [
+        "MROM",
+        "Semiconductor Manufacturing Process"
+      ],
+      [
+        "PROM",
+        "Programming"
+      ],
+      [
+        "Flash Memory",
+        "Write Speed"
+      ],
+      [
+        "SSD",
+        "Write Speed"
+      ]
+    ],
+    "count": 14,
+    "create_time": 1761468255,
+    "update_time": 1761468255,
+    "_id": "doc-364aa0dbd990ea22dbb324056cc5473e"
+  },
+  "doc-6c698405c4fcc8fb19ebad83fe798b48": {
+    "relation_pairs": [
+      [
+        "Page Fault Handling",
+        "Page Miss"
+      ],
+      [
+        "Page Miss",
+        "Software"
+      ],
+      [
+        "Disk",
+        "Page"
+      ],
+      [
+        "Page",
+        "TLB"
+      ],
+      [
+        "Physical Page Number",
+        "Virtual Page Number"
+      ],
+      [
+        "Disk",
+        "Multilevel Storage System"
+      ],
+      [
+        "Main Memory",
+        "Page"
+      ],
+      [
+        "CPU Memory Access",
+        "Page Table"
+      ],
+      [
+        "Page",
+        "Page Table"
+      ],
+      [
+        "Cache",
+        "Multilevel Storage System"
+      ],
+      [
+        "Cache Miss",
+        "Hardware"
+      ],
+      [
+        "CPU Memory Access",
+        "TLB"
+      ],
+      [
+        "CPU Memory Access",
+        "Cache"
+      ],
+      [
+        "TLB Miss",
+        "TLB Replacement"
+      ],
+      [
+        "Cache",
+        "Main Memory"
+      ],
+      [
+        "Main Memory",
+        "Multilevel Storage System"
+      ],
+      [
+        "Main Memory",
+        "Page Table"
+      ],
+      [
+        "Multilevel Storage System",
+        "TLB"
+      ]
+    ],
+    "count": 18,
+    "create_time": 1761468274,
+    "update_time": 1761468274,
+    "_id": "doc-6c698405c4fcc8fb19ebad83fe798b48"
+  },
+  "doc-8f87fc865b405b5892e67cab1873a773": {
+    "relation_pairs": [
+      [
+        "Single-Body Multi-Word Memory",
+        "Transfer Instruction"
+      ],
+      [
+        "Independent Read/Write Control Circuits",
+        "Multi-Body Interleaved Memory"
+      ],
+      [
+        "Memory Throughput",
+        "Multi-Body Interleaved Memory"
+      ],
+      [
+        "CPU",
+        "Single-Body Multi-Word Memory"
+      ],
+      [
+        "Continuous Data Storage",
+        "Single-Body Multi-Word Memory"
+      ],
+      [
+        "Data Register",
+        "Multi-Body Interleaved Memory"
+      ],
+      [
+        "Multi-Body Interleaved Memory",
+        "Multi-Body Parallel Memory"
+      ],
+      [
+        "Address Register",
+        "Multi-Body Interleaved Memory"
+      ],
+      [
+        "Memory Throughput",
+        "Multi-Module Memory"
+      ]
+    ],
+    "count": 9,
+    "create_time": 1761468280,
+    "update_time": 1761468280,
+    "_id": "doc-8f87fc865b405b5892e67cab1873a773"
+  },
+  "doc-a438ed247c5a79e72ee6372aba002ee0": {
+    "relation_pairs": [
+      [
+        "Decoder-Based Chip Selection",
+        "High-Order Address Lines"
+      ],
+      [
+        "Line Selection Method",
+        "Memory Capacity"
+      ],
+      [
+        "Address Decoder",
+        "Decoder-Based Chip Selection"
+      ],
+      [
+        "High-Order Address Lines",
+        "Line Selection Method"
+      ],
+      [
+        "CPU",
+        "Chip Select"
+      ],
+      [
+        "CPU",
+        "Word Select"
+      ],
+      [
+        "Address Space",
+        "Line Selection Method"
+      ],
+      [
+        "N Bits of Low-Order Address Lines",
+        "Word Select"
+      ],
+      [
+        "2^N",
+        "Memory Capacity"
+      ],
+      [
+        "CPU",
+        "Storage Chip"
+      ]
+    ],
+    "count": 10,
+    "create_time": 1761468308,
+    "update_time": 1761468308,
+    "_id": "doc-a438ed247c5a79e72ee6372aba002ee0"
+  },
+  "doc-87c0289dc1f88d2676624e47042c749f": {
+    "relation_pairs": [
+      [
+        "段表",
+        "段起点"
+      ],
+      [
+        "段表",
+        "装入位"
+      ],
+      [
+        "段表基地址",
+        "虚拟地址"
+      ],
+      [
+        "段内地址",
+        "段式虚拟存储器"
+      ],
+      [
+        "段式虚拟存储器",
+        "段表"
+      ],
+      [
+        "段起点",
+        "物理地址"
+      ],
+      [
+        "内存碎片",
+        "分段"
+      ],
+      [
+        "段号",
+        "段式虚拟存储器"
+      ],
+      [
+        "分页",
+        "透明性"
+      ],
+      [
+        "分段",
+        "程序的逻辑结构"
+      ],
+      [
+        "物理地址",
+        "虚拟地址"
+      ],
+      [
+        "段号",
+        "段表"
+      ],
+      [
+        "分段",
+        "多道程序共享"
+      ],
+      [
+        "分段",
+        "逻辑独立性"
+      ],
+      [
+        "段表",
+        "段长"
+      ]
+    ],
+    "count": 15,
+    "create_time": 1761468310,
+    "update_time": 1761468310,
+    "_id": "doc-87c0289dc1f88d2676624e47042c749f"
+  },
+  "doc-84c8d12524cbd30a01b0da556f764478": {
+    "relation_pairs": [
+      [
+        "Non-Volatile Memory",
+        "Read-Only Memory"
+      ],
+      [
+        "DRAM Chip",
+        "Dynamic Random Access Memory"
+      ],
+      [
+        "DRAM Chip",
+        "Main Memory"
+      ],
+      [
+        "Cache",
+        "SRAM Chip"
+      ],
+      [
+        "Dynamic Random Access Memory",
+        "Volatile Memory"
+      ],
+      [
+        "SRAM Chip",
+        "Static Random Access Memory"
+      ],
+      [
+        "Static Random Access Memory",
+        "Volatile Memory"
+      ]
+    ],
+    "count": 7,
+    "create_time": 1761468328,
+    "update_time": 1761468328,
+    "_id": "doc-84c8d12524cbd30a01b0da556f764478"
+  },
+  "doc-f58beb694766dd43b7432ff7d16d2a65": {
+    "relation_pairs": [
+      [
+        "Memory Chip Extension Technology",
+        "Single Chip Capacity Limitation"
+      ],
+      [
+        "Control Bus",
+        "Read/Write Operation"
+      ],
+      [
+        "Address Bus",
+        "Maximum Memory Space"
+      ],
+      [
+        "Memory Chip Extension Technology",
+        "Memory Module"
+      ],
+      [
+        "Main Memory",
+        "ROM Chip"
+      ],
+      [
+        "Main Memory",
+        "Memory Module"
+      ],
+      [
+        "CPU",
+        "Main Memory"
+      ],
+      [
+        "Data Bus",
+        "Data Transfer Rate"
+      ]
+    ],
+    "count": 8,
+    "create_time": 1761468355,
+    "update_time": 1761468355,
+    "_id": "doc-f58beb694766dd43b7432ff7d16d2a65"
+  },
+  "doc-555f79801ef87ce95e52becac62479d6": {
+    "relation_pairs": [
+      [
+        "LRU Algorithm",
+        "Locality Principle"
+      ],
+      [
+        "Cache",
+        "Set Associative Mapping"
+      ],
+      [
+        "FIFO Algorithm",
+        "Replacement Algorithm"
+      ],
+      [
+        "Cache",
+        "Replacement Algorithm"
+      ],
+      [
+        "Cache Line",
+        "Cache Line Replacement"
+      ],
+      [
+        "Cache",
+        "Main Memory"
+      ],
+      [
+        "Random Algorithm",
+        "Replacement Algorithm"
+      ],
+      [
+        "Cache",
+        "Full Associative Mapping"
+      ],
+      [
+        "Count Value",
+        "LFU Algorithm"
+      ],
+      [
+        "LRU Algorithm",
+        "LRU Replacement Bit"
+      ],
+      [
+        "FIFO Algorithm",
+        "Locality Principle"
+      ],
+      [
+        "Cache",
+        "Thrashing"
+      ],
+      [
+        "LRU Algorithm",
+        "Replacement Algorithm"
+      ],
+      [
+        "Count Value",
+        "LRU Algorithm"
+      ],
+      [
+        "Cache Group",
+        "Set Associative Mapping"
+      ],
+      [
+        "Counting Mechanism",
+        "LFU Algorithm"
+      ],
+      [
+        "Cache",
+        "Main Memory Block"
+      ],
+      [
+        "Cache",
+        "Direct Mapping"
+      ],
+      [
+        "LFU Algorithm",
+        "Replacement Algorithm"
+      ],
+      [
+        "Counting Mechanism",
+        "LRU Algorithm"
+      ],
+      [
+        "Cache",
+        "Cache Line"
+      ],
+      [
+        "Cache",
+        "Cache Group"
+      ]
+    ],
+    "count": 22,
+    "create_time": 1761468359,
+    "update_time": 1761468359,
+    "_id": "doc-555f79801ef87ce95e52becac62479d6"
+  },
+  "doc-7c2151344b39c51051c3dacc3290bcf9": {
+    "relation_pairs": [
+      [
+        "Storage Body",
+        "Storage Unit"
+      ],
+      [
+        "High Power Consumption",
+        "SRAM"
+      ],
+      [
+        "High Cost",
+        "SRAM"
+      ],
+      [
+        "Bistable Trigger",
+        "SRAM"
+      ],
+      [
+        "High Access Speed",
+        "SRAM"
+      ],
+      [
+        "Cache Memory",
+        "SRAM"
+      ],
+      [
+        "Bistable Trigger",
+        "Six Transistor MOS"
+      ],
+      [
+        "Non-Destructive Readout",
+        "SRAM"
+      ],
+      [
+        "Storage Cell",
+        "Storage Unit"
+      ],
+      [
+        "Low Integration Density",
+        "SRAM"
+      ]
+    ],
+    "count": 10,
+    "create_time": 1761468383,
+    "update_time": 1761468383,
+    "_id": "doc-7c2151344b39c51051c3dacc3290bcf9"
+  },
+  "doc-e0a87778cef25aba2903a8a3e12c5faa": {
+    "relation_pairs": [
+      [
+        "CPU",
+        "Cache"
+      ],
+      [
+        "Cache",
+        "Cache Hit"
+      ],
+      [
+        "Block Length",
+        "Cache Block"
+      ],
+      [
+        "Cache",
+        "Replacement Algorithm"
+      ],
+      [
+        "Cache",
+        "Write Policy"
+      ],
+      [
+        "Write-Back",
+        "Write-Through"
+      ],
+      [
+        "Cache",
+        "Main Memory"
+      ],
+      [
+        "Cache",
+        "Hardware Implementation"
+      ],
+      [
+        "Cache",
+        "Cache Miss"
+      ],
+      [
+        "CPU",
+        "Data Transfer Unit"
+      ],
+      [
+        "Cache Block",
+        "Cache Line"
+      ],
+      [
+        "Cache",
+        "Cache Block"
+      ],
+      [
+        "Cache",
+        "Cache Capacity"
+      ],
+      [
+        "Main Memory",
+        "Main Memory Capacity"
+      ]
+    ],
+    "count": 14,
+    "create_time": 1761468397,
+    "update_time": 1761468397,
+    "_id": "doc-e0a87778cef25aba2903a8a3e12c5faa"
+  },
+  "doc-8722d229424243d0f7b9869b271bb08f": {
+    "relation_pairs": [
+      [
+        "Solid State Drive",
+        "Ssd Performance"
+      ],
+      [
+        "Block",
+        "Flash Memory Chip"
+      ],
+      [
+        "Mechanical Hard Disk",
+        "Solid State Drive"
+      ],
+      [
+        "Block",
+        "Page"
+      ],
+      [
+        "Price Trend",
+        "Solid State Drive"
+      ],
+      [
+        "Energy Efficiency",
+        "Solid State Drive"
+      ],
+      [
+        "Solid State Drive",
+        "Vibration Resistance"
+      ],
+      [
+        "Data Erasure",
+        "Page"
+      ],
+      [
+        "Flash Translation Layer",
+        "Mechanical Hard Disk Controller"
+      ],
+      [
+        "Flash Memory Chip",
+        "Solid State Drive"
+      ],
+      [
+        "Flash Translation Layer",
+        "Solid State Drive"
+      ],
+      [
+        "Random Write Operation",
+        "Solid State Drive"
+      ],
+      [
+        "Data Security",
+        "Solid State Drive"
+      ]
+    ],
+    "count": 13,
+    "create_time": 1761468413,
+    "update_time": 1761468413,
+    "_id": "doc-8722d229424243d0f7b9869b271bb08f"
+  },
+  "doc-b013853f3a4a507351aa3af1ef0f6cfb": {
+    "relation_pairs": [
+      [
+        "m体交叉存储器",
+        "低位交叉编址"
+      ],
+      [
+        "同时启动方式",
+        "数据总线位数"
+      ],
+      [
+        "存取周期",
+        "轮流启动方式"
+      ],
+      [
+        "多体并行存储器",
+        "高位交叉编址"
+      ],
+      [
+        "m体交叉存储器",
+        "模块数"
+      ],
+      [
+        "模块号",
+        "高位交叉编址"
+      ],
+      [
+        "m体交叉存储器",
+        "轮流启动方式"
+      ],
+      [
+        "体内地址",
+        "高位交叉编址"
+      ],
+      [
+        "低位交叉编址",
+        "体内地址"
+      ],
+      [
+        "低位交叉编址",
+        "多体并行存储器"
+      ],
+      [
+        "m体交叉存储器",
+        "访存冲突"
+      ],
+      [
+        "同时启动方式",
+        "模块数"
+      ],
+      [
+        "模块数",
+        "轮流启动方式"
+      ],
+      [
+        "总时间",
+        "轮流启动方式"
+      ],
+      [
+        "同时启动方式",
+        "启动间隔"
+      ],
+      [
+        "总线周期",
+        "轮流启动方式"
+      ],
+      [
+        "m体交叉存储器",
+        "同时启动方式"
+      ],
+      [
+        "低位交叉编址",
+        "模块号"
+      ]
+    ],
+    "count": 18,
+    "create_time": 1761468434,
+    "update_time": 1761468434,
+    "_id": "doc-b013853f3a4a507351aa3af1ef0f6cfb"
+  },
+  "doc-ce9d79eec3b8225be9c02cda24c5a519": {
+    "relation_pairs": [
+      [
+        "Auxiliary Memory",
+        "Main Memory"
+      ],
+      [
+        "Cache Memory",
+        "Main Memory"
+      ],
+      [
+        "Main Memory",
+        "Volatile Memory"
+      ],
+      [
+        "CPU",
+        "Cache Memory"
+      ],
+      [
+        "Dynamic RAM",
+        "Random Access Memory"
+      ],
+      [
+        "Sequential Access Storage",
+        "Serial Access Storage"
+      ],
+      [
+        "Auxiliary Memory",
+        "Optical Storage"
+      ],
+      [
+        "Main Memory",
+        "Read-Only Memory"
+      ],
+      [
+        "CPU",
+        "Main Memory"
+      ],
+      [
+        "Auxiliary Memory",
+        "Non-Volatile Memory"
+      ],
+      [
+        "Main Memory",
+        "Random Access Memory"
+      ],
+      [
+        "Destructive Readout",
+        "Memory System"
+      ],
+      [
+        "Direct Access Storage",
+        "Serial Access Storage"
+      ],
+      [
+        "Memory System",
+        "Non-Destructive Readout"
+      ],
+      [
+        "Auxiliary Memory",
+        "Magnetic Surface Storage"
+      ],
+      [
+        "Random Access Memory",
+        "Static RAM"
+      ]
+    ],
+    "count": 16,
+    "create_time": 1761468453,
+    "update_time": 1761468453,
+    "_id": "doc-ce9d79eec3b8225be9c02cda24c5a519"
+  },
+  "doc-cef942e7cbaeb916484eb8b3e7bcbd9a": {
+    "relation_pairs": [
+      [
+        "Cache",
+        "L2 Cache"
+      ],
+      [
+        "Cache",
+        "Dirty Bit"
+      ],
+      [
+        "Cache",
+        "Separate Cache Structure"
+      ],
+      [
+        "Write Buffer",
+        "Write Through"
+      ],
+      [
+        "Cache",
+        "Main Memory"
+      ],
+      [
+        "Not-Write-Allocate",
+        "Write Through"
+      ],
+      [
+        "Cache",
+        "Write Allocate"
+      ],
+      [
+        "Cache",
+        "Data Cache"
+      ],
+      [
+        "Performance Optimization",
+        "Separate Cache Structure"
+      ],
+      [
+        "Cache",
+        "Write Through"
+      ],
+      [
+        "Cache",
+        "L1 Cache"
+      ],
+      [
+        "Memory Access Conflict",
+        "Separate Cache Structure"
+      ],
+      [
+        "Cache Consistency Problem",
+        "Write Through"
+      ],
+      [
+        "Cache",
+        "Instruction Cache"
+      ],
+      [
+        "Spatial Locality",
+        "Write Allocate"
+      ],
+      [
+        "Cache",
+        "Write Back"
+      ],
+      [
+        "Write Allocate",
+        "Write Back"
+      ],
+      [
+        "Cache Consistency Problem",
+        "Write Back"
+      ],
+      [
+        "Data Cache",
+        "Instruction Cache"
+      ],
+      [
+        "Dirty Bit",
+        "Write Back"
+      ],
+      [
+        "L1 Cache",
+        "L2 Cache"
+      ],
+      [
+        "Cache",
+        "Not-Write-Allocate"
+      ]
+    ],
+    "count": 22,
+    "create_time": 1761468481,
+    "update_time": 1761468481,
+    "_id": "doc-cef942e7cbaeb916484eb8b3e7bcbd9a"
+  },
+  "doc-a531a45f53700863615cfa8c40892f61": {
+    "relation_pairs": [
+      [
+        "段号",
+        "段表"
+      ],
+      [
+        "段页式虚拟存储器",
+        "程序"
+      ],
+      [
+        "保护",
+        "段页式虚拟存储器"
+      ],
+      [
+        "段表",
+        "虚地址"
+      ],
+      [
+        "主存空间",
+        "页"
+      ],
+      [
+        "实地址",
+        "虚地址"
+      ],
+      [
+        "地址变换过程",
+        "段页式虚拟存储器"
+      ],
+      [
+        "段内页号",
+        "页表"
+      ],
+      [
+        "段起点",
+        "页长"
+      ],
+      [
+        "段表",
+        "程序"
+      ],
+      [
+        "共享",
+        "段页式虚拟存储器"
+      ],
+      [
+        "段长",
+        "页长"
+      ],
+      [
+        "虚地址",
+        "页表"
+      ],
+      [
+        "段表",
+        "页表"
+      ]
+    ],
+    "count": 14,
+    "create_time": 1761468495,
+    "update_time": 1761468495,
+    "_id": "doc-a531a45f53700863615cfa8c40892f61"
+  },
+  "doc-f75d6db24d56fe7631645ee707b4ca7f": {
+    "relation_pairs": [
+      [
+        "Data Striping",
+        "RAID"
+      ],
+      [
+        "RAID",
+        "RAID5"
+      ],
+      [
+        "RAID",
+        "RAID1"
+      ],
+      [
+        "Parity",
+        "RAID"
+      ],
+      [
+        "Parity",
+        "RAID3"
+      ],
+      [
+        "Independent Redundant Disk Array",
+        "RAID"
+      ],
+      [
+        "Physical Disk",
+        "RAID5"
+      ],
+      [
+        "Physical Disk",
+        "RAID1"
+      ],
+      [
+        "Parity",
+        "RAID5"
+      ],
+      [
+        "RAID",
+        "RAID4"
+      ],
+      [
+        "Logical Disk",
+        "Physical Disk"
+      ],
+      [
+        "RAID",
+        "Storage Performance"
+      ],
+      [
+        "Fault Tolerance",
+        "RAID"
+      ],
+      [
+        "Data Recovery",
+        "RAID"
+      ],
+      [
+        "RAID",
+        "RAID0"
+      ],
+      [
+        "RAID",
+        "RAID2"
+      ],
+      [
+        "Data Security",
+        "RAID"
+      ],
+      [
+        "Parity",
+        "RAID4"
+      ],
+      [
+        "Mirroring",
+        "RAID"
+      ],
+      [
+        "Data Striping",
+        "RAID0"
+      ],
+      [
+        "RAID",
+        "RAID3"
+      ],
+      [
+        "Mirroring",
+        "RAID1"
+      ]
+    ],
+    "count": 22,
+    "create_time": 1761468559,
+    "update_time": 1761468559,
+    "_id": "doc-f75d6db24d56fe7631645ee707b4ca7f"
+  },
+  "doc-361185a50ecc6636f127fb6f6ad6eabd": {
+    "relation_pairs": [
+      [
+        "2-Way Set Associative",
+        "Set Associative Mapping"
+      ],
+      [
+        "Cache",
+        "Set Associative Mapping"
+      ],
+      [
+        "CPU Memory Access",
+        "Main Memory"
+      ],
+      [
+        "Figure 3.19",
+        "Fully Associative Mapping"
+      ],
+      [
+        "Cache Line",
+        "Tag"
+      ],
+      [
+        "Figure 3.20",
+        "Set Associative Mapping"
+      ],
+      [
+        "Block",
+        "Cache Line"
+      ],
+      [
+        "Block",
+        "Fully Associative Mapping"
+      ],
+      [
+        "CPU Memory Access",
+        "Cache"
+      ],
+      [
+        "Cache Line",
+        "Valid Bit"
+      ],
+      [
+        "Cache",
+        "Main Memory"
+      ],
+      [
+        "Address Tag Field",
+        "Tag"
+      ],
+      [
+        "Cache Line Number",
+        "Direct Mapping"
+      ],
+      [
+        "Main Memory Block Number",
+        "Set Associative Mapping"
+      ]
+    ],
+    "count": 14,
+    "create_time": 1761468610,
+    "update_time": 1761468610,
+    "_id": "doc-361185a50ecc6636f127fb6f6ad6eabd"
+  },
+  "doc-d02693bcc2f3ef38eee5bb553035284e": {
+    "relation_pairs": [
+      [
+        "Memory System Efficiency",
+        "Parallel Main Memory System"
+      ],
+      [
+        "CPU",
+        "Cache"
+      ],
+      [
+        "Data Distribution Discreteness",
+        "Program Transfer Probability"
+      ],
+      [
+        "Cache",
+        "Main Memory"
+      ],
+      [
+        "Cache",
+        "SRAM"
+      ]
+    ],
+    "count": 5,
+    "create_time": 1761468625,
+    "update_time": 1761468625,
+    "_id": "doc-d02693bcc2f3ef38eee5bb553035284e"
+  },
+  "doc-5b1903143e069742cd454a3ac6ea0d4a": {
+    "relation_pairs": [
+      [
+        "Flash Memory Block",
+        "Wear Leveling"
+      ],
+      [
+        "Dynamic Wear Leveling",
+        "Wear Leveling"
+      ],
+      [
+        "Static Wear Leveling",
+        "Wear Leveling"
+      ],
+      [
+        "Solid State Drive",
+        "Wear Leveling"
+      ],
+      [
+        "Flash Memory Block",
+        "Solid State Drive"
+      ],
+      [
+        "256GB SSD",
+        "Wear Leveling"
+      ],
+      [
+        "Flash Memory",
+        "Solid State Drive"
+      ],
+      [
+        "Data Write Concentration",
+        "Flash Memory Block"
+      ]
+    ],
+    "count": 8,
+    "create_time": 1761468679,
+    "update_time": 1761468679,
+    "_id": "doc-5b1903143e069742cd454a3ac6ea0d4a"
+  },
+  "doc-3c1c3cb1cdfefa986a82277dd52e88ef": {
+    "relation_pairs": [
+      [
+        "Access Cycle",
+        "Data Transfer Rate"
+      ],
+      [
+        "Destructive Readout",
+        "Restoration Time"
+      ],
+      [
+        "Access Cycle",
+        "Destructive Readout"
+      ],
+      [
+        "Access Cycle",
+        "Access Time"
+      ],
+      [
+        "Storage Capacity",
+        "Storage Word Count"
+      ],
+      [
+        "Bit",
+        "Byte"
+      ],
+      [
+        "Data Transfer Rate",
+        "Main Memory Bandwidth"
+      ],
+      [
+        "Storage Capacity",
+        "Word Length"
+      ],
+      [
+        "Bit Price",
+        "Unit Cost"
+      ]
+    ],
+    "count": 9,
+    "create_time": 1761468740,
+    "update_time": 1761468740,
+    "_id": "doc-3c1c3cb1cdfefa986a82277dd52e88ef"
+  },
+  "doc-0af5a7c8d38a4b5d1e4bac2d53e20424": {
+    "relation_pairs": [
+      [
+        "页式虚拟存储器",
+        "页表简单"
+      ],
+      [
+        "换出页面",
+        "脏位"
+      ],
+      [
+        "缺页异常处理程序",
+        "页表"
+      ],
+      [
+        "磁盘",
+        "缺页异常处理程序"
+      ],
+      [
+        "引用位",
+        "替换法"
+      ],
+      [
+        "页式虚拟存储器",
+        "页面长度固定"
+      ],
+      [
+        "调入方便",
+        "页式虚拟存储器"
+      ],
+      [
+        "引用位",
+        "页表"
+      ],
+      [
+        "空闲物理页框",
+        "缺页异常处理程序"
+      ],
+      [
+        "主存",
+        "有效位"
+      ],
+      [
+        "最后一页的零头",
+        "页式虚拟存储器"
+      ],
+      [
+        "有效位",
+        "磁盘地址"
+      ],
+      [
+        "地址转换部件",
+        "物理地址"
+      ],
+      [
+        "外存",
+        "有效位"
+      ],
+      [
+        "CPU",
+        "虚拟地址"
+      ],
+      [
+        "FIFO位",
+        "引用位"
+      ],
+      [
+        "脏位",
+        "页表"
+      ],
+      [
+        "段式虚拟存储器",
+        "页式虚拟存储器"
+      ],
+      [
+        "回写法",
+        "脏位"
+      ],
+      [
+        "有效位",
+        "物理页号"
+      ],
+      [
+        "有效位",
+        "页表"
+      ],
+      [
+        "缺页异常",
+        "缺页异常处理程序"
+      ],
+      [
+        "地址转换部件",
+        "虚拟地址"
+      ],
+      [
+        "LRU位",
+        "引用位"
+      ]
+    ],
+    "count": 24,
+    "create_time": 1761468778,
+    "update_time": 1761468778,
+    "_id": "doc-0af5a7c8d38a4b5d1e4bac2d53e20424"
+  },
+  "doc-b5dba59d5f9377e5060b73fecdb0de06": {
+    "relation_pairs": [
+      [
+        "Cache",
+        "Virtual Memory"
+      ],
+      [
+        "Main Memory",
+        "Segment"
+      ],
+      [
+        "Virtual Memory",
+        "Virtual Space"
+      ],
+      [
+        "Replacement Algorithm",
+        "Virtual Memory"
+      ],
+      [
+        "Main Memory",
+        "Virtual Address"
+      ],
+      [
+        "Fault",
+        "Virtual Memory"
+      ],
+      [
+        "Physical Address",
+        "Real Address Space"
+      ],
+      [
+        "Full Associative Mapping",
+        "Virtual Memory"
+      ],
+      [
+        "Main Memory",
+        "Page"
+      ],
+      [
+        "Secondary Storage",
+        "Virtual Memory"
+      ],
+      [
+        "Main Memory Full",
+        "Replacement Algorithm"
+      ],
+      [
+        "Virtual Address",
+        "Virtual Space"
+      ],
+      [
+        "Physical Address",
+        "Virtual Memory"
+      ],
+      [
+        "Virtual Memory",
+        "Write-Back"
+      ],
+      [
+        "Main Memory",
+        "Virtual Memory"
+      ]
+    ],
+    "count": 15,
+    "create_time": 1761468866,
+    "update_time": 1761468866,
+    "_id": "doc-b5dba59d5f9377e5060b73fecdb0de06"
+  },
+  "doc-7d97c00461f6819fdc944b43a4f18f4e": {
+    "relation_pairs": [
+      [
+        "磁盘存储器",
+        "磁盘驱动器"
+      ],
+      [
+        "Cylinder Track Number",
+        "Disk Address"
+      ],
+      [
+        "存取时间",
+        "旋转延迟时间"
+      ],
+      [
+        "磁头数",
+        "磁盘驱动器"
+      ],
+      [
+        "Disk Access Process",
+        "Seek Operation"
+      ],
+      [
+        "记录密度",
+        "面密度"
+      ],
+      [
+        "Mechanical Disk",
+        "Write Operation"
+      ],
+      [
+        "扇区号",
+        "磁盘地址"
+      ],
+      [
+        "传输时间",
+        "存取时间"
+      ],
+      [
+        "盘片",
+        "磁盘存储器"
+      ],
+      [
+        "Disk Address",
+        "Disk Surface Head Number"
+      ],
+      [
+        "Disk Access Process",
+        "Read Operation"
+      ],
+      [
+        "Control Word",
+        "Disk Access Process"
+      ],
+      [
+        "中间结果数据",
+        "磁盘高速缓存"
+      ],
+      [
+        "内存",
+        "磁盘高速缓存"
+      ],
+      [
+        "写磁盘",
+        "磁盘高速缓存"
+      ],
+      [
+        "盘面号",
+        "磁盘地址"
+      ],
+      [
+        "16位二进制代码",
+        "磁盘地址"
+      ],
+      [
+        "磁盘驱动器",
+        "磁道"
+      ],
+      [
+        "磁盘驱动器",
+        "记录面"
+      ],
+      [
+        "柱面数",
+        "磁道"
+      ],
+      [
+        "电磁转换",
+        "磁记录原理"
+      ],
+      [
+        "磁记录方式",
+        "编码方法"
+      ],
+      [
+        "数据传输速率",
+        "磁盘转数"
+      ],
+      [
+        "扇区",
+        "磁道"
+      ],
+      [
+        "Disk",
+        "Disk Controller"
+      ],
+      [
+        "改进型调频制",
+        "调频制"
+      ],
+      [
+        "磁盘存储器",
+        "磁盘控制器"
+      ],
+      [
+        "存取时间",
+        "寻道时间"
+      ],
+      [
+        "位密度",
+        "记录密度"
+      ],
+      [
+        "16-Bit Binary Code",
+        "Cylinder Track Number (8 Bits)"
+      ],
+      [
+        "扇区",
+        "扇区数"
+      ],
+      [
+        "磁盘容量",
+        "非格式化容量"
+      ],
+      [
+        "Disk Address",
+        "Sector Number"
+      ],
+      [
+        "Control Word",
+        "Disk"
+      ],
+      [
+        "16-Bit Binary Code",
+        "Sector Number (4 Bits)"
+      ],
+      [
+        "Disk Access Process",
+        "Write Operation"
+      ],
+      [
+        "Mechanical Disk",
+        "Read Operation"
+      ],
+      [
+        "Control Word",
+        "Mechanical Disk"
+      ],
+      [
+        "16-Bit Binary Code",
+        "Disk Surface Head Number (4 Bits)"
+      ],
+      [
+        "记录密度",
+        "道密度"
+      ],
+      [
+        "柱面号",
+        "柱面数"
+      ],
+      [
+        "柱面号",
+        "磁盘地址"
+      ],
+      [
+        "格式化容量",
+        "磁盘容量"
+      ],
+      [
+        "数据传输速率",
+        "每条磁道容量"
+      ]
+    ],
+    "count": 45,
+    "create_time": 1761468955,
+    "update_time": 1761468955,
+    "_id": "doc-7d97c00461f6819fdc944b43a4f18f4e"
+  }
+}

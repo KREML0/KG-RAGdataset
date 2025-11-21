@@ -1,0 +1,309 @@
+{
+  "doc-b24f3ea8fa47cc4d73bbd9fa131f459c": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-4454e45aba8d7d569cd0062ada0f7e3e",
+      "chunk-3ab7c40f48ad474fe77eab212879ac85"
+    ],
+    "content_summary": "6. 计算机的功能部件 (1)输入设备 输入设备的主要功能是将程序和数据以机器所能识别和接受的信息形式输入计算机。最常用也最基本的输入设备是键盘，此外还有鼠标、扫描仪、摄像机等。 (2)输出设备 输出设备的任务是将计算机处理的结果以人们所能接受的形式或其他系统所要求的信息形式输出。最常用、最基本的输出设备是显示器、打印机。输入/输出设备(简称I/O 设备)是计算机与外界联系的桥梁，是计算机中不可缺少的重要组成部分。 (3)存储器 存储器分为主存储器(也称内存储器或主存)和辅助存储器(也称外存储器...",
+    "content_length": 1645,
+    "created_at": "2025-10-26T06:08:06.459324+00:00",
+    "updated_at": "2025-10-26T06:10:09.560904+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251026_140806_209dcb51",
+    "metadata": {
+      "processing_start_time": 1761458886,
+      "processing_end_time": 1761459009
+    }
+  },
+  "doc-c7c79909854479ed23754a2ef25df4f2": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-c7c79909854479ed23754a2ef25df4f2"
+    ],
+    "content_summary": "“存储程序”工作方式 “存储程序”工作方式规定，程序执行前，需要将程序所含的指令和数据送入主存储器， 一旦程序被启动执行，就无须操作人员的干预，自动逐条完成指令的取出和执行任务。一个程序的执行就是周而复始地执行一条一条指令的过程。每条指令的执行过程包括： 根据 PC 从主存储器中取指令、对指令进行译码、计算下一条指令地址、取操作数并执行、将结果送回存储器。 程序执行前，先将程序第一条指令的地址存放到PC 中，取指令时，将PC 的内容作为地址 访问主存储器。在每条指令执行过程中，都需要计算下一条将...",
+    "content_length": 401,
+    "created_at": "2025-10-26T06:08:06.459336+00:00",
+    "updated_at": "2025-10-26T06:08:35.828371+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251026_140806_209dcb51",
+    "metadata": {
+      "processing_start_time": 1761458886,
+      "processing_end_time": 1761458915
+    }
+  },
+  "doc-4e9cb7cc8537ba696844e867b910e493": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-4e9cb7cc8537ba696844e867b910e493"
+    ],
+    "content_summary": "8. 三个级别的语言 1)机器语言。也称二进制代码语言，需要编程人员记忆每条指令的二进制编码。机器语言 是计算机唯一可以直接识别和执行的语言。 2)汇编语言。汇编语言用英文单词或其缩写代替二进制的指令代码，更容易为人们记忆和 理解。使用汇编语言编写的程序，必须经过一个称为汇编程序的系统软件的翻译，将其 转换为机器语言程序后，才能在计算机的硬件系统上执行。 3)高级语言。高级语言(如C 、C++ 、Java 等)可以方便程序设计人员写出解决问题的处理 方案和解题过程的程序。通常高级语言需要经过编译...",
+    "content_length": 480,
+    "created_at": "2025-10-26T06:08:06.459329+00:00",
+    "updated_at": "2025-10-26T06:09:20.474827+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251026_140806_209dcb51",
+    "metadata": {
+      "processing_start_time": 1761458915,
+      "processing_end_time": 1761458960
+    }
+  },
+  "doc-9c7311d8b90235b50f420b04794b1e59": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-9c7311d8b90235b50f420b04794b1e59"
+    ],
+    "content_summary": "10. 计算机系统的层次结构 计算机是一个硬软件组成的综合体。因为面对的应用范围越来越广，所以必须有复杂的系 统软件和硬件的支持。软/硬件的设计者和使用者从不同的角度、用不同的语言来对待同一个计 算机系统，因此他们看到的计算机系统的属性对计算机系统提出的要求也就各不相同。 计算机系统的多级层次结构的作用，就是针对上述情况，根据从各种角度所看到的机器之间的有机联系，来分清彼此之间的界面，明确各自的功能，以便构成合理、高效的计算机系统。 关于计算机系统层次结构的分层方式如下所示： 第 1 级 是微程...",
+    "content_length": 851,
+    "created_at": "2025-10-26T06:08:06.459334+00:00",
+    "updated_at": "2025-10-26T06:10:26.997773+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251026_140806_209dcb51",
+    "metadata": {
+      "processing_start_time": 1761458960,
+      "processing_end_time": 1761459026
+    }
+  },
+  "doc-0448ab5b19432e1179effaa513438639": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-0448ab5b19432e1179effaa513438639"
+    ],
+    "content_summary": "12. 从源程序到可执行文件 在计算机中编写的C 语言程序，都必须被转换为一系列的低级机器指令，这些指令按照一种称为可执行目标文件的格式打好包，并以二进制磁盘文件的形式存放起来。 以 UNIX 系统中的 GCC 编译器程序为例，读取源程序文件 hello.c, 并把它翻译成一个可执 行目标文件hello,整个翻译过程可分为四个阶段完成： 1)预处理阶段：预处理器 (cpp) 对源程序中以字符#开头的命令进行处理，例如将#include 命令后面的.h 文件内容插入程序文件。输出结果是一个以.i ...",
+    "content_length": 591,
+    "created_at": "2025-10-26T06:08:06.459339+00:00",
+    "updated_at": "2025-10-26T06:11:20.977582+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251026_140806_209dcb51",
+    "metadata": {
+      "processing_start_time": 1761459009,
+      "processing_end_time": 1761459080
+    }
+  },
+  "doc-2ee19dac1fca89a19b4aa779f9ae011b": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-2ee19dac1fca89a19b4aa779f9ae011b"
+    ],
+    "content_summary": "7. 系统软件和应用软件 软件按其功能分类，可分为系统软件和应用软件。 系统软件是一组保证计算机系统高效、正确运行的基础软件，通常作为系统资源提供给用户 使用。系统软件主要有操作系统 (OS) 、 数据库管理系统 (DBMS) 、 语言处理程序、分布式软件 系统、网络软件系统、标准库程序、服务性程序等。 应用软件是指用户为解决某个应用领域中的各类问题而编制的程序，如各种科学计算类程 序、工程设计类程序、数据统计与处理程序等。 在本学科范畴内，编写诸如操作系统、编译程序等各种系统软件的人员称为系统...",
+    "content_length": 291,
+    "created_at": "2025-10-26T06:08:06.459327+00:00",
+    "updated_at": "2025-10-26T06:11:13.414193+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251026_140806_209dcb51",
+    "metadata": {
+      "processing_start_time": 1761459027,
+      "processing_end_time": 1761459073
+    }
+  },
+  "doc-bcff7d6c5acaf1d43fd146d2d6ca0e10": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-bcff7d6c5acaf1d43fd146d2d6ca0e10"
+    ],
+    "content_summary": "4. 计算机系统的组成 硬件系统和软件系统共同构成了一个完整的计算机系统。硬件是指有形的物理设备，是计算机系统中实际物理装置的总称。软件是指在硬件上运行的程序和相关的数据及文档。 计算机系统性能的好坏，很大程度上是由软件的效率和作用来表征的，而软件性能的发挥又离不开硬件的支持。对某一功能来说，若其既可用软件实现，又可用硬件实现，则称为软/硬件在逻辑功能上是等价的。在设计计算机系统时，要进行软/硬件的功能分配。通常来说，一个功能若使用较为频繁且用硬件实现的成本较为理想，则使用硬件解决可以提高效率。",
+    "content_length": 250,
+    "created_at": "2025-10-26T06:08:06.459318+00:00",
+    "updated_at": "2025-10-26T06:11:59.771573+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251026_140806_209dcb51",
+    "metadata": {
+      "processing_start_time": 1761459074,
+      "processing_end_time": 1761459119
+    }
+  },
+  "doc-3c1a22da999330b72078c76983e7f8f1": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-3c1a22da999330b72078c76983e7f8f1"
+    ],
+    "content_summary": "18. 基准程序 基准程序 (Benchmarks) 是专门用来进行性能评价的一组程序，能够很好地反映机器在运行 实际负载时的性能，可以通过在不同机器上运行相同的基准程序来比较在不同机器上的运行时间，从而评测其性能。对于不同的应用场合，应该选择不同的基准程序。 使用基准程序进行计算机性能评测也存在一些缺陷，因为基准程序的性能可能与某一小段的 短代码密切相关，而硬件系统设计人员或编译器开发者可能针对这些代码片段进行特殊的优化， 使得执行这段代码的速度非常快，以至于得不到准确的性能评测结果。",
+    "content_length": 246,
+    "created_at": "2025-10-26T06:08:06.459356+00:00",
+    "updated_at": "2025-10-26T06:11:49.173116+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251026_140806_209dcb51",
+    "metadata": {
+      "processing_start_time": 1761459081,
+      "processing_end_time": 1761459109
+    }
+  },
+  "doc-5f71debd3ee7c68d2502f93642dc0ab3": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-5f71debd3ee7c68d2502f93642dc0ab3"
+    ],
+    "content_summary": "16. 主存容量 主存容量是指主存储器所能存储信息的最大容量，通常以字节 (B) 来衡量，也可用字数× 字长(如512K×16 位)来表示存储容量。其中，MAR的位数反映了存储单元的个数，MDR的 数反映了存储单元的字长。例如，MAR 为16位,即表示此存储体内有65536个存储单元(可称为64KB内存，1K=1024), 若 MDR 为32位，则表示存储容量为64K×32 位。",
+    "content_length": 191,
+    "created_at": "2025-10-26T06:08:06.459351+00:00",
+    "updated_at": "2025-10-26T06:12:25.509521+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251026_140806_209dcb51",
+    "metadata": {
+      "processing_start_time": 1761459109,
+      "processing_end_time": 1761459145
+    }
+  },
+  "doc-93a7f62fa688ac028103d752d7c29029": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-93a7f62fa688ac028103d752d7c29029"
+    ],
+    "content_summary": "15. 数据通路带宽 数据通路带宽是指数据总线一次所能并行传送信息的位数。这里所说的数据通路宽度是指外 部数据总线的宽度，它与CPU 内部的数据总线宽度(内部寄存器的大小)有可能不同。 注意，各个子系统通过数据总线连接形成的数据传送路径称为数据通路。",
+    "content_length": 125,
+    "created_at": "2025-10-26T06:08:06.459349+00:00",
+    "updated_at": "2025-10-26T06:12:12.251440+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251026_140806_209dcb51",
+    "metadata": {
+      "processing_start_time": 1761459119,
+      "processing_end_time": 1761459132
+    }
+  },
+  "doc-a114ca20b10893088173789b93f4afa8": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-a114ca20b10893088173789b93f4afa8"
+    ],
+    "content_summary": "17. 运算速度 (1)吞吐量和响应时间。 吞吐量指系统在单位时间内处理请求的数量。它取决于信息能多快地输入内存，CPU 能 多快地取指令，数据能多快地从内存取出或存入，以及所得结果能多快地从内存送给一台 外部设备。几乎每步都关系到主存储器，因此系统吞吐量主要取决于主存储器的存取周期。 响应时间指从用户向计算机发送一个请求，到系统对该请求做出响应并获得所需结果的 等待时间。通常包括 CPU 时间(运行一个程序所花费的时间)与等待时间(用于磁盘访 问、存储器访问、I/O 操作、操作系统开销等的时间...",
+    "content_length": 1146,
+    "created_at": "2025-10-26T06:08:06.459354+00:00",
+    "updated_at": "2025-10-26T06:12:45.779591+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251026_140806_209dcb51",
+    "metadata": {
+      "processing_start_time": 1761459132,
+      "processing_end_time": 1761459165
+    }
+  },
+  "doc-09848468276ff636a965cf7b53d7df93": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-09848468276ff636a965cf7b53d7df93"
+    ],
+    "content_summary": "1. 计算机的四代变化 从1946年世界上第一台电子数字计算机(Electronic Numerical Integrator And Computer, ENIAC ) 问世以来，计算机的发展已经经历了四代。 1)第一代计算机(1946—1957 年 ) ——电子管时代。特点：逻辑元件采用电子管；使用机 器语言进行编程；主存储器用延迟线或磁鼓存储信息，容量极小；体积庞大，成本高；运算速度较低，一般只有几千次到几万次每秒。 2)第二代计算机 (1958—1964 年 ) ——晶体管时代。特点：逻...",
+    "content_length": 524,
+    "created_at": "2025-10-26T06:08:06.459300+00:00",
+    "updated_at": "2025-10-26T06:13:57.402858+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251026_140806_209dcb51",
+    "metadata": {
+      "processing_start_time": 1761459145,
+      "processing_end_time": 1761459237
+    }
+  },
+  "doc-84ba66a733950ff7638906709aed6fc3": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-84ba66a733950ff7638906709aed6fc3"
+    ],
+    "content_summary": "13. 指令执行过程的描述 可执行文件中的代码段是由一条一条机器指令构成的，指令是用0和1表示的一串0/1序列， 用来指示CPU 完成一个特定的原子操作。例如，取数指令从存储单元中取出一个数据送到CPU的寄存器中，存数指令将 CPU 寄存器的内容写入一个存储单元，ALU指令将两个寄存器的内容进行某种算术或逻辑运算后送到一个CPU寄存器中，等等。下面以取数指令(送至运算器的ACC 中)为例来说明，其信息流程如下： 1)取指令： PC→MAR→M→MDR→IR 根据PC取指令到IR。将 PC 的内容...",
+    "content_length": 611,
+    "created_at": "2025-10-26T06:08:06.459342+00:00",
+    "updated_at": "2025-10-26T06:13:57.182436+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251026_140806_209dcb51",
+    "metadata": {
+      "processing_start_time": 1761459165,
+      "processing_end_time": 1761459237
+    }
+  },
+  "doc-0a67c4fefa56f6f7c702cf1086f0d609": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-0a67c4fefa56f6f7c702cf1086f0d609"
+    ],
+    "content_summary": "14. 机器字长 通常所说的“某16位或32位机器”,其中的16、32指的是机器字长，简称字长。字长是指 计算机进行一次整数运算(定点整数运算)所能处理的二进制数据的位数，通常与CPU 的寄存器 位数、ALU 有关。因此，字长一般等于通用寄存器的位数或 ALU 的宽度，字长越长，数的表示 范围越大，计算精度越高。计算机字长通常选定为1字节(8位)的整数倍。",
+    "content_length": 179,
+    "created_at": "2025-10-26T06:08:06.459347+00:00",
+    "updated_at": "2025-10-26T06:14:27.783570+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251026_140806_209dcb51",
+    "metadata": {
+      "processing_start_time": 1761459237,
+      "processing_end_time": 1761459267
+    }
+  },
+  "doc-aa8abf93b3cc869963262f3b4227875b": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-aa8abf93b3cc869963262f3b4227875b"
+    ],
+    "content_summary": "计算机软件的发展 计算机软件技术的蓬勃发展，也为计算机系统的发展做出了很大的贡献。 计算机语言的发展经历了面向机器的机器语言和汇编语言、面向问题的高级语言。其中高级语言的发展真正促进了软件的发展，它经历了从科学计算和工程计算的FORTRAN 、结构化程序设计的PASCAL 到面向对象的C++和适应网络环境的Java。 与此同时，直接影响计算机系统性能提升的各种系统软件也有了长足的发展，特别是操作系统，如 Windows 、UNIX 、Linux 等。",
+    "content_length": 227,
+    "created_at": "2025-10-26T06:08:06.459315+00:00",
+    "updated_at": "2025-10-26T06:14:25.663774+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251026_140806_209dcb51",
+    "metadata": {
+      "processing_start_time": 1761459237,
+      "processing_end_time": 1761459265
+    }
+  },
+  "doc-4f6650c5b2e196698c45d2d8a4d88a43": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-4f6650c5b2e196698c45d2d8a4d88a43"
+    ],
+    "content_summary": "2. 计算机元件的更新换代 1)摩尔定律。当价格不变时，集成电路上可容纳的晶体管数目，约每隔18个月便会增加一倍，性能也将提升一倍。也就是说，我们现在和18个月后花同样的钱买到的CPU,后者的性能是前者的两倍。这一定律揭示了信息技术进步的速度。 2)半导体存储器的发展。 1970年，美国仙童半导体公司生产出第一个较大容量的半导体存 储器，半导体存储器经历了存储容量的发展：单芯片1KB 、4KB 、16KB 、64KB 、256KB、 1MB 、4MB 、16MB 、64MB 、256MB 和 1...",
+    "content_length": 473,
+    "created_at": "2025-10-26T06:08:06.459312+00:00",
+    "updated_at": "2025-10-26T06:15:48.255184+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251026_140806_209dcb51",
+    "metadata": {
+      "processing_start_time": 1761459265,
+      "processing_end_time": 1761459348
+    }
+  },
+  "doc-7a9cbc9b555f96c42b12e51eede0cff7": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-7a9cbc9b555f96c42b12e51eede0cff7"
+    ],
+    "content_summary": "9. 软件和硬件的逻辑功能等价性 硬件实现的往往是最基本的算术和逻辑运算功能，而其他功能大多通过软件的扩充得以实 现。对某一功能来说，其既可以由硬件实现，又可以由软件实现，从用户的角度来看，它们在功能上是等价的。这一等价性被称为软/硬件逻辑功能的等价性。例如，浮点数运算既可以用专门的浮点运算器硬件实现，又可以通过一段子程序实现，这两种方法在功能上完全等价，不同的只 是执行时间的长短而已，显然硬件实现的性能要优于软件实现的性能。 软件和硬件逻辑功能的等价性是计算机系统设计的重要依据，软件和硬件的功...",
+    "content_length": 365,
+    "created_at": "2025-10-26T06:08:06.459331+00:00",
+    "updated_at": "2025-10-26T06:15:05.802282+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251026_140806_209dcb51",
+    "metadata": {
+      "processing_start_time": 1761459267,
+      "processing_end_time": 1761459305
+    }
+  },
+  "doc-daf7876a3167da26491936315032b684": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-daf7876a3167da26491936315032b684"
+    ],
+    "content_summary": "5. 冯·诺依曼机基本思想 冯 ·诺依曼在研究EDVAC 机时提出了“存储程序”的概念，“存储程序”的思想奠定了现代 计算机的基本结构，以此概念为基础的各类计算机统称冯 · 诺依曼机，其特点如下： 1)采用“存储程序”的工作方式。 2)计算机硬件系统由运算器、存储器、控制器、输入设备和输出设备5大部件组成。 3)指令和数据以同等地位存储在存储器中，形式上没有区别，但计算机应能区分它们。 4)指令和数据均用二进制代码表示。 5)指令由操作码和地址码组成，操作码指出操作的类型，地址码指出操作数的地址...",
+    "content_length": 335,
+    "created_at": "2025-10-26T06:08:06.459321+00:00",
+    "updated_at": "2025-10-26T06:15:43.554784+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251026_140806_209dcb51",
+    "metadata": {
+      "processing_start_time": 1761459305,
+      "processing_end_time": 1761459343
+    }
+  }
+}

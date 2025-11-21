@@ -1,0 +1,343 @@
+{
+  "doc-3da8377b70a3bce3bffec6cc41a145bb": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-3da8377b70a3bce3bffec6cc41a145bb"
+    ],
+    "content_summary": "18. 复杂指令系统计算机 (CISC) 随着集成电路技术的发展，软件成本不断上升，促使人们在指令系统中增加更多、更复杂的指令，以适应不同的应用领域，这样就构成了CISC。 CISC 的主要特点如下： 1)指令系统复杂庞大，指令数目一般为200条以上。 2)指令的长度不固定，指令格式多，寻址方式多。 3)可以访存的指令不受限制。 4)各种指令使用频度相差很大。 5)各种指令执行时间相差很大，大多数指令需多个时钟周期才能完成。 6)控制器大多数采用微程序控制。有些指令非常复杂，以至于无法采用硬连线...",
+    "content_length": 491,
+    "created_at": "2025-10-26T08:56:07.602238+00:00",
+    "updated_at": "2025-10-26T08:57:28.056498+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251026_165607_65a5c3b4",
+    "metadata": {
+      "processing_start_time": 1761468967,
+      "processing_end_time": 1761469048
+    }
+  },
+  "doc-28e3e7abf13d472ede4c7ccd1eed0db7": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-28e3e7abf13d472ede4c7ccd1eed0db7"
+    ],
+    "content_summary": "16. 循环语句的机器级表示 常见的循环结构语句有 while 、for 和 do-while。汇编中没有相应的指令存在，可以用条件测试和转跳组合起来实现循环的效果，大多数编译器将这三种循环结构都转换为do-while形式来产生机器代码。在循环结构中，通常使用条件转移指令来判断循环条件的结束。 (1)do-while 循环 do-while 语句的通用形式如下： do body_statement while(test_expr); 这种通用形式可以被翻译成如下所示的条件和goto 语句： lo...",
+    "content_length": 823,
+    "created_at": "2025-10-26T08:56:07.602233+00:00",
+    "updated_at": "2025-10-26T08:57:52.650885+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251026_165607_65a5c3b4",
+    "metadata": {
+      "processing_start_time": 1761468967,
+      "processing_end_time": 1761469072
+    }
+  },
+  "doc-af4c47630b7183e33e016913942c0781": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-af4c47630b7183e33e016913942c0781"
+    ],
+    "content_summary": "17. 过程调用的机器级表示 前面提到的call/ret 指令主要用于过程调用，它们都属于一种无条件转移指令。 假定过程P(调用者)调用过程Q(被调用者),过程调用的执行步骤如下： 1)P 将入口参数(实参)放到Q 能访问到的地方。 2)P 将返回地址存到特定的地方，然后将控制转移到Q。 3)Q保存P 的现场(通用寄存器的内容),并为自己的非静态局部变量分配空间。 4)执行过程Q。 5)Q 恢复P的现场，将返回结果放到P 能访问到的地方，并释放局部变量所占空间。 6)Q 取出返回地址，将控制转移...",
+    "content_length": 693,
+    "created_at": "2025-10-26T08:56:07.602236+00:00",
+    "updated_at": "2025-10-26T08:59:16.098944+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251026_165607_65a5c3b4",
+    "metadata": {
+      "processing_start_time": 1761469048,
+      "processing_end_time": 1761469156
+    }
+  },
+  "doc-823091106aa14acd3f766029738eb588": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-823091106aa14acd3f766029738eb588"
+    ],
+    "content_summary": "2. 指令的基本格式 一条指令就是机器语言的一个语句，它是一组有意义的二进制代码。一条指令通常包括操作码字段和地址码字段两部分： 操作码字段地址码字段其中，操作码指出该指令应执行什么操作以及具有何种功能。操作码是识别指令、了解指令功能及区分操作数地址内容等的关键信息。例如，指出是算术加运算还是算术减运算，是程序转移还是返回操作。地址码给出被操作的信息(指令或数据)的地址，包括参加运算的一个或多个操作数的地址、运算结果的保存地址、程序的转移地址、被调用子程序的入口地址等。 指令字长是指一条指令所包...",
+    "content_length": 1280,
+    "created_at": "2025-10-26T08:56:07.602197+00:00",
+    "updated_at": "2025-10-26T09:00:25.888575+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251026_165607_65a5c3b4",
+    "metadata": {
+      "processing_start_time": 1761469072,
+      "processing_end_time": 1761469225
+    }
+  },
+  "doc-26a06731e273a94d7270550437bc874a": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-26a06731e273a94d7270550437bc874a"
+    ],
+    "content_summary": "15. 选择语句的机器级表示 常见的选择结构语句有if-then、if-then-else等。编译器通过条件码(标志位)设置指令和各类转移指令来实现程序中的选择结构语句。条件码描述了最近的算术或逻辑运算操作的属性，可以检测这些寄存器来执行条件分支指令，最常用的条件码有CF、ZF、SF和OF。 常见的算术逻辑运算指令 (add,sub,imul,or,and,shl,inc,dec,not,sal等)会设置条件码，还有 cmp 和 test 指令只设置条件码而不改变任何其他寄存器。 之前介绍的jc...",
+    "content_length": 561,
+    "created_at": "2025-10-26T08:56:07.602231+00:00",
+    "updated_at": "2025-10-26T09:01:31.900117+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251026_165607_65a5c3b4",
+    "metadata": {
+      "processing_start_time": 1761469156,
+      "processing_end_time": 1761469291
+    }
+  },
+  "doc-9c7da0bf6fbf207039ae9ca67c1e6a9d": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-9c7da0bf6fbf207039ae9ca67c1e6a9d"
+    ],
+    "content_summary": "9. 几种数据寻址方式的分析 显然，变址寻址与基址寻址的有效地址形成过程极为相似。但从本质上讲，两者有较大区别。 基址寻址面向系统，主要用于为多道程序或数据分配存储空间，因此基址寄存器的内容通常由操作系统或管理程序确定，在程序的执行过程中其值不可变，而指令字中的A 是可变的。变址寻址立足于用户，主要用于处理数组问题，在变址寻址中，变址寄存器的内容由用户设定，在程序执行过程中其值可变，而指令字中的A 是不可变的。 相对寻址、基址寻址和变址寻址三种寻址方式非常类似，都将某个寄存器的内容与一个形式地址...",
+    "content_length": 281,
+    "created_at": "2025-10-26T08:56:07.602215+00:00",
+    "updated_at": "2025-10-26T09:01:39.573556+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251026_165607_65a5c3b4",
+    "metadata": {
+      "processing_start_time": 1761469225,
+      "processing_end_time": 1761469299
+    }
+  },
+  "doc-803e04b7ef409476eff2adc07fef14d1": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-803e04b7ef409476eff2adc07fef14d1"
+    ],
+    "content_summary": "12. 数据传送指令 1) mov指令。将第二个操作数(寄存器的内容、内存中的内容或常数值)复制到第一个操作数(寄存器或内存)。 其语法如下： mov <reg>,<reg> mov <reg>,<mem> mov <mem>,<reg> mov <reg>,<con> mov <mem>,<con> 举例： mov eax,ebx #将ebx 值复制到eax mov byte ptr [var],5 #将5保存到var 值指示的内存地址的一字节中 双操作数指令的两个操作数不能都是内存，即 mo...",
+    "content_length": 640,
+    "created_at": "2025-10-26T08:56:07.602222+00:00",
+    "updated_at": "2025-10-26T09:03:02.966162+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251026_165607_65a5c3b4",
+    "metadata": {
+      "processing_start_time": 1761469291,
+      "processing_end_time": 1761469382
+    }
+  },
+  "doc-d12ab3ee72f1f1a8f72c7e3dece14062": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-d12ab3ee72f1f1a8f72c7e3dece14062"
+    ],
+    "content_summary": "19. 精简指令系统计算机 (RISC) RISC的中心思想是要求指令系统简化，尽量使用寄存器-寄存器操作指令，指令格式力求一致。RISC的主要特点如下： 1)选取使用频率最高的一些简单指令，复杂指令的功能由简单指令的组合来实现。 2)指令长度固定，指令格式种类少，寻址方式种类少。 3)只有LOAD/STORE (取数/存数)指令访存，其余指令的操作都在寄存器之间进行。 4)CPU中通用寄存器的数量相当多。 5)一定采用指令流水线技术，大部分指令在一个时钟周期内完成。 6)以硬布线控制为主，不用...",
+    "content_length": 547,
+    "created_at": "2025-10-26T08:56:07.602240+00:00",
+    "updated_at": "2025-10-26T09:03:27.484012+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251026_165607_65a5c3b4",
+    "metadata": {
+      "processing_start_time": 1761469299,
+      "processing_end_time": 1761469407
+    }
+  },
+  "doc-090282a2e59cdb6b6513b1d2f898d3ae": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-090282a2e59cdb6b6513b1d2f898d3ae"
+    ],
+    "content_summary": "6. 指令寻址 指令寻址方式有两种：一种是顺序寻址方式，另一种是跳跃寻址方式。 (1)顺序寻址通过程序计数器PC加1(1条指令的长度),自动形成下一条指令的地址。 注意PC自增的大小与编址方式、指令字长有关。现代计算机通常是按字节编址的，若指令字长为16位，则PC自增为(PC)+2; 若指令字长为32位，则PC自增为(PC)+4。 (2)跳跃寻址通过转移类指令实现。跳跃是指由本条指令给出下条指令地址的计算方式。而是否跳跃可能受到状态寄存器的控制，跳跃的方式分为绝对转移(地址码直接指出转移目标地址...",
+    "content_length": 339,
+    "created_at": "2025-10-26T08:56:07.602208+00:00",
+    "updated_at": "2025-10-26T09:04:17.960310+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251026_165607_65a5c3b4",
+    "metadata": {
+      "processing_start_time": 1761469383,
+      "processing_end_time": 1761469457
+    }
+  },
+  "doc-986821269f2aa2025221040c595a72be": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-986821269f2aa2025221040c595a72be"
+    ],
+    "content_summary": "1. 指令集体系结构命题追踪 机器指令(简称指令)是指示计算机执行某种操作的命令。一台计算机的所有指令的集合构成该机的指令系统，也称指令集。指令系统是指令集体系结构 (ISA)中最核心的部分，ISA完整定义了软件和硬件之间的接口，是机器语言或汇编语言程序员所应熟悉的。 ISA 规定的内容主要包括： 1)指令格式，指令寻址方式，操作类型，以及每种操作对应的操作数的相应规定。 2)操作数的类型，操作数寻址方式，以及是按大端方式还是按小端方式存放。 3)程序可访问的寄存器编号、个数和位数，存储空间的大...",
+    "content_length": 505,
+    "created_at": "2025-10-26T08:56:07.602185+00:00",
+    "updated_at": "2025-10-26T09:05:01.000146+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251026_165607_65a5c3b4",
+    "metadata": {
+      "processing_start_time": 1761469407,
+      "processing_end_time": 1761469501
+    }
+  },
+  "doc-1853ae0bf21d6ed553e97992dab0cb73": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-1853ae0bf21d6ed553e97992dab0cb73"
+    ],
+    "content_summary": "5. 指令的操作类型 设计指令系统时必须考虑应提供哪些操作类型，指令操作类型按功能可分为以下几种。 (1)数据传送。传送指令通常有寄存器之间的传送(MOV) 、从内存单元读取数据到CPU 寄存器(LOAD)、从 CPU 寄存器写数据到内存单元 (STORE) 、进栈操作 (PUSH) 、出栈操作 (POP) 等 。 (2)算术和逻辑运算。这类指令主要有加 (ADD) 、减 (SUB) 、乘 (MUL) 、 除 (DIV) 、 加 1 (INC) 、减 1(DEC)、与 (AND) 、或 (OR)...",
+    "content_length": 575,
+    "created_at": "2025-10-26T08:56:07.602206+00:00",
+    "updated_at": "2025-10-26T09:06:40.800144+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251026_165607_65a5c3b4",
+    "metadata": {
+      "processing_start_time": 1761469457,
+      "processing_end_time": 1761469600
+    }
+  },
+  "doc-be143027fbd9f62579107c5fcd0f2740": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-be143027fbd9f62579107c5fcd0f2740"
+    ],
+    "content_summary": "13. 算术和逻辑运算指令 1) add/sub 指令。add 指令将两个操作数相加，相加的结果保存到第一个操作数中。sub 指令用于两个操作数相减，相减的结果保存到第一个操作数中。 它们的语法如下： add <reg>,<reg>/sub <reg>,<reg> add <reg>,<mem>/sub <reg>,<mem> add <mem>,<reg>/sub <mem>,<reg> add <reg>,<con>/sub <reg>,<con> Add <mem>,<con>/sub <...",
+    "content_length": 1553,
+    "created_at": "2025-10-26T08:56:07.602224+00:00",
+    "updated_at": "2025-10-26T09:08:34.771688+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251026_165607_65a5c3b4",
+    "metadata": {
+      "processing_start_time": 1761469501,
+      "processing_end_time": 1761469714
+    }
+  },
+  "doc-7fa816a9f8d5ac78d7483ae33a74ba7b": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-7fa816a9f8d5ac78d7483ae33a74ba7b"
+    ],
+    "content_summary": "3. 定长操作码指令格式 定长操作码指令在指令字的最高位部分分配固定的若干位(定长)表示操作码。 一般n位操 作码字段的指令系统最大能够表示2的n次方条指令。定长操作码对于简化计算机硬件设计，提高指令译码和识别速度很有利。当计算机字长为32位或更长时，这是常规用法。",
+    "content_length": 133,
+    "created_at": "2025-10-26T08:56:07.602200+00:00",
+    "updated_at": "2025-10-26T09:07:21.956861+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251026_165607_65a5c3b4",
+    "metadata": {
+      "processing_start_time": 1761469600,
+      "processing_end_time": 1761469641
+    }
+  },
+  "doc-dc66410ab81cdb2a13f279e50457a470": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-dc66410ab81cdb2a13f279e50457a470"
+    ],
+    "content_summary": "14. 控制流指令 x86 处理器维持着一个指示当前执行指令的指令指针 (IP),当一条指令执行后，此指针自动指向下一条指令。IP寄存器不能直接操作，但可以用控制流指令更新。通常用标签 (label) 指示程序中的指令地址，在x86 汇编代码中，可在任何指令前加入标签。例如， mov esi,[ebp+8] begin: xor ecx,ecx mov eax,[esi] 这样就用begin 指示了第二条指令，控制流指令通过标签就可以实现程序指令的跳转。 1)jmp 指令。jmp 指令控制 IP...",
+    "content_length": 1523,
+    "created_at": "2025-10-26T08:56:07.602228+00:00",
+    "updated_at": "2025-10-26T09:10:04.031934+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251026_165607_65a5c3b4",
+    "metadata": {
+      "processing_start_time": 1761469641,
+      "processing_end_time": 1761469804
+    }
+  },
+  "doc-53c922e8f9c9847391088bcc3c5430ac": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-53c922e8f9c9847391088bcc3c5430ac"
+    ],
+    "content_summary": "10. 汇编指令格式 使用不同的编程工具开发程序时，用到的汇编程序也不同， 一般有两种不同的汇编格式： AT&T 格式和Intel 格式。它们的区别主要体现如下： ①AT&T格式的指令只能用小写字母，而Intel 格式的指令对大小写不敏感。 ②在AT&T 格式中，第一个为源操作数，第二个为目的操作数，方向从左到右，合乎自然；在Intel格式中，第一个为目的操作数，第二个为源操作数，方向从右向左。 ③在AT&T格式中，寄存器需要加前缀“%”,立即数需要加前缀“$”;在Intel 格式中， 寄存器和...",
+    "content_length": 496,
+    "created_at": "2025-10-26T08:56:07.602217+00:00",
+    "updated_at": "2025-10-26T09:10:14.664023+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251026_165607_65a5c3b4",
+    "metadata": {
+      "processing_start_time": 1761469714,
+      "processing_end_time": 1761469814
+    }
+  },
+  "doc-ad5acebbb603e74c2d3ec59f532eee59": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-ee7b048d8f7d4f6a7cdb8bd206b3d9c3",
+      "chunk-be1b12c159545a6c843eae8f022b80e2"
+    ],
+    "content_summary": "8. 常见的数据寻址方式 (1)隐含寻址:这种类型的指令不明显地给出操作数的地址，而是隐含操作数的地址。例如，单地址的指令格式就隐含约定第二个操作数由累加器 (ACC) 提供，指令中只明显指出第一个操作数的地址。因此累加器(ACC)对单地址指令格式来说是隐含寻址。 (2)立即寻址:指令字中的地址字段指出的不是操作数的地址，而是操作数本身，也称立即数，采用补码表示。优点是指令在执行阶段不访存，指令执行速度最快；缺点是A 的位数限制了立即数的范围。 (3)直接寻址:指令字中的形式地址A 就是操作数的...",
+    "content_length": 1950,
+    "created_at": "2025-10-26T08:56:07.602213+00:00",
+    "updated_at": "2025-10-26T09:12:21.243899+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251026_165607_65a5c3b4",
+    "metadata": {
+      "processing_start_time": 1761469804,
+      "processing_end_time": 1761469941
+    }
+  },
+  "doc-0d36c83754193098d8c62f2f838760fe": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-0d36c83754193098d8c62f2f838760fe"
+    ],
+    "content_summary": "4. 扩展操作码指令格式 为了在指令字长有限的前提下仍保持比较丰富的指令种类，可采取可变长度操作码，即全部指令的操作码字段的位数不固定，且分散地放在指令字的不同位置上。显然，这将增加指令译码和分析的难度，使控制器的设计复杂化。最常见的变长操作码方法是扩展操作码，它使操作码的长度随地址码的减少而增加，不同地址数的指令可具有不同长度的操作码，从而在满足需要的前提下，有效地缩短指令字长。 在设计扩展操作码指令格式时，必须注意以下两点： 1)不允许短码是长码的前缀，即短操作码不能与长操作码的前面部分的代...",
+    "content_length": 334,
+    "created_at": "2025-10-26T08:56:07.602203+00:00",
+    "updated_at": "2025-10-26T09:11:27.077187+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251026_165607_65a5c3b4",
+    "metadata": {
+      "processing_start_time": 1761469814,
+      "processing_end_time": 1761469887
+    }
+  },
+  "doc-3c363f9d809dadcf3a7c0f9008fb810a": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-3c363f9d809dadcf3a7c0f9008fb810a"
+    ],
+    "content_summary": "11. 常用操作数标记 汇编指令通常可分为数据传送指令、算术和逻辑运算指令和控制流指令，下面以Intel格式为例，介绍一些常用的指令。以下用于操作数的标记分别表示寄存器、内存和常数。 （1）<reg>:表示任意寄存器，若其后带有数字，则指定其位数，如<reg32> 表示32位寄存器(eax,ebx,ecx,edx,esi,edi,esp或 ebp);<reg16>表示16位寄存器 (ax,bx,cx或dx);<reg8> 表示8位寄存器 (ah,al,bh,bl,ch,cl,dh,dl)。 （2...",
+    "content_length": 370,
+    "created_at": "2025-10-26T08:56:07.602219+00:00",
+    "updated_at": "2025-10-26T09:12:38.994153+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251026_165607_65a5c3b4",
+    "metadata": {
+      "processing_start_time": 1761469887,
+      "processing_end_time": 1761469958
+    }
+  },
+  "doc-aff2d7d8604331c974d095c01133c056": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-aff2d7d8604331c974d095c01133c056"
+    ],
+    "content_summary": "7. 数据寻址 数据寻址是指如何在指令中表示一个操作数的地址，或怎样计算出操作数的地址。数据寻址的方式较多，为区别各种方式，通常在指令字中设置一个寻址特征字段，用来指明属于哪种寻址方式(其位数决定了寻址方式的种类),由此可得指令的格式如下所示： 操作码+寻址特征+形式地址。 指令中的地址码字段并不代表操作数的真实地址，这种地址称为形式地址(A) 。形式地址结合寻址方式，可以计算出操作数在存储器中的真实地址，这种地址称为有效地址(EA)。 若为立即寻址，则形式地址的位数决定了操作数的范围。 若为直...",
+    "content_length": 367,
+    "created_at": "2025-10-26T08:56:07.602210+00:00",
+    "updated_at": "2025-10-26T09:13:29.178670+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251026_165607_65a5c3b4",
+    "metadata": {
+      "processing_start_time": 1761469941,
+      "processing_end_time": 1761470009
+    }
+  },
+  "doc-2151538dd57e60dbb6761c6a35ea00c6": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-2151538dd57e60dbb6761c6a35ea00c6"
+    ],
+    "content_summary": "20. CISC和RISC 的比较 和CISC 相比，RISC 的优点主要体现在以下几点： 1)RISC 更能充分利用VLSI (超大规模集成电路)芯片的面积。 CISC 采用微程序控制，其控制存储器占CPU 芯片面积的50%以上，而RISC 采用组合逻辑控制，其硬布线逻辑只占 CPU 芯片面积的10%左右。 2)RISC 更能提高运算速度。RISC的指令数、寻址方式和指令格式种类少，又设有多个通用寄存器，采用流水线技术，所以运算速度更快，大多数指令在一个时钟周期内完成。 3)RISC 便于设计...",
+    "content_length": 391,
+    "created_at": "2025-10-26T08:56:07.602242+00:00",
+    "updated_at": "2025-10-26T09:13:41.451345+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251026_165607_65a5c3b4",
+    "metadata": {
+      "processing_start_time": 1761469959,
+      "processing_end_time": 1761470021
+    }
+  }
+}

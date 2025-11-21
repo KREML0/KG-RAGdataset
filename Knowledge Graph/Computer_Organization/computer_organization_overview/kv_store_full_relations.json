@@ -1,0 +1,1346 @@
+{
+  "doc-c7c79909854479ed23754a2ef25df4f2": {
+    "relation_pairs": [
+      [
+        "主存储器",
+        "存储程序工作方式"
+      ],
+      [
+        "PC",
+        "存储程序工作方式"
+      ],
+      [
+        "计算下一条指令地址",
+        "转跳型指令"
+      ],
+      [
+        "计算下一条指令地址",
+        "顺序型指令"
+      ],
+      [
+        "PC",
+        "计算下一条指令地址"
+      ],
+      [
+        "取操作数并执行",
+        "指令译码"
+      ],
+      [
+        "PC",
+        "主存储器"
+      ],
+      [
+        "PC",
+        "指令取值"
+      ],
+      [
+        "取操作数并执行",
+        "结果送回存储器"
+      ]
+    ],
+    "count": 9,
+    "create_time": 1761458915,
+    "update_time": 1761458915,
+    "_id": "doc-c7c79909854479ed23754a2ef25df4f2"
+  },
+  "doc-4e9cb7cc8537ba696844e867b910e493": {
+    "relation_pairs": [
+      [
+        "C",
+        "High-Level Language"
+      ],
+      [
+        "High-Level Language",
+        "Java"
+      ],
+      [
+        "Interpreter",
+        "Translation Program"
+      ],
+      [
+        "C++",
+        "High-Level Language"
+      ],
+      [
+        "Compiler",
+        "Source Program"
+      ],
+      [
+        "Assembly Language",
+        "Assembly Program"
+      ],
+      [
+        "Compiler",
+        "Translation Program"
+      ],
+      [
+        "Interpreter",
+        "Source Program"
+      ],
+      [
+        "Assembly Program",
+        "Translation Program"
+      ],
+      [
+        "Interpreter",
+        "Machine Language"
+      ],
+      [
+        "Assembly Language",
+        "Compiler"
+      ],
+      [
+        "Compiler",
+        "High-Level Language"
+      ],
+      [
+        "Binary Code Language",
+        "Machine Language"
+      ],
+      [
+        "Assembly Program",
+        "Machine Language"
+      ],
+      [
+        "High-Level Language",
+        "Translation Program"
+      ],
+      [
+        "High-Level Language",
+        "Interpreter"
+      ]
+    ],
+    "count": 16,
+    "create_time": 1761458960,
+    "update_time": 1761458960,
+    "_id": "doc-4e9cb7cc8537ba696844e867b910e493"
+  },
+  "doc-b24f3ea8fa47cc4d73bbd9fa131f459c": {
+    "relation_pairs": [
+      [
+        "Auxiliary Storage",
+        "Main Memory"
+      ],
+      [
+        "Central Processing Unit",
+        "Control Unit"
+      ],
+      [
+        "External Device",
+        "Storage Unit"
+      ],
+      [
+        "Access Method",
+        "Storage Unit"
+      ],
+      [
+        "CPU",
+        "Control Unit"
+      ],
+      [
+        "Input Device",
+        "Scanner"
+      ],
+      [
+        "MDR",
+        "Read Operation"
+      ],
+      [
+        "Accumulator",
+        "Arithmetic Logic Unit"
+      ],
+      [
+        "Data Bus",
+        "Memory Data Register"
+      ],
+      [
+        "Input Device",
+        "Mouse"
+      ],
+      [
+        "Arithmetic Logic Unit",
+        "Base Register"
+      ],
+      [
+        "Host",
+        "Main Memory"
+      ],
+      [
+        "Control Line",
+        "Write Operation"
+      ],
+      [
+        "Binary Code",
+        "Storage Element"
+      ],
+      [
+        "CPU",
+        "Memory Data Register"
+      ],
+      [
+        "CPU",
+        "General Purpose Registers"
+      ],
+      [
+        "CPU",
+        "Instruction Register"
+      ],
+      [
+        "Monitor",
+        "Output Device"
+      ],
+      [
+        "Input Device",
+        "Keyboard"
+      ],
+      [
+        "Addressing Method",
+        "Memory Address Register"
+      ],
+      [
+        "Address Bus",
+        "Memory Address Register"
+      ],
+      [
+        "Main Memory",
+        "Memory Storage Unit"
+      ],
+      [
+        "Storage Word",
+        "Storage Word Length"
+      ],
+      [
+        "Arithmetic Logic Unit",
+        "Multiplier-Quotient Register"
+      ],
+      [
+        "I/O Device",
+        "Input Device"
+      ],
+      [
+        "CPU",
+        "Program Status Word"
+      ],
+      [
+        "Control Unit",
+        "Instruction Register"
+      ],
+      [
+        "Control Bus",
+        "Control Unit"
+      ],
+      [
+        "Storage Cell",
+        "Storage Unit"
+      ],
+      [
+        "I/O Device",
+        "Output Device"
+      ],
+      [
+        "Address Line",
+        "Bus"
+      ],
+      [
+        "MDR",
+        "Write Operation"
+      ],
+      [
+        "Bus",
+        "Control Line"
+      ],
+      [
+        "Bus",
+        "Data Line"
+      ],
+      [
+        "Camera",
+        "Input Device"
+      ],
+      [
+        "Data Line",
+        "MDR"
+      ],
+      [
+        "External Device",
+        "Input Device"
+      ],
+      [
+        "Arithmetic Logic Unit",
+        "CPU"
+      ],
+      [
+        "Address Line",
+        "MAR"
+      ],
+      [
+        "Control Line",
+        "Read Operation"
+      ],
+      [
+        "Storage Element",
+        "Storage Unit"
+      ],
+      [
+        "Central Processing Unit",
+        "Host"
+      ],
+      [
+        "All Acronyms",
+        "Fully Spelled Out"
+      ],
+      [
+        "Memory Address Register",
+        "Storage Unit"
+      ],
+      [
+        "CPU",
+        "Main Memory"
+      ],
+      [
+        "External Device",
+        "Output Device"
+      ],
+      [
+        "CPU",
+        "Memory Address Register"
+      ],
+      [
+        "Output Device",
+        "Printer"
+      ],
+      [
+        "Address Decoding Logic",
+        "Memory Address Register"
+      ],
+      [
+        "Memory Address Register",
+        "Program Counter"
+      ],
+      [
+        "Central Processing Unit",
+        "Main Memory"
+      ],
+      [
+        "Memory Data Register",
+        "Storage Unit"
+      ],
+      [
+        "CPU",
+        "Program Counter"
+      ],
+      [
+        "Arithmetic Logic Unit",
+        "Index Register"
+      ],
+      [
+        "Bus",
+        "Central Processing Unit"
+      ],
+      [
+        "Arithmetic Logic Unit",
+        "Operand Register"
+      ],
+      [
+        "Instruction Register",
+        "Memory Address Register"
+      ]
+    ],
+    "count": 57,
+    "create_time": 1761459009,
+    "update_time": 1761459009,
+    "_id": "doc-b24f3ea8fa47cc4d73bbd9fa131f459c"
+  },
+  "doc-9c7311d8b90235b50f420b04794b1e59": {
+    "relation_pairs": [
+      [
+        "Hardware",
+        "Instruction Set Architecture"
+      ],
+      [
+        "Software",
+        "Software-Visible Part"
+      ],
+      [
+        "Machine Instruction",
+        "Traditional Machine Language Layer"
+      ],
+      [
+        "Computer System",
+        "Multilevel Hierarchy"
+      ],
+      [
+        "Operating System Layer",
+        "Virtual Machine"
+      ],
+      [
+        "Bare Machine",
+        "Computer System"
+      ],
+      [
+        "Assembly Language Layer",
+        "High-Level Language Layer"
+      ],
+      [
+        "Microprogram Machine Layer",
+        "Traditional Machine Language Layer"
+      ],
+      [
+        "Application Layer",
+        "High-Level Language Layer"
+      ],
+      [
+        "Operating System Layer",
+        "Traditional Machine Language Layer"
+      ],
+      [
+        "Assembly Language Layer",
+        "Operating System Layer"
+      ],
+      [
+        "Generalized Instruction",
+        "Operating System Layer"
+      ]
+    ],
+    "count": 12,
+    "create_time": 1761459026,
+    "update_time": 1761459026,
+    "_id": "doc-9c7311d8b90235b50f420b04794b1e59"
+  },
+  "doc-2ee19dac1fca89a19b4aa779f9ae011b": {
+    "relation_pairs": [
+      [
+        "Operating System",
+        "System Software"
+      ],
+      [
+        "Network Software System",
+        "System Software"
+      ],
+      [
+        "Application Programmer",
+        "Scientific Computing Program"
+      ],
+      [
+        "Application Software",
+        "Scientific Computing Program"
+      ],
+      [
+        "Distributed Software System",
+        "System Software"
+      ],
+      [
+        "Service Program",
+        "System Software"
+      ],
+      [
+        "Language Processing Program",
+        "System Programmer"
+      ],
+      [
+        "Language Processing Program",
+        "System Software"
+      ],
+      [
+        "Standard Library Program",
+        "System Software"
+      ],
+      [
+        "Application Software",
+        "System Software"
+      ],
+      [
+        "Application Software",
+        "Engineering Design Program"
+      ],
+      [
+        "Application Software",
+        "Data Statistics and Processing Program"
+      ],
+      [
+        "Application Programmer",
+        "Engineering Design Program"
+      ],
+      [
+        "Operating System",
+        "System Programmer"
+      ],
+      [
+        "Application Programmer",
+        "Data Statistics and Processing Program"
+      ],
+      [
+        "Database Management System",
+        "System Software"
+      ]
+    ],
+    "count": 16,
+    "create_time": 1761459073,
+    "update_time": 1761459073,
+    "_id": "doc-2ee19dac1fca89a19b4aa779f9ae011b"
+  },
+  "doc-0448ab5b19432e1179effaa513438639": {
+    "relation_pairs": [
+      [
+        "Assembler",
+        "Assembly Stage"
+      ],
+      [
+        "Hello.i",
+        "Preprocessing Stage"
+      ],
+      [
+        "Linking Stage",
+        "Printfo"
+      ],
+      [
+        "Linker",
+        "Linking Stage"
+      ],
+      [
+        "Assembler",
+        "Hello.o"
+      ],
+      [
+        "Compilation Stage",
+        "Compiler"
+      ],
+      [
+        "Executable Object File",
+        "Machine Instructions"
+      ],
+      [
+        "Compilation Stage",
+        "Hello.i"
+      ],
+      [
+        "Hello.c",
+        "Preprocessing Stage"
+      ],
+      [
+        "Executable File",
+        "Linker"
+      ],
+      [
+        "Binary Disk File",
+        "Hello"
+      ],
+      [
+        "C Language Program",
+        "Machine Instructions"
+      ],
+      [
+        "Hello",
+        "Linker"
+      ],
+      [
+        "Binary Disk File",
+        "Executable Object File"
+      ],
+      [
+        "GCC Compiler",
+        "Hello.c"
+      ],
+      [
+        "Executable File",
+        "Hello"
+      ],
+      [
+        "Executable File",
+        "Linking Stage"
+      ],
+      [
+        "Header File",
+        "Preprocessor"
+      ],
+      [
+        "Assembly Stage",
+        "Hello.s"
+      ],
+      [
+        "Assembly Stage",
+        "Hello.o"
+      ],
+      [
+        "Compilation Stage",
+        "Hello.s"
+      ],
+      [
+        "Executable File",
+        "Linked Object Files"
+      ],
+      [
+        "Hello.o",
+        "Linking Stage"
+      ],
+      [
+        "Printf",
+        "Standard Library Function"
+      ],
+      [
+        "Compiler",
+        "Hello.s"
+      ],
+      [
+        "Hello.o",
+        "Printfo"
+      ],
+      [
+        "Printf",
+        "Printfo"
+      ],
+      [
+        "Hello.i",
+        "Preprocessor"
+      ],
+      [
+        "Hello.o",
+        "Text Editor"
+      ],
+      [
+        "Preprocessing Stage",
+        "Preprocessor"
+      ]
+    ],
+    "count": 30,
+    "create_time": 1761459080,
+    "update_time": 1761459080,
+    "_id": "doc-0448ab5b19432e1179effaa513438639"
+  },
+  "doc-3c1a22da999330b72078c76983e7f8f1": {
+    "relation_pairs": [
+      [
+        "Benchmarks",
+        "Performance Evaluation"
+      ],
+      [
+        "Different Machines",
+        "Running Time"
+      ],
+      [
+        "Benchmarks",
+        "Different Machines"
+      ],
+      [
+        "Compiler Developers",
+        "Short Code"
+      ],
+      [
+        "Hardware System Designers",
+        "Short Code"
+      ],
+      [
+        "Defects in Benchmarking",
+        "Specialized Optimization"
+      ],
+      [
+        "Defects in Benchmarking",
+        "Short Code"
+      ],
+      [
+        "Application Context",
+        "Benchmarks"
+      ],
+      [
+        "Actual Load",
+        "Benchmarks"
+      ]
+    ],
+    "count": 9,
+    "create_time": 1761459109,
+    "update_time": 1761459109,
+    "_id": "doc-3c1a22da999330b72078c76983e7f8f1"
+  },
+  "doc-bcff7d6c5acaf1d43fd146d2d6ca0e10": {
+    "relation_pairs": [
+      [
+        "Computer System",
+        "Software System"
+      ],
+      [
+        "Hardware Implementation",
+        "Software Implementation"
+      ],
+      [
+        "Hardware Support",
+        "Software Efficiency"
+      ],
+      [
+        "Cost-Effectiveness",
+        "Hardware Implementation"
+      ],
+      [
+        "Computer System",
+        "Hardware System"
+      ],
+      [
+        "Hardware Implementation",
+        "Performance Efficiency"
+      ],
+      [
+        "Computer System Performance",
+        "Software System"
+      ],
+      [
+        "Function Allocation",
+        "Hardware Implementation"
+      ],
+      [
+        "Function Allocation",
+        "Software Implementation"
+      ],
+      [
+        "Hardware System",
+        "Software Efficiency"
+      ]
+    ],
+    "count": 10,
+    "create_time": 1761459119,
+    "update_time": 1761459119,
+    "_id": "doc-bcff7d6c5acaf1d43fd146d2d6ca0e10"
+  },
+  "doc-93a7f62fa688ac028103d752d7c29029": {
+    "relation_pairs": [
+      [
+        "CPU Internal Data Bus",
+        "External Data Bus"
+      ],
+      [
+        "Data Transfer Path",
+        "External Data Bus"
+      ],
+      [
+        "Data Path Bandwidth",
+        "External Data Bus"
+      ]
+    ],
+    "count": 3,
+    "create_time": 1761459132,
+    "update_time": 1761459132,
+    "_id": "doc-93a7f62fa688ac028103d752d7c29029"
+  },
+  "doc-5f71debd3ee7c68d2502f93642dc0ab3": {
+    "relation_pairs": [
+      [
+        "Main Memory Capacity",
+        "Memory Data Register"
+      ],
+      [
+        "Main Memory Capacity",
+        "Memory Address Register"
+      ],
+      [
+        "16-Bit Word Length",
+        "Main Memory Capacity"
+      ],
+      [
+        "64KB Memory",
+        "65536 Storage Units"
+      ],
+      [
+        "16-Bit MAR",
+        "Main Memory Capacity"
+      ],
+      [
+        "512K×16 Bit",
+        "Main Memory Capacity"
+      ],
+      [
+        "65536 Storage Units",
+        "Memory Address Register"
+      ],
+      [
+        "32-Bit Word Length",
+        "Memory Data Register"
+      ]
+    ],
+    "count": 8,
+    "create_time": 1761459145,
+    "update_time": 1761459145,
+    "_id": "doc-5f71debd3ee7c68d2502f93642dc0ab3"
+  },
+  "doc-a114ca20b10893088173789b93f4afa8": {
+    "relation_pairs": [
+      [
+        "Response Time",
+        "Waiting Time"
+      ],
+      [
+        "CPU Execution Time",
+        "Clock Frequency"
+      ],
+      [
+        "Main Memory",
+        "Throughput"
+      ],
+      [
+        "Instruction Set Architecture",
+        "MIPS"
+      ],
+      [
+        "CPI",
+        "CPU Execution Time"
+      ],
+      [
+        "CPU Execution Time",
+        "Instruction Count"
+      ],
+      [
+        "CPI",
+        "MIPS"
+      ],
+      [
+        "CPU Execution Time",
+        "FLOPS"
+      ],
+      [
+        "CPU Time",
+        "Response Time"
+      ],
+      [
+        "Clock Cycle",
+        "Pipeline Stage Delay"
+      ],
+      [
+        "Clock Cycle",
+        "Clock Frequency"
+      ],
+      [
+        "CPI",
+        "Instruction Set Architecture"
+      ],
+      [
+        "Clock Frequency",
+        "IPS"
+      ]
+    ],
+    "count": 13,
+    "create_time": 1761459165,
+    "update_time": 1761459165,
+    "_id": "doc-a114ca20b10893088173789b93f4afa8"
+  },
+  "doc-84ba66a733950ff7638906709aed6fc3": {
+    "relation_pairs": [
+      [
+        "Control Unit",
+        "Read Signal"
+      ],
+      [
+        "Execute Phase",
+        "Instruction Execution Process"
+      ],
+      [
+        "Accumulator",
+        "Memory Data Register"
+      ],
+      [
+        "Main Memory",
+        "Memory Data Register"
+      ],
+      [
+        "Control Unit",
+        "Write Signal"
+      ],
+      [
+        "Fetch Phase",
+        "Instruction Execution Process"
+      ],
+      [
+        "Accumulator",
+        "Execute Phase"
+      ],
+      [
+        "Execute Phase",
+        "Memory Address Register"
+      ],
+      [
+        "Execute Phase",
+        "Main Memory"
+      ],
+      [
+        "Fetch Phase",
+        "Memory Address Register"
+      ],
+      [
+        "Address Code",
+        "Instruction Register"
+      ],
+      [
+        "Fetch Phase",
+        "Main Memory"
+      ],
+      [
+        "Control Unit",
+        "Instruction Register"
+      ],
+      [
+        "Instruction Register",
+        "Memory Data Register"
+      ],
+      [
+        "Fetch Phase",
+        "Program Counter"
+      ],
+      [
+        "Instruction Execution Process",
+        "Program Counter"
+      ],
+      [
+        "Decode Phase",
+        "Instruction Register"
+      ],
+      [
+        "Control Unit",
+        "Decode Phase"
+      ],
+      [
+        "Main Memory",
+        "Memory Address Register"
+      ],
+      [
+        "Execute Phase",
+        "Memory Data Register"
+      ],
+      [
+        "Fetch Phase",
+        "Instruction Register"
+      ],
+      [
+        "Instruction Register",
+        "Operation Code"
+      ],
+      [
+        "Memory Address Register",
+        "Program Counter"
+      ],
+      [
+        "Fetch Phase",
+        "Memory Data Register"
+      ],
+      [
+        "Decode Phase",
+        "Instruction Execution Process"
+      ]
+    ],
+    "count": 25,
+    "create_time": 1761459237,
+    "update_time": 1761459237,
+    "_id": "doc-84ba66a733950ff7638906709aed6fc3"
+  },
+  "doc-09848468276ff636a965cf7b53d7df93": {
+    "relation_pairs": [
+      [
+        "Fourth Generation Computer",
+        "Very Large Scale Integrated Circuit"
+      ],
+      [
+        "1946–1957",
+        "ENIAC"
+      ],
+      [
+        "Core Memory",
+        "Second Generation Computer"
+      ],
+      [
+        "ENIAC",
+        "First Generation Computer"
+      ],
+      [
+        "High-Level Language",
+        "Third Generation Computer"
+      ],
+      [
+        "First Generation Computer",
+        "Machine Language"
+      ],
+      [
+        "High-Level Language",
+        "Second Generation Computer"
+      ],
+      [
+        "First Generation Computer",
+        "Magnetic Drum"
+      ],
+      [
+        "Fourth Generation Computer",
+        "Microprocessor"
+      ],
+      [
+        "Delay Line",
+        "First Generation Computer"
+      ],
+      [
+        "Fourth Generation Computer",
+        "Virtual Memory"
+      ],
+      [
+        "Fourth Generation Computer",
+        "Parallel Processing"
+      ],
+      [
+        "Semiconductor Memory",
+        "Third Generation Computer"
+      ],
+      [
+        "Small And Medium Scale Integrated Circuit",
+        "Third Generation Computer"
+      ],
+      [
+        "Second Generation Computer",
+        "Transistor"
+      ],
+      [
+        "1946–1957",
+        "Electronic Numerical Integrator And Computer"
+      ],
+      [
+        "Cache Memory",
+        "Fourth Generation Computer"
+      ],
+      [
+        "Fourth Generation Computer",
+        "Large Scale Integrated Circuit"
+      ],
+      [
+        "Operating System",
+        "Second Generation Computer"
+      ],
+      [
+        "Third Generation Computer",
+        "Time-Sharing System"
+      ],
+      [
+        "Electronic Numerical Integrator And Computer",
+        "First Generation Computer"
+      ],
+      [
+        "First Generation Computer",
+        "Vacuum Tube"
+      ],
+      [
+        "Fourth Generation Computer",
+        "Pipelining"
+      ]
+    ],
+    "count": 23,
+    "create_time": 1761459237,
+    "update_time": 1761459237,
+    "_id": "doc-09848468276ff636a965cf7b53d7df93"
+  },
+  "doc-aa8abf93b3cc869963262f3b4227875b": {
+    "relation_pairs": [
+      [
+        "FORTRAN",
+        "High-Level Language"
+      ],
+      [
+        "Computer Software",
+        "Computer Software Technology"
+      ],
+      [
+        "High-Level Language",
+        "Java"
+      ],
+      [
+        "Operating System",
+        "UNIX"
+      ],
+      [
+        "C++",
+        "High-Level Language"
+      ],
+      [
+        "Operating System",
+        "Windows"
+      ],
+      [
+        "Operating System",
+        "Performance Enhancement"
+      ],
+      [
+        "Linux",
+        "Operating System"
+      ],
+      [
+        "High-Level Language",
+        "PASCAL"
+      ]
+    ],
+    "count": 9,
+    "create_time": 1761459265,
+    "update_time": 1761459265,
+    "_id": "doc-aa8abf93b3cc869963262f3b4227875b"
+  },
+  "doc-0a67c4fefa56f6f7c702cf1086f0d609": {
+    "relation_pairs": [
+      [
+        "Data Representation Range",
+        "Machine Word Length"
+      ],
+      [
+        "ALU",
+        "Machine Word Length"
+      ],
+      [
+        "Integer Operation",
+        "Machine Word Length"
+      ],
+      [
+        "32-Bit Machine",
+        "Machine Word Length"
+      ],
+      [
+        "Byte",
+        "Machine Word Length"
+      ],
+      [
+        "16-Bit Machine",
+        "Machine Word Length"
+      ],
+      [
+        "Binary Data",
+        "Machine Word Length"
+      ],
+      [
+        "Computational Precision",
+        "Machine Word Length"
+      ],
+      [
+        "CPU Register",
+        "Machine Word Length"
+      ]
+    ],
+    "count": 9,
+    "create_time": 1761459267,
+    "update_time": 1761459267,
+    "_id": "doc-0a67c4fefa56f6f7c702cf1086f0d609"
+  },
+  "doc-7a9cbc9b555f96c42b12e51eede0cff7": {
+    "relation_pairs": [
+      [
+        "Functional Allocation",
+        "System Architecture"
+      ],
+      [
+        "Execution Time",
+        "Hardware Implementation"
+      ],
+      [
+        "Execution Time",
+        "Software Implementation"
+      ],
+      [
+        "Design Objective",
+        "Functional Allocation"
+      ],
+      [
+        "Hardware",
+        "Performance"
+      ],
+      [
+        "Computer System Design",
+        "Functional Allocation"
+      ],
+      [
+        "Floating-Point Arithmetic",
+        "Floating-Point Unit"
+      ],
+      [
+        "Logical Functionality Equivalence",
+        "Software"
+      ],
+      [
+        "Performance",
+        "Software"
+      ],
+      [
+        "Functional Allocation",
+        "Performance Price Ratio"
+      ],
+      [
+        "Functional Allocation",
+        "Technological Level"
+      ],
+      [
+        "Floating-Point Arithmetic",
+        "Subroutine"
+      ],
+      [
+        "Hardware",
+        "Logical Functionality Equivalence"
+      ]
+    ],
+    "count": 13,
+    "create_time": 1761459305,
+    "update_time": 1761459305,
+    "_id": "doc-7a9cbc9b555f96c42b12e51eede0cff7"
+  },
+  "doc-daf7876a3167da26491936315032b684": {
+    "relation_pairs": [
+      [
+        "指令",
+        "数据"
+      ],
+      [
+        "地址码",
+        "指令"
+      ],
+      [
+        "二进制代码",
+        "指令"
+      ],
+      [
+        "指令",
+        "操作码"
+      ],
+      [
+        "冯·诺依曼机",
+        "输入设备"
+      ],
+      [
+        "冯·诺依曼机",
+        "运算器"
+      ],
+      [
+        "冯·诺依曼机",
+        "存储程序"
+      ],
+      [
+        "冯·诺依曼",
+        "存储程序"
+      ],
+      [
+        "冯·诺依曼机",
+        "控制器"
+      ],
+      [
+        "冯·诺依曼机",
+        "存储器"
+      ],
+      [
+        "冯·诺依曼机",
+        "输出设备"
+      ],
+      [
+        "二进制代码",
+        "数据"
+      ]
+    ],
+    "count": 12,
+    "create_time": 1761459343,
+    "update_time": 1761459343,
+    "_id": "doc-daf7876a3167da26491936315032b684"
+  },
+  "doc-4f6650c5b2e196698c45d2d8a4d88a43": {
+    "relation_pairs": [
+      [
+        "1TB",
+        "Semiconductor Memory"
+      ],
+      [
+        "Moore's Law",
+        "Performance Doubling"
+      ],
+      [
+        "Fairchild Semiconductor",
+        "Semiconductor Memory"
+      ],
+      [
+        "Intel 8086",
+        "Microprocessor"
+      ],
+      [
+        "64MB",
+        "Semiconductor Memory"
+      ],
+      [
+        "32-Bit",
+        "Machine Word Length"
+      ],
+      [
+        "Intel 8008",
+        "Microprocessor"
+      ],
+      [
+        "4MB",
+        "Semiconductor Memory"
+      ],
+      [
+        "18 Months",
+        "Moore's Law"
+      ],
+      [
+        "Microprocessor",
+        "Pentium 4"
+      ],
+      [
+        "1MB",
+        "Semiconductor Memory"
+      ],
+      [
+        "4KB",
+        "Semiconductor Memory"
+      ],
+      [
+        "64KB",
+        "Semiconductor Memory"
+      ],
+      [
+        "Core i7",
+        "Microprocessor"
+      ],
+      [
+        "1KB",
+        "Semiconductor Memory"
+      ],
+      [
+        "256MB",
+        "Semiconductor Memory"
+      ],
+      [
+        "16KB",
+        "Semiconductor Memory"
+      ],
+      [
+        "Microprocessor",
+        "Pentium II"
+      ],
+      [
+        "Intel 4004",
+        "Microprocessor"
+      ],
+      [
+        "1GB",
+        "Semiconductor Memory"
+      ],
+      [
+        "64-Bit",
+        "Machine Word Length"
+      ],
+      [
+        "Intel 80386",
+        "Microprocessor"
+      ],
+      [
+        "16MB",
+        "Semiconductor Memory"
+      ],
+      [
+        "Microprocessor",
+        "Pentium"
+      ],
+      [
+        "256KB",
+        "Semiconductor Memory"
+      ],
+      [
+        "Integrated Circuit",
+        "Moore's Law"
+      ]
+    ],
+    "count": 26,
+    "create_time": 1761459348,
+    "update_time": 1761459348,
+    "_id": "doc-4f6650c5b2e196698c45d2d8a4d88a43"
+  }
+}

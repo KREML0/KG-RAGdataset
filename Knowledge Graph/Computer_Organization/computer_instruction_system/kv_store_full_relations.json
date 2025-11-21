@@ -1,0 +1,1526 @@
+{
+  "doc-3da8377b70a3bce3bffec6cc41a145bb": {
+    "relation_pairs": [
+      [
+        "Complex Instruction Set Computer",
+        "Instruction Design"
+      ],
+      [
+        "80% Complex Instructions",
+        "RISC"
+      ],
+      [
+        "Complex Instruction Set Computer",
+        "Software Cost"
+      ],
+      [
+        "CISC Characteristics",
+        "Hardwired Control"
+      ],
+      [
+        "CISC Characteristics",
+        "Complex Instruction Set Computer"
+      ],
+      [
+        "Complex Instruction Set Computer",
+        "Research and Development Cycle"
+      ],
+      [
+        "20% Simple Instructions",
+        "RISC"
+      ],
+      [
+        "Complex Instruction Set Computer",
+        "Optimization Compiler"
+      ],
+      [
+        "CISC Characteristics",
+        "Microprogram Control"
+      ],
+      [
+        "Complex Instruction Set Computer",
+        "RISC"
+      ],
+      [
+        "Complex Instruction Set Computer",
+        "Integrated Circuit Technology"
+      ]
+    ],
+    "count": 11,
+    "create_time": 1761469048,
+    "update_time": 1761469048,
+    "_id": "doc-3da8377b70a3bce3bffec6cc41a145bb"
+  },
+  "doc-28e3e7abf13d472ede4c7ccd1eed0db7": {
+    "relation_pairs": [
+      [
+        "Do-While Loop",
+        "Loop Body Statement"
+      ],
+      [
+        "Do-While Loop",
+        "While Loop"
+      ],
+      [
+        "For Loop",
+        "Init Expression"
+      ],
+      [
+        "Do-While Loop",
+        "For Loop"
+      ],
+      [
+        "GCC",
+        "Machine-Level Representation"
+      ],
+      [
+        "Loop Body Statement",
+        "Test Expression"
+      ],
+      [
+        "Test Expression",
+        "While Loop"
+      ],
+      [
+        "Conditional Transfer Instruction",
+        "Goto Statement"
+      ],
+      [
+        "Conditional Transfer Instruction",
+        "Do-While Loop"
+      ],
+      [
+        "For Loop",
+        "Update Expression"
+      ]
+    ],
+    "count": 10,
+    "create_time": 1761469072,
+    "update_time": 1761469072,
+    "_id": "doc-28e3e7abf13d472ede4c7ccd1eed0db7"
+  },
+  "doc-af4c47630b7183e33e016913942c0781": {
+    "relation_pairs": [
+      [
+        "Procedure P's Context",
+        "Process Q"
+      ],
+      [
+        "Process Q",
+        "Return Result"
+      ],
+      [
+        "Call Instruction",
+        "Process P"
+      ],
+      [
+        "ESI Register",
+        "Process Q"
+      ],
+      [
+        "EBP Register",
+        "Stack Frame"
+      ],
+      [
+        "ESP Register",
+        "Stack Frame"
+      ],
+      [
+        "EDI Register",
+        "Process Q"
+      ],
+      [
+        "EBX Register",
+        "Process Q"
+      ],
+      [
+        "Procedure Q's Local Variables",
+        "Process Q"
+      ],
+      [
+        "Stack",
+        "Stack Frame"
+      ],
+      [
+        "Entry Parameter",
+        "Process P"
+      ],
+      [
+        "ECX Register",
+        "Process P"
+      ],
+      [
+        "Process P",
+        "Return Address"
+      ],
+      [
+        "Process Q",
+        "Ret Instruction"
+      ],
+      [
+        "EDX Register",
+        "Process P"
+      ],
+      [
+        "EAX Register",
+        "Process P"
+      ]
+    ],
+    "count": 16,
+    "create_time": 1761469156,
+    "update_time": 1761469156,
+    "_id": "doc-af4c47630b7183e33e016913942c0781"
+  },
+  "doc-823091106aa14acd3f766029738eb588": {
+    "relation_pairs": [
+      [
+        "Fixed-Length Instruction Structure",
+        "Instruction"
+      ],
+      [
+        "Instruction",
+        "Three-Address Instruction"
+      ],
+      [
+        "Operand",
+        "Zero-Address Instruction"
+      ],
+      [
+        "Instruction",
+        "Two-Address Instruction"
+      ],
+      [
+        "Memory Access",
+        "Three-Address Instruction"
+      ],
+      [
+        "Address Code",
+        "Operand"
+      ],
+      [
+        "Address Code",
+        "Direct Addressing"
+      ],
+      [
+        "Control Transfer",
+        "Operation Code"
+      ],
+      [
+        "Address Code",
+        "Instruction"
+      ],
+      [
+        "Address Code",
+        "Result Storage"
+      ],
+      [
+        "Address Code",
+        "Subroutine Call"
+      ],
+      [
+        "Instruction",
+        "Operation Code"
+      ],
+      [
+        "Arithmetic Operation",
+        "Operation Code"
+      ],
+      [
+        "Instruction Word Length",
+        "Machine Word Length"
+      ],
+      [
+        "Memory Access",
+        "Single-Word Length Instruction"
+      ],
+      [
+        "Instruction",
+        "Variable-Length Instruction Structure"
+      ],
+      [
+        "Double-Word Length Instruction",
+        "Memory Access"
+      ],
+      [
+        "Accumulator",
+        "One-Address Instruction"
+      ],
+      [
+        "Four-Address Instruction",
+        "Instruction"
+      ],
+      [
+        "Instruction Word Length",
+        "Memory Access"
+      ],
+      [
+        "Four-Address Instruction",
+        "Memory Access"
+      ],
+      [
+        "Stack Computer",
+        "Zero-Address Instruction"
+      ]
+    ],
+    "count": 22,
+    "create_time": 1761469225,
+    "update_time": 1761469225,
+    "_id": "doc-823091106aa14acd3f766029738eb588"
+  },
+  "doc-26a06731e273a94d7270550437bc874a": {
+    "relation_pairs": [
+      [
+        "If-Then-Else Statement",
+        "Then_Statement"
+      ],
+      [
+        "Condition Code",
+        "Sub Instruction"
+      ],
+      [
+        "Else_Statement",
+        "If-Then-Else Statement"
+      ],
+      [
+        "Condition Code",
+        "Dec Instruction"
+      ],
+      [
+        "Condition Code",
+        "Imul Instruction"
+      ],
+      [
+        "Jcondition Instruction",
+        "SF"
+      ],
+      [
+        "Goto Statement",
+        "If-Then-Else Statement"
+      ],
+      [
+        "Condition Code",
+        "Test Instruction"
+      ],
+      [
+        "Cmp Instruction",
+        "Condition Code"
+      ],
+      [
+        "Goto Statement",
+        "Test_Expr"
+      ],
+      [
+        "Condition Code",
+        "Not Instruction"
+      ],
+      [
+        "Goto Statement",
+        "Then_Statement"
+      ],
+      [
+        "Condition Code",
+        "Sal Instruction"
+      ],
+      [
+        "Condition Code",
+        "Inc Instruction"
+      ],
+      [
+        "Condition Code",
+        "Shl Instruction"
+      ],
+      [
+        "Jcondition Instruction",
+        "ZF"
+      ],
+      [
+        "If-Then-Else Statement",
+        "Test_Expr"
+      ],
+      [
+        "Condition Code",
+        "Or Instruction"
+      ],
+      [
+        "Add Instruction",
+        "Condition Code"
+      ],
+      [
+        "Else_Statement",
+        "Goto Statement"
+      ],
+      [
+        "And Instruction",
+        "Condition Code"
+      ]
+    ],
+    "count": 21,
+    "create_time": 1761469291,
+    "update_time": 1761469291,
+    "_id": "doc-26a06731e273a94d7270550437bc874a"
+  },
+  "doc-9c7da0bf6fbf207039ae9ca67c1e6a9d": {
+    "relation_pairs": [
+      [
+        "Index Addressing",
+        "Instruction Word"
+      ],
+      [
+        "Base Addressing",
+        "Multiple Program Support"
+      ],
+      [
+        "Base Addressing",
+        "Base Register"
+      ],
+      [
+        "Index Addressing",
+        "Offset Addressing"
+      ],
+      [
+        "Base Addressing",
+        "Instruction Word"
+      ],
+      [
+        "Form Address",
+        "Relative Addressing"
+      ],
+      [
+        "Base Addressing",
+        "Form Address"
+      ],
+      [
+        "Index Addressing",
+        "Index Register"
+      ],
+      [
+        "Base Addressing",
+        "Offset Addressing"
+      ],
+      [
+        "Form Address",
+        "Index Addressing"
+      ],
+      [
+        "Array Processing",
+        "Index Addressing"
+      ],
+      [
+        "Offset Addressing",
+        "Relative Addressing"
+      ]
+    ],
+    "count": 12,
+    "create_time": 1761469299,
+    "update_time": 1761469299,
+    "_id": "doc-9c7da0bf6fbf207039ae9ca67c1e6a9d"
+  },
+  "doc-803e04b7ef409476eff2adc07fef14d1": {
+    "relation_pairs": [
+      [
+        "Memory",
+        "Pop Instruction"
+      ],
+      [
+        "Constant Value",
+        "Mov Instruction"
+      ],
+      [
+        "Esp",
+        "Pop Instruction"
+      ],
+      [
+        "32-Bit",
+        "Push Instruction"
+      ],
+      [
+        "Memory to Memory Copy",
+        "Mov Instruction"
+      ],
+      [
+        "Pop Instruction",
+        "Stack"
+      ],
+      [
+        "Memory",
+        "Mov Instruction"
+      ],
+      [
+        "Mov Instruction",
+        "Two Operands"
+      ],
+      [
+        "Push Instruction",
+        "Stack"
+      ],
+      [
+        "Pop Instruction",
+        "Register"
+      ],
+      [
+        "Memory",
+        "Push Instruction"
+      ],
+      [
+        "32-Bit",
+        "Pop Instruction"
+      ],
+      [
+        "Data Transfer",
+        "Mov Instruction"
+      ],
+      [
+        "Esp",
+        "Push Instruction"
+      ],
+      [
+        "Push Instruction",
+        "Register"
+      ],
+      [
+        "Mov Instruction",
+        "Register"
+      ]
+    ],
+    "count": 16,
+    "create_time": 1761469382,
+    "update_time": 1761469382,
+    "_id": "doc-803e04b7ef409476eff2adc07fef14d1"
+  },
+  "doc-d12ab3ee72f1f1a8f72c7e3dece14062": {
+    "relation_pairs": [
+      [
+        "Compiler Optimization",
+        "RISC"
+      ],
+      [
+        "Legacy Machine Compatibility",
+        "RISC"
+      ],
+      [
+        "Tokyo",
+        "World Athletics Championship"
+      ],
+      [
+        "Noah Carter",
+        "World Athletics Championship"
+      ],
+      [
+        "Instruction System Simplification",
+        "RISC"
+      ],
+      [
+        "Load/Store Architecture",
+        "RISC"
+      ],
+      [
+        "Instruction Pipelining",
+        "RISC"
+      ],
+      [
+        "CISC",
+        "Modern CISC Architecture"
+      ],
+      [
+        "Fixed Instruction Length",
+        "RISC"
+      ],
+      [
+        "100m Sprint Record",
+        "Noah Carter"
+      ],
+      [
+        "Processor Development Direction",
+        "RISC"
+      ],
+      [
+        "Carbon-Fiber Spikes",
+        "Noah Carter"
+      ],
+      [
+        "Limited Addressing Modes",
+        "RISC"
+      ],
+      [
+        "RISC",
+        "Register-Register Operation"
+      ],
+      [
+        "Large Number of General-Purpose Registers",
+        "RISC"
+      ],
+      [
+        "CISC",
+        "Software Compatibility"
+      ],
+      [
+        "Hardwired Control",
+        "RISC"
+      ],
+      [
+        "Intel",
+        "Modern CISC Architecture"
+      ]
+    ],
+    "count": 18,
+    "create_time": 1761469407,
+    "update_time": 1761469407,
+    "_id": "doc-d12ab3ee72f1f1a8f72c7e3dece14062"
+  },
+  "doc-090282a2e59cdb6b6513b1d2f898d3ae": {
+    "relation_pairs": [
+      [
+        "16-Bit Instruction",
+        "Program Counter"
+      ],
+      [
+        "Program Counter",
+        "Sequential Addressing"
+      ],
+      [
+        "Jump Addressing",
+        "Relative Transfer"
+      ],
+      [
+        "32-Bit Instruction",
+        "Byte Addressing"
+      ],
+      [
+        "Jump Addressing",
+        "Status Register"
+      ],
+      [
+        "Absolute Transfer",
+        "Jump Addressing"
+      ],
+      [
+        "Main Memory",
+        "Program Counter"
+      ],
+      [
+        "16-Bit Instruction",
+        "Byte Addressing"
+      ],
+      [
+        "Instruction Length",
+        "Sequential Addressing"
+      ],
+      [
+        "32-Bit Instruction",
+        "Program Counter"
+      ]
+    ],
+    "count": 10,
+    "create_time": 1761469457,
+    "update_time": 1761469457,
+    "_id": "doc-090282a2e59cdb6b6513b1d2f898d3ae"
+  },
+  "doc-986821269f2aa2025221040c595a72be": {
+    "relation_pairs": [
+      [
+        "Instruction Set Architecture",
+        "Little Endian"
+      ],
+      [
+        "High-Level Language",
+        "Performance Optimization"
+      ],
+      [
+        "Processor Register",
+        "Program Counter"
+      ],
+      [
+        "Assembly Language",
+        "Instruction Set Architecture"
+      ],
+      [
+        "Condition Code",
+        "Processor Register"
+      ],
+      [
+        "Instruction Format",
+        "Instruction Set Architecture"
+      ],
+      [
+        "Instruction",
+        "Instruction Set Architecture"
+      ],
+      [
+        "Instruction Set Architecture",
+        "Machine Language"
+      ],
+      [
+        "Instruction Set Architecture",
+        "Operand Addressing Mode"
+      ],
+      [
+        "Instruction Set Architecture",
+        "Memory Addressing"
+      ],
+      [
+        "Data Type",
+        "Instruction Set Architecture"
+      ],
+      [
+        "Instruction Set Architecture",
+        "Instruction System"
+      ],
+      [
+        "Big Endian",
+        "Instruction Set Architecture"
+      ]
+    ],
+    "count": 13,
+    "create_time": 1761469501,
+    "update_time": 1761469501,
+    "_id": "doc-986821269f2aa2025221040c595a72be"
+  },
+  "doc-1853ae0bf21d6ed553e97992dab0cb73": {
+    "relation_pairs": [
+      [
+        "Data Transfer",
+        "STORE"
+      ],
+      [
+        "Data Transfer",
+        "LOAD"
+      ],
+      [
+        "Arithmetic And Logical Operations",
+        "INC"
+      ],
+      [
+        "Arithmetic And Logical Operations",
+        "SUB"
+      ],
+      [
+        "Logical Shift",
+        "Shift Operations"
+      ],
+      [
+        "Arithmetic And Logical Operations",
+        "DIV"
+      ],
+      [
+        "AND",
+        "Arithmetic And Logical Operations"
+      ],
+      [
+        "Branching Operations",
+        "RET"
+      ],
+      [
+        "Arithmetic And Logical Operations",
+        "MUL"
+      ],
+      [
+        "Branching Operations",
+        "Instruction System"
+      ],
+      [
+        "Arithmetic And Logical Operations",
+        "OR"
+      ],
+      [
+        "Instruction System",
+        "Shift Operations"
+      ],
+      [
+        "ADD",
+        "Arithmetic And Logical Operations"
+      ],
+      [
+        "Input Output Operations",
+        "Instruction System"
+      ],
+      [
+        "Branching Operations",
+        "TRAP"
+      ],
+      [
+        "Circular Shift",
+        "Shift Operations"
+      ],
+      [
+        "Data Transfer",
+        "PUSH"
+      ],
+      [
+        "Data Transfer",
+        "Instruction System"
+      ],
+      [
+        "Arithmetic And Logical Operations",
+        "DEC"
+      ],
+      [
+        "Data Transfer",
+        "MOV"
+      ],
+      [
+        "Branching Operations",
+        "JMP"
+      ],
+      [
+        "Data Transfer",
+        "POP"
+      ],
+      [
+        "BRANCH",
+        "Branching Operations"
+      ],
+      [
+        "Branching Operations",
+        "CALL"
+      ],
+      [
+        "Arithmetic And Logical Operations",
+        "Instruction System"
+      ],
+      [
+        "Arithmetic And Logical Operations",
+        "XOR"
+      ],
+      [
+        "Arithmetic Shift",
+        "Shift Operations"
+      ],
+      [
+        "Arithmetic And Logical Operations",
+        "NOT"
+      ]
+    ],
+    "count": 28,
+    "create_time": 1761469600,
+    "update_time": 1761469600,
+    "_id": "doc-1853ae0bf21d6ed553e97992dab0cb73"
+  },
+  "doc-7fa816a9f8d5ac78d7483ae33a74ba7b": {
+    "relation_pairs": [
+      [
+        "Maximum Instruction Capacity",
+        "Opcode Field"
+      ],
+      [
+        "Fixed-Length Opcode Instruction Format",
+        "Opcode Field"
+      ],
+      [
+        "Fixed-Length Opcode Instruction Format",
+        "Instruction Decoding"
+      ],
+      [
+        "32-Bit Word Length",
+        "Instruction Word"
+      ],
+      [
+        "Computer Hardware Design",
+        "Fixed-Length Opcode Instruction Format"
+      ]
+    ],
+    "count": 5,
+    "create_time": 1761469641,
+    "update_time": 1761469641,
+    "_id": "doc-7fa816a9f8d5ac78d7483ae33a74ba7b"
+  },
+  "doc-be143027fbd9f62579107c5fcd0f2740": {
+    "relation_pairs": [
+      [
+        "Memory",
+        "Sub Instruction"
+      ],
+      [
+        "Logic Operation",
+        "Xor Instruction"
+      ],
+      [
+        "Arithmetic Overflow",
+        "Imul Instruction"
+      ],
+      [
+        "Dec Instruction",
+        "Register"
+      ],
+      [
+        "Operand",
+        "Register"
+      ],
+      [
+        "0fH",
+        "Constant"
+      ],
+      [
+        "Register",
+        "Sub Instruction"
+      ],
+      [
+        "Neg Instruction",
+        "Two's Complement"
+      ],
+      [
+        "Register",
+        "Xor Instruction"
+      ],
+      [
+        "And Instruction",
+        "Logic Operation"
+      ],
+      [
+        "Constant",
+        "Shl Instruction"
+      ],
+      [
+        "Dec Instruction",
+        "Memory"
+      ],
+      [
+        "Register",
+        "Shr Instruction"
+      ],
+      [
+        "Esi Register",
+        "Register"
+      ],
+      [
+        "Memory",
+        "Operand"
+      ],
+      [
+        "Eax Register",
+        "Idiv Instruction"
+      ],
+      [
+        "Memory",
+        "Variable"
+      ],
+      [
+        "64-Bit Value",
+        "Idiv Instruction"
+      ],
+      [
+        "Dword Ptr",
+        "Memory"
+      ],
+      [
+        "Memory",
+        "Not Instruction"
+      ],
+      [
+        "And Instruction",
+        "Constant"
+      ],
+      [
+        "Add Instruction",
+        "Register"
+      ],
+      [
+        "Byte Ptr",
+        "Memory"
+      ],
+      [
+        "Edx Register",
+        "Idiv Instruction"
+      ],
+      [
+        "Not Instruction",
+        "Register"
+      ],
+      [
+        "And Instruction",
+        "Register"
+      ],
+      [
+        "Exception Handling",
+        "Overflow Flag"
+      ],
+      [
+        "Division Result",
+        "Eax Register"
+      ],
+      [
+        "Eax Register",
+        "Register"
+      ],
+      [
+        "Constant",
+        "Xor Instruction"
+      ],
+      [
+        "Inc Instruction",
+        "Register"
+      ],
+      [
+        "Constant",
+        "Imul Instruction"
+      ],
+      [
+        "Add Instruction",
+        "Memory"
+      ],
+      [
+        "Edx Register",
+        "Register"
+      ],
+      [
+        "Constant",
+        "Shr Instruction"
+      ],
+      [
+        "Imul Instruction",
+        "Overflow Flag"
+      ],
+      [
+        "32-Bit Integer",
+        "Register"
+      ],
+      [
+        "Division Result",
+        "Edx Register"
+      ],
+      [
+        "Logic Operation",
+        "Or Instruction"
+      ],
+      [
+        "Bitwise Operation",
+        "Not Instruction"
+      ],
+      [
+        "Register",
+        "Shl Instruction"
+      ],
+      [
+        "Or Instruction",
+        "Register"
+      ],
+      [
+        "Inc Instruction",
+        "Memory"
+      ],
+      [
+        "Neg Instruction",
+        "Register"
+      ],
+      [
+        "Imul Instruction",
+        "Register"
+      ]
+    ],
+    "count": 45,
+    "create_time": 1761469714,
+    "update_time": 1761469714,
+    "_id": "doc-be143027fbd9f62579107c5fcd0f2740"
+  },
+  "doc-dc66410ab81cdb2a13f279e50457a470": {
+    "relation_pairs": [
+      [
+        "Negative Flag",
+        "jl Instruction"
+      ],
+      [
+        "dword ptr",
+        "test Instruction"
+      ],
+      [
+        "Overflow Flag",
+        "cmp Instruction"
+      ],
+      [
+        "call Instruction",
+        "ret Instruction"
+      ],
+      [
+        "Negative Flag",
+        "jg Instruction"
+      ],
+      [
+        "cmp Instruction",
+        "x86 Assembly Code"
+      ],
+      [
+        "jmp Instruction",
+        "x86 Assembly Code"
+      ],
+      [
+        "Bitwise And Operation",
+        "test Instruction"
+      ],
+      [
+        "Main Memory Address",
+        "dword ptr"
+      ],
+      [
+        "Main Memory",
+        "cmp Instruction"
+      ],
+      [
+        "Return Address",
+        "call Instruction"
+      ],
+      [
+        "Return Address",
+        "ret Instruction"
+      ],
+      [
+        "ret Instruction",
+        "x86 Assembly Code"
+      ],
+      [
+        "CPU Status Word",
+        "cmp Instruction"
+      ],
+      [
+        "Instruction Pointer",
+        "jmp Instruction"
+      ],
+      [
+        "Zero Flag",
+        "jne Instruction"
+      ],
+      [
+        "Label",
+        "x86 Assembly Code"
+      ],
+      [
+        "Zero Flag",
+        "cmp Instruction"
+      ],
+      [
+        "Zero Flag",
+        "je Instruction"
+      ],
+      [
+        "Zero Flag",
+        "jz Instruction"
+      ],
+      [
+        "Main Memory",
+        "test Instruction"
+      ],
+      [
+        "Negative Flag",
+        "jge Instruction"
+      ],
+      [
+        "Negative Flag",
+        "jle Instruction"
+      ],
+      [
+        "call Instruction",
+        "x86 Assembly Code"
+      ],
+      [
+        "Label",
+        "jmp Instruction"
+      ],
+      [
+        "CPU Status Word",
+        "test Instruction"
+      ],
+      [
+        "Instruction Pointer",
+        "x86 Processor"
+      ],
+      [
+        "CPU Status Word",
+        "jcondition Instruction"
+      ],
+      [
+        "cmp Instruction",
+        "dword ptr"
+      ],
+      [
+        "test Instruction",
+        "x86 Assembly Code"
+      ],
+      [
+        "Main Memory",
+        "Main Memory Address"
+      ],
+      [
+        "cmp Instruction",
+        "jcondition Instruction"
+      ],
+      [
+        "Negative Flag",
+        "cmp Instruction"
+      ],
+      [
+        "Instruction Pointer",
+        "Register"
+      ],
+      [
+        "jcondition Instruction",
+        "test Instruction"
+      ]
+    ],
+    "count": 35,
+    "create_time": 1761469804,
+    "update_time": 1761469804,
+    "_id": "doc-dc66410ab81cdb2a13f279e50457a470"
+  },
+  "doc-53c922e8f9c9847391088bcc3c5430ac": {
+    "relation_pairs": [
+      [
+        "AT&T Format",
+        "Intel Format"
+      ],
+      [
+        "AT&T Format",
+        "Register Prefix"
+      ],
+      [
+        "AT&T Format",
+        "Immediate Value Prefix"
+      ],
+      [
+        "Intel Format",
+        "Memory Addressing Brackets"
+      ],
+      [
+        "32-Bit Architecture",
+        "Word"
+      ],
+      [
+        "Assembly Instructions",
+        "Assembly Language"
+      ],
+      [
+        "Dword Ptr",
+        "Intel Format"
+      ],
+      [
+        "AT&T Format",
+        "Memory Addressing Parentheses"
+      ],
+      [
+        "AT&T Format",
+        "Data Size Suffix"
+      ],
+      [
+        "Byte Ptr",
+        "Intel Format"
+      ],
+      [
+        "Intel Format",
+        "Word Ptr"
+      ],
+      [
+        "64-Bit Architecture",
+        "Word"
+      ]
+    ],
+    "count": 12,
+    "create_time": 1761469814,
+    "update_time": 1761469814,
+    "_id": "doc-53c922e8f9c9847391088bcc3c5430ac"
+  },
+  "doc-0d36c83754193098d8c62f2f838760fe": {
+    "relation_pairs": [
+      [
+        "扩展操作码",
+        "短码"
+      ],
+      [
+        "扩展操作码",
+        "长码"
+      ],
+      [
+        "指令译码和分析时间",
+        "短码分配"
+      ],
+      [
+        "不允许是长码的前缀",
+        "短码"
+      ],
+      [
+        "扩展操作码指令格式",
+        "设计扩展操作码指令格式"
+      ],
+      [
+        "可变长度操作码",
+        "指令字长"
+      ],
+      [
+        "操作码重复",
+        "禁止"
+      ],
+      [
+        "地址码",
+        "扩展操作码"
+      ],
+      [
+        "使用频率",
+        "操作码分配"
+      ],
+      [
+        "可变长度操作码",
+        "扩展操作码指令格式"
+      ]
+    ],
+    "count": 10,
+    "create_time": 1761469887,
+    "update_time": 1761469887,
+    "_id": "doc-0d36c83754193098d8c62f2f838760fe"
+  },
+  "doc-ad5acebbb603e74c2d3ec59f532eee59": {
+    "relation_pairs": [
+      [
+        "无操作数指令",
+        "软堆栈"
+      ],
+      [
+        "Accumulator",
+        "Implicit Addressing"
+      ],
+      [
+        "Accumulator",
+        "Single-Address Instruction Format"
+      ],
+      [
+        "寄存器",
+        "通用寄存器"
+      ],
+      [
+        "Index Addressing",
+        "Memory Access"
+      ],
+      [
+        "寄存器组",
+        "硬堆栈"
+      ],
+      [
+        "偏移量",
+        "变址寄存器"
+      ],
+      [
+        "变址寄存器",
+        "通用寄存器"
+      ],
+      [
+        "Accumulator",
+        "Register Addressing"
+      ],
+      [
+        "Index Addressing",
+        "Index Register"
+      ],
+      [
+        "后进先出原则",
+        "自动完成对SP的加减操作"
+      ],
+      [
+        "Direct Addressing",
+        "Form Address"
+      ],
+      [
+        "Program Counter",
+        "Relative Addressing"
+      ],
+      [
+        "Memory Access",
+        "Register Addressing"
+      ],
+      [
+        "Base Addressing",
+        "Base Register"
+      ],
+      [
+        "变址寄存器",
+        "形式地址A"
+      ],
+      [
+        "堆栈指针SP",
+        "读/写堆栈"
+      ],
+      [
+        "Memory Access",
+        "Register Indirect Addressing"
+      ],
+      [
+        "Indirect Addressing",
+        "Memory Access"
+      ],
+      [
+        "寄存器组",
+        "软堆栈"
+      ],
+      [
+        "偏移量",
+        "存储空间"
+      ],
+      [
+        "Immediate Addressing",
+        "Two's Complement"
+      ],
+      [
+        "Effective Address",
+        "Indirect Addressing"
+      ],
+      [
+        "变址寄存器",
+        "数组首地址"
+      ],
+      [
+        "Immediate Addressing",
+        "Memory Access"
+      ],
+      [
+        "Base Addressing",
+        "Memory Access"
+      ],
+      [
+        "Base Register",
+        "Register Indirect Addressing"
+      ]
+    ],
+    "count": 27,
+    "create_time": 1761469941,
+    "update_time": 1761469941,
+    "_id": "doc-ad5acebbb603e74c2d3ec59f532eee59"
+  },
+  "doc-3c363f9d809dadcf3a7c0f9008fb810a": {
+    "relation_pairs": [
+      [
+        "Control Flow Instructions",
+        "Intel Format"
+      ],
+      [
+        "Con32",
+        "Constant"
+      ],
+      [
+        "Con8",
+        "Constant"
+      ],
+      [
+        "Arithmetic and Logic Operations Instructions",
+        "Intel Format"
+      ],
+      [
+        "Reg16",
+        "Register"
+      ],
+      [
+        "Data Transfer Instructions",
+        "Intel Format"
+      ],
+      [
+        "Reg32",
+        "Register"
+      ],
+      [
+        "Mem",
+        "Memory"
+      ],
+      [
+        "Con16",
+        "Constant"
+      ],
+      [
+        "Reg8",
+        "Register"
+      ]
+    ],
+    "count": 10,
+    "create_time": 1761469958,
+    "update_time": 1761469958,
+    "_id": "doc-3c363f9d809dadcf3a7c0f9008fb810a"
+  },
+  "doc-aff2d7d8604331c974d095c01133c056": {
+    "relation_pairs": [
+      [
+        "寻址特征",
+        "数据寻址"
+      ],
+      [
+        "寄存器寻址",
+        "形式地址"
+      ],
+      [
+        "形式地址",
+        "有效地址"
+      ],
+      [
+        "形式地址",
+        "指令字"
+      ],
+      [
+        "形式地址",
+        "直接寻址"
+      ],
+      [
+        "指令字",
+        "操作码"
+      ],
+      [
+        "寄存器",
+        "寄存器间接寻址"
+      ],
+      [
+        "寻址特征",
+        "指令字"
+      ],
+      [
+        "存储器",
+        "有效地址"
+      ],
+      [
+        "操作码",
+        "数据寻址"
+      ],
+      [
+        "形式地址",
+        "立即寻址"
+      ]
+    ],
+    "count": 11,
+    "create_time": 1761470009,
+    "update_time": 1761470009,
+    "_id": "doc-aff2d7d8604331c974d095c01133c056"
+  },
+  "doc-2151538dd57e60dbb6761c6a35ea00c6": {
+    "relation_pairs": [
+      [
+        "General Purpose Registers",
+        "RISC"
+      ],
+      [
+        "CPU Chip Area",
+        "RISC"
+      ],
+      [
+        "Instruction Set Complexity",
+        "RISC"
+      ],
+      [
+        "CISC",
+        "CPU Chip Area"
+      ],
+      [
+        "CPU Chip Area",
+        "VLSI"
+      ],
+      [
+        "CISC",
+        "Microprogram Control"
+      ],
+      [
+        "Combination Logic Control",
+        "RISC"
+      ],
+      [
+        "Compilation Optimization",
+        "RISC"
+      ],
+      [
+        "Pipeline Technology",
+        "RISC"
+      ]
+    ],
+    "count": 9,
+    "create_time": 1761470021,
+    "update_time": 1761470021,
+    "_id": "doc-2151538dd57e60dbb6761c6a35ea00c6"
+  }
+}
