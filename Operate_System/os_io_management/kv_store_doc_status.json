@@ -1,0 +1,260 @@
+{
+  "doc-c2534a02f1b3f01bcdf887749e6526e4": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-c2534a02f1b3f01bcdf887749e6526e4"
+    ],
+    "content_summary": "12. 磁盘的管理 1.磁盘初始化 一个新的磁盘只是一个磁性记录材料的空白盘。在磁盘可以存储数据之前,必须将它分成扇区,以便磁盘控制器能够进行读/写操作,这个过程称为低级格式化(也称物理格式化)。每个扇区通常由头部、数据区域和尾部组成。头部和尾部包含了一些磁盘控制器的使用信息。 2.分区 在可以使用磁盘存储文件之前,还要完成两个步骤。第一步是,将磁盘分区,每个分区由一个或多个柱面组成,每个分区的起始扇区和大小都记录在磁盘主引导记录的分区表中。第二步是,对物理分区进行逻辑格式化(也称高级格式化),...",
+    "content_length": 929,
+    "created_at": "2025-10-30T03:49:04.305862+00:00",
+    "updated_at": "2025-10-30T03:50:33.842052+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251030_114904_5ff5997f",
+    "metadata": {
+      "processing_start_time": 1761796144,
+      "processing_end_time": 1761796233
+    }
+  },
+  "doc-787f02e01c2af5cb6c640f2ab2160b3a": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-8a037d4e5404d755e89072cf77091d2b",
+      "chunk-1d93c6dce65e857b6ccef73c51291bd2"
+    ],
+    "content_summary": "7. 设备分配与回收 1.设备分配概述 设备分配是指根据用户的1/0请求分配所需的设备。分配的总原则是充分发挥设备的使用效率,尽可能地既让设备忙碌,又避免由于不合理的分配方法造成进程死锁。 2.设备分配的数据结构 在系统中,可能存在多个通道,每个通道可以连接多个控制器,每个控制器可以连接多个物理设备。设备分配的数据结构要能体现出这种从属关系。 1)设备控制表(DCT):系统为每个设备配置一张DCT,表中的表项就是设备的各个属性。在DCT中,应该有下列字段:设备类型、设备标识符、设备状态、指向控制...",
+    "content_length": 1665,
+    "created_at": "2025-10-30T03:49:04.305848+00:00",
+    "updated_at": "2025-10-30T03:50:54.341243+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251030_114904_5ff5997f",
+    "metadata": {
+      "processing_start_time": 1761796144,
+      "processing_end_time": 1761796254
+    }
+  },
+  "doc-f8acab16bd51fe8f837419ef179fc637": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-f8acab16bd51fe8f837419ef179fc637"
+    ],
+    "content_summary": "5. 设备独立性软件 也称与设备无关的软件,是I/O 系统的最高层软件,它的下层是设备驱动程序,其界限因操作系统和设备的不同而有所差异。比如,一些本应由设备独立性软件实现的功能,也可能放在设备驱动程序中实现。这样的差异主要是出于对操作系统、设备独立性软件和设备驱动程序运行效率等多方面因素的权衡。总体而言,设备独立性软件包括执行所有设备公有操作的软件。",
+    "content_length": 176,
+    "created_at": "2025-10-30T03:49:04.305840+00:00",
+    "updated_at": "2025-10-30T03:51:00.173794+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251030_114904_5ff5997f",
+    "metadata": {
+      "processing_start_time": 1761796233,
+      "processing_end_time": 1761796260
+    }
+  },
+  "doc-1b86b922e001d35ad4f0f4fe7d20ef03": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-1b86b922e001d35ad4f0f4fe7d20ef03"
+    ],
+    "content_summary": "3. DMA方式 DMA(直接存储器存取)方式的基本思想是,在I/O设备和内存之间开辟直接的数据交换通路,彻底“解放”CPU。DMA方式的特点如下: 1)基本传送单位是数据块。 2)所传送的数据,是从设备直接送入内存的,或者相反,而不再经过CPU。 3)仅在传送一个或多个数据块的开始和结束时,才需要CPU干预。 为了实现主机和控制器之间直接交换成块的数据,须在DMA控制器中设置如下4类寄存器: 1)命令/状态寄存器(CR)。 2)内存地址寄存器(MAR)。 3)数据寄存器(DR)。 4)数据计数...",
+    "content_length": 780,
+    "created_at": "2025-10-30T03:49:04.305832+00:00",
+    "updated_at": "2025-10-30T03:51:37.405552+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251030_114904_5ff5997f",
+    "metadata": {
+      "processing_start_time": 1761796254,
+      "processing_end_time": 1761796297
+    }
+  },
+  "doc-7b1bf538616277d755ad8617bf408c12": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-7b1bf538616277d755ad8617bf408c12"
+    ],
+    "content_summary": "2. I/O 控制方式 I/O 控制是指控制设备和主机之间的数据传送。I/O控制方式共有4种。 1.程序直接控制方式 CPU对I/O 设备的控制采取轮询的I/O方式,也称程序轮询方式。CPU向设备控制器发出一条I/O指令,启动从I/O设备读取一个字(节),然后不断地循环测试设备状态(称为轮询),直到确定该字(节)已在设备控制器的数据寄存器中。于是CPU将数据寄存器中的数据取出,送入内存的指定单元。 这种方式简单且易于实现,但缺点也很明显。CPU的绝大部分时间都处于等待I/O设备状态的循环测试中,...",
+    "content_length": 678,
+    "created_at": "2025-10-30T03:49:04.305827+00:00",
+    "updated_at": "2025-10-30T03:51:35.250746+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251030_114904_5ff5997f",
+    "metadata": {
+      "processing_start_time": 1761796260,
+      "processing_end_time": 1761796295
+    }
+  },
+  "doc-264fa4087fad0830a27723388157eee3": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-264fa4087fad0830a27723388157eee3"
+    ],
+    "content_summary": "9. 设备驱动程序接口 设备驱动程序是I/O系统的上层与设备控制器之间的通信程序,其主要任务是接收上层应用发来的抽象 I/O请求,如read 或write命令,将它们转换为具体要求后发送给设备控制器,进而使其启动设备去执行任务;反之,它也将设备控制器发来的信号传送给上层应用。 设备驱动程序应具有以下功能:①接收由上层软件发来的命令和参数,并将抽象要求转换为与设备相关的具体要求。②检查用户I/O请求的合法性,了解设备的工作状态,传递与设备操作有关的参数,设置设备的工作方式。③发出I/O命令,若设备...",
+    "content_length": 655,
+    "created_at": "2025-10-30T03:49:04.305854+00:00",
+    "updated_at": "2025-10-30T03:52:16.479732+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251030_114904_5ff5997f",
+    "metadata": {
+      "processing_start_time": 1761796295,
+      "processing_end_time": 1761796336
+    }
+  },
+  "doc-5eca8429d9d2d195386ae7d415efa68b": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-5eca8429d9d2d195386ae7d415efa68b"
+    ],
+    "content_summary": "11. 磁盘 磁盘(Disk)是表面涂有磁性物质的物理盘片,通过一个称为磁头的导体线圈从磁盘存取数据。在读/写操作期间,磁头固定,磁盘在下面高速旋转。磁盘盘面上的数据存储在一组同心圆中,称为磁道。每个磁道与磁头一样宽,一个盘面有上千个磁道。磁道又划分为几百个扇区,每个扇区固定存储大小(如1KB),一个扇区称为一个盘块。相邻磁道及相邻扇区间通过一定的间隙分隔开,以避免精度错误。注意,因为扇区按固定圆心角度划分,所以密度从最外道向里道增加,磁盘的存储能力受限于最内道的最大记录密度。 磁盘安装在一个磁...",
+    "content_length": 673,
+    "created_at": "2025-10-30T03:49:04.305859+00:00",
+    "updated_at": "2025-10-30T03:52:24.387839+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251030_114904_5ff5997f",
+    "metadata": {
+      "processing_start_time": 1761796297,
+      "processing_end_time": 1761796344
+    }
+  },
+  "doc-316f7e90e1f3c434878bc3dd44e3b172": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-316f7e90e1f3c434878bc3dd44e3b172"
+    ],
+    "content_summary": "13. 磁盘调度算法 磁盘的存取时间 一次磁盘读/写操作的时间由寻找(寻道)时间、旋转延迟时间和传输时间决定。 1)寻道时间。活动头磁盘在读/写信息前,将磁头移动到目的磁道所需的时间。 2)旋转延迟时间。磁头定位到要读/写扇区所需的时间。 3)传输时间。从磁盘读出或向磁盘写入数据所需的时间。 在磁盘的存取时间中,寻道时间占大头,它与磁盘调度算法密切相关;而延迟时间和传输时间都与磁盘旋转速度线性相关。因此,磁盘调度的主要目标是减少磁盘的平均寻道时间。 2.磁盘调度算法 (1)先来先服务(First...",
+    "content_length": 1336,
+    "created_at": "2025-10-30T03:49:04.305866+00:00",
+    "updated_at": "2025-10-30T03:53:09.886726+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251030_114904_5ff5997f",
+    "metadata": {
+      "processing_start_time": 1761796336,
+      "processing_end_time": 1761796389
+    }
+  },
+  "doc-d38f67d322a4adb7d87a544b297f1adb": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-d38f67d322a4adb7d87a544b297f1adb"
+    ],
+    "content_summary": "4. 应用程序I/O接口 I/O接口的分类 在I/O 系统与高层之间的接口中,根据设备类型的不同,又进一步分为若干类。 (1)字符设备接口 字符设备是指数据的存取和传输是以字符为单位的设备,如键盘、打印机等。基本特征是传输速率较低、不可寻址,并且在输入/输出时通常采用中断驱动方式。 get 和 put 操作,由于字符设备不可寻址,只能采取顺序存取方式,通常为字符设备建立一个字符缓冲区。 in-control 指令,字符设备类型繁多,差异甚大,因此在接口中提供一种通用的 in-control 指令...",
+    "content_length": 815,
+    "created_at": "2025-10-30T03:49:04.305838+00:00",
+    "updated_at": "2025-10-30T03:52:59.492999+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251030_114904_5ff5997f",
+    "metadata": {
+      "processing_start_time": 1761796344,
+      "processing_end_time": 1761796379
+    }
+  },
+  "doc-cae68eac226893284aa15ffc3283cc80": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-cae68eac226893284aa15ffc3283cc80"
+    ],
+    "content_summary": "10. I/O 操作举例 内核缓冲区是处于内核空间的缓冲区,用户缓冲区是处于用户空间的缓冲区。 程序调用“scanf(\"%c\",&d)”时,scanf()会关联一个用户缓冲区buf。 scanf()的第一阶段的工作是在C语言函数库中完成的: 1)检查与 scanf函数关联的用户缓冲区buf,若缓冲区中已有数据,则直接读取。若缓冲区为空,则触发系统调用read。 2)执行系统调用read,传入三个参数:fd(文件描述符)、buf(用户空间缓冲区)、count(读取的最大字节数)。 第二阶段的工作是...",
+    "content_length": 618,
+    "created_at": "2025-10-30T03:49:04.305856+00:00",
+    "updated_at": "2025-10-30T03:53:38.312079+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251030_114904_5ff5997f",
+    "metadata": {
+      "processing_start_time": 1761796379,
+      "processing_end_time": 1761796418
+    }
+  },
+  "doc-bc08e11de25f64ccdfef8d727029a7db": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-2d306019ab3891600b9be43a126d8c4e",
+      "chunk-e821a4c1e8eeab3120a42bec02ee8587"
+    ],
+    "content_summary": "6. 高速缓存与缓冲区 磁盘高速缓存(Disk Cache) 操作系统中使用磁盘高速缓存技术来提高磁盘的I/O速度,对访问高速缓存要比访问原始磁盘数据更为高效。例如,正在运行进程的数据既存储在磁盘上,又存储在物理内存上,也被复制到CPU的二级和一级高速缓存中。不过,磁盘高速缓存技术不同于通常意义下的介于CPU与内存之间的小容量高速存储器,而是指利用内存中的存储空间来暂存从磁盘中读出的一系列盘块中的信息。因此,磁盘高速缓存逻辑上属于磁盘,物理上是驻留在内存中的盘块。 磁盘高速缓存在内存中分为两种形...",
+    "content_length": 2316,
+    "created_at": "2025-10-30T03:49:04.305843+00:00",
+    "updated_at": "2025-10-30T03:54:14.852020+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251030_114904_5ff5997f",
+    "metadata": {
+      "processing_start_time": 1761796389,
+      "processing_end_time": 1761796454
+    }
+  },
+  "doc-e7b28e64fec06193d6f8044f54a3af63": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-b97ef22d499b3d442bd72f94c0600b3e",
+      "chunk-24e218fe981e25857a4b5fef1ad3838d"
+    ],
+    "content_summary": "1. I/O 设备 I/O 设备管理是操作系统设计中最凌乱也最具挑战性的部分。它包含了很多领域的不同设备及与设备相关的应用程序,因此很难有一个通用且一致的设计方案。 设备的分类 I/O 设备是指可以将数据输入计算机的外部设备,或者可以接收计算机输出数据的外部设备。I/O 设备的类型繁多,从不同的角度可将它们分为不同的类型。 按信息交换的单位分类,I/O设备可分为: 1)块设备。信息交换以数据块为单位,如磁盘、磁带等。磁盘设备的基本特征是传输速率较高、可寻址,即对它可随机地读/写任意一块。 2)字...",
+    "content_length": 1701,
+    "created_at": "2025-10-30T03:49:04.305815+00:00",
+    "updated_at": "2025-10-30T03:55:56.545129+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251030_114904_5ff5997f",
+    "metadata": {
+      "processing_start_time": 1761796418,
+      "processing_end_time": 1761796556
+    }
+  },
+  "doc-1e6791234c2dc9ee6f432df1989fc60b": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-1e6791234c2dc9ee6f432df1989fc60b"
+    ],
+    "content_summary": "3. I/O 软件层次结构 为使复杂的I/O软件能具有清晰的结构、良好的可移植性和易适应性,目前普遍采用层次结构的I/O软件。整个I/O软件可以视为具有4个层次的系统结构,各层次及其功能如下: (1)用户层软件 实现与用户交互的接口,用户可直接调用在用户层提供的、与I/O操作有关的库函数,对设备进行操作。用户层I/O软件必须通过一组系统调用来获取操作系统服务。 (2)设备独立性软件 用于实现用户程序与设备驱动器的统一接口、设备命名、设备保护,以及设备的分配与释放等,同时为设备管理和数据传送提供必...",
+    "content_length": 713,
+    "created_at": "2025-10-30T03:49:04.305835+00:00",
+    "updated_at": "2025-10-30T03:55:52.058500+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251030_114904_5ff5997f",
+    "metadata": {
+      "processing_start_time": 1761796454,
+      "processing_end_time": 1761796552
+    }
+  },
+  "doc-b309162a426d62e33a3be632483b375d": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-b309162a426d62e33a3be632483b375d"
+    ],
+    "content_summary": "8. SPOOLing 技术(假脱机技术) 为了缓和CPU的高速性与I/O设备的低速性之间的矛盾,引入了假脱机技术,它是操作系统中采用的一项将独占设备改造成共享设备的技术。该技术利用专门的外围控制机,先将低速I/O设备上的数据传送到高速磁盘上,或者相反。SPOOLing系统的组成如下。 (1)输入井和输出井 在磁盘上开辟出的两个存储区域。输入井模拟脱机输入时的磁盘,用于收容I/O设备输入的数据。输出井模拟脱机输出时的磁盘,用于收容用户程序的输出数据。 (2)输入缓冲区和输出缓冲区 在内存中开辟的...",
+    "content_length": 722,
+    "created_at": "2025-10-30T03:49:04.305851+00:00",
+    "updated_at": "2025-10-30T03:56:29.315582+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251030_114904_5ff5997f",
+    "metadata": {
+      "processing_start_time": 1761796552,
+      "processing_end_time": 1761796589
+    }
+  },
+  "doc-8189302c7787e74dde6623016361fc8f": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-8189302c7787e74dde6623016361fc8f"
+    ],
+    "content_summary": "14. 固态硬盘 固态硬盘的特性 固态硬盘(Solid State Disk, SSD)是一种基于闪存技术的存储器。一个SSD由一个或多个闪存芯片和闪存翻译层组成。闪存芯片替代传统磁盘中的机械驱动器,而闪存翻译层将来自CPU的逻辑块读/写请求翻译成对底层物理设备的读/写控制信号,因此闪存翻译层相当于扮演了磁盘控制器的角色。 一个闪存由B块组成,每块由P页组成。数据是以页为单位读/写的。以块为单位擦除,只有在一页所属的块整个被擦除后,才能写这一页。一旦一个块被擦除,块中的每个页就都可以直接再写一次...",
+    "content_length": 699,
+    "created_at": "2025-10-30T03:49:04.305869+00:00",
+    "updated_at": "2025-10-30T03:56:27.051939+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251030_114904_5ff5997f",
+    "metadata": {
+      "processing_start_time": 1761796556,
+      "processing_end_time": 1761796587
+    }
+  }
+}

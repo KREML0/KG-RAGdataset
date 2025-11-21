@@ -1,0 +1,1654 @@
+{
+  "doc-5f130d8e8cad5fdb4c75e49961444322": {
+    "relation_pairs": [
+      [
+        "Signal Operation",
+        "V() Operation"
+      ],
+      [
+        "Signal Operation",
+        "Signal Semaphore"
+      ],
+      [
+        "Busy Waiting",
+        "Wait Operation"
+      ],
+      [
+        "Busy Waiting",
+        "Integer Semaphore"
+      ],
+      [
+        "Record Semaphore",
+        "Wakeup Primitive"
+      ],
+      [
+        "Signal Semaphore",
+        "Synchronization"
+      ],
+      [
+        "Mutual Exclusion",
+        "Signal Semaphore"
+      ],
+      [
+        "Precedence Relationship",
+        "Signal Semaphore"
+      ],
+      [
+        "Block Primitive",
+        "Record Semaphore"
+      ],
+      [
+        "Process List",
+        "Record Semaphore"
+      ],
+      [
+        "Let-Go-Waiting Principle",
+        "Record Semaphore"
+      ],
+      [
+        "Record Semaphore",
+        "Value Variable"
+      ],
+      [
+        "Critical Section",
+        "Mutual Exclusion"
+      ],
+      [
+        "P() Operation",
+        "Wait Operation"
+      ],
+      [
+        "Precedence Relationship",
+        "Synchronization"
+      ],
+      [
+        "Mutual Exclusion",
+        "Resource Allocation"
+      ],
+      [
+        "Signal Semaphore",
+        "Wait Operation"
+      ]
+    ],
+    "count": 17,
+    "create_time": 1761793448,
+    "update_time": 1761793448,
+    "_id": "doc-5f130d8e8cad5fdb4c75e49961444322"
+  },
+  "doc-c98a5fa2e2c907903ada408db717755c": {
+    "relation_pairs": [
+      [
+        "Round Robin Scheduling Algorithm",
+        "Time Quantum"
+      ],
+      [
+        "Ready Queue",
+        "Shortest Process First Scheduling Algorithm"
+      ],
+      [
+        "Response Ratio",
+        "Waiting Time"
+      ],
+      [
+        "CPU",
+        "Priority Scheduling Algorithm"
+      ],
+      [
+        "CPU",
+        "Round Robin Scheduling Algorithm"
+      ],
+      [
+        "Multilevel Queue Scheduling Algorithm",
+        "Ready Queue"
+      ],
+      [
+        "Preemption",
+        "Round Robin Scheduling Algorithm"
+      ],
+      [
+        "CPU",
+        "FCFS Scheduling Algorithm"
+      ],
+      [
+        "Priority",
+        "System Performance"
+      ],
+      [
+        "CPU",
+        "Interrupt"
+      ],
+      [
+        "CPU",
+        "Shortest Process First Scheduling Algorithm"
+      ],
+      [
+        "Multilevel Feedback Queue Scheduling Algorithm",
+        "Priority"
+      ],
+      [
+        "Dynamic Priority",
+        "Static Priority"
+      ],
+      [
+        "Backlog Job Queue",
+        "Shortest Job First Scheduling Algorithm"
+      ],
+      [
+        "Multilevel Feedback Queue Scheduling Algorithm",
+        "Preemption"
+      ],
+      [
+        "Multilevel Feedback Queue Scheduling Algorithm",
+        "Time Quantum"
+      ],
+      [
+        "System Process",
+        "User Process"
+      ],
+      [
+        "Priority Scheduling Algorithm",
+        "Ready Queue"
+      ],
+      [
+        "Fairness",
+        "Guaranteed Scheduling Algorithm"
+      ],
+      [
+        "Ready Queue",
+        "Round Robin Scheduling Algorithm"
+      ],
+      [
+        "Backlog Job Queue",
+        "FCFS Scheduling Algorithm"
+      ],
+      [
+        "CPU-Bound Process",
+        "I/O-Bound Process"
+      ],
+      [
+        "Fair Share Scheduling Algorithm",
+        "Fairness"
+      ],
+      [
+        "FCFS Scheduling Algorithm",
+        "Ready Queue"
+      ],
+      [
+        "System Performance",
+        "Time Quantum"
+      ],
+      [
+        "Preemptive Shortest Process First",
+        "Shortest Process First Scheduling Algorithm"
+      ],
+      [
+        "CPU",
+        "Process Execution"
+      ],
+      [
+        "Interactive Process",
+        "Non-Interactive Process"
+      ],
+      [
+        "Execution Time",
+        "Response Ratio"
+      ],
+      [
+        "Backlog Job Queue",
+        "Highest Response Ratio First Scheduling Algorithm"
+      ]
+    ],
+    "count": 30,
+    "create_time": 1761793480,
+    "update_time": 1761793480,
+    "_id": "doc-c98a5fa2e2c907903ada408db717755c"
+  },
+  "doc-77d7b8e6f06999efb089a2a4176d1434": {
+    "relation_pairs": [
+      [
+        "PV操作",
+        "管程"
+      ],
+      [
+        "共享数据结构",
+        "管程"
+      ],
+      [
+        "管程",
+        "进程互斥"
+      ],
+      [
+        "条件变量",
+        "管程"
+      ],
+      [
+        "信号量机制",
+        "管程"
+      ],
+      [
+        "x.signal",
+        "条件变量"
+      ],
+      [
+        "共享资源",
+        "管程"
+      ],
+      [
+        "初始值语句",
+        "管程"
+      ],
+      [
+        "条件变量",
+        "等待队列"
+      ],
+      [
+        "x.wait",
+        "条件变量"
+      ]
+    ],
+    "count": 10,
+    "create_time": 1761793541,
+    "update_time": 1761793541,
+    "_id": "doc-77d7b8e6f06999efb089a2a4176d1434"
+  },
+  "doc-d9ae7922752a96dfde647be32905f641": {
+    "relation_pairs": [
+      [
+        "Peterson算法",
+        "饥饿"
+      ],
+      [
+        "中断屏蔽方法",
+        "空闲让进"
+      ],
+      [
+        "临界区互斥",
+        "软件实现方法"
+      ],
+      [
+        "中断屏蔽方法",
+        "临界区互斥"
+      ],
+      [
+        "Peterson算法",
+        "flag"
+      ],
+      [
+        "flag",
+        "算法三"
+      ],
+      [
+        "TestAndSet指令",
+        "原子操作"
+      ],
+      [
+        "Peterson算法",
+        "turn"
+      ],
+      [
+        "双标志先检查法",
+        "有限等待"
+      ],
+      [
+        "双标志后检查法",
+        "饥饿"
+      ],
+      [
+        "硬件指令方法",
+        "让权等待"
+      ],
+      [
+        "turn",
+        "算法一"
+      ],
+      [
+        "Swap指令",
+        "原子操作"
+      ],
+      [
+        "临界区互斥",
+        "硬件指令方法"
+      ],
+      [
+        "flag",
+        "算法二"
+      ]
+    ],
+    "count": 15,
+    "create_time": 1761793556,
+    "update_time": 1761793556,
+    "_id": "doc-d9ae7922752a96dfde647be32905f641"
+  },
+  "doc-156e9bc4a555d2a7cb0d3724273d5ea6": {
+    "relation_pairs": [
+      [
+        "Running State",
+        "System Call"
+      ],
+      [
+        "Process Control Block",
+        "Ready State"
+      ],
+      [
+        "Running State",
+        "Terminated State"
+      ],
+      [
+        "Blocked State",
+        "Interrupt"
+      ],
+      [
+        "Created State",
+        "Ready State"
+      ],
+      [
+        "CPU",
+        "Running State"
+      ],
+      [
+        "Blocked State",
+        "Resource"
+      ],
+      [
+        "Ready State",
+        "Time Slice"
+      ],
+      [
+        "Blocked State",
+        "Process Control Block"
+      ],
+      [
+        "Ready State",
+        "Running State"
+      ],
+      [
+        "Blocked State",
+        "Running State"
+      ],
+      [
+        "Blocked State",
+        "I/O Operation"
+      ],
+      [
+        "Blocked State",
+        "Ready State"
+      ],
+      [
+        "Process Control Block",
+        "Running State"
+      ]
+    ],
+    "count": 14,
+    "create_time": 1761793617,
+    "update_time": 1761793617,
+    "_id": "doc-156e9bc4a555d2a7cb0d3724273d5ea6"
+  },
+  "doc-d3e84198ebbd072f7382ef600186508e": {
+    "relation_pairs": [
+      [
+        "哲学家进餐问题",
+        "限制条件"
+      ],
+      [
+        "生产者-消费者问题",
+        "缓冲区"
+      ],
+      [
+        "写者进程",
+        "读者进程"
+      ],
+      [
+        "哲学家进餐问题",
+        "死锁"
+      ],
+      [
+        "互斥访问",
+        "写者进程"
+      ],
+      [
+        "消费者进程",
+        "生产者进程"
+      ],
+      [
+        "消费者进程",
+        "缓冲区"
+      ],
+      [
+        "哲学家进餐问题",
+        "饥饿现象"
+      ],
+      [
+        "哲学家",
+        "筷子"
+      ],
+      [
+        "哲学家",
+        "缓冲区"
+      ],
+      [
+        "同步关系",
+        "生产者进程"
+      ],
+      [
+        "哲学家进餐问题",
+        "筷子"
+      ],
+      [
+        "生产者进程",
+        "缓冲区"
+      ],
+      [
+        "共享文件",
+        "读者-写者问题"
+      ],
+      [
+        "互斥访问",
+        "缓冲区"
+      ]
+    ],
+    "count": 15,
+    "create_time": 1761793639,
+    "update_time": 1761793639,
+    "_id": "doc-d3e84198ebbd072f7382ef600186508e"
+  },
+  "doc-f326031f0d80f48ea7bc3e6da1a5f8a4": {
+    "relation_pairs": [
+      [
+        "Private Ready Queue",
+        "Processor Affinity"
+      ],
+      [
+        "Load Balancing",
+        "Processor Affinity"
+      ],
+      [
+        "Load Balancing",
+        "Public Ready Queue"
+      ],
+      [
+        "Asymmetric MultiProcessing",
+        "Slave Processor"
+      ],
+      [
+        "Public Ready Queue",
+        "Symmetric MultiProcessing"
+      ],
+      [
+        "Asymmetric MultiProcessing",
+        "Master Processor"
+      ],
+      [
+        "Cache Invalidation",
+        "Processor Affinity"
+      ],
+      [
+        "Private Ready Queue",
+        "Symmetric MultiProcessing"
+      ],
+      [
+        "Process Scheduling",
+        "Symmetric MultiProcessing"
+      ]
+    ],
+    "count": 9,
+    "create_time": 1761793675,
+    "update_time": 1761793675,
+    "_id": "doc-f326031f0d80f48ea7bc3e6da1a5f8a4"
+  },
+  "doc-e16dceff2fc93c138aa86eb65cacc6c7": {
+    "relation_pairs": [
+      [
+        "Busy Waiting",
+        "Spin Lock"
+      ],
+      [
+        "Atomic Operation",
+        "Release Function"
+      ],
+      [
+        "Acquire Function",
+        "Atomic Operation"
+      ],
+      [
+        "Acquire Function",
+        "Mutual Exclusion Lock"
+      ],
+      [
+        "Mutual Exclusion Lock",
+        "Release Function"
+      ],
+      [
+        "Multiprocessor System",
+        "Mutual Exclusion Lock"
+      ],
+      [
+        "Available Boolean Variable",
+        "Mutual Exclusion Lock"
+      ]
+    ],
+    "count": 7,
+    "create_time": 1761793684,
+    "update_time": 1761793684,
+    "_id": "doc-e16dceff2fc93c138aa86eb65cacc6c7"
+  },
+  "doc-96612cb99be5ccc8684e38f3d50f77f5": {
+    "relation_pairs": [
+      [
+        "空闲让进",
+        "进入区"
+      ],
+      [
+        "临界资源",
+        "互斥"
+      ],
+      [
+        "有限等待",
+        "退出区"
+      ],
+      [
+        "多道程序环境",
+        "进程同步"
+      ],
+      [
+        "忙则等待",
+        "进入区"
+      ],
+      [
+        "临界区",
+        "临界资源"
+      ],
+      [
+        "让权等待",
+        "退出区"
+      ],
+      [
+        "临界区",
+        "退出区"
+      ],
+      [
+        "让权等待",
+        "进入区"
+      ],
+      [
+        "同步",
+        "进程同步"
+      ],
+      [
+        "有限等待",
+        "进入区"
+      ],
+      [
+        "临界区",
+        "进入区"
+      ]
+    ],
+    "count": 12,
+    "create_time": 1761793750,
+    "update_time": 1761793750,
+    "_id": "doc-96612cb99be5ccc8684e38f3d50f77f5"
+  },
+  "doc-b5aa6485f08fa52f1ae6912e99884079": {
+    "relation_pairs": [
+      [
+        "死锁检测",
+        "资源请求和分配信息"
+      ],
+      [
+        "死锁检测",
+        "系统"
+      ],
+      [
+        "撤销进程",
+        "死锁解除"
+      ],
+      [
+        "剥夺资源",
+        "死锁解除"
+      ],
+      [
+        "死锁解除",
+        "进程回退"
+      ],
+      [
+        "还原点",
+        "进程回退"
+      ]
+    ],
+    "count": 6,
+    "create_time": 1761793785,
+    "update_time": 1761793785,
+    "_id": "doc-b5aa6485f08fa52f1ae6912e99884079"
+  },
+  "doc-c39617d7522bbe85482a3d992382cd4b": {
+    "relation_pairs": [
+      [
+        "CPU Scheduling",
+        "Operating System"
+      ],
+      [
+        "Medium-Level Scheduling",
+        "Operating System"
+      ],
+      [
+        "CPU Allocation",
+        "Little-Level Scheduling"
+      ],
+      [
+        "Operating System",
+        "System Throughput"
+      ],
+      [
+        "CPU Scheduling",
+        "Multi-Program System"
+      ],
+      [
+        "Low-Level Scheduling",
+        "Process"
+      ],
+      [
+        "Medium-Level Scheduling",
+        "Process"
+      ],
+      [
+        "Process",
+        "Suspended State"
+      ],
+      [
+        "Process",
+        "System Throughput"
+      ],
+      [
+        "High-Level Scheduling",
+        "Job Queue"
+      ],
+      [
+        "Medium-Level Scheduling",
+        "Memory Utilization"
+      ],
+      [
+        "CPU Scheduling",
+        "Ready Queue"
+      ],
+      [
+        "Low-Level Scheduling",
+        "Medium-Level Scheduling"
+      ],
+      [
+        "Low-Level Scheduling",
+        "Ready Queue"
+      ],
+      [
+        "Process",
+        "Ready State"
+      ],
+      [
+        "Process",
+        "Process Execution"
+      ],
+      [
+        "High-Level Scheduling",
+        "Operating System"
+      ],
+      [
+        "High-Level Scheduling",
+        "Process"
+      ],
+      [
+        "Process Execution",
+        "Ready State"
+      ],
+      [
+        "Medium-Level Scheduling",
+        "Suspended State"
+      ],
+      [
+        "Backlog Queue",
+        "High-Level Scheduling"
+      ],
+      [
+        "High-Level Scheduling",
+        "Medium-Level Scheduling"
+      ]
+    ],
+    "count": 22,
+    "create_time": 1761793790,
+    "update_time": 1761793790,
+    "_id": "doc-c39617d7522bbe85482a3d992382cd4b"
+  },
+  "doc-fd78a6e2f6ac315b1d1c2a02efb03591": {
+    "relation_pairs": [
+      [
+        "资源分配",
+        "银行家算法"
+      ],
+      [
+        "最大需求",
+        "进程"
+      ],
+      [
+        "安全序列",
+        "系统安全状态"
+      ],
+      [
+        "死锁避免",
+        "系统安全状态"
+      ],
+      [
+        "资源分配",
+        "进程"
+      ],
+      [
+        "操作系统",
+        "银行家算法"
+      ],
+      [
+        "不安全状态",
+        "死锁避免"
+      ]
+    ],
+    "count": 7,
+    "create_time": 1761793826,
+    "update_time": 1761793826,
+    "_id": "doc-fd78a6e2f6ac315b1d1c2a02efb03591"
+  },
+  "doc-3cb253a00dc29a6f3e799f512507d052": {
+    "relation_pairs": [
+      [
+        "Kernel",
+        "Process"
+      ],
+      [
+        "Process",
+        "kill Function"
+      ],
+      [
+        "Process",
+        "Signal Processing"
+      ],
+      [
+        "Shared Memory",
+        "Synchronization and Mutual Exclusion Tools"
+      ],
+      [
+        "Direct Communication",
+        "Message Passing"
+      ],
+      [
+        "Default Signal Handler",
+        "Process"
+      ],
+      [
+        "High-Level Shared Memory",
+        "Shared Memory"
+      ],
+      [
+        "Linux",
+        "Pipe Communication"
+      ],
+      [
+        "Synchronization and Mutual Exclusion Tools",
+        "V Operation"
+      ],
+      [
+        "Bit Vector",
+        "Signal"
+      ],
+      [
+        "Blocked Signal Vector",
+        "Process Control Block"
+      ],
+      [
+        "Low-Level Shared Memory",
+        "Shared Memory"
+      ],
+      [
+        "Indirect Communication",
+        "Message Passing"
+      ],
+      [
+        "Kernel",
+        "System Event"
+      ],
+      [
+        "Pending Signal",
+        "Process"
+      ],
+      [
+        "Custom Signal Handler",
+        "Process"
+      ],
+      [
+        "Process Control Block",
+        "Signal Vector"
+      ],
+      [
+        "FIFO",
+        "Pipe Communication"
+      ],
+      [
+        "Pipe Communication",
+        "Producer-Consumer Pattern"
+      ],
+      [
+        "PV Operation",
+        "Process Communication"
+      ],
+      [
+        "Advanced Communication Method",
+        "Process Communication"
+      ],
+      [
+        "Indirect Communication",
+        "Mailbox"
+      ],
+      [
+        "Kernel Mode",
+        "User Mode"
+      ],
+      [
+        "Pipe Communication",
+        "Pipe File"
+      ],
+      [
+        "P Operation",
+        "Synchronization and Mutual Exclusion Tools"
+      ],
+      [
+        "Custom Signal Handler",
+        "Default Signal Handler"
+      ],
+      [
+        "Process Control Block",
+        "Signal"
+      ]
+    ],
+    "count": 27,
+    "create_time": 1761793870,
+    "update_time": 1761793870,
+    "_id": "doc-3cb253a00dc29a6f3e799f512507d052"
+  },
+  "doc-487071d7bc0418a368cd03f9a4b87b27": {
+    "relation_pairs": [
+      [
+        "Kernel-Level Thread",
+        "Multicore CPU Utilization"
+      ],
+      [
+        "多对多模型",
+        "时分多路复用"
+      ],
+      [
+        "Registers",
+        "Thread"
+      ],
+      [
+        "系统开销",
+        "组合方式"
+      ],
+      [
+        "Stack",
+        "Thread"
+      ],
+      [
+        "Thread",
+        "Thread Creation Function"
+      ],
+      [
+        "Stack Pointer",
+        "Thread"
+      ],
+      [
+        "多对一模型",
+        "用户级线程"
+      ],
+      [
+        "Thread",
+        "Thread State Transition"
+      ],
+      [
+        "Shared Address Space",
+        "Thread"
+      ],
+      [
+        "Combination Thread Implementation",
+        "Kernel-Level Thread"
+      ],
+      [
+        "CPU",
+        "Thread"
+      ],
+      [
+        "Stack",
+        "Thread Control Block"
+      ],
+      [
+        "内核级线程",
+        "多对多模型"
+      ],
+      [
+        "内核级线程",
+        "并行执行"
+      ],
+      [
+        "用户级线程",
+        "组合方式"
+      ],
+      [
+        "Context Switch",
+        "Thread"
+      ],
+      [
+        "Thread",
+        "Thread Priority"
+      ],
+      [
+        "Register Set",
+        "Thread"
+      ],
+      [
+        "System Call Blocking",
+        "User-Level Thread"
+      ],
+      [
+        "Execution State",
+        "Thread"
+      ],
+      [
+        "内核级线程",
+        "组合方式"
+      ],
+      [
+        "内核级线程",
+        "多对一模型"
+      ],
+      [
+        "Multiple CPU",
+        "Thread"
+      ],
+      [
+        "Register Set",
+        "Thread Control Block"
+      ],
+      [
+        "Thread Scheduling",
+        "Thread State Transition"
+      ],
+      [
+        "Thread",
+        "Thread Scheduling"
+      ],
+      [
+        "Thread",
+        "Thread Separation Function"
+      ],
+      [
+        "Combination Thread Implementation",
+        "User-Level Thread"
+      ],
+      [
+        "Process",
+        "Process Control Block"
+      ],
+      [
+        "Process",
+        "System Resource"
+      ],
+      [
+        "一对一模型",
+        "线程阻塞"
+      ],
+      [
+        "Blocked State",
+        "Thread"
+      ],
+      [
+        "Context Switching",
+        "Thread"
+      ],
+      [
+        "Thread",
+        "Thread Stack"
+      ],
+      [
+        "Running State",
+        "Thread"
+      ],
+      [
+        "Program Counter",
+        "Thread"
+      ],
+      [
+        "用户态",
+        "线程切换"
+      ],
+      [
+        "多对一模型",
+        "线程阻塞"
+      ],
+      [
+        "Program Counter",
+        "Thread Control Block"
+      ],
+      [
+        "Thread",
+        "Thread Private Storage"
+      ],
+      [
+        "Thread",
+        "Thread ID"
+      ],
+      [
+        "内核态",
+        "线程切换"
+      ],
+      [
+        "Context Switching",
+        "Thread State Transition"
+      ],
+      [
+        "Process",
+        "Thread"
+      ],
+      [
+        "System Resource",
+        "Thread"
+      ],
+      [
+        "Kernel-Level Thread",
+        "User-Level Thread"
+      ],
+      [
+        "一对一模型",
+        "内核级线程"
+      ],
+      [
+        "多对多模型",
+        "用户级线程"
+      ],
+      [
+        "一对一模型",
+        "用户级线程"
+      ],
+      [
+        "Ready State",
+        "Thread"
+      ],
+      [
+        "Thread",
+        "Thread Control Block"
+      ],
+      [
+        "Concurrency",
+        "Multithreading Model"
+      ],
+      [
+        "Single CPU",
+        "Thread"
+      ],
+      [
+        "一对一模型",
+        "系统开销"
+      ],
+      [
+        "Thread Control Block",
+        "Thread State Transition"
+      ],
+      [
+        "Thread",
+        "Thread Termination Function"
+      ]
+    ],
+    "count": 57,
+    "create_time": 1761793939,
+    "update_time": 1761793939,
+    "_id": "doc-487071d7bc0418a368cd03f9a4b87b27"
+  },
+  "doc-9aabe855c161e30442ff85ca7a64312e": {
+    "relation_pairs": [
+      [
+        "死锁",
+        "进程推进顺序非法"
+      ],
+      [
+        "不剥夺条件",
+        "死锁"
+      ],
+      [
+        "死锁",
+        "等待态"
+      ],
+      [
+        "互斥条件",
+        "死锁产生的必要条件"
+      ],
+      [
+        "资源",
+        "进程"
+      ],
+      [
+        "互斥条件",
+        "打印机"
+      ],
+      [
+        "就绪态",
+        "死锁"
+      ],
+      [
+        "不剥夺条件",
+        "死锁产生的必要条件"
+      ],
+      [
+        "死锁",
+        "死锁产生的必要条件"
+      ],
+      [
+        "死锁",
+        "饥饿"
+      ],
+      [
+        "死锁",
+        "系统资源竞争"
+      ],
+      [
+        "循环等待条件",
+        "死锁"
+      ],
+      [
+        "循环等待条件",
+        "过程资源的循环等待链"
+      ],
+      [
+        "循环等待条件",
+        "死锁产生的必要条件"
+      ],
+      [
+        "不可剥夺资源",
+        "互斥条件"
+      ],
+      [
+        "死锁",
+        "请求和保持条件"
+      ],
+      [
+        "死锁产生的必要条件",
+        "请求和保持条件"
+      ],
+      [
+        "互斥条件",
+        "死锁"
+      ]
+    ],
+    "count": 18,
+    "create_time": 1761793972,
+    "update_time": 1761793972,
+    "_id": "doc-9aabe855c161e30442ff85ca7a64312e"
+  },
+  "doc-491042f5eab097ef962a4657a4b61650": {
+    "relation_pairs": [
+      [
+        "Dispatcher",
+        "Scheduler"
+      ],
+      [
+        "Context Switcher",
+        "Scheduler"
+      ],
+      [
+        "Interrupt",
+        "Ready Queue"
+      ],
+      [
+        "CPU",
+        "Process"
+      ],
+      [
+        "Process",
+        "Scheduler"
+      ],
+      [
+        "Context Switcher",
+        "Process Control Block"
+      ],
+      [
+        "Context Switching",
+        "Process Scheduling"
+      ],
+      [
+        "I/O Device",
+        "Interrupt"
+      ],
+      [
+        "Scheduler",
+        "User-Level Threads"
+      ],
+      [
+        "Context Switcher",
+        "Load Store Instructions"
+      ],
+      [
+        "Kernel-Level Threads",
+        "Scheduler"
+      ],
+      [
+        "Idle Process",
+        "Ready Queue"
+      ],
+      [
+        "Dispatcher",
+        "Ready Queue"
+      ],
+      [
+        "Priority Principle",
+        "Shortest Process First"
+      ],
+      [
+        "CPU Registers",
+        "Context Switcher"
+      ],
+      [
+        "Preemptive Scheduling",
+        "Time Slice Principle"
+      ],
+      [
+        "Queue Manager",
+        "Scheduler"
+      ],
+      [
+        "Non-Preemptive Scheduling",
+        "Preemptive Scheduling"
+      ],
+      [
+        "Kernel-Level Threads",
+        "User-Level Threads"
+      ]
+    ],
+    "count": 19,
+    "create_time": 1761794036,
+    "update_time": 1761794036,
+    "_id": "doc-491042f5eab097ef962a4657a4b61650"
+  },
+  "doc-7ca51faf7f3faf56c56ab18dd6458c7e": {
+    "relation_pairs": [
+      [
+        "创建原语",
+        "就绪队列"
+      ],
+      [
+        "原语",
+        "进程控制"
+      ],
+      [
+        "终止原语",
+        "资源回收"
+      ],
+      [
+        "唤醒原语",
+        "等待队列"
+      ],
+      [
+        "等待队列",
+        "阻塞原语"
+      ],
+      [
+        "操作系统",
+        "进程控制"
+      ],
+      [
+        "唤醒原语",
+        "就绪队列"
+      ],
+      [
+        "Process",
+        "Wakeup"
+      ],
+      [
+        "创建原语",
+        "终止原语"
+      ],
+      [
+        "子进程",
+        "资源回收"
+      ],
+      [
+        "Blocking State",
+        "Process"
+      ],
+      [
+        "PCB",
+        "创建原语"
+      ],
+      [
+        "Block",
+        "Wakeup"
+      ],
+      [
+        "运行态",
+        "阻塞原语"
+      ],
+      [
+        "唤醒原语",
+        "阻塞原语"
+      ],
+      [
+        "终止原语",
+        "运行态"
+      ],
+      [
+        "子进程",
+        "父进程"
+      ],
+      [
+        "级联终止",
+        "终止原语"
+      ],
+      [
+        "Block",
+        "Process"
+      ]
+    ],
+    "count": 19,
+    "create_time": 1761794050,
+    "update_time": 1761794050,
+    "_id": "doc-7ca51faf7f3faf56c56ab18dd6458c7e"
+  },
+  "doc-6de1df73d142ee13cb1e9512464e4e80": {
+    "relation_pairs": [
+      [
+        "Deadlock Prevention",
+        "Orderly Resource Allocation"
+      ],
+      [
+        "Deadlock Prevention",
+        "First Protocol"
+      ],
+      [
+        "Deadlock Prevention",
+        "Request and Hold Condition"
+      ],
+      [
+        "Circular Wait Condition",
+        "Deadlock Prevention"
+      ],
+      [
+        "Deadlock Prevention",
+        "Mutual Exclusion Condition"
+      ],
+      [
+        "Orderly Resource Allocation",
+        "Resource Numbering"
+      ],
+      [
+        "Deadlock Prevention",
+        "No Preemption Condition"
+      ],
+      [
+        "Deadlock Prevention",
+        "Second Protocol"
+      ]
+    ],
+    "count": 8,
+    "create_time": 1761794105,
+    "update_time": 1761794105,
+    "_id": "doc-6de1df73d142ee13cb1e9512464e4e80"
+  },
+  "doc-2da376f0975743dcb0cc169c929cbe5c": {
+    "relation_pairs": [
+      [
+        "Process Control Block",
+        "Process Identifier"
+      ],
+      [
+        "Operating System",
+        "Process Control Block"
+      ],
+      [
+        "Process Control Block",
+        "Process Priority"
+      ],
+      [
+        "CPU Context",
+        "Process Control Block"
+      ],
+      [
+        "Process Control Block",
+        "User Identifier"
+      ],
+      [
+        "Process",
+        "Program Segment"
+      ],
+      [
+        "Process Control Block",
+        "Resource Allocation List"
+      ],
+      [
+        "Process Control Block",
+        "Process State"
+      ],
+      [
+        "Process",
+        "Process Control Block"
+      ],
+      [
+        "Data Segment",
+        "Process"
+      ],
+      [
+        "Linked Method",
+        "Process Control Block"
+      ],
+      [
+        "Indexed Method",
+        "Process Control Block"
+      ]
+    ],
+    "count": 12,
+    "create_time": 1761794165,
+    "update_time": 1761794165,
+    "_id": "doc-2da376f0975743dcb0cc169c929cbe5c"
+  },
+  "doc-fd195ae7c40727c5b83fa7b77d72095e": {
+    "relation_pairs": [
+      [
+        "Process",
+        "Program"
+      ],
+      [
+        "Process Entity",
+        "Related Data Segment"
+      ],
+      [
+        "Multi-Program Environment",
+        "Process"
+      ],
+      [
+        "Asynchrony",
+        "Process"
+      ],
+      [
+        "Process",
+        "Resource Allocation"
+      ],
+      [
+        "Dynamic Nature",
+        "Process"
+      ],
+      [
+        "Process",
+        "Process Control Block"
+      ],
+      [
+        "Process",
+        "Process Entity"
+      ],
+      [
+        "Independent Execution",
+        "Process"
+      ],
+      [
+        "Process Entity",
+        "Program Segment"
+      ],
+      [
+        "Process",
+        "Process Lifecycle"
+      ],
+      [
+        "Concurrency",
+        "Process"
+      ],
+      [
+        "Process",
+        "Time Slice"
+      ],
+      [
+        "Asynchrony",
+        "Process Synchronization Mechanism"
+      ],
+      [
+        "Mutual Dependence",
+        "Process"
+      ]
+    ],
+    "count": 15,
+    "create_time": 1761794217,
+    "update_time": 1761794217,
+    "_id": "doc-fd195ae7c40727c5b83fa7b77d72095e"
+  },
+  "doc-b7f639a9301d2ec0568bcbcad2dc3725": {
+    "relation_pairs": [
+      [
+        "上下文切换",
+        "进程切换"
+      ],
+      [
+        "切换",
+        "多任务操作系统"
+      ],
+      [
+        "内核态",
+        "系统调用"
+      ],
+      [
+        "进程切换",
+        "阻塞队列"
+      ],
+      [
+        "创建进程",
+        "系统调用"
+      ],
+      [
+        "上下文切换",
+        "进程PCB"
+      ],
+      [
+        "切换",
+        "调度"
+      ],
+      [
+        "I/O操作",
+        "系统调用"
+      ],
+      [
+        "就绪队列",
+        "进程切换"
+      ],
+      [
+        "上下文切换",
+        "程序计数器"
+      ],
+      [
+        "系统调用",
+        "系统调用处理程序"
+      ],
+      [
+        "I/O操作",
+        "系统设备"
+      ],
+      [
+        "CPU寄存器",
+        "上下文切换"
+      ],
+      [
+        "撤销进程",
+        "系统调用"
+      ],
+      [
+        "内核态",
+        "用户态"
+      ]
+    ],
+    "count": 15,
+    "create_time": 1761794247,
+    "update_time": 1761794247,
+    "_id": "doc-b7f639a9301d2ec0568bcbcad2dc3725"
+  },
+  "doc-76ab4199a2aae3d8b4b3b6c270c34a12": {
+    "relation_pairs": [
+      [
+        "CPU Scheduling Algorithm",
+        "Response Time"
+      ],
+      [
+        "CPU Scheduling Algorithm",
+        "Turnaround Time"
+      ],
+      [
+        "CPU Execution",
+        "Turnaround Time"
+      ],
+      [
+        "Short Job",
+        "System Throughput"
+      ],
+      [
+        "Ready Queue",
+        "Waiting Time"
+      ],
+      [
+        "Job Submission",
+        "Turnaround Time"
+      ],
+      [
+        "I/O Operation",
+        "Turnaround Time"
+      ],
+      [
+        "Turnaround Time",
+        "Weighted Turnaround Time"
+      ],
+      [
+        "Long Job",
+        "System Throughput"
+      ],
+      [
+        "Turnaround Time",
+        "Waiting Time"
+      ],
+      [
+        "Job Completion",
+        "Turnaround Time"
+      ],
+      [
+        "Interactive System",
+        "Response Time"
+      ],
+      [
+        "CPU Scheduling Algorithm",
+        "System Throughput"
+      ],
+      [
+        "CPU Scheduling Algorithm",
+        "CPU Utilization"
+      ],
+      [
+        "CPU Scheduling Algorithm",
+        "Waiting Time"
+      ]
+    ],
+    "count": 15,
+    "create_time": 1761794303,
+    "update_time": 1761794303,
+    "_id": "doc-76ab4199a2aae3d8b4b3b6c270c34a12"
+  }
+}

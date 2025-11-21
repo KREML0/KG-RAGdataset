@@ -1,0 +1,1290 @@
+{
+  "doc-c2534a02f1b3f01bcdf887749e6526e4": {
+    "relation_pairs": [
+      [
+        "低级格式化",
+        "磁盘"
+      ],
+      [
+        "引导块",
+        "自举程序"
+      ],
+      [
+        "坏块",
+        "备用块"
+      ],
+      [
+        "分区",
+        "逻辑格式化"
+      ],
+      [
+        "ROM",
+        "自举程序"
+      ],
+      [
+        "FAT表",
+        "坏块"
+      ],
+      [
+        "启动磁盘",
+        "引导块"
+      ],
+      [
+        "分区",
+        "磁盘主引导记录"
+      ],
+      [
+        "扇区",
+        "簇"
+      ],
+      [
+        "分区",
+        "引导扇区"
+      ],
+      [
+        "分区",
+        "磁盘"
+      ],
+      [
+        "主引导记录",
+        "磁盘主引导记录"
+      ],
+      [
+        "Windows系统",
+        "主引导记录"
+      ]
+    ],
+    "count": 13,
+    "create_time": 1761796233,
+    "update_time": 1761796233,
+    "_id": "doc-c2534a02f1b3f01bcdf887749e6526e4"
+  },
+  "doc-787f02e01c2af5cb6c640f2ab2160b3a": {
+    "relation_pairs": [
+      [
+        "Device Allocation",
+        "Device Control Table"
+      ],
+      [
+        "Device Allocation",
+        "Logical Unit Table"
+      ],
+      [
+        "Channel Control Table",
+        "Device Allocation"
+      ],
+      [
+        "Controller",
+        "Controller Control Table"
+      ],
+      [
+        "System Device Table",
+        "User-Specific LUT"
+      ],
+      [
+        "Device Allocation",
+        "FCFS Algorithm"
+      ],
+      [
+        "Device Driver Entry Address",
+        "Logical Unit Table"
+      ],
+      [
+        "Channel",
+        "Controller Control Table"
+      ],
+      [
+        "Device Allocation",
+        "Shared Device"
+      ],
+      [
+        "Controller Control Table",
+        "Process Control Block"
+      ],
+      [
+        "Device Allocation",
+        "Virtual Device"
+      ],
+      [
+        "Controller",
+        "Device Control Table"
+      ],
+      [
+        "Device Driver",
+        "Logical Unit Table"
+      ],
+      [
+        "Device Allocation",
+        "Unsafe Allocation Method"
+      ],
+      [
+        "Device Allocation",
+        "Highest Priority First Algorithm"
+      ],
+      [
+        "Controller Control Table",
+        "Device Allocation"
+      ],
+      [
+        "Logical Device Name",
+        "Logical Unit Table"
+      ],
+      [
+        "Single System LUT",
+        "Single User System"
+      ],
+      [
+        "Device Control Table",
+        "Process Control Block"
+      ],
+      [
+        "Multi User System",
+        "User-Specific LUT"
+      ],
+      [
+        "Channel",
+        "Channel Control Table"
+      ],
+      [
+        "Device Allocation",
+        "System Device Table"
+      ],
+      [
+        "Device Allocation",
+        "Safe Allocation Method"
+      ],
+      [
+        "Device Allocation",
+        "Exclusive Device"
+      ],
+      [
+        "Logical Unit Table",
+        "Physical Device Name"
+      ],
+      [
+        "Channel Control Table",
+        "Process Control Block"
+      ],
+      [
+        "Device Control Table",
+        "Physical Device"
+      ]
+    ],
+    "count": 27,
+    "create_time": 1761796254,
+    "update_time": 1761796254,
+    "_id": "doc-787f02e01c2af5cb6c640f2ab2160b3a"
+  },
+  "doc-f8acab16bd51fe8f837419ef179fc637": {
+    "relation_pairs": [
+      [
+        "设备独立性软件",
+        "设备驱动程序"
+      ],
+      [
+        "I/O系统",
+        "设备独立性软件"
+      ],
+      [
+        "设备公有操作",
+        "设备独立性软件"
+      ],
+      [
+        "操作系统",
+        "设备独立性软件"
+      ],
+      [
+        "功能实现差异",
+        "设备独立性软件"
+      ]
+    ],
+    "count": 5,
+    "create_time": 1761796260,
+    "update_time": 1761796260,
+    "_id": "doc-f8acab16bd51fe8f837419ef179fc637"
+  },
+  "doc-7b1bf538616277d755ad8617bf408c12": {
+    "relation_pairs": [
+      [
+        "Device Controller",
+        "Interrupt Driven Method"
+      ],
+      [
+        "I/O Control",
+        "Interrupt Driven Method"
+      ],
+      [
+        "Data Register",
+        "Device Controller"
+      ],
+      [
+        "CPU",
+        "Instruction Cycle"
+      ],
+      [
+        "Program Direct Control Method",
+        "Word (Byte)"
+      ],
+      [
+        "Context",
+        "Interrupt Signal"
+      ],
+      [
+        "CPU",
+        "Memory"
+      ],
+      [
+        "I/O Control",
+        "Program Direct Control Method"
+      ],
+      [
+        "CPU",
+        "Interrupt Driven Method"
+      ],
+      [
+        "Device Controller",
+        "Interrupt Signal"
+      ],
+      [
+        "CPU",
+        "Program Direct Control Method"
+      ],
+      [
+        "Interrupt Driven Method",
+        "Serial Operation"
+      ]
+    ],
+    "count": 12,
+    "create_time": 1761796295,
+    "update_time": 1761796295,
+    "_id": "doc-7b1bf538616277d755ad8617bf408c12"
+  },
+  "doc-1b86b922e001d35ad4f0f4fe7d20ef03": {
+    "relation_pairs": [
+      [
+        "DMA Way",
+        "Parallel Operation"
+      ],
+      [
+        "CPU",
+        "I/O Channel"
+      ],
+      [
+        "Channel Instruction",
+        "Channel Program"
+      ],
+      [
+        "I/O Channel",
+        "Memory"
+      ],
+      [
+        "DMA Controller",
+        "I/O Device"
+      ],
+      [
+        "DMA Way",
+        "Data Block"
+      ],
+      [
+        "DMA Way",
+        "Interrupt Signal"
+      ],
+      [
+        "I/O Channel",
+        "Parallel Operation"
+      ],
+      [
+        "DMA Controller",
+        "Memory"
+      ],
+      [
+        "DMA Way",
+        "I/O Device"
+      ],
+      [
+        "Channel Program",
+        "I/O Channel"
+      ],
+      [
+        "DMA Controller",
+        "Data Register"
+      ],
+      [
+        "Command/Status Register",
+        "DMA Controller"
+      ],
+      [
+        "DMA Way",
+        "Memory"
+      ],
+      [
+        "DMA Controller",
+        "Memory Address Register"
+      ],
+      [
+        "DMA Controller",
+        "Data Counter"
+      ],
+      [
+        "Data Block",
+        "I/O Channel"
+      ],
+      [
+        "CPU",
+        "DMA Way"
+      ],
+      [
+        "I/O Channel",
+        "Interrupt Signal"
+      ],
+      [
+        "I/O Channel",
+        "I/O Device"
+      ]
+    ],
+    "count": 20,
+    "create_time": 1761796297,
+    "update_time": 1761796297,
+    "_id": "doc-1b86b922e001d35ad4f0f4fe7d20ef03"
+  },
+  "doc-264fa4087fad0830a27723388157eee3": {
+    "relation_pairs": [
+      [
+        "Device Driver",
+        "Interrupt Handling"
+      ],
+      [
+        "Device Driver",
+        "ROM"
+      ],
+      [
+        "Device Driver",
+        "Device Status"
+      ],
+      [
+        "Device Driver",
+        "Unified Interface"
+      ],
+      [
+        "Device Driver",
+        "Physical Device Name"
+      ],
+      [
+        "Device Driver",
+        "I/O System"
+      ],
+      [
+        "Device Driver",
+        "Device Queue"
+      ],
+      [
+        "Device Controller",
+        "Device Driver"
+      ],
+      [
+        "Device Driver",
+        "Interrupt Request"
+      ],
+      [
+        "Device Driver",
+        "PCB"
+      ],
+      [
+        "Device Driver",
+        "Read Command"
+      ],
+      [
+        "Device Driver",
+        "Device Driver Entry Point"
+      ],
+      [
+        "Device Driver",
+        "Write Command"
+      ],
+      [
+        "Abstract I/O Request",
+        "Device Driver"
+      ]
+    ],
+    "count": 14,
+    "create_time": 1761796336,
+    "update_time": 1761796336,
+    "_id": "doc-264fa4087fad0830a27723388157eee3"
+  },
+  "doc-5eca8429d9d2d195386ae7d415efa68b": {
+    "relation_pairs": [
+      [
+        "Disk",
+        "Magnetic Track"
+      ],
+      [
+        "Disk Addressing",
+        "Surface"
+      ],
+      [
+        "Data Storage Density",
+        "Disk"
+      ],
+      [
+        "Fixed Head Disk",
+        "Magnetic Head"
+      ],
+      [
+        "Disk Platter",
+        "Removable Disk"
+      ],
+      [
+        "Magnetic Track",
+        "Sector"
+      ],
+      [
+        "Disk Drive",
+        "Disk Platter"
+      ],
+      [
+        "Disk Drive",
+        "Moving Head Disk"
+      ],
+      [
+        "Cylinder",
+        "Disk Platter"
+      ],
+      [
+        "Disk Drive",
+        "Fixed Disk"
+      ],
+      [
+        "Disk",
+        "Inter-Sector Gap"
+      ],
+      [
+        "Disk",
+        "Magnetic Head"
+      ],
+      [
+        "Cylinder",
+        "Disk Addressing"
+      ],
+      [
+        "IBM",
+        "Winchester Disk"
+      ],
+      [
+        "Disk",
+        "Inter-Track Gap"
+      ],
+      [
+        "Moving Head Disk",
+        "Winchester Disk"
+      ],
+      [
+        "Disk Addressing",
+        "Sector"
+      ]
+    ],
+    "count": 17,
+    "create_time": 1761796344,
+    "update_time": 1761796344,
+    "_id": "doc-5eca8429d9d2d195386ae7d415efa68b"
+  },
+  "doc-d38f67d322a4adb7d87a544b297f1adb": {
+    "relation_pairs": [
+      [
+        "Character Device Interface",
+        "Interrupt Driven I/O"
+      ],
+      [
+        "I/O Interface",
+        "Network Device Interface"
+      ],
+      [
+        "Character Buffer",
+        "Character Device Interface"
+      ],
+      [
+        "Character Device Interface",
+        "I/O Interface"
+      ],
+      [
+        "Character Device Interface",
+        "Socket Interface"
+      ],
+      [
+        "Block Device Interface",
+        "I/O Interface"
+      ],
+      [
+        "I/O Interface",
+        "Non Blocking I/O"
+      ],
+      [
+        "Block Device Interface",
+        "DMA I/O"
+      ],
+      [
+        "Network Device",
+        "Network Device Interface"
+      ],
+      [
+        "Character Device Interface",
+        "In-Control Instruction"
+      ],
+      [
+        "Character Device Interface",
+        "Open and Close Operations"
+      ],
+      [
+        "Character Device",
+        "Character Device Interface"
+      ],
+      [
+        "Block Device Interface",
+        "Memory Mapped Interface"
+      ],
+      [
+        "Blocking I/O",
+        "I/O Interface"
+      ],
+      [
+        "Block Device",
+        "Block Device Interface"
+      ]
+    ],
+    "count": 15,
+    "create_time": 1761796379,
+    "update_time": 1761796379,
+    "_id": "doc-d38f67d322a4adb7d87a544b297f1adb"
+  },
+  "doc-316f7e90e1f3c434878bc3dd44e3b172": {
+    "relation_pairs": [
+      [
+        "Disk Cache",
+        "Virtual Disk"
+      ],
+      [
+        "Physical Block Arrangement",
+        "Seek Time"
+      ],
+      [
+        "Look Algorithm",
+        "Scan Algorithm"
+      ],
+      [
+        "Disk Read/Write Operation",
+        "Rotational Latency"
+      ],
+      [
+        "Sector",
+        "Track"
+      ],
+      [
+        "Disk Cache",
+        "Transfer Time"
+      ],
+      [
+        "Disk Read/Write Operation",
+        "Transfer Time"
+      ],
+      [
+        "C-Look Algorithm",
+        "Circular Scan Algorithm"
+      ],
+      [
+        "Disk Scheduling Algorithm",
+        "Scan Algorithm"
+      ],
+      [
+        "Disk Head",
+        "Track"
+      ],
+      [
+        "Average Seek Time",
+        "Disk Scheduling Algorithm"
+      ],
+      [
+        "Disk Scheduling Algorithm",
+        "First Come First Served"
+      ],
+      [
+        "Delayed Writing",
+        "Disk Scheduling Algorithm"
+      ],
+      [
+        "Disk Surface Skew",
+        "Rotational Latency"
+      ],
+      [
+        "Disk Scheduling Algorithm",
+        "Shortest Seek Time First"
+      ],
+      [
+        "Disk Head",
+        "Sector"
+      ],
+      [
+        "Circular Scan Algorithm",
+        "Disk Scheduling Algorithm"
+      ],
+      [
+        "Pre-reading",
+        "Transfer Time"
+      ],
+      [
+        "Disk Scheduling Algorithm",
+        "Seek Time"
+      ],
+      [
+        "Disk Scheduling Algorithm",
+        "RAID"
+      ],
+      [
+        "Platter",
+        "Track"
+      ],
+      [
+        "Rotational Latency",
+        "Sector Interleaving"
+      ],
+      [
+        "Disk Read/Write Operation",
+        "Seek Time"
+      ]
+    ],
+    "count": 23,
+    "create_time": 1761796389,
+    "update_time": 1761796389,
+    "_id": "doc-316f7e90e1f3c434878bc3dd44e3b172"
+  },
+  "doc-cae68eac226893284aa15ffc3283cc80": {
+    "relation_pairs": [
+      [
+        "File Descriptor",
+        "read"
+      ],
+      [
+        "Kernel Mode",
+        "Process P"
+      ],
+      [
+        "Interrupt Request",
+        "Keyboard I/O Interface"
+      ],
+      [
+        "Kernel Mode",
+        "read"
+      ],
+      [
+        "Device Driver Layer",
+        "System Call Service Routine"
+      ],
+      [
+        "Interrupt Handling",
+        "Keyboard Interrupt Handler"
+      ],
+      [
+        "Kernel Buffer",
+        "System Call Service Routine"
+      ],
+      [
+        "Kernel Buffer",
+        "Keyboard Interrupt Handler"
+      ],
+      [
+        "Device Driver Layer",
+        "Kernel Buffer"
+      ],
+      [
+        "C Language Function Library",
+        "scanf"
+      ],
+      [
+        "Process P",
+        "Ready Queue"
+      ],
+      [
+        "User Buffer",
+        "scanf"
+      ],
+      [
+        "Kernel Buffer",
+        "User Buffer"
+      ],
+      [
+        "Blocked State",
+        "Process P"
+      ],
+      [
+        "Count",
+        "read"
+      ],
+      [
+        "System Call Service Routine",
+        "User Buffer"
+      ],
+      [
+        "User Buffer",
+        "read"
+      ],
+      [
+        "Interrupt Request",
+        "Keyboard Interrupt Handler"
+      ]
+    ],
+    "count": 18,
+    "create_time": 1761796418,
+    "update_time": 1761796418,
+    "_id": "doc-cae68eac226893284aa15ffc3283cc80"
+  },
+  "doc-bc08e11de25f64ccdfef8d727029a7db": {
+    "relation_pairs": [
+      [
+        "Buffer",
+        "Low-Speed Device"
+      ],
+      [
+        "Input",
+        "Single Buffer"
+      ],
+      [
+        "Buffer",
+        "CPU"
+      ],
+      [
+        "Cache",
+        "Low-Speed Device"
+      ],
+      [
+        "Buffer Pool",
+        "Empty Buffer Queue"
+      ],
+      [
+        "Double Buffer",
+        "Single Buffer"
+      ],
+      [
+        "Buffer",
+        "Data Granularity"
+      ],
+      [
+        "Data Input Process",
+        "Input Queue"
+      ],
+      [
+        "Buffer",
+        "Interrupt"
+      ],
+      [
+        "Circular Queue",
+        "Out Pointer"
+      ],
+      [
+        "Block",
+        "Disk Cache"
+      ],
+      [
+        "CPU",
+        "Level 2 Cache"
+      ],
+      [
+        "Data Output Process",
+        "Output Queue"
+      ],
+      [
+        "Buffer Pool",
+        "Sin Work Buffer"
+      ],
+      [
+        "CPU",
+        "Level 1 Cache"
+      ],
+      [
+        "Buffer",
+        "High-Speed Device"
+      ],
+      [
+        "Buffer Pool",
+        "Input Queue"
+      ],
+      [
+        "Disk Cache",
+        "I/O Device"
+      ],
+      [
+        "Cache",
+        "High-Speed Device"
+      ],
+      [
+        "Buffer Pool",
+        "Hin Work Buffer"
+      ],
+      [
+        "Data Extraction Process",
+        "Empty Buffer Queue"
+      ],
+      [
+        "Buffer",
+        "I/O Device"
+      ],
+      [
+        "Data Output Process",
+        "Empty Buffer Queue"
+      ],
+      [
+        "Buffer",
+        "Circular Queue"
+      ],
+      [
+        "Circular Buffer",
+        "Input"
+      ],
+      [
+        "CPU",
+        "Disk Cache"
+      ],
+      [
+        "Data Input Process",
+        "Empty Buffer Queue"
+      ],
+      [
+        "Output Queue",
+        "Output Retrieval Process"
+      ],
+      [
+        "Disk Cache",
+        "Level 2 Cache"
+      ],
+      [
+        "Disk Cache",
+        "System Memory"
+      ],
+      [
+        "Level 1 Cache",
+        "Level 2 Cache"
+      ],
+      [
+        "Circular Queue",
+        "In Pointer"
+      ],
+      [
+        "Circular Buffer",
+        "Double Buffer"
+      ],
+      [
+        "Disk Cache",
+        "Level 1 Cache"
+      ],
+      [
+        "Disk Cache",
+        "Memory"
+      ],
+      [
+        "I/O Device",
+        "Single Buffer"
+      ],
+      [
+        "Buffer",
+        "System Memory"
+      ],
+      [
+        "Empty Buffer Queue",
+        "Output Retrieval Process"
+      ],
+      [
+        "Data Extraction Process",
+        "Input Queue"
+      ],
+      [
+        "Double Buffer",
+        "Output"
+      ],
+      [
+        "Circular Buffer",
+        "Output"
+      ],
+      [
+        "Buffer",
+        "Device Management Subsystem"
+      ],
+      [
+        "Buffer Pool",
+        "Hout Work Buffer"
+      ],
+      [
+        "Buffer Pool",
+        "Sout Work Buffer"
+      ],
+      [
+        "Double Buffer",
+        "I/O Device"
+      ],
+      [
+        "Circular Buffer",
+        "I/O Device"
+      ],
+      [
+        "Buffer Pool",
+        "Output Queue"
+      ]
+    ],
+    "count": 47,
+    "create_time": 1761796454,
+    "update_time": 1761796454,
+    "_id": "doc-bc08e11de25f64ccdfef8d727029a7db"
+  },
+  "doc-1e6791234c2dc9ee6f432df1989fc60b": {
+    "relation_pairs": [
+      [
+        "设备命名",
+        "设备独立性软件"
+      ],
+      [
+        "I/O软件层次结构",
+        "设备独立性软件"
+      ],
+      [
+        "I/O进程",
+        "设备驱动程序"
+      ],
+      [
+        "设备独立性软件",
+        "设备释放"
+      ],
+      [
+        "缓冲管理",
+        "设备独立性软件"
+      ],
+      [
+        "中断处理程序",
+        "设备状态"
+      ],
+      [
+        "I/O软件层次结构",
+        "中断处理程序"
+      ],
+      [
+        "用户层软件",
+        "系统调用"
+      ],
+      [
+        "I/O软件层次结构",
+        "用户层软件"
+      ],
+      [
+        "设备控制器",
+        "设备驱动程序"
+      ],
+      [
+        "物理设备名",
+        "设备独立性软件"
+      ],
+      [
+        "设备独立性软件",
+        "逻辑设备名"
+      ],
+      [
+        "中断处理程序",
+        "修改进程状态"
+      ],
+      [
+        "统一接口",
+        "设备独立性软件"
+      ],
+      [
+        "I/O软件层次结构",
+        "设备驱动程序"
+      ],
+      [
+        "中断处理程序",
+        "进程上下文切换"
+      ],
+      [
+        "差错控制",
+        "设备独立性软件"
+      ],
+      [
+        "设备分配",
+        "设备独立性软件"
+      ],
+      [
+        "中断信号",
+        "中断处理程序"
+      ],
+      [
+        "设备保护",
+        "设备独立性软件"
+      ]
+    ],
+    "count": 20,
+    "create_time": 1761796552,
+    "update_time": 1761796552,
+    "_id": "doc-1e6791234c2dc9ee6f432df1989fc60b"
+  },
+  "doc-e7b28e64fec06193d6f8044f54a3af63": {
+    "relation_pairs": [
+      [
+        "共享设备",
+        "磁盘"
+      ],
+      [
+        "I/O Port Decoding",
+        "Unified Addressing"
+      ],
+      [
+        "I/O设备",
+        "操作系统设计"
+      ],
+      [
+        "打印机",
+        "独占设备"
+      ],
+      [
+        "状态寄存器",
+        "设备控制器"
+      ],
+      [
+        "人机交互设备",
+        "字符设备"
+      ],
+      [
+        "I/O逻辑",
+        "设备控制器"
+      ],
+      [
+        "地址线",
+        "设备控制器"
+      ],
+      [
+        "Independent Addressing",
+        "Speed of Addressing"
+      ],
+      [
+        "Address Space",
+        "Speed of Addressing"
+      ],
+      [
+        "Decoding Circuit Complexity",
+        "Unified Addressing"
+      ],
+      [
+        "I/O接口",
+        "设备控制器"
+      ],
+      [
+        "块设备",
+        "高速设备"
+      ],
+      [
+        "控制寄存器",
+        "设备控制器"
+      ],
+      [
+        "SPOOLing技术",
+        "虚拟设备"
+      ],
+      [
+        "低速设备",
+        "字符设备"
+      ],
+      [
+        "数据线",
+        "设备控制器"
+      ],
+      [
+        "数据寄存器",
+        "设备控制器"
+      ],
+      [
+        "Main Memory Address Space",
+        "Unified Addressing"
+      ],
+      [
+        "光盘",
+        "块设备"
+      ],
+      [
+        "串行接口",
+        "并行接口"
+      ],
+      [
+        "Memory-Mapped I/O",
+        "Unified Addressing"
+      ],
+      [
+        "网卡",
+        "网络通信设备"
+      ],
+      [
+        "I/O Port Decoding",
+        "Independent Addressing"
+      ],
+      [
+        "块设备",
+        "磁带"
+      ],
+      [
+        "独立编址",
+        "统一编址"
+      ],
+      [
+        "块设备",
+        "存储设备"
+      ],
+      [
+        "Dedicated I/O Instructions",
+        "Independent Addressing"
+      ],
+      [
+        "中断接口",
+        "程序查询接口"
+      ],
+      [
+        "Control Signal Complexity",
+        "Independent Addressing"
+      ],
+      [
+        "不可编程接口",
+        "可编程接口"
+      ],
+      [
+        "Independent Addressing",
+        "Two Independent Address Spaces"
+      ],
+      [
+        "控制线",
+        "设备控制器"
+      ],
+      [
+        "Flexibility in Programming",
+        "Unified Addressing"
+      ],
+      [
+        "网络通信设备",
+        "调制解调器"
+      ],
+      [
+        "DMA接口",
+        "中断接口"
+      ],
+      [
+        "Address Space Occupancy",
+        "Unified Addressing"
+      ],
+      [
+        "共享设备",
+        "网络通信设备"
+      ]
+    ],
+    "count": 38,
+    "create_time": 1761796556,
+    "update_time": 1761796556,
+    "_id": "doc-e7b28e64fec06193d6f8044f54a3af63"
+  },
+  "doc-8189302c7787e74dde6623016361fc8f": {
+    "relation_pairs": [
+      [
+        "Static Wear Leveling",
+        "Wear Leveling"
+      ],
+      [
+        "Flash Memory Lifetime",
+        "Wear Leveling"
+      ],
+      [
+        "Semiconductor Storage",
+        "Solid State Disk"
+      ],
+      [
+        "Block",
+        "Page"
+      ],
+      [
+        "Flash Translation Layer",
+        "Solid State Disk"
+      ],
+      [
+        "Random Write",
+        "Solid State Disk"
+      ],
+      [
+        "Dynamic Wear Leveling",
+        "Wear Leveling"
+      ],
+      [
+        "Mechanical Drive",
+        "Solid State Disk"
+      ],
+      [
+        "Flash Memory Chip",
+        "Solid State Disk"
+      ]
+    ],
+    "count": 9,
+    "create_time": 1761796587,
+    "update_time": 1761796587,
+    "_id": "doc-8189302c7787e74dde6623016361fc8f"
+  },
+  "doc-b309162a426d62e33a3be632483b375d": {
+    "relation_pairs": [
+      [
+        "I/O Devices",
+        "SPOOLing Technology"
+      ],
+      [
+        "SPOOLing Technology",
+        "Space for Time"
+      ],
+      [
+        "Input井",
+        "井管理程序"
+      ],
+      [
+        "SPOOLing File Queue",
+        "User Request Print Table"
+      ],
+      [
+        "CPU",
+        "SPOOLing Technology"
+      ],
+      [
+        "Input Buffer",
+        "Input井"
+      ],
+      [
+        "Input Buffer",
+        "Input Process"
+      ],
+      [
+        "Disk Buffer Area",
+        "SPOOLing Management Process"
+      ],
+      [
+        "Output Buffer",
+        "Output Process"
+      ],
+      [
+        "SPOOLing Technology",
+        "Virtual Device Function"
+      ],
+      [
+        "Output井",
+        "井管理程序"
+      ],
+      [
+        "SPOOLing Management Process",
+        "User Request Print Table"
+      ],
+      [
+        "Output Buffer",
+        "Output井"
+      ],
+      [
+        "Peripheral Control Machine",
+        "SPOOLing Technology"
+      ]
+    ],
+    "count": 14,
+    "create_time": 1761796589,
+    "update_time": 1761796589,
+    "_id": "doc-b309162a426d62e33a3be632483b375d"
+  }
+}
