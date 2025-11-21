@@ -1,0 +1,1194 @@
+{
+  "doc-c6de281f0215ff49a87e3727a7c2bb2a": {
+    "relation_pairs": [
+      [
+        "Memory Management",
+        "Memory Sharing"
+      ],
+      [
+        "Memory Management",
+        "Storage Protection"
+      ],
+      [
+        "Multi-Programming",
+        "Operating System"
+      ],
+      [
+        "Memory Management",
+        "Memory Space Allocation"
+      ],
+      [
+        "Memory Management",
+        "Virtual Storage Technology"
+      ],
+      [
+        "Memory Management",
+        "Memory Space Recovery"
+      ],
+      [
+        "Memory Management",
+        "Program and Data"
+      ],
+      [
+        "Logical Address",
+        "Memory Management"
+      ],
+      [
+        "Main Memory",
+        "Memory Management"
+      ],
+      [
+        "Memory Management",
+        "Operating System"
+      ],
+      [
+        "Memory Management",
+        "Physical Address"
+      ]
+    ],
+    "count": 11,
+    "create_time": 1761794382,
+    "update_time": 1761794382,
+    "_id": "doc-c6de281f0215ff49a87e3727a7c2bb2a"
+  },
+  "doc-e9724523b61c71a64ad927ea59b8337a": {
+    "relation_pairs": [
+      [
+        "4类页面",
+        "改进型时钟置换算法"
+      ],
+      [
+        "最近最久未使用置换算法",
+        "页面置换算法"
+      ],
+      [
+        "Belady异常",
+        "先进先出置换算法"
+      ],
+      [
+        "最近最久未使用置换算法",
+        "硬件支持"
+      ],
+      [
+        "3类页面",
+        "改进型时钟置换算法"
+      ],
+      [
+        "最佳置换算法",
+        "页面置换算法"
+      ],
+      [
+        "改进型时钟置换算法",
+        "时钟置换算法"
+      ],
+      [
+        "时钟置换算法",
+        "页面置换算法"
+      ],
+      [
+        "1类页面",
+        "改进型时钟置换算法"
+      ],
+      [
+        "先进先出置换算法",
+        "页面置换算法"
+      ],
+      [
+        "先进先出置换算法",
+        "物理块"
+      ],
+      [
+        "访问位",
+        "页面置换算法"
+      ],
+      [
+        "最佳置换算法",
+        "缺页率"
+      ],
+      [
+        "修改位",
+        "改进型时钟置换算法"
+      ],
+      [
+        "2类页面",
+        "改进型时钟置换算法"
+      ]
+    ],
+    "count": 15,
+    "create_time": 1761794400,
+    "update_time": 1761794400,
+    "_id": "doc-e9724523b61c71a64ad927ea59b8337a"
+  },
+  "doc-5a8929ecef7cbf8892a009420c53322d": {
+    "relation_pairs": [
+      [
+        "Memory-Mapped Files",
+        "Process Virtual Address Space"
+      ],
+      [
+        "Memory-Mapped Files",
+        "Page"
+      ],
+      [
+        "Memory-Mapped Files",
+        "Operating System"
+      ],
+      [
+        "Memory-Mapped Files",
+        "System Call"
+      ],
+      [
+        "Memory-Mapped Files",
+        "Multiple Processes"
+      ],
+      [
+        "Memory-Mapped Files",
+        "Virtual Memory"
+      ],
+      [
+        "File Content",
+        "Memory-Mapped Files"
+      ],
+      [
+        "Memory-Mapped Files",
+        "Shared Memory"
+      ],
+      [
+        "Memory-Mapped Files",
+        "Performance Optimization"
+      ],
+      [
+        "Disk File",
+        "Memory-Mapped Files"
+      ]
+    ],
+    "count": 10,
+    "create_time": 1761794445,
+    "update_time": 1761794445,
+    "_id": "doc-5a8929ecef7cbf8892a009420c53322d"
+  },
+  "doc-f59ab8ff80e1533c966b7cb6b20563dc": {
+    "relation_pairs": [
+      [
+        "快速适应算法",
+        "空闲分区链"
+      ],
+      [
+        "邻近适应算法",
+        "首次适应算法"
+      ],
+      [
+        "动态分区分配",
+        "外部碎片"
+      ],
+      [
+        "空闲分区链",
+        "首次适应算法"
+      ],
+      [
+        "伙伴系统",
+        "快速适应算法"
+      ],
+      [
+        "最坏适应算法",
+        "空闲分区链"
+      ],
+      [
+        "哈希算法",
+        "空闲分区链表"
+      ],
+      [
+        "最佳适应算法",
+        "空闲分区链"
+      ],
+      [
+        "动态分区分配",
+        "紧凑技术"
+      ],
+      [
+        "内存利用率",
+        "外部碎片"
+      ],
+      [
+        "动态分区分配",
+        "空闲分区链"
+      ]
+    ],
+    "count": 11,
+    "create_time": 1761794479,
+    "update_time": 1761794479,
+    "_id": "doc-f59ab8ff80e1533c966b7cb6b20563dc"
+  },
+  "doc-c195ab08b96907e43c39705a88501db8": {
+    "relation_pairs": [
+      [
+        "段表",
+        "段表寄存器"
+      ],
+      [
+        "二维地址空间",
+        "段页式存储管理"
+      ],
+      [
+        "分段存储管理",
+        "段页式存储管理"
+      ],
+      [
+        "段页式存储管理",
+        "逻辑段"
+      ],
+      [
+        "地址变换",
+        "页表"
+      ],
+      [
+        "段号",
+        "逻辑地址"
+      ],
+      [
+        "地址变换",
+        "段表"
+      ],
+      [
+        "段表",
+        "页表"
+      ],
+      [
+        "分页存储管理",
+        "段页式存储管理"
+      ],
+      [
+        "逻辑地址",
+        "页号"
+      ],
+      [
+        "地址变换",
+        "物理地址"
+      ],
+      [
+        "段页式存储管理",
+        "物理块"
+      ],
+      [
+        "逻辑地址",
+        "页内偏移量"
+      ],
+      [
+        "段页式存储管理",
+        "页面"
+      ]
+    ],
+    "count": 14,
+    "create_time": 1761794514,
+    "update_time": 1761794514,
+    "_id": "doc-c195ab08b96907e43c39705a88501db8"
+  },
+  "doc-c09d18569a1b1c90198e18b0108e8c32": {
+    "relation_pairs": [
+      [
+        "目标模块",
+        "链接"
+      ],
+      [
+        "不连续的存储区",
+        "动态运行时装入"
+      ],
+      [
+        "装入模块",
+        "链接"
+      ],
+      [
+        "装入",
+        "装入模块"
+      ],
+      [
+        "可重定位装入",
+        "绝对装入"
+      ],
+      [
+        "实际内存地址",
+        "逻辑地址"
+      ],
+      [
+        "可重定位装入",
+        "重定位"
+      ],
+      [
+        "用户源程序",
+        "编译"
+      ],
+      [
+        "装入时动态链接",
+        "运行时动态链接"
+      ],
+      [
+        "动态运行时装入",
+        "重定位"
+      ],
+      [
+        "创建进程",
+        "程序的链接与装入"
+      ],
+      [
+        "动态运行时装入",
+        "重定位寄存器"
+      ],
+      [
+        "动态运行时装入",
+        "程序段的共享"
+      ],
+      [
+        "装入时动态链接",
+        "静态链接"
+      ],
+      [
+        "目标模块",
+        "编译"
+      ]
+    ],
+    "count": 15,
+    "create_time": 1761794528,
+    "update_time": 1761794528,
+    "_id": "doc-c09d18569a1b1c90198e18b0108e8c32"
+  },
+  "doc-3c9d6c4c9f8b1850281a50533371f77d": {
+    "relation_pairs": [
+      [
+        "Kswapd",
+        "Memory Usage Threshold"
+      ],
+      [
+        "Kswapd",
+        "Page Frame Recycling"
+      ],
+      [
+        "Page Frame Recycling",
+        "User-Process Page Frames"
+      ],
+      [
+        "Kernel-Used Page Frames",
+        "Page Frame Recycling"
+      ],
+      [
+        "Free Page List",
+        "Page Buffering Algorithm"
+      ],
+      [
+        "Modified Page List",
+        "Page Buffering Algorithm"
+      ]
+    ],
+    "count": 6,
+    "create_time": 1761794568,
+    "update_time": 1761794568,
+    "_id": "doc-3c9d6c4c9f8b1850281a50533371f77d"
+  },
+  "doc-00e431215b94639001c5095d3c4f8b1c": {
+    "relation_pairs": [
+      [
+        "请求分页存储管理",
+        "页表机制"
+      ],
+      [
+        "局部性原理",
+        "虚拟内存"
+      ],
+      [
+        "虚拟存储器",
+        "虚拟性"
+      ],
+      [
+        "物理地址",
+        "逻辑地址"
+      ],
+      [
+        "段表机制",
+        "逻辑地址"
+      ],
+      [
+        "段表机制",
+        "请求分段存储管理"
+      ],
+      [
+        "虚拟内存",
+        "请求分段存储管理"
+      ],
+      [
+        "虚拟内存",
+        "请求段页式存储管理"
+      ],
+      [
+        "多次性",
+        "虚拟存储器"
+      ],
+      [
+        "对换性",
+        "虚拟存储器"
+      ],
+      [
+        "内存-外存两级存储器结构",
+        "虚拟内存"
+      ],
+      [
+        "内存",
+        "外存"
+      ],
+      [
+        "虚拟内存",
+        "请求分页存储管理"
+      ],
+      [
+        "中断机构",
+        "请求分段存储管理"
+      ],
+      [
+        "逻辑地址",
+        "页表机制"
+      ],
+      [
+        "外存",
+        "对换区"
+      ],
+      [
+        "中断机构",
+        "请求分页存储管理"
+      ]
+    ],
+    "count": 17,
+    "create_time": 1761794571,
+    "update_time": 1761794571,
+    "_id": "doc-00e431215b94639001c5095d3c4f8b1c"
+  },
+  "doc-2fa1a754b848fd3412be2058c0482b68": {
+    "relation_pairs": [
+      [
+        "Single Continuous Allocation",
+        "System Area"
+      ],
+      [
+        "External Fragmentation",
+        "Single Continuous Allocation"
+      ],
+      [
+        "Internal Fragmentation",
+        "Single Continuous Allocation"
+      ],
+      [
+        "Single Continuous Allocation",
+        "User Program"
+      ],
+      [
+        "Single Continuous Allocation",
+        "User Area"
+      ],
+      [
+        "Memory Utilization",
+        "Single Continuous Allocation"
+      ],
+      [
+        "Memory Protection",
+        "Single Continuous Allocation"
+      ]
+    ],
+    "count": 7,
+    "create_time": 1761794619,
+    "update_time": 1761794619,
+    "_id": "doc-2fa1a754b848fd3412be2058c0482b68"
+  },
+  "doc-46462724e0de563d009072de78fa1d68": {
+    "relation_pairs": [
+      [
+        "Outer Page Table",
+        "Two-Level Page Table"
+      ],
+      [
+        "Page Directory Base Address Register",
+        "Page Directory Register"
+      ],
+      [
+        "Logical Address",
+        "Page Number"
+      ],
+      [
+        "Basic Page Storage Management",
+        "Page"
+      ],
+      [
+        "Page Table",
+        "Translation Lookaside Buffer"
+      ],
+      [
+        "Multi-Level Page Table",
+        "Two-Level Page Table"
+      ],
+      [
+        "Page Frame",
+        "Physical Block"
+      ],
+      [
+        "Page Directory Register",
+        "Two-Level Page Table"
+      ],
+      [
+        "Page Table",
+        "Page Table Entry"
+      ],
+      [
+        "Basic Address Transformation Mechanism",
+        "Page Table"
+      ],
+      [
+        "Page Number",
+        "Page Table"
+      ],
+      [
+        "Page Number",
+        "Page Table Length"
+      ],
+      [
+        "Second-Level Page Number",
+        "Two-Level Page Table"
+      ],
+      [
+        "Basic Page Storage Management",
+        "Page Frame"
+      ],
+      [
+        "Physical Address",
+        "Physical Block Number"
+      ],
+      [
+        "Page Table",
+        "Page Table Register"
+      ],
+      [
+        "Fast Table",
+        "Translation Lookaside Buffer"
+      ],
+      [
+        "Logical Address",
+        "Page Offset"
+      ],
+      [
+        "Basic Address Transformation Mechanism",
+        "Page Table Register"
+      ],
+      [
+        "Outer Page Table",
+        "Page Directory"
+      ],
+      [
+        "Page Table",
+        "Slow Table"
+      ],
+      [
+        "Logical Address Space",
+        "Page"
+      ],
+      [
+        "Page",
+        "Page Size"
+      ]
+    ],
+    "count": 23,
+    "create_time": 1761794647,
+    "update_time": 1761794647,
+    "_id": "doc-46462724e0de563d009072de78fa1d68"
+  },
+  "doc-abb4ec292dd5335d76c0413487939cbe": {
+    "relation_pairs": [
+      [
+        "Fixed Allocation",
+        "Local Replacement"
+      ],
+      [
+        "Page Fault Rate",
+        "Resident Set Size"
+      ],
+      [
+        "File Area",
+        "Request-Paging System"
+      ],
+      [
+        "Physical Page Frame",
+        "Proportional Allocation Algorithm"
+      ],
+      [
+        "Average Allocation Algorithm",
+        "Physical Page Frame"
+      ],
+      [
+        "Global Replacement",
+        "Local Replacement"
+      ],
+      [
+        "Local Replacement",
+        "Variable Allocation"
+      ],
+      [
+        "Multiprogramming Degree",
+        "Resident Set Size"
+      ],
+      [
+        "Page Frame Allocation",
+        "Resident Set Size"
+      ],
+      [
+        "Request-Paging System",
+        "Swap Area"
+      ],
+      [
+        "Page Fault Rate",
+        "Preloading Page Strategy"
+      ],
+      [
+        "File Area",
+        "Swap Area"
+      ],
+      [
+        "Physical Page Frame",
+        "Priority Allocation Algorithm"
+      ],
+      [
+        "File Area",
+        "UNIX Method"
+      ],
+      [
+        "Disk I/O Speed",
+        "Swap Area"
+      ],
+      [
+        "Demand Paging",
+        "Virtual Memory"
+      ],
+      [
+        "Demand Page Strategy",
+        "Request-Paging System"
+      ],
+      [
+        "Global Replacement",
+        "Variable Allocation"
+      ],
+      [
+        "Swap Area",
+        "UNIX Method"
+      ],
+      [
+        "Fixed Allocation",
+        "Variable Allocation"
+      ],
+      [
+        "Demand Page Strategy",
+        "Page Fault"
+      ]
+    ],
+    "count": 21,
+    "create_time": 1761794663,
+    "update_time": 1761794663,
+    "_id": "doc-abb4ec292dd5335d76c0413487939cbe"
+  },
+  "doc-28a7b83e6af7f15e967e78c26eccf799": {
+    "relation_pairs": [
+      [
+        "Address Translation Mechanism",
+        "Page Table"
+      ],
+      [
+        "Blocking Queue",
+        "Page Fault Interrupt"
+      ],
+      [
+        "Page Table",
+        "Translation Lookaside Buffer"
+      ],
+      [
+        "Basic Paging System",
+        "Request Paging System"
+      ],
+      [
+        "Page Table",
+        "Page Table Entry"
+      ],
+      [
+        "Modify Bit M",
+        "Page Replacement Algorithm"
+      ],
+      [
+        "Page Frame",
+        "Page Replacement Algorithm"
+      ],
+      [
+        "Page Fault Interrupt",
+        "Ready Queue"
+      ],
+      [
+        "Page Table Entry",
+        "Status Bit P"
+      ],
+      [
+        "Physical Address",
+        "Physical Block Number"
+      ],
+      [
+        "Address Translation Mechanism",
+        "Physical Address"
+      ],
+      [
+        "Address Translation Mechanism",
+        "Virtual Address"
+      ],
+      [
+        "Modify Bit M",
+        "Page Fault Handler"
+      ],
+      [
+        "Modify Bit M",
+        "Page Table Entry"
+      ],
+      [
+        "External Storage Address",
+        "Page Fault Handler"
+      ],
+      [
+        "External Storage Address",
+        "Page Table Entry"
+      ],
+      [
+        "Request Paging System",
+        "Virtual Memory"
+      ],
+      [
+        "Page Fault Handler",
+        "Page Fault Interrupt"
+      ],
+      [
+        "Address Translation Mechanism",
+        "Physical Block Number"
+      ],
+      [
+        "Page Fault Interrupt",
+        "Page Frame"
+      ],
+      [
+        "Access Field A",
+        "Page Table Entry"
+      ],
+      [
+        "Address Translation Mechanism",
+        "Translation Lookaside Buffer"
+      ]
+    ],
+    "count": 22,
+    "create_time": 1761794685,
+    "update_time": 1761794685,
+    "_id": "doc-28a7b83e6af7f15e967e78c26eccf799"
+  },
+  "doc-c8697590fab35afe994351ccfc05bbac": {
+    "relation_pairs": [
+      [
+        "Main Memory",
+        "Physical Address"
+      ],
+      [
+        "Logical Address",
+        "Page Table"
+      ],
+      [
+        "Address Relocation",
+        "Memory Management Unit"
+      ],
+      [
+        "Memory Management Unit",
+        "Page Table"
+      ],
+      [
+        "Logical Address",
+        "Virtual Address Space"
+      ],
+      [
+        "Operating System",
+        "Page Table"
+      ],
+      [
+        "Logical Address",
+        "Process"
+      ],
+      [
+        "Address Relocation",
+        "Linker"
+      ],
+      [
+        "Operating System",
+        "Process"
+      ]
+    ],
+    "count": 9,
+    "create_time": 1761794710,
+    "update_time": 1761794710,
+    "_id": "doc-c8697590fab35afe994351ccfc05bbac"
+  },
+  "doc-f688f41802e3a8adfb553475e4ca265e": {
+    "relation_pairs": [
+      [
+        "Fixed Partition Allocation",
+        "Partition Size Equal"
+      ],
+      [
+        "External Fragmentation",
+        "Fixed Partition Allocation"
+      ],
+      [
+        "Fixed Partition Allocation",
+        "Partition Size Unequal"
+      ],
+      [
+        "Fixed Partition Allocation",
+        "User Memory Space"
+      ],
+      [
+        "Job",
+        "Memory Partition"
+      ],
+      [
+        "Fixed Partition Allocation",
+        "Internal Fragmentation"
+      ],
+      [
+        "Fixed Partition Allocation",
+        "Partition Usage Table"
+      ]
+    ],
+    "count": 7,
+    "create_time": 1761794723,
+    "update_time": 1761794723,
+    "_id": "doc-f688f41802e3a8adfb553475e4ca265e"
+  },
+  "doc-fa7ddc38beb083a10e073654dee57a19": {
+    "relation_pairs": [
+      [
+        "离散分配方式",
+        "页式存储管理"
+      ],
+      [
+        "固定分区分配",
+        "存储管理方式"
+      ],
+      [
+        "存储管理方式",
+        "操作系统"
+      ],
+      [
+        "分段存储管理",
+        "存储管理方式"
+      ],
+      [
+        "存储管理方式",
+        "离散分配方式"
+      ],
+      [
+        "动态分区分配",
+        "存储管理方式"
+      ],
+      [
+        "单一连续分配",
+        "存储管理方式"
+      ]
+    ],
+    "count": 7,
+    "create_time": 1761794763,
+    "update_time": 1761794763,
+    "_id": "doc-fa7ddc38beb083a10e073654dee57a19"
+  },
+  "doc-dd63fcc97211dcfcfa94d11eff1be6f8": {
+    "relation_pairs": [
+      [
+        "缺页率",
+        "页面大小"
+      ],
+      [
+        "写回磁盘的频率",
+        "磁盘I/O次数"
+      ],
+      [
+        "局部性原理",
+        "缺页率"
+      ],
+      [
+        "已修改换出页面的链表",
+        "磁盘I/O次数"
+      ],
+      [
+        "缺页率",
+        "页面置换算法"
+      ],
+      [
+        "程序编制方法",
+        "缺页率"
+      ],
+      [
+        "物理块数",
+        "缺页率"
+      ]
+    ],
+    "count": 7,
+    "create_time": 1761794763,
+    "update_time": 1761794763,
+    "_id": "doc-dd63fcc97211dcfcfa94d11eff1be6f8"
+  },
+  "doc-5479cc3e41d3a11f68f2cb90f11aab62": {
+    "relation_pairs": [
+      [
+        "Memory Space",
+        "User Program"
+      ],
+      [
+        "Continuous Allocation Method",
+        "User Program"
+      ],
+      [
+        "Continuous Allocation Method",
+        "Fixed Partition Allocation"
+      ],
+      [
+        "Continuous Allocation Method",
+        "Single Continuous Allocation"
+      ],
+      [
+        "Continuous Allocation Method",
+        "Dynamic Partition Allocation"
+      ]
+    ],
+    "count": 5,
+    "create_time": 1761794787,
+    "update_time": 1761794787,
+    "_id": "doc-5479cc3e41d3a11f68f2cb90f11aab62"
+  },
+  "doc-67ae509cb7f3a2cdf2694e125b8725c3": {
+    "relation_pairs": [
+      [
+        "工作集",
+        "驻留集"
+      ],
+      [
+        "抖动",
+        "页面置换"
+      ],
+      [
+        "工作集",
+        "缺页"
+      ],
+      [
+        "抖动",
+        "物理块"
+      ]
+    ],
+    "count": 4,
+    "create_time": 1761794797,
+    "update_time": 1761794797,
+    "_id": "doc-67ae509cb7f3a2cdf2694e125b8725c3"
+  },
+  "doc-6a91872eefca67b87c6a12b37faf30eb": {
+    "relation_pairs": [
+      [
+        "CPU",
+        "Memory Protection"
+      ],
+      [
+        "Operating System Kernel",
+        "Privileged Instruction"
+      ],
+      [
+        "Memory Protection",
+        "Relocation Register"
+      ],
+      [
+        "Bound Address Register",
+        "Memory Protection"
+      ],
+      [
+        "Memory Management Unit",
+        "Relocation Register"
+      ],
+      [
+        "Bound Address Register",
+        "Memory Management Unit"
+      ]
+    ],
+    "count": 6,
+    "create_time": 1761794816,
+    "update_time": 1761794816,
+    "_id": "doc-6a91872eefca67b87c6a12b37faf30eb"
+  },
+  "doc-00b255b459e05b4695b33c9dceed4321": {
+    "relation_pairs": [
+      [
+        "Code Sharing",
+        "Paging System"
+      ],
+      [
+        "Code Sharing",
+        "Segmentation System"
+      ],
+      [
+        "Memory Sharing",
+        "Read-Only Regions"
+      ],
+      [
+        "Paging System",
+        "Shared Code Area"
+      ],
+      [
+        "Page Table Entry",
+        "Paging System"
+      ],
+      [
+        "Execution Time",
+        "Reentrant Code"
+      ],
+      [
+        "Read-Only Regions",
+        "Reentrant Code"
+      ],
+      [
+        "Private Data Area",
+        "Process"
+      ],
+      [
+        "Reentrant Code",
+        "Shared Code Area"
+      ],
+      [
+        "Paging System",
+        "Physical Page Number"
+      ],
+      [
+        "Segment Table Entry",
+        "Segmentation System"
+      ],
+      [
+        "Segmentation System",
+        "Shared Code Segment"
+      ],
+      [
+        "Process",
+        "Shared Code Area"
+      ],
+      [
+        "Private Data Area",
+        "Reentrant Code"
+      ]
+    ],
+    "count": 14,
+    "create_time": 1761794865,
+    "update_time": 1761794865,
+    "_id": "doc-00b255b459e05b4695b33c9dceed4321"
+  },
+  "doc-14a72f660cb4c5e34ac9c9ddaed64956": {
+    "relation_pairs": [
+      [
+        "地址变换机构",
+        "物理地址"
+      ],
+      [
+        "分段管理方式",
+        "段"
+      ],
+      [
+        "段表",
+        "段表寄存器"
+      ],
+      [
+        "段号S",
+        "逻辑地址结构"
+      ],
+      [
+        "段内偏移量W",
+        "逻辑地址结构"
+      ],
+      [
+        "地址变换机构",
+        "段内偏移量W"
+      ],
+      [
+        "地址变换机构",
+        "段表"
+      ],
+      [
+        "分段管理方式",
+        "逻辑地址空间"
+      ],
+      [
+        "地址变换机构",
+        "段号S"
+      ],
+      [
+        "分段管理方式",
+        "虚拟地址空间"
+      ],
+      [
+        "分段管理方式",
+        "地址越界保护"
+      ],
+      [
+        "分段管理方式",
+        "存取控制保护"
+      ],
+      [
+        "共享段表",
+        "可重入代码"
+      ]
+    ],
+    "count": 13,
+    "create_time": 1761794867,
+    "update_time": 1761794867,
+    "_id": "doc-14a72f660cb4c5e34ac9c9ddaed64956"
+  },
+  "doc-595c1a74214288cf8d47eda3bbc75afe": {
+    "relation_pairs": [
+      [
+        "Executable Program File",
+        "Process Memory Image"
+      ],
+      [
+        "Code Segment",
+        "Process Memory Image"
+      ],
+      [
+        "Process Control Block",
+        "Process Memory Image"
+      ],
+      [
+        "Data Segment",
+        "Process Memory Image"
+      ],
+      [
+        "Process Memory Image",
+        "Stack"
+      ],
+      [
+        "Free Function",
+        "Heap"
+      ],
+      [
+        "Heap",
+        "Malloc Function"
+      ],
+      [
+        "Malloc Function",
+        "Stack"
+      ],
+      [
+        "Operating System",
+        "Process Control Block"
+      ],
+      [
+        "Heap",
+        "Process Memory Image"
+      ]
+    ],
+    "count": 10,
+    "create_time": 1761794887,
+    "update_time": 1761794887,
+    "_id": "doc-595c1a74214288cf8d47eda3bbc75afe"
+  }
+}

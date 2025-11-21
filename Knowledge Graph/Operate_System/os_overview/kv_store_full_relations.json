@@ -1,0 +1,1562 @@
+{
+  "doc-76a6cbb13f9f56639943d651001927f1": {
+    "relation_pairs": [
+      [
+        "Linux",
+        "Personal Computer Operating System"
+      ],
+      [
+        "Personal Computer Operating System",
+        "Smartphone Operating System"
+      ],
+      [
+        "Gaming",
+        "Personal Computer Operating System"
+      ],
+      [
+        "Personal Computer Operating System",
+        "Server Operating System"
+      ],
+      [
+        "Personal Computer Operating System",
+        "Text Processing"
+      ],
+      [
+        "Personal Computer Operating System",
+        "Windows"
+      ],
+      [
+        "Electronic Spreadsheet",
+        "Personal Computer Operating System"
+      ],
+      [
+        "Embedded Operating System",
+        "Personal Computer Operating System"
+      ],
+      [
+        "MacOS",
+        "Personal Computer Operating System"
+      ]
+    ],
+    "count": 9,
+    "create_time": 1761792401,
+    "update_time": 1761792401,
+    "_id": "doc-76a6cbb13f9f56639943d651001927f1"
+  },
+  "doc-0af650f15cedb36b86574296b902a8b7": {
+    "relation_pairs": [
+      [
+        "Concurrency",
+        "Time-Sharing Execution"
+      ],
+      [
+        "Multiple Processors",
+        "Parallel Execution"
+      ],
+      [
+        "Concurrency",
+        "Single Processor System"
+      ],
+      [
+        "Concurrency",
+        "Parallelism"
+      ]
+    ],
+    "count": 4,
+    "create_time": 1761792435,
+    "update_time": 1761792435,
+    "_id": "doc-0af650f15cedb36b86574296b902a8b7"
+  },
+  "doc-d00f9f1b390a147937e18ef421cdc0c0": {
+    "relation_pairs": [
+      [
+        "System Call",
+        "System Call Number"
+      ],
+      [
+        "Program Counter",
+        "System Call Entry Table"
+      ],
+      [
+        "Kernel Mode",
+        "User Mode"
+      ],
+      [
+        "Interrupt Return Instruction",
+        "Kernel Mode"
+      ],
+      [
+        "Device Management",
+        "System Call"
+      ],
+      [
+        "System Call",
+        "User Program"
+      ],
+      [
+        "Process Control",
+        "System Call"
+      ],
+      [
+        "Program Status Word",
+        "System Call Entry Table"
+      ],
+      [
+        "Operating System",
+        "System Call"
+      ],
+      [
+        "Process Communication",
+        "System Call"
+      ],
+      [
+        "System Call Entry Table",
+        "System Call Number"
+      ],
+      [
+        "Memory Management",
+        "System Call"
+      ],
+      [
+        "General-Purpose Registers",
+        "System Call Entry Table"
+      ],
+      [
+        "Privileged Instruction",
+        "User Program"
+      ],
+      [
+        "File Management",
+        "System Call"
+      ],
+      [
+        "Trap Instruction",
+        "User Program"
+      ],
+      [
+        "Kernel Mode",
+        "System Call"
+      ],
+      [
+        "Shared Resources",
+        "System Call"
+      ]
+    ],
+    "count": 18,
+    "create_time": 1761792451,
+    "update_time": 1761792451,
+    "_id": "doc-d00f9f1b390a147937e18ef421cdc0c0"
+  },
+  "doc-759877e4eb5bf418fdfe33123003bcfd": {
+    "relation_pairs": [
+      [
+        "Collaborative Task Execution",
+        "Distributed Computer System"
+      ],
+      [
+        "Collaborative Task Execution",
+        "Distributed Operating System"
+      ],
+      [
+        "Distributed Computer System",
+        "Distribution"
+      ],
+      [
+        "Network Operating System",
+        "Resource Sharing"
+      ],
+      [
+        "Distributed Computer System",
+        "Resource Sharing"
+      ],
+      [
+        "Communication",
+        "Network Operating System"
+      ],
+      [
+        "Distributed Computer System",
+        "Parallelism"
+      ],
+      [
+        "Communication",
+        "Distributed Computer System"
+      ]
+    ],
+    "count": 8,
+    "create_time": 1761792472,
+    "update_time": 1761792472,
+    "_id": "doc-759877e4eb5bf418fdfe33123003bcfd"
+  },
+  "doc-73c6d597b28c58b07a0b31b71bff9216": {
+    "relation_pairs": [
+      [
+        "模块独立性",
+        "耦合度"
+      ],
+      [
+        "模块化",
+        "模块独立性"
+      ],
+      [
+        "子模块",
+        "模块化"
+      ],
+      [
+        "模块化",
+        "模块复杂性"
+      ],
+      [
+        "模块化",
+        "模块间联系"
+      ],
+      [
+        "模块-接口法",
+        "模块化"
+      ],
+      [
+        "接口",
+        "模块-接口法"
+      ],
+      [
+        "内聚性",
+        "耦合度"
+      ],
+      [
+        "操作系统",
+        "模块化"
+      ],
+      [
+        "内聚性",
+        "模块独立性"
+      ]
+    ],
+    "count": 10,
+    "create_time": 1761792486,
+    "update_time": 1761792486,
+    "_id": "doc-73c6d597b28c58b07a0b31b71bff9216"
+  },
+  "doc-5a8ea7510a8a74f70a3372f4e4088c35": {
+    "relation_pairs": [
+      [
+        "Kernel Mode",
+        "Privileged Instruction"
+      ],
+      [
+        "Exception",
+        "User Mode"
+      ],
+      [
+        "Operating System",
+        "Privileged Instruction"
+      ],
+      [
+        "CPU",
+        "Kernel Mode"
+      ],
+      [
+        "Non-Privileged Instruction",
+        "User Mode"
+      ],
+      [
+        "Interrupt",
+        "User Mode"
+      ],
+      [
+        "Privileged Instruction",
+        "System Crash"
+      ],
+      [
+        "CPU",
+        "User Mode"
+      ]
+    ],
+    "count": 8,
+    "create_time": 1761792515,
+    "update_time": 1761792515,
+    "_id": "doc-5a8ea7510a8a74f70a3372f4e4088c35"
+  },
+  "doc-a708d286aff6451d2c25cd1056b0f371": {
+    "relation_pairs": [
+      [
+        "BIOS",
+        "CPU"
+      ],
+      [
+        "BIOS",
+        "Hard Disk"
+      ],
+      [
+        "Active Partition",
+        "Hard Disk Partition Table"
+      ],
+      [
+        "Initialization Program",
+        "Startup Manager"
+      ],
+      [
+        "Initialization Program",
+        "Operating System"
+      ],
+      [
+        "Hard Disk Partition Table",
+        "Main Boot Record"
+      ],
+      [
+        "Boot Process",
+        "External Storage Device"
+      ],
+      [
+        "Hard Disk",
+        "Operating System"
+      ],
+      [
+        "Operating System",
+        "Startup Manager"
+      ],
+      [
+        "Active Partition",
+        "Partition Boot Record"
+      ],
+      [
+        "BIOS",
+        "Boot Sequence"
+      ],
+      [
+        "Active Partition",
+        "Main Boot Record"
+      ],
+      [
+        "Hard Disk",
+        "Main Boot Record"
+      ],
+      [
+        "CPU",
+        "ROM"
+      ],
+      [
+        "BIOS",
+        "Interrupt Vector Table"
+      ],
+      [
+        "Boot Sequence",
+        "CMOS"
+      ],
+      [
+        "Partition Boot Record",
+        "Startup Manager"
+      ],
+      [
+        "Hard Disk",
+        "Partition"
+      ],
+      [
+        "BIOS",
+        "POST"
+      ]
+    ],
+    "count": 19,
+    "create_time": 1761792581,
+    "update_time": 1761792581,
+    "_id": "doc-a708d286aff6451d2c25cd1056b0f371"
+  },
+  "doc-a6f81ae9bf22458b6524f7b332cc2354": {
+    "relation_pairs": [
+      [
+        "Device",
+        "Operating System"
+      ],
+      [
+        "Operating System",
+        "Program Interface"
+      ],
+      [
+        "Computer System",
+        "Operating System"
+      ],
+      [
+        "File",
+        "Operating System"
+      ],
+      [
+        "File Management",
+        "Operating System"
+      ],
+      [
+        "Operating System",
+        "Resource Management"
+      ],
+      [
+        "Operating System",
+        "Processing Unit Management"
+      ],
+      [
+        "Graphical User Interface",
+        "System Call"
+      ],
+      [
+        "Batch Command Interface",
+        "User"
+      ],
+      [
+        "Command Interface",
+        "Operating System"
+      ],
+      [
+        "Memory Management",
+        "Operating System"
+      ],
+      [
+        "Memory",
+        "Operating System"
+      ],
+      [
+        "Operating System",
+        "User Interface"
+      ],
+      [
+        "File",
+        "File Management"
+      ],
+      [
+        "Extended Machine",
+        "Operating System"
+      ],
+      [
+        "Processing Unit Management",
+        "Thread"
+      ],
+      [
+        "Interactive Command Interface",
+        "User"
+      ],
+      [
+        "Memory",
+        "Memory Management"
+      ],
+      [
+        "Operating System",
+        "Virtual Machine"
+      ],
+      [
+        "Employer",
+        "Worker"
+      ],
+      [
+        "Hardware System",
+        "Operating System"
+      ],
+      [
+        "Directory Management",
+        "File Management"
+      ],
+      [
+        "Operating System",
+        "Processing Time"
+      ],
+      [
+        "Computer Resource",
+        "Operating System"
+      ],
+      [
+        "Device",
+        "Device Management"
+      ],
+      [
+        "Computer",
+        "Worker"
+      ],
+      [
+        "Bare Machine",
+        "Operating System"
+      ],
+      [
+        "Device Management",
+        "Operating System"
+      ],
+      [
+        "Computer",
+        "Operating System"
+      ],
+      [
+        "Process",
+        "Processing Unit Management"
+      ],
+      [
+        "Graphical User Interface",
+        "Program Interface"
+      ],
+      [
+        "Address Mapping",
+        "Memory Management"
+      ],
+      [
+        "Buffering",
+        "Device Management"
+      ]
+    ],
+    "count": 33,
+    "create_time": 1761792637,
+    "update_time": 1761792637,
+    "_id": "doc-a6f81ae9bf22458b6524f7b332cc2354"
+  },
+  "doc-97b2bf43aa5a3c7650089dff09efb0f1": {
+    "relation_pairs": [
+      [
+        "外核",
+        "重映射处理"
+      ],
+      [
+        "外核",
+        "磁盘"
+      ],
+      [
+        "磁盘",
+        "虚拟机"
+      ],
+      [
+        "外核",
+        "用户操作系统"
+      ],
+      [
+        "内核态",
+        "外核"
+      ],
+      [
+        "外核",
+        "盘块"
+      ],
+      [
+        "外核",
+        "多道程序"
+      ],
+      [
+        "用户操作系统",
+        "虚拟机"
+      ],
+      [
+        "外核",
+        "资源划分"
+      ],
+      [
+        "外核",
+        "映射层"
+      ]
+    ],
+    "count": 10,
+    "create_time": 1761792701,
+    "update_time": 1761792701,
+    "_id": "doc-97b2bf43aa5a3c7650089dff09efb0f1"
+  },
+  "doc-c4a86a49e7888be03de25e3075202307": {
+    "relation_pairs": [
+      [
+        "内存分配表",
+        "存储器管理"
+      ],
+      [
+        "Buffer",
+        "System Control Data Structure"
+      ],
+      [
+        "Kernel Mode",
+        "Processor Running Mode"
+      ],
+      [
+        "Interrupt Mechanism",
+        "Process Scheduling"
+      ],
+      [
+        "Device Control Block",
+        "System Control Data Structure"
+      ],
+      [
+        "Interrupt Switch",
+        "Processor Running Mode"
+      ],
+      [
+        "Message Queue",
+        "System Control Data Structure"
+      ],
+      [
+        "Memory Protection Register",
+        "Privileged Instructions"
+      ],
+      [
+        "Job Control Block",
+        "System Control Data Structure"
+      ],
+      [
+        "Clock Management",
+        "Layered Structure"
+      ],
+      [
+        "设备控制块",
+        "设备管理"
+      ],
+      [
+        "Primitive",
+        "Process Management"
+      ],
+      [
+        "Clock Management",
+        "Timekeeping"
+      ],
+      [
+        "Layered Structure",
+        "Modern Operating System"
+      ],
+      [
+        "Free Area Registration Table",
+        "System Control Data Structure"
+      ],
+      [
+        "内核态指令",
+        "原语操作指令"
+      ],
+      [
+        "Interrupt Mechanism",
+        "Layered Structure"
+      ],
+      [
+        "Privileged Instructions",
+        "Program Status Word Register"
+      ],
+      [
+        "进程控制块",
+        "进程管理"
+      ],
+      [
+        "Layered Structure",
+        "Primitive"
+      ],
+      [
+        "Operating System Kernel Program",
+        "Privileged Instructions"
+      ],
+      [
+        "中断操作指令",
+        "内核态指令"
+      ],
+      [
+        "Operating System Kernel Program",
+        "System Call Instruction"
+      ],
+      [
+        "内核态指令",
+        "时钟操作指令"
+      ],
+      [
+        "缓冲区",
+        "设备管理"
+      ],
+      [
+        "I/O Handling",
+        "Interrupt Mechanism"
+      ],
+      [
+        "内核态指令",
+        "系统调用类指令"
+      ],
+      [
+        "消息队列",
+        "进程管理"
+      ],
+      [
+        "Atomic Operation",
+        "Primitive"
+      ],
+      [
+        "Process Control Block",
+        "System Control Data Structure"
+      ],
+      [
+        "Linked List",
+        "System Control Data Structure"
+      ],
+      [
+        "进程管理",
+        "链表"
+      ],
+      [
+        "Processor Running Mode",
+        "User Mode"
+      ],
+      [
+        "Non-Privileged Instructions",
+        "User-Defined Program"
+      ],
+      [
+        "Layered Structure",
+        "System Control Data Structure"
+      ],
+      [
+        "存储器管理",
+        "空闲区登记表"
+      ],
+      [
+        "Memory Allocation Table",
+        "System Control Data Structure"
+      ]
+    ],
+    "count": 37,
+    "create_time": 1761792735,
+    "update_time": 1761792735,
+    "_id": "doc-c4a86a49e7888be03de25e3075202307"
+  },
+  "doc-84d0e0144bf03dc112e028d83dac5b21": {
+    "relation_pairs": [
+      [
+        "Android",
+        "Hybrid Kernel"
+      ],
+      [
+        "Hybrid Kernel",
+        "Linux"
+      ],
+      [
+        "Micro Kernel",
+        "鸿蒙OS"
+      ],
+      [
+        "Macro Kernel",
+        "Software Crisis"
+      ],
+      [
+        "Hybrid Kernel",
+        "macOS"
+      ],
+      [
+        "Hybrid Kernel",
+        "Micro Kernel"
+      ],
+      [
+        "Macro Kernel",
+        "Operating System"
+      ],
+      [
+        "Fuchsia",
+        "Micro Kernel"
+      ],
+      [
+        "Hybrid Kernel",
+        "iOS"
+      ],
+      [
+        "Hybrid Kernel",
+        "Windows"
+      ]
+    ],
+    "count": 10,
+    "create_time": 1761792762,
+    "update_time": 1761792762,
+    "_id": "doc-84d0e0144bf03dc112e028d83dac5b21"
+  },
+  "doc-f376ea7cf18def11bed0b11610d2cd95": {
+    "relation_pairs": [
+      [
+        "Disk Device",
+        "Simultaneous Access"
+      ],
+      [
+        "Physical CPU",
+        "Virtual Processor"
+      ],
+      [
+        "Asynchrony",
+        "Operating System"
+      ],
+      [
+        "Operating System",
+        "Virtualization"
+      ],
+      [
+        "Concurrency",
+        "Time-Sharing"
+      ],
+      [
+        "Physical I/O Device",
+        "Virtual Device"
+      ],
+      [
+        "Asynchronous Execution",
+        "Multitasking"
+      ],
+      [
+        "Operating System",
+        "Simultaneous Access"
+      ],
+      [
+        "Physical Memory",
+        "Virtual Storage"
+      ],
+      [
+        "CPU",
+        "Concurrency"
+      ],
+      [
+        "Operating System",
+        "Shared Resources"
+      ],
+      [
+        "Reentrant Code",
+        "Simultaneous Access"
+      ],
+      [
+        "Memory Capacity",
+        "Virtual Storage"
+      ],
+      [
+        "Memory",
+        "Multi-Programming Environment"
+      ],
+      [
+        "I/O Device",
+        "Parallelism"
+      ],
+      [
+        "Multitasking",
+        "Time-Sharing"
+      ],
+      [
+        "Operating System",
+        "Parallelism"
+      ],
+      [
+        "Shared Device",
+        "Virtual Device"
+      ],
+      [
+        "Processes",
+        "Shared Resources"
+      ],
+      [
+        "Asynchronous Execution",
+        "Global Variable Access"
+      ],
+      [
+        "Concurrency",
+        "Operating System"
+      ],
+      [
+        "Time-Sharing",
+        "Virtual Processor"
+      ],
+      [
+        "Operating System",
+        "Time-Sharing"
+      ],
+      [
+        "Mutual Exclusion",
+        "Operating System"
+      ],
+      [
+        "Critical Resource",
+        "Mutual Exclusion"
+      ]
+    ],
+    "count": 25,
+    "create_time": 1761792807,
+    "update_time": 1761792807,
+    "_id": "doc-f376ea7cf18def11bed0b11610d2cd95"
+  },
+  "doc-f497662e99b6817766d5a4331d878cc4": {
+    "relation_pairs": [
+      [
+        "Trap Instruction",
+        "User Mode"
+      ],
+      [
+        "User Program",
+        "Voluntary Entry to Kernel"
+      ],
+      [
+        "Operating System",
+        "User Program"
+      ],
+      [
+        "Kernel Mode",
+        "Operating System"
+      ],
+      [
+        "Kernel Mode",
+        "Trap Instruction"
+      ],
+      [
+        "Trap Instruction",
+        "Voluntary Interrupt"
+      ],
+      [
+        "Privileged Operations",
+        "Voluntary Interrupt"
+      ]
+    ],
+    "count": 7,
+    "create_time": 1761792864,
+    "update_time": 1761792864,
+    "_id": "doc-f497662e99b6817766d5a4331d878cc4"
+  },
+  "doc-16231ae566b82a135083a9aebcd679c9": {
+    "relation_pairs": [
+      [
+        "Interrupt",
+        "Operating System"
+      ],
+      [
+        "Interrupt Handler",
+        "Operating System"
+      ],
+      [
+        "Interrupt Handler",
+        "Vector Address"
+      ],
+      [
+        "Kernel Mode",
+        "Operating System"
+      ],
+      [
+        "Exception",
+        "User Mode"
+      ],
+      [
+        "Interrupt",
+        "User Mode"
+      ],
+      [
+        "Exception",
+        "Trap"
+      ],
+      [
+        "Interrupt Return Instruction",
+        "Program Counter"
+      ],
+      [
+        "Interrupt",
+        "Maskable Interrupt"
+      ],
+      [
+        "Hardware Circuit",
+        "Interrupt Request"
+      ],
+      [
+        "Interrupt",
+        "Non-Maskable Interrupt"
+      ],
+      [
+        "Entry Address",
+        "Vector Address"
+      ],
+      [
+        "CALL Instruction",
+        "Program Counter"
+      ],
+      [
+        "Abort",
+        "Exception"
+      ],
+      [
+        "Exception",
+        "Fault"
+      ],
+      [
+        "Interrupt Priority Decision",
+        "Interrupt Request"
+      ],
+      [
+        "Hardware Circuit",
+        "Interrupt Handling Program"
+      ],
+      [
+        "System Call",
+        "Trap"
+      ],
+      [
+        "Interrupt Handling Program",
+        "Program Counter"
+      ],
+      [
+        "Exception",
+        "Operating System"
+      ]
+    ],
+    "count": 20,
+    "create_time": 1761792885,
+    "update_time": 1761792885,
+    "_id": "doc-16231ae566b82a135083a9aebcd679c9"
+  },
+  "doc-a7c70bb5494abb5d4352be4d9d2e3f40": {
+    "relation_pairs": [
+      [
+        "分层法",
+        "功能调用"
+      ],
+      [
+        "分层法",
+        "层0"
+      ],
+      [
+        "分层法",
+        "层N"
+      ],
+      [
+        "分层法",
+        "第1层"
+      ],
+      [
+        "分层法",
+        "易扩充"
+      ],
+      [
+        "分层法",
+        "合理定义各层"
+      ],
+      [
+        "分层法",
+        "效率较差"
+      ],
+      [
+        "分层法",
+        "单向依赖"
+      ],
+      [
+        "第1层",
+        "调试和验证"
+      ],
+      [
+        "分层法",
+        "易维护"
+      ],
+      [
+        "分层法",
+        "层间通信机制"
+      ]
+    ],
+    "count": 11,
+    "create_time": 1761792915,
+    "update_time": 1761792915,
+    "_id": "doc-a7c70bb5494abb5d4352be4d9d2e3f40"
+  },
+  "doc-f4e5075c29e807c2ee5b3e3046f8fb73": {
+    "relation_pairs": [
+      [
+        "Host Operating System",
+        "Second-Class Hypervisor"
+      ],
+      [
+        "Guest Operating System",
+        "Second-Class Hypervisor"
+      ],
+      [
+        "Bare Metal Architecture",
+        "Guest Operating System"
+      ],
+      [
+        "Nested Hypervisor",
+        "Second-Class Hypervisor"
+      ],
+      [
+        "First-Class Hypervisor",
+        "Virtualization Support"
+      ],
+      [
+        "Virtualization",
+        "Web Hosting"
+      ],
+      [
+        "Nested Virtualization",
+        "Virtual Machine"
+      ],
+      [
+        "Cloud Host",
+        "Virtual Machine"
+      ],
+      [
+        "First-Class Hypervisor",
+        "Guest Operating System"
+      ],
+      [
+        "Second-Class Hypervisor",
+        "X86 Platform"
+      ],
+      [
+        "Virtual Machine",
+        "Virtualization Technology"
+      ],
+      [
+        "Bare Metal",
+        "First-Class Hypervisor"
+      ],
+      [
+        "First-Class Hypervisor",
+        "Sensitive Instruction"
+      ],
+      [
+        "Virtual Kernel Mode",
+        "Virtual Machine"
+      ],
+      [
+        "Nested Virtualization",
+        "Second-Class Hypervisor"
+      ],
+      [
+        "Host Operating System",
+        "Virtual Disk"
+      ],
+      [
+        "Virtual Disk",
+        "Virtual Machine"
+      ]
+    ],
+    "count": 17,
+    "create_time": 1761792953,
+    "update_time": 1761792953,
+    "_id": "doc-f4e5075c29e807c2ee5b3e3046f8fb73"
+  },
+  "doc-92de908bb731071fa5d13ff77b2e31e6": {
+    "relation_pairs": [
+      [
+        "Real-Time Operating System",
+        "Reliability"
+      ],
+      [
+        "Real-Time Operating System",
+        "Timeliness"
+      ],
+      [
+        "Flight Control System",
+        "Hard Real-Time System"
+      ],
+      [
+        "Real-Time Operating System",
+        "Time Constraint"
+      ],
+      [
+        "Banking Management System",
+        "Soft Real-Time System"
+      ],
+      [
+        "Airline Reservation System",
+        "Soft Real-Time System"
+      ],
+      [
+        "External Signal",
+        "Real-Time Operating System"
+      ]
+    ],
+    "count": 7,
+    "create_time": 1761792958,
+    "update_time": 1761792958,
+    "_id": "doc-92de908bb731071fa5d13ff77b2e31e6"
+  },
+  "doc-7868bac50f0a33de4042dad489e86ada": {
+    "relation_pairs": [
+      [
+        "手工操作阶段",
+        "高速机器"
+      ],
+      [
+        "人机矛盾",
+        "计算机"
+      ],
+      [
+        "程序装入",
+        "计算机"
+      ],
+      [
+        "用户",
+        "资源利用率"
+      ],
+      [
+        "人机矛盾",
+        "高速机器"
+      ],
+      [
+        "用户",
+        "计算机"
+      ],
+      [
+        "结果输出",
+        "计算机"
+      ],
+      [
+        "CPU",
+        "作业控制"
+      ],
+      [
+        "计算机",
+        "运行"
+      ]
+    ],
+    "count": 9,
+    "create_time": 1761793007,
+    "update_time": 1761793007,
+    "_id": "doc-7868bac50f0a33de4042dad489e86ada"
+  },
+  "doc-4aa9884c2e1cc842079100d1bd6ff540": {
+    "relation_pairs": [
+      [
+        "多道批处理系统",
+        "系统吞吐量"
+      ],
+      [
+        "单道批处理系统",
+        "批处理系统"
+      ],
+      [
+        "多道批处理系统",
+        "多道程序设计技术"
+      ],
+      [
+        "后备队列",
+        "多道批处理系统"
+      ],
+      [
+        "作业调度程序",
+        "监督程序"
+      ],
+      [
+        "中断机制",
+        "多道批处理系统"
+      ],
+      [
+        "单道批处理系统",
+        "输入/输出设备"
+      ],
+      [
+        "内存",
+        "多道程序设计技术"
+      ],
+      [
+        "多道批处理系统",
+        "资源利用率"
+      ],
+      [
+        "单道批处理系统",
+        "监督程序"
+      ],
+      [
+        "输入/输出设备",
+        "运行时"
+      ],
+      [
+        "多道批处理系统",
+        "批处理系统"
+      ],
+      [
+        "中央处理器",
+        "多道程序设计技术"
+      ],
+      [
+        "人机交互",
+        "多道批处理系统"
+      ]
+    ],
+    "count": 14,
+    "create_time": 1761793040,
+    "update_time": 1761793040,
+    "_id": "doc-4aa9884c2e1cc842079100d1bd6ff540"
+  },
+  "doc-6e3e7077061d4200781b4bd17b1c3f19": {
+    "relation_pairs": [
+      [
+        "Frequent Context Switching",
+        "Microkernel Structure"
+      ],
+      [
+        "Microkernel",
+        "System Flexibility"
+      ],
+      [
+        "Distributed Computing Support",
+        "Message Passing Mechanism"
+      ],
+      [
+        "Kernel",
+        "System Services"
+      ],
+      [
+        "Low-Level Memory Management",
+        "Microkernel"
+      ],
+      [
+        "Mechanism and Policy Separation",
+        "Microkernel"
+      ],
+      [
+        "Microkernel",
+        "System Portability"
+      ],
+      [
+        "Microkernel Structure",
+        "Operating System Portability"
+      ],
+      [
+        "Microkernel Structure",
+        "Military Applications"
+      ],
+      [
+        "Microkernel Structure",
+        "System Performance"
+      ],
+      [
+        "Distributed Computing",
+        "Microkernel Structure"
+      ],
+      [
+        "Microkernel",
+        "Process Management Server"
+      ],
+      [
+        "Message Passing Mechanism",
+        "Performance Overhead"
+      ],
+      [
+        "Distributed Computing",
+        "Message Passing Mechanism"
+      ],
+      [
+        "Frequent Context Switching",
+        "System Services"
+      ],
+      [
+        "Microkernel Structure",
+        "Reliability"
+      ],
+      [
+        "Macrokernel",
+        "Microkernel Structure"
+      ],
+      [
+        "Aerospace Applications",
+        "Microkernel Structure"
+      ],
+      [
+        "Microkernel",
+        "Virtual Memory Server"
+      ],
+      [
+        "Kernel",
+        "Microkernel Structure"
+      ],
+      [
+        "Industrial Applications",
+        "Microkernel Structure"
+      ],
+      [
+        "Microkernel",
+        "User Mode"
+      ],
+      [
+        "Interrupt and Exception Handling",
+        "Microkernel"
+      ],
+      [
+        "Hardware-Dependent Code",
+        "Microkernel"
+      ],
+      [
+        "Microkernel",
+        "Server Process"
+      ],
+      [
+        "Microkernel",
+        "System Reliability"
+      ],
+      [
+        "Microkernel Structure",
+        "Real-Time Applications"
+      ],
+      [
+        "Message Passing Mechanism",
+        "Server Process"
+      ]
+    ],
+    "count": 28,
+    "create_time": 1761793088,
+    "update_time": 1761793088,
+    "_id": "doc-6e3e7077061d4200781b4bd17b1c3f19"
+  },
+  "doc-9e620df489b2bf6c2f14302366cc3b4e": {
+    "relation_pairs": [
+      [
+        "Hardware",
+        "Operating System"
+      ],
+      [
+        "Application",
+        "Operating System"
+      ],
+      [
+        "Computer System",
+        "Operating System"
+      ],
+      [
+        "Computer System",
+        "Hardware"
+      ],
+      [
+        "Operating System",
+        "System Software"
+      ],
+      [
+        "Operating System",
+        "User"
+      ],
+      [
+        "Operating System",
+        "Resource Management"
+      ],
+      [
+        "Application",
+        "Computer System"
+      ],
+      [
+        "Computer System",
+        "User"
+      ],
+      [
+        "Computation Resource",
+        "Operating System"
+      ],
+      [
+        "Computer Composition Principle",
+        "Computer System"
+      ],
+      [
+        "Informational Era",
+        "Software"
+      ]
+    ],
+    "count": 12,
+    "create_time": 1761793107,
+    "update_time": 1761793107,
+    "_id": "doc-9e620df489b2bf6c2f14302366cc3b4e"
+  },
+  "doc-cc07b143ee8617f281abef0fee81c373": {
+    "relation_pairs": [
+      [
+        "Object-Oriented Technology",
+        "System Complexity"
+      ],
+      [
+        "Encapsulation",
+        "Object-Oriented Technology"
+      ],
+      [
+        "Correctness",
+        "Object-Oriented Technology"
+      ],
+      [
+        "Mechanism",
+        "Mechanism and Policy Separation"
+      ],
+      [
+        "Microkernel Structure OS",
+        "Small Kernel"
+      ],
+      [
+        "Abstraction",
+        "Object-Oriented Technology"
+      ],
+      [
+        "Inheritance",
+        "Object-Oriented Technology"
+      ],
+      [
+        "Extensibility",
+        "Object-Oriented Technology"
+      ],
+      [
+        "Mechanism and Policy Separation",
+        "Policy"
+      ],
+      [
+        "Mechanism and Policy Separation",
+        "Traditional OS"
+      ],
+      [
+        "Microkernel Structure OS",
+        "Object-Oriented Technology"
+      ],
+      [
+        "Mechanism and Policy Separation",
+        "Microkernel Structure OS"
+      ],
+      [
+        "Object-Oriented Technology",
+        "Reliability"
+      ],
+      [
+        "Client Server Model",
+        "Microkernel Structure OS"
+      ]
+    ],
+    "count": 14,
+    "create_time": 1761793160,
+    "update_time": 1761793160,
+    "_id": "doc-cc07b143ee8617f281abef0fee81c373"
+  },
+  "doc-71c5f05a0a1ba39718ba7fdf7111501b": {
+    "relation_pairs": [
+      [
+        "分时操作系统",
+        "及时性"
+      ],
+      [
+        "人机交互",
+        "分时操作系统"
+      ],
+      [
+        "实时操作系统",
+        "导弹制导系统"
+      ],
+      [
+        "分时操作系统",
+        "独立性"
+      ],
+      [
+        "分时操作系统",
+        "多道批处理系统"
+      ],
+      [
+        "分时技术",
+        "分时操作系统"
+      ],
+      [
+        "分时操作系统",
+        "多道程序设计"
+      ],
+      [
+        "交互性",
+        "分时操作系统"
+      ],
+      [
+        "实时操作系统",
+        "飞机订票系统"
+      ],
+      [
+        "分时操作系统",
+        "终端"
+      ],
+      [
+        "处理器",
+        "时间片"
+      ],
+      [
+        "时间片",
+        "联机作业"
+      ],
+      [
+        "分时操作系统",
+        "同时性"
+      ],
+      [
+        "分时操作系统",
+        "实时操作系统"
+      ]
+    ],
+    "count": 14,
+    "create_time": 1761793186,
+    "update_time": 1761793186,
+    "_id": "doc-71c5f05a0a1ba39718ba7fdf7111501b"
+  }
+}

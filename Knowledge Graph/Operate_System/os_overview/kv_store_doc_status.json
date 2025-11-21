@@ -1,0 +1,415 @@
+{
+  "doc-76a6cbb13f9f56639943d651001927f1": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-76a6cbb13f9f56639943d651001927f1"
+    ],
+    "content_summary": "9. 个人计算机操作系统 个人计算机操作系统是目前使用最广泛的操作系统, 它广泛应用于文字处理、电子表格、游戏中, 常见的有Windows、Linux和MacOS等。 此外, 还有嵌入式操作系统、服务器操作系统、智能手机操作系统等。",
+    "content_length": 116,
+    "created_at": "2025-10-30T02:45:48.202509+00:00",
+    "updated_at": "2025-10-30T02:46:41.386279+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251030_104548_3cb1fd2a",
+    "metadata": {
+      "processing_start_time": 1761792348,
+      "processing_end_time": 1761792401
+    }
+  },
+  "doc-d00f9f1b390a147937e18ef421cdc0c0": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-d00f9f1b390a147937e18ef421cdc0c0"
+    ],
+    "content_summary": "12. 系统调用 系统调用是操作系统提供给应用程序(程序员)使用的接口, 可视为一种供应用程序调用的特殊的公共子程序。 系统中的各种共享资源都由操作系统统一掌管, 因此凡是与共享资源有关的操作(如存储分配、I/O传输及文件管理等), 都必须通过系统调用方式向操作系统提出服务请求, 由操作系统代为完成, 并将处理结果返回给应用程序。 这样, 就可以保证系统的稳定性和安全性, 防止用户进行非法操作。 通常, 一个操作系统提供的系统调用命令有几十条乃至上百条之多, 每个系统调用都有唯一的系统调用号。 ...",
+    "content_length": 1362,
+    "created_at": "2025-10-30T02:45:48.202535+00:00",
+    "updated_at": "2025-10-30T02:47:31.870847+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251030_104548_3cb1fd2a",
+    "metadata": {
+      "processing_start_time": 1761792348,
+      "processing_end_time": 1761792451
+    }
+  },
+  "doc-0af650f15cedb36b86574296b902a8b7": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-0af650f15cedb36b86574296b902a8b7"
+    ],
+    "content_summary": "20. 并行性与并发性的区别和联系 并行性和并发性是既相似又有区别的两个概念。 并行性是指两个或多个事件在同一时刻发生, 并发性是指两个或多个事件在同一时间间隔内发生。 在多道程序环境下, 并发性是指在一段时间内, 宏观上有多个程序同时运行, 但在单处理器系统中每个时刻却仅能有一道程序执行, 因此微观上这些程序只能分时地交替执行。 若在计算机系统中有多个处理器, 则这些可以并发执行的程序便被分配到多个处理器上, 实现并行执行, 即利用每个处理器来处理一个可并发执行的程序。",
+    "content_length": 238,
+    "created_at": "2025-10-30T02:45:48.202560+00:00",
+    "updated_at": "2025-10-30T02:47:15.696844+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251030_104548_3cb1fd2a",
+    "metadata": {
+      "processing_start_time": 1761792401,
+      "processing_end_time": 1761792435
+    }
+  },
+  "doc-73c6d597b28c58b07a0b31b71bff9216": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-73c6d597b28c58b07a0b31b71bff9216"
+    ],
+    "content_summary": "14. 模块化 模块化是将操作系统按功能划分为若干具有一定独立性的模块。 每个模块具有某方面的管理功能, 并规定好各模块间的接口, 使各模块之间能够通过接口进行通信。 还可以进一步将各模块细分为若干具有一定功能的子模块, 同样也规定好各子模块之间的接口。 这种设计方法被称为模块-接口法。 在划分模块时, 若将模块划分得太小, 则虽然能降低模块本身的复杂性, 但会使得模块之间的联系过多, 造成系统比较混乱; 若模块划分得过大, 则又会增加模块内部的复杂性, 显然应在两者间进行权衡。 此外, 在划分...",
+    "content_length": 546,
+    "created_at": "2025-10-30T02:45:48.202542+00:00",
+    "updated_at": "2025-10-30T02:48:06.462217+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251030_104548_3cb1fd2a",
+    "metadata": {
+      "processing_start_time": 1761792435,
+      "processing_end_time": 1761792486
+    }
+  },
+  "doc-759877e4eb5bf418fdfe33123003bcfd": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-759877e4eb5bf418fdfe33123003bcfd"
+    ],
+    "content_summary": "8. 网络操作系统和分布式计算机系统 网络操作系统是伴随着计算机网络的发展而诞生的, 它把网络中的各台计算机有机地结合起来, 实现各台计算机之间的通信和数据传送等功能, 实现网络中各种资源的共享。 分布式计算机系统是由多台计算机组成并满足下列条件的系统: 系统中任意两台计算机通过通信方式交换信息; 每台计算机都具有同等的地位, 即没有主机也没有从机: 每台计算机上的资源为所有用户共享; 系统中的任意台计算机都可以构成一个子系统, 并且还能重构; 任何工作都可以分布在几台计算机上, 由它们并行工作...",
+    "content_length": 353,
+    "created_at": "2025-10-30T02:45:48.202506+00:00",
+    "updated_at": "2025-10-30T02:47:52.367992+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251030_104548_3cb1fd2a",
+    "metadata": {
+      "processing_start_time": 1761792451,
+      "processing_end_time": 1761792472
+    }
+  },
+  "doc-5a8ea7510a8a74f70a3372f4e4088c35": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-5a8ea7510a8a74f70a3372f4e4088c35"
+    ],
+    "content_summary": "21. 特权指令与非特权指令 特权指令是指有特殊权限的指令, 由于这类指令的权限最大, 使用不当将导致整个系统崩溃, 如清内存、置时钟、分配系统资源、修改虚存的段表或页表、修改用户的访问权限等。 若所有程序都能使用这些指令, 则系统一天死机n次就不足为奇。 为保证系统安全, 这类指令不能直接提供给用户使用, 因此特权指令必须在内核态执行。 实际上, CPU在内核态下可以执行指令系统的全集。 形象地说, 特权指令是那些儿童不宜的东西, 而非特权指令是老少皆宜的东西。 为了防止用户程序中使用特权指令...",
+    "content_length": 398,
+    "created_at": "2025-10-30T02:45:48.202562+00:00",
+    "updated_at": "2025-10-30T02:48:35.290848+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251030_104548_3cb1fd2a",
+    "metadata": {
+      "processing_start_time": 1761792472,
+      "processing_end_time": 1761792515
+    }
+  },
+  "doc-a708d286aff6451d2c25cd1056b0f371": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-a708d286aff6451d2c25cd1056b0f371"
+    ],
+    "content_summary": "18. 操作系统引导 操作系统(如Windows、Linux等)是一种程序, 程序以数据的形式存放在硬盘中, 而硬盘通常分为多个区, 一台计算机中又可能有多个或多种外部存储设备。 操作系统引导是指计算机利用CPU运行特定程序, 通过程序识别硬盘, 识别硬盘分区, 识别硬盘分区上的操作系统, 最后通过程序启动操作系统, 一环扣一环地完成上述过程。 常见操作系统的引导过程如下: ①激活 CPU。激活的CPU读取ROM 中的 boot程序, 将指令寄存器置为BIOS(基本输入/输出系统)的第一条指令,...",
+    "content_length": 913,
+    "created_at": "2025-10-30T02:45:48.202554+00:00",
+    "updated_at": "2025-10-30T02:49:41.909503+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251030_104548_3cb1fd2a",
+    "metadata": {
+      "processing_start_time": 1761792486,
+      "processing_end_time": 1761792581
+    }
+  },
+  "doc-a6f81ae9bf22458b6524f7b332cc2354": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-2787da78f668b0035a24f804f0f31770",
+      "chunk-a5b71862cece928e73aecfff8fffa8c2"
+    ],
+    "content_summary": "2. 操作系统的功能和目标 为给多道程序提供良好的运行环境, 操作系统应具有以下几方面的功能: 处理机管理、存储器管理、设备管理和文件管理。 为方便用户使用操作系统, 还要向用户提供接口。 同时, 操作系统可用来扩充机器, 以提供更方便的服务、更高的资源利用率。 下面用一个直观的例子来理解这种情况。 例如, 用户是雇主, 操作系统是工人(用来操作机器), 计算机是机器(由处理机、存储器、设备、文件几个部件构成), 工人有熟练的技能, 能够控制和协调各个部件的工作, 这就是操作系统对资源的管理; ...",
+    "content_length": 1951,
+    "created_at": "2025-10-30T02:45:48.202488+00:00",
+    "updated_at": "2025-10-30T02:50:37.467777+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251030_104548_3cb1fd2a",
+    "metadata": {
+      "processing_start_time": 1761792515,
+      "processing_end_time": 1761792637
+    }
+  },
+  "doc-c4a86a49e7888be03de25e3075202307": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-7306def77e9437d04e20fd6d9c7ebc17",
+      "chunk-dfcc57d23e37ebc3538e00daf7fe376e"
+    ],
+    "content_summary": "10. 处理器运行模式 在计算机系统中, 通常CPU执行两种不同性质的程序: 一种是操作系统内核程序; 另一种是用户自编程序(系统外层的应用程序, 简称应用程序)。 对操作系统而言, 这两种程序的作用不同, 前者是后者的管理者, 因此“管理程序”(内核程序)要执行一些特权指令, 而“被管理程序”(用户自编程序)出于安全考虑不能执行这些特权指令。 1) 特权指令, 是指不允许用户直接使用的指令, 如I/O指令、关中断指令、内存清零指令, 存取用于内存保护的寄存器、修改程序状态字寄存器等的指令。 2...",
+    "content_length": 1768,
+    "created_at": "2025-10-30T02:45:48.202530+00:00",
+    "updated_at": "2025-10-30T02:52:15.031794+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251030_104548_3cb1fd2a",
+    "metadata": {
+      "processing_start_time": 1761792581,
+      "processing_end_time": 1761792735
+    }
+  },
+  "doc-97b2bf43aa5a3c7650089dff09efb0f1": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-97b2bf43aa5a3c7650089dff09efb0f1"
+    ],
+    "content_summary": "17. 外核 不同于虚拟机克隆真实机器, 另一种策略是对资源进行划分, 为每个用户分配整个资源的一个子集。 例如, 某虚拟机可能得到磁盘的0~1023盘块, 而另一虚拟机得到磁盘的1024~2047盘块等。 在底层, 一种称为外核(exokernel)的程序在内核态中运行。 它的任务是为虚拟机分配资源, 并检查这些资源使用的安全性, 以确保没有机器会使用他人的资源。 每个用户的虚拟机可以运行自己的操作系统, 但限制只能使用已经申请并且获得分配的那部分资源。 外核机制的优点是减少了资源的“映射层”...",
+    "content_length": 443,
+    "created_at": "2025-10-30T02:45:48.202551+00:00",
+    "updated_at": "2025-10-30T02:51:41.739753+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251030_104548_3cb1fd2a",
+    "metadata": {
+      "processing_start_time": 1761792637,
+      "processing_end_time": 1761792701
+    }
+  },
+  "doc-f376ea7cf18def11bed0b11610d2cd95": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-c37794f42412169f58447c8f04d81126",
+      "chunk-330beeacd8232bcb0abf10a90f294de7"
+    ],
+    "content_summary": "3. 操作系统的特征 操作系统是一种系统软件, 但与其他系统软件和应用软件有很大的不同, 它有自己的特殊性即基本特征。 操作系统的基本特征包括并发、共享、虚拟和异步。 这些概念对理解和掌握操作系统的核心至关重要, 将一直贯穿于各个章节中。 1. 并发(Concurrence) 并发是指两个或多个事件在同一时间间隔内发生。 在多道程序环境下, 在内存中同时装有若干道程序, 以便当运行某道程序时, 利用其因I/O操作而暂停执行时的CPU空档时间, 再调度另一道程序运行, 从而实现多道程序交替运行, ...",
+    "content_length": 2186,
+    "created_at": "2025-10-30T02:45:48.202492+00:00",
+    "updated_at": "2025-10-30T02:53:27.788911+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251030_104548_3cb1fd2a",
+    "metadata": {
+      "processing_start_time": 1761792701,
+      "processing_end_time": 1761792807
+    }
+  },
+  "doc-d178bc2a93fa63d4c4b7a7f51f4bc20e": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-d178bc2a93fa63d4c4b7a7f51f4bc20e"
+    ],
+    "content_summary": "### 计算机系统概述知识点",
+    "content_length": 14,
+    "created_at": "2025-10-30T02:45:48.202468+00:00",
+    "updated_at": "2025-10-30T02:52:21.679794+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251030_104548_3cb1fd2a",
+    "metadata": {
+      "processing_start_time": 1761792735,
+      "processing_end_time": 1761792741
+    }
+  },
+  "doc-84d0e0144bf03dc112e028d83dac5b21": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-84d0e0144bf03dc112e028d83dac5b21"
+    ],
+    "content_summary": "15. 宏内核 从操作系统的内核架构来划分, 可分为宏内核和微内核。 宏内核, 也称单内核或大内核, 是指将系统的主要功能模块都作为一个紧密联系的整体运行在内核态, 从而为用户程序提供高性能的系统服务。 因为各管理模块之间共享信息, 能有效利用相互之间的有效特性, 所以具有无可比拟的性能优势。 随着体系结构和应用需求的不断发展, 需要操作系统提供的服务越来越复杂, 操作系统的设计规模急剧增长, 操作系统也面临着“软件危机”困境。 就像一个人, 越胖活动起来就越困难。 所以就出现了微内核技术, 就...",
+    "content_length": 548,
+    "created_at": "2025-10-30T02:45:48.202545+00:00",
+    "updated_at": "2025-10-30T02:52:42.622692+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251030_104548_3cb1fd2a",
+    "metadata": {
+      "processing_start_time": 1761792741,
+      "processing_end_time": 1761792762
+    }
+  },
+  "doc-16231ae566b82a135083a9aebcd679c9": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-228390e09cc2f2d30a0cfe910ac116d3",
+      "chunk-54938ab4a5ca27f9234417e7449097fa"
+    ],
+    "content_summary": "11. 中断和异常的概念 在操作系统中引入内核态和用户态这两种工作状态后, 就需要考虑这两种状态之间如何切换。 操作系统内核工作在内核态, 而用户程序工作在用户态。 系统不允许用户程序实现内核态的功能, 而它们又必须使用这些功能。 因此, 需要在内核态建立一些“门”, 以便实现从用户态进入内核态。 在实际操作系统中, CPU运行用户程序时唯一能进入这些“门”的途径就是通过中断或异常。 发生中断或异常时, 运行用户态的CPU会立即进入内核态, 这是通过硬件实现的(例如, 用一个特殊寄存器的一位来表...",
+    "content_length": 1738,
+    "created_at": "2025-10-30T02:45:48.202533+00:00",
+    "updated_at": "2025-10-30T02:54:45.195739+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251030_104548_3cb1fd2a",
+    "metadata": {
+      "processing_start_time": 1761792762,
+      "processing_end_time": 1761792885
+    }
+  },
+  "doc-f497662e99b6817766d5a4331d878cc4": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-f497662e99b6817766d5a4331d878cc4"
+    ],
+    "content_summary": "22. 访管指令与访管中断 访管指令(trap 指令)是一条在用户态下执行的指令。 在用户程序中, 因要求操作系统提供服务而有意识地使用访管指令, 从而产生一个中断事件(自愿中断), 将操作系统转换为内核态, 称为访管中断。 访管中断由访管指令产生, 程序员使用访管指令向操作系统请求服务。 为什么要在程序中引入访管指令呢? 这是因为用户程序只能在用户态下运行。 若用户程序想要完成在用户态下无法完成的工作, 该怎么办? 解决这个问题要靠访管指令。 访管指令本身不是特权指令, 其基本功能是让程序拥有...",
+    "content_length": 270,
+    "created_at": "2025-10-30T02:45:48.202565+00:00",
+    "updated_at": "2025-10-30T02:54:24.662892+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251030_104548_3cb1fd2a",
+    "metadata": {
+      "processing_start_time": 1761792807,
+      "processing_end_time": 1761792864
+    }
+  },
+  "doc-a7c70bb5494abb5d4352be4d9d2e3f40": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-a7c70bb5494abb5d4352be4d9d2e3f40"
+    ],
+    "content_summary": "13. 分层法 分层法是将操作系统分为若干层, 底层(层0)为硬件, 顶层(层N)为用户接口, 每层只能调用紧邻它的低层的功能和服务(单向依赖)。 分层法的优点: ①便于系统的调试和验证, 简化了系统的设计和实现。 第1层可先调试而无须考虑系统的其他部分, 因为它只使用了基本硬件。 第1层调试完且验证正确之后, 就可以调试第2层, 如此向上。 若在调试某层时发现错误, 则错误应在这一层上, 这是因为它的低层都调试好了。 ②易扩充和易维护。 在系统中增加、修改或替换一层中的模块或整层时, 只要不改...",
+    "content_length": 386,
+    "created_at": "2025-10-30T02:45:48.202539+00:00",
+    "updated_at": "2025-10-30T02:55:15.352057+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251030_104548_3cb1fd2a",
+    "metadata": {
+      "processing_start_time": 1761792864,
+      "processing_end_time": 1761792915
+    }
+  },
+  "doc-f4e5075c29e807c2ee5b3e3046f8fb73": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-f4e5075c29e807c2ee5b3e3046f8fb73"
+    ],
+    "content_summary": "19. 虚拟机的基本概念 虚拟机是指利用虚拟化技术, 将一台物理机器虚拟化为多台虚拟机器, 通过隐藏特定计算平台的实际物理特性, 为用户提供抽象的、统一的、模拟的计算环境。 有两类虚拟化方法。 1. 第一类虚拟机管理程序 从技术上讲, 第一类虚拟机管理程序就像一个操作系统, 因为它是唯一一个运行在最高特权级的程序。 它在裸机上运行并且具备多道程序功能。 虚拟机管理程序向上层提供若干虚拟机, 这些虚拟机是裸机硬件的精确复制品。 因为每台虚拟机都与裸机相同, 所以在不同的虚拟机上可以运行任何不同的操...",
+    "content_length": 1115,
+    "created_at": "2025-10-30T02:45:48.202557+00:00",
+    "updated_at": "2025-10-30T02:55:53.920200+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251030_104548_3cb1fd2a",
+    "metadata": {
+      "processing_start_time": 1761792885,
+      "processing_end_time": 1761792953
+    }
+  },
+  "doc-92de908bb731071fa5d13ff77b2e31e6": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-92de908bb731071fa5d13ff77b2e31e6"
+    ],
+    "content_summary": "7. 实时操作系统 为了能在某个时间限制内完成某些紧急任务而不需要时间片排队, 诞生了实时操作系统。 这里的时间限制可以分为两种情况: 若某个动作必须绝对地在规定的时刻(或规定的时间范围)发生, 则称为硬实时系统, 如飞行器的飞行自动控制系统, 这类系统必须提供绝对保证, 让某个特定的动作在规定的时间内完成。 若能够接受偶尔违反时间规定且不会引起任何永久性的损害, 则称为软实时系统, 如飞机订票系统、银行管理系统。 在实时操作系统的控制下, 计算机系统接收到外部信号后及时进行处理, 并在严格的时...",
+    "content_length": 282,
+    "created_at": "2025-10-30T02:45:48.202504+00:00",
+    "updated_at": "2025-10-30T02:55:58.153013+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251030_104548_3cb1fd2a",
+    "metadata": {
+      "processing_start_time": 1761792915,
+      "processing_end_time": 1761792958
+    }
+  },
+  "doc-7868bac50f0a33de4042dad489e86ada": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-7868bac50f0a33de4042dad489e86ada"
+    ],
+    "content_summary": "4. 手工操作阶段(此阶段无操作系统) 用户在计算机上算题的所有工作都要人工干预, 如程序的装入、运行、结果的输出等。 随着计算机硬件的发展, 人机矛盾(速度和资源利用)越来越大, 必须寻求新的解决办法。 手工操作阶段有两个突出的缺点: ①用户独占全机, 虽然不会出现因资源已被其他用户占用的现象, 但资源利用率低。 ②CPU等待手工操作, CPU的利用不充分。 唯一的解决办法就是用高速的机器代替相对较慢的手工操作来对作业进行控制。",
+    "content_length": 217,
+    "created_at": "2025-10-30T02:45:48.202495+00:00",
+    "updated_at": "2025-10-30T02:56:47.551103+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251030_104548_3cb1fd2a",
+    "metadata": {
+      "processing_start_time": 1761792953,
+      "processing_end_time": 1761793007
+    }
+  },
+  "doc-4aa9884c2e1cc842079100d1bd6ff540": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-4aa9884c2e1cc842079100d1bd6ff540"
+    ],
+    "content_summary": "5. 批处理阶段(操作系统开始出现) 为了解决人机矛盾及CPU和I/O设备之间速度不匹配的矛盾, 出现了批处理系统。 按发展历程又分为单道批处理系统、多道批处理系统(多道程序设计技术出现以后)。 1. 单道批处理系统 为实现对作业的连续处理, 需要先将一批作业以脱机方式输入磁带, 并在系统中配上监督程序(Monitor), 在其控制下, 使这批作业能一个接一个地连续处理。 虽然系统对作业的处理是成批进行的, 但内存中始终保持一道作业。 单道批处理系统的主要特征如下: 1) 自动性。在顺利的情况下...",
+    "content_length": 1162,
+    "created_at": "2025-10-30T02:45:48.202498+00:00",
+    "updated_at": "2025-10-30T02:57:20.097159+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251030_104548_3cb1fd2a",
+    "metadata": {
+      "processing_start_time": 1761792958,
+      "processing_end_time": 1761793040
+    }
+  },
+  "doc-6e3e7077061d4200781b4bd17b1c3f19": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-b011088e36b26ecf515603f0dda7a263",
+      "chunk-7e83f58569628c149576833e2fe6d3d4"
+    ],
+    "content_summary": "16. 微内核 (1) 微内核的基本概念 微内核构架, 是指将内核中最基本的功能保留在内核, 而将那些不需要在内核态执行的功能移到用户态执行, 从而降低内核的设计复杂性。 那些移出内核的操作系统代码根据分层的原则被划分成若干服务程序, 它们的执行相互独立, 交互则都借助于微内核进行通信。 微内核结构将操作系统划分为两大部分: 微内核和多个服务器。 微内核是指精心设计的、能实现操作系统最基本核心功能的小型内核, 通常包含: ①与硬件处理紧密相关的部分; ②一些较基本的功能; ③客户和服务器之间的通...",
+    "content_length": 1736,
+    "created_at": "2025-10-30T02:45:48.202548+00:00",
+    "updated_at": "2025-10-30T02:58:08.268317+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251030_104548_3cb1fd2a",
+    "metadata": {
+      "processing_start_time": 1761793007,
+      "processing_end_time": 1761793088
+    }
+  },
+  "doc-9e620df489b2bf6c2f14302366cc3b4e": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-9e620df489b2bf6c2f14302366cc3b4e"
+    ],
+    "content_summary": "1. 操作系统的概念 在信息化时代, 软件是计算机系统的灵魂, 而作为软件核心的操作系统, 已与现代计算机系统密不可分、融为一体。 计算机系统自下而上可以大致分为4部分: 硬件、操作系统、应用程序和用户(这里的划分与计算机组成原理中的分层不同)。 操作系统管理各种计算机硬件, 为应用程序提供基础, 并且充当计算机硬件与用户之间的中介。硬件如中央处理器、内存、输入/输出设备等, 提供基本的计算资源。 应用程序如字处理程序、电子制表软件、编译器、网络浏览器等, 规定按何种方式使用这些资源来解决用户的...",
+    "content_length": 441,
+    "created_at": "2025-10-30T02:45:48.202483+00:00",
+    "updated_at": "2025-10-30T02:58:27.540047+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251030_104548_3cb1fd2a",
+    "metadata": {
+      "processing_start_time": 1761793040,
+      "processing_end_time": 1761793107
+    }
+  },
+  "doc-cc07b143ee8617f281abef0fee81c373": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-cc07b143ee8617f281abef0fee81c373"
+    ],
+    "content_summary": "23. 定义微内核结构OS的四个方面 1) 足够小的内核。 2) 基于客户/服务器模式。 3) 应用“机制与策略分离”原理。机制是指实现某一功能的具体执行机构。 策略则是在机制的基础上借助于某些参数和算法来实现该功能的优化, 或达到不同的功能目标。 在传统的OS中, 将机制放在OS内核的较低层中, 将策略放在内核的较高层中。 而在微内核 OS中, 通常将机制放在OS的微内核中。 正因如此, 才可以将内核做得很小。 4) 采用面向对象技术。基于面向对象技术中的“抽象”和“隐蔽”原则能控制系统的复杂...",
+    "content_length": 328,
+    "created_at": "2025-10-30T02:45:48.202569+00:00",
+    "updated_at": "2025-10-30T02:59:20.152876+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251030_104548_3cb1fd2a",
+    "metadata": {
+      "processing_start_time": 1761793088,
+      "processing_end_time": 1761793160
+    }
+  },
+  "doc-71c5f05a0a1ba39718ba7fdf7111501b": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-71c5f05a0a1ba39718ba7fdf7111501b"
+    ],
+    "content_summary": "6. 分时操作系统 所谓分时技术, 是指将处理器的运行时间分成很短的时间片, 按时间片轮流将处理器分配给各联机作业使用。 若某个作业在分配给它的时间片内不能完成其计算, 则该作业暂时停止运行, 将处理器让给其他作业使用, 等待下一轮再继续运行。 计算机速度很快, 作业运行轮转得也很快, 因此给每个用户的感觉就像是自己独占一台计算机。 分时操作系统是指多个用户通过终端同时共享一台主机, 这些终端连接在主机上, 用户可以同时与主机进行交互操作而互不干扰。 因此, 实现分时系统的关键问题是如何使用户能...",
+    "content_length": 694,
+    "created_at": "2025-10-30T02:45:48.202501+00:00",
+    "updated_at": "2025-10-30T02:59:46.653194+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20251030_104548_3cb1fd2a",
+    "metadata": {
+      "processing_start_time": 1761793107,
+      "processing_end_time": 1761793186
+    }
+  }
+}

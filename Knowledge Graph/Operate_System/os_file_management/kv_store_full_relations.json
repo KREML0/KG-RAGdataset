@@ -1,0 +1,1410 @@
+{
+  "doc-b174c93b643854200b4402a438bee6a6": {
+    "relation_pairs": [
+      [
+        "Disk I/O Operation",
+        "Memory"
+      ],
+      [
+        "File Directory",
+        "File System"
+      ],
+      [
+        "Directory Entry",
+        "File Deletion"
+      ],
+      [
+        "File Name",
+        "Hash Table"
+      ],
+      [
+        "File Name",
+        "Linear List"
+      ],
+      [
+        "Directory Entry",
+        "File Creation"
+      ],
+      [
+        "Disk Access",
+        "Disk I/O Operation"
+      ],
+      [
+        "Linear List",
+        "Linear Search"
+      ],
+      [
+        "Hash Lookup",
+        "Hash Table"
+      ],
+      [
+        "File Deletion",
+        "Hash Table"
+      ],
+      [
+        "In-Memory Operation",
+        "Memory"
+      ],
+      [
+        "File Directory",
+        "Memory"
+      ],
+      [
+        "File Deletion",
+        "Linear List"
+      ],
+      [
+        "Hash Collision",
+        "Hash Table"
+      ]
+    ],
+    "count": 14,
+    "create_time": 1761795083,
+    "update_time": 1761795083,
+    "_id": "doc-b174c93b643854200b4402a438bee6a6"
+  },
+  "doc-14421525880bfe67d4a6295ee441408c": {
+    "relation_pairs": [
+      [
+        "Recorded File",
+        "Stream File"
+      ],
+      [
+        "Indexed File",
+        "Indexed Sequential File"
+      ],
+      [
+        "Record Retrieval",
+        "Sequential Access"
+      ],
+      [
+        "Index Table",
+        "Record Retrieval"
+      ],
+      [
+        "File Logical Structure",
+        "File Physical Structure"
+      ],
+      [
+        "Indexed File",
+        "Sequential File"
+      ],
+      [
+        "Batch Operation",
+        "Sequential File"
+      ],
+      [
+        "Fixed-Length Record",
+        "Variable-Length Record"
+      ],
+      [
+        "Direct File",
+        "Indexed Sequential File"
+      ],
+      [
+        "Fast Retrieval",
+        "Indexed File"
+      ],
+      [
+        "Random Access",
+        "Record Retrieval"
+      ],
+      [
+        "Collision",
+        "Hash Function"
+      ],
+      [
+        "Fast Retrieval",
+        "Fixed-Length Record"
+      ],
+      [
+        "Index Table",
+        "Storage Overhead"
+      ],
+      [
+        "Sequential Search",
+        "Variable-Length Record"
+      ]
+    ],
+    "count": 15,
+    "create_time": 1761795166,
+    "update_time": 1761795166,
+    "_id": "doc-14421525880bfe67d4a6295ee441408c"
+  },
+  "doc-3944a0cce6ea1b728d7c99de5e15d96c": {
+    "relation_pairs": [
+      [
+        "Drive Letter",
+        "Windows System"
+      ],
+      [
+        "Root File System",
+        "Unix System"
+      ],
+      [
+        "File System Mounting",
+        "Mount Point"
+      ],
+      [
+        "File System Mounting",
+        "Logical Device"
+      ],
+      [
+        "Directory Structure",
+        "Volume"
+      ],
+      [
+        "File System",
+        "Mount Point"
+      ],
+      [
+        "Drive Letter",
+        "Path Format"
+      ],
+      [
+        "File System Pointer",
+        "Volume"
+      ],
+      [
+        "Root File System",
+        "System Startup"
+      ],
+      [
+        "File System",
+        "Volume"
+      ],
+      [
+        "Mount Point",
+        "User Mounting"
+      ],
+      [
+        "Drive Letter",
+        "Volume"
+      ],
+      [
+        "Mount Point",
+        "Root File System"
+      ]
+    ],
+    "count": 13,
+    "create_time": 1761795233,
+    "update_time": 1761795233,
+    "_id": "doc-3944a0cce6ea1b728d7c99de5e15d96c"
+  },
+  "doc-ae42f9712539cb35032b3b324c78aeec": {
+    "relation_pairs": [
+      [
+        "File",
+        "Secondary Storage"
+      ],
+      [
+        "File",
+        "File Attribute"
+      ],
+      [
+        "File",
+        "Process"
+      ],
+      [
+        "File Control Block",
+        "File Metadata"
+      ],
+      [
+        "File",
+        "File System"
+      ],
+      [
+        "File",
+        "Operating System"
+      ],
+      [
+        "Creation Time",
+        "File"
+      ],
+      [
+        "File Attribute",
+        "File Control Block"
+      ],
+      [
+        "File",
+        "Source File"
+      ],
+      [
+        "File",
+        "File Name"
+      ],
+      [
+        "File",
+        "Regular File"
+      ],
+      [
+        "File",
+        "Special File"
+      ],
+      [
+        "File",
+        "File Size"
+      ],
+      [
+        "File",
+        "Read-Only File"
+      ],
+      [
+        "File",
+        "User File"
+      ],
+      [
+        "File",
+        "Record"
+      ],
+      [
+        "File",
+        "System File"
+      ],
+      [
+        "File",
+        "File Location"
+      ],
+      [
+        "File",
+        "Last Modified Time"
+      ],
+      [
+        "File",
+        "Target File"
+      ],
+      [
+        "File",
+        "Library File"
+      ],
+      [
+        "File",
+        "File Access Permission"
+      ],
+      [
+        "File",
+        "File Control Block"
+      ],
+      [
+        "File",
+        "Read-Write File"
+      ],
+      [
+        "File",
+        "User"
+      ],
+      [
+        "File",
+        "Last Accessed Time"
+      ],
+      [
+        "Directory File",
+        "File"
+      ],
+      [
+        "Executable File",
+        "File"
+      ],
+      [
+        "File",
+        "File Metadata"
+      ],
+      [
+        "Record",
+        "Structured File"
+      ],
+      [
+        "Data Item",
+        "File"
+      ],
+      [
+        "Disk",
+        "File"
+      ]
+    ],
+    "count": 32,
+    "create_time": 1761795258,
+    "update_time": 1761795258,
+    "_id": "doc-ae42f9712539cb35032b3b324c78aeec"
+  },
+  "doc-30b661e6c540ab18323711848650dc79": {
+    "relation_pairs": [
+      [
+        "Relative Path",
+        "Tree-Structured Directory"
+      ],
+      [
+        "Acyclic Graph Directory Structure",
+        "File Control Block"
+      ],
+      [
+        "Master File Directory",
+        "User File Directory"
+      ],
+      [
+        "Tree-Structured Directory",
+        "Windows"
+      ],
+      [
+        "Absolute Path",
+        "Tree-Structured Directory"
+      ],
+      [
+        "File Control Block",
+        "Single-Level Directory Structure"
+      ],
+      [
+        "Directory Table",
+        "Single-Level Directory Structure"
+      ],
+      [
+        "Linux",
+        "Tree-Structured Directory"
+      ],
+      [
+        "Current Directory",
+        "Tree-Structured Directory"
+      ],
+      [
+        "Acyclic Graph Directory Structure",
+        "Shared Counter"
+      ],
+      [
+        "Tree-Structured Directory",
+        "Unix"
+      ],
+      [
+        "File Control Block",
+        "User File Directory"
+      ],
+      [
+        "Current Directory",
+        "System Call"
+      ]
+    ],
+    "count": 13,
+    "create_time": 1761795289,
+    "update_time": 1761795289,
+    "_id": "doc-30b661e6c540ab18323711848650dc79"
+  },
+  "doc-5ccb7062ac23d1f507e729d216fc2c35": {
+    "relation_pairs": [
+      [
+        "Hard Link",
+        "User B"
+      ],
+      [
+        "Hard Link",
+        "Index Node"
+      ],
+      [
+        "Network Address",
+        "Symbolic Link"
+      ],
+      [
+        "Link Type File",
+        "Symbolic Link"
+      ],
+      [
+        "Index Node",
+        "Reference Count"
+      ],
+      [
+        "File Sharing",
+        "Nondirected Acyclic Graph Directory"
+      ],
+      [
+        "Disk Block",
+        "Physical Address"
+      ],
+      [
+        "File Path Name",
+        "Symbolic Link"
+      ],
+      [
+        "File Access",
+        "Symbolic Link"
+      ],
+      [
+        "Directory Entry",
+        "Index Node"
+      ],
+      [
+        "File Deletion",
+        "Link Count"
+      ],
+      [
+        "Index Node",
+        "Link Count"
+      ],
+      [
+        "Index Node",
+        "User A"
+      ]
+    ],
+    "count": 13,
+    "create_time": 1761795344,
+    "update_time": 1761795344,
+    "_id": "doc-5ccb7062ac23d1f507e729d216fc2c35"
+  },
+  "doc-2971098294d648449156217b3c634055": {
+    "relation_pairs": [
+      [
+        "FCB",
+        "Open File Table"
+      ],
+      [
+        "Active Partition",
+        "Master Boot Record"
+      ],
+      [
+        "Root Directory",
+        "Super Block"
+      ],
+      [
+        "Free Blocks Information",
+        "Super Block"
+      ],
+      [
+        "File System Layout",
+        "Mount Table"
+      ],
+      [
+        "Boot Block",
+        "Operating System"
+      ],
+      [
+        "File",
+        "Inode"
+      ],
+      [
+        "File System Layout",
+        "Super Block"
+      ],
+      [
+        "Free Blocks Information",
+        "Inode"
+      ],
+      [
+        "Directory Cache",
+        "Memory Structure"
+      ],
+      [
+        "File System Layout",
+        "Root Directory"
+      ],
+      [
+        "Block",
+        "File"
+      ],
+      [
+        "Boot Block",
+        "Master Boot Record"
+      ],
+      [
+        "Open File Table",
+        "Process Open File Table"
+      ],
+      [
+        "Master Boot Record",
+        "Partition Table"
+      ],
+      [
+        "File System Layout",
+        "Open File Table"
+      ],
+      [
+        "Inode",
+        "Super Block"
+      ],
+      [
+        "Disk Partition",
+        "File System Layout"
+      ]
+    ],
+    "count": 18,
+    "create_time": 1761795383,
+    "update_time": 1761795383,
+    "_id": "doc-2971098294d648449156217b3c634055"
+  },
+  "doc-91ad9843d5fd5328c08bba418c4c92a5": {
+    "relation_pairs": [
+      [
+        "Operating System",
+        "Write File"
+      ],
+      [
+        "Write File",
+        "Write Pointer"
+      ],
+      [
+        "Process Open File Table",
+        "System Open File Table"
+      ],
+      [
+        "Memory Buffer",
+        "Write File"
+      ],
+      [
+        "File Descriptor",
+        "Process Open File Table"
+      ],
+      [
+        "Directory Entry",
+        "File Name"
+      ],
+      [
+        "File Pointer",
+        "Read File"
+      ],
+      [
+        "File Pointer",
+        "Process Open File Table"
+      ],
+      [
+        "File Handle",
+        "Process Open File Table"
+      ],
+      [
+        "Open File",
+        "System Open File Table"
+      ],
+      [
+        "Access Permission",
+        "Process Open File Table"
+      ],
+      [
+        "Delete File",
+        "Memory Buffer"
+      ],
+      [
+        "Close File",
+        "Open Count"
+      ],
+      [
+        "Open File",
+        "Open File Table"
+      ],
+      [
+        "Disk Space",
+        "File Control Block"
+      ],
+      [
+        "File Pointer",
+        "Write File"
+      ],
+      [
+        "Close File",
+        "Operating System"
+      ],
+      [
+        "Open File",
+        "Operating System"
+      ],
+      [
+        "Operating System",
+        "Read File"
+      ],
+      [
+        "Memory Buffer",
+        "Read File"
+      ],
+      [
+        "Directory Entry",
+        "File Control Block"
+      ],
+      [
+        "Open Count",
+        "System Open File Table"
+      ],
+      [
+        "Delete File",
+        "Operating System"
+      ],
+      [
+        "Close File",
+        "Process Open File Table"
+      ],
+      [
+        "Create File",
+        "Directory Entry"
+      ],
+      [
+        "Delete File",
+        "Disk Space"
+      ],
+      [
+        "Create File",
+        "Operating System"
+      ],
+      [
+        "Create File",
+        "Disk Space"
+      ]
+    ],
+    "count": 28,
+    "create_time": 1761795479,
+    "update_time": 1761795479,
+    "_id": "doc-91ad9843d5fd5328c08bba418c4c92a5"
+  },
+  "doc-a778ec4de2ce130c17c3e02d55b66fee": {
+    "relation_pairs": [
+      [
+        "FCB",
+        "Volume"
+      ],
+      [
+        "Bit Map Method",
+        "Free Block"
+      ],
+      [
+        "Memory Stack of Free Block Numbers",
+        "Reclamation of Disk Blocks"
+      ],
+      [
+        "Group Size",
+        "Memory Stack of Free Block Numbers"
+      ],
+      [
+        "Disk",
+        "Partition"
+      ],
+      [
+        "Allocation of Disk Blocks",
+        "Memory Stack of Free Block Numbers"
+      ],
+      [
+        "Group Size",
+        "Reclamation of Disk Blocks"
+      ],
+      [
+        "First Fit Algorithm",
+        "Free Table Method"
+      ],
+      [
+        "Best Fit Algorithm",
+        "Free Table Method"
+      ],
+      [
+        "Free Area Chain",
+        "Free Block"
+      ],
+      [
+        "Partition",
+        "Volume"
+      ],
+      [
+        "Bit Map",
+        "Bit Map Method"
+      ],
+      [
+        "Free Block Table",
+        "Group Linking Method"
+      ],
+      [
+        "Bit Map Method",
+        "Disk Block"
+      ],
+      [
+        "Bit Map Method",
+        "Disk Capacity"
+      ],
+      [
+        "Bit Map Method",
+        "Physical Block"
+      ],
+      [
+        "Free Block",
+        "Free Table Method"
+      ],
+      [
+        "Bit Map",
+        "j"
+      ],
+      [
+        "Bit Map Method",
+        "Free Block Chain"
+      ],
+      [
+        "Free Area Chain",
+        "Free Table Method"
+      ],
+      [
+        "Directory Area",
+        "Volume"
+      ],
+      [
+        "Bit Map",
+        "b"
+      ],
+      [
+        "Partition",
+        "Storage Device"
+      ],
+      [
+        "Free Block List",
+        "Group Linking Method"
+      ],
+      [
+        "Free Block",
+        "Free Block Chain"
+      ],
+      [
+        "Disk Initialization",
+        "Volume"
+      ],
+      [
+        "Bit Map",
+        "i"
+      ],
+      [
+        "Group Linking Method",
+        "Memory Stack of Free Block Numbers"
+      ],
+      [
+        "Superblock",
+        "Volume"
+      ],
+      [
+        "FCB",
+        "File Area"
+      ],
+      [
+        "i",
+        "j"
+      ],
+      [
+        "Bit Map",
+        "n"
+      ],
+      [
+        "File Area",
+        "Volume"
+      ]
+    ],
+    "count": 33,
+    "create_time": 1761795497,
+    "update_time": 1761795497,
+    "_id": "doc-a778ec4de2ce130c17c3e02d55b66fee"
+  },
+  "doc-693d11bd92735799718313fa4cc230a6": {
+    "relation_pairs": [
+      [
+        "File System",
+        "User Interface"
+      ],
+      [
+        "File Organization Module",
+        "Free Space Manager"
+      ],
+      [
+        "File Control Block",
+        "Logical File System"
+      ],
+      [
+        "File Organization Module",
+        "Physical Block Address"
+      ],
+      [
+        "I/O Control Layer",
+        "Interrupt Handler"
+      ],
+      [
+        "File System",
+        "Physical Storage Mapping"
+      ],
+      [
+        "Basic File System",
+        "Memory Buffer"
+      ],
+      [
+        "File Organization Module",
+        "Logical Block Address"
+      ],
+      [
+        "Basic File System",
+        "Disk Address"
+      ],
+      [
+        "Directory Structure",
+        "Logical File System"
+      ],
+      [
+        "Device Driver",
+        "I/O Control Layer"
+      ],
+      [
+        "File Protection",
+        "Logical File System"
+      ]
+    ],
+    "count": 12,
+    "create_time": 1761795555,
+    "update_time": 1761795555,
+    "_id": "doc-693d11bd92735799718313fa4cc230a6"
+  },
+  "doc-68535d7901b3c1a1848eba8e4c874bc9": {
+    "relation_pairs": [
+      [
+        "Add Access",
+        "File System"
+      ],
+      [
+        "File System",
+        "Write Access"
+      ],
+      [
+        "Access Control List",
+        "File Protection"
+      ],
+      [
+        "File System",
+        "List Access"
+      ],
+      [
+        "File Protection",
+        "File System"
+      ],
+      [
+        "File Control Block",
+        "Password Protection"
+      ],
+      [
+        "Access Control List",
+        "Group"
+      ],
+      [
+        "Delete Access",
+        "File System"
+      ],
+      [
+        "Access Control List",
+        "Owner"
+      ],
+      [
+        "Encryption Key",
+        "Encryption Protection"
+      ],
+      [
+        "File System",
+        "Read Access"
+      ],
+      [
+        "Execute Access",
+        "File System"
+      ],
+      [
+        "Encryption Protection",
+        "File Protection"
+      ],
+      [
+        "File Protection",
+        "Password Protection"
+      ],
+      [
+        "Access Control List",
+        "Other Users"
+      ]
+    ],
+    "count": 15,
+    "create_time": 1761795582,
+    "update_time": 1761795582,
+    "_id": "doc-68535d7901b3c1a1848eba8e4c874bc9"
+  },
+  "doc-ab6b0be88f3cbc0ad3fc8894671ca8fa": {
+    "relation_pairs": [
+      [
+        "File System Metadata",
+        "Superblock Object"
+      ],
+      [
+        "Memory Management",
+        "Virtual File System"
+      ],
+      [
+        "Inode Object",
+        "Virtual File System"
+      ],
+      [
+        "Dentry Object",
+        "Path Resolution"
+      ],
+      [
+        "Dentry Object",
+        "Virtual File System"
+      ],
+      [
+        "Superblock Object",
+        "Virtual File System"
+      ],
+      [
+        "File Object",
+        "Virtual File System"
+      ],
+      [
+        "Mounting Process",
+        "Virtual File System"
+      ],
+      [
+        "Dentry Object",
+        "Inode Object"
+      ],
+      [
+        "File Object",
+        "Inode Object"
+      ],
+      [
+        "File System Interface",
+        "Virtual File System"
+      ]
+    ],
+    "count": 11,
+    "create_time": 1761795650,
+    "update_time": 1761795650,
+    "_id": "doc-ab6b0be88f3cbc0ad3fc8894671ca8fa"
+  },
+  "doc-aa4226509916fb2cbc3ddb34e473f2fd": {
+    "relation_pairs": [
+      [
+        "Main Index",
+        "Second-Level Index"
+      ],
+      [
+        "Hybrid Index Allocation",
+        "Three-Level Index Allocation"
+      ],
+      [
+        "Direct Access Support",
+        "Indexed Allocation"
+      ],
+      [
+        "Disk I/O",
+        "Physical Block"
+      ],
+      [
+        "Multi-Level Index",
+        "Secondary Index Allocation"
+      ],
+      [
+        "Index Node",
+        "UNIX System"
+      ],
+      [
+        "Multi-Level Indexing",
+        "Second-Level Index"
+      ],
+      [
+        "Hybrid Index Allocation",
+        "Single-Level Index Allocation"
+      ],
+      [
+        "Index Node",
+        "i.addr(10)"
+      ],
+      [
+        "Index Node",
+        "i.addr(0) to i.addr(9)"
+      ],
+      [
+        "Index Block",
+        "Secondary Index Allocation"
+      ],
+      [
+        "Continuous Allocation",
+        "External Fragmentation"
+      ],
+      [
+        "Explicit Linking",
+        "File Allocation Table"
+      ],
+      [
+        "Direct Addressing",
+        "File Control Block"
+      ],
+      [
+        "Index Block",
+        "Two-Level Index Allocation"
+      ],
+      [
+        "Index Node",
+        "i.addr(12)"
+      ],
+      [
+        "Index Block",
+        "Indexed Allocation"
+      ],
+      [
+        "Hybrid Index Allocation",
+        "Large File"
+      ],
+      [
+        "FAT Table Entry",
+        "File Allocation Table"
+      ],
+      [
+        "Data Block",
+        "Two-Level Index Allocation"
+      ],
+      [
+        "File Directory Entry",
+        "Implicit Linking"
+      ],
+      [
+        "Linked Allocation",
+        "No External Fragmentation"
+      ],
+      [
+        "Explicit Linking",
+        "FAT Table Entry"
+      ],
+      [
+        "Hybrid Index Allocation",
+        "Medium File"
+      ],
+      [
+        "Index Node",
+        "i.addr(11)"
+      ],
+      [
+        "File Allocation Method",
+        "File Physical Structure"
+      ],
+      [
+        "Index Block",
+        "Three-Level Index Allocation"
+      ],
+      [
+        "Hybrid Index Allocation",
+        "Very Large File"
+      ],
+      [
+        "Direct Addressing",
+        "Disk Block"
+      ],
+      [
+        "Disk Block",
+        "File Allocation Table"
+      ],
+      [
+        "Hybrid Index Allocation",
+        "Small File"
+      ],
+      [
+        "Data Block",
+        "Three-Level Index Allocation"
+      ],
+      [
+        "Index Block",
+        "Single-Level Index Allocation"
+      ],
+      [
+        "Continuous Allocation",
+        "Efficient Access"
+      ],
+      [
+        "Master Index",
+        "Secondary Index Allocation"
+      ],
+      [
+        "Hybrid Index Allocation",
+        "Two-Level Index Allocation"
+      ],
+      [
+        "Direct Addressing",
+        "Hybrid Index Allocation"
+      ],
+      [
+        "Linked Allocation",
+        "Sequential Access Only"
+      ],
+      [
+        "File Directory Entry",
+        "Index Block"
+      ],
+      [
+        "Access Speed",
+        "Index Level"
+      ],
+      [
+        "Disk Seek",
+        "Index Level"
+      ]
+    ],
+    "count": 41,
+    "create_time": 1761795701,
+    "update_time": 1761795701,
+    "_id": "doc-aa4226509916fb2cbc3ddb34e473f2fd"
+  },
+  "doc-f930cc80cef282b7a42a5bfc9614b14b": {
+    "relation_pairs": [
+      [
+        "File Control Block",
+        "File Logical Structure"
+      ],
+      [
+        "File Control Block",
+        "File Physical Structure"
+      ],
+      [
+        "Disk Index Node",
+        "File Link Count"
+      ],
+      [
+        "Disk Index Node",
+        "Memory Index Node"
+      ],
+      [
+        "Disk Index Node",
+        "File Access Time"
+      ],
+      [
+        "File Control Block",
+        "File Creation Time"
+      ],
+      [
+        "Link Pointer",
+        "Memory Index Node"
+      ],
+      [
+        "Disk Index Node",
+        "File Type"
+      ],
+      [
+        "Memory Index Node",
+        "Status"
+      ],
+      [
+        "Directory Entry",
+        "Index Node"
+      ],
+      [
+        "Logical Device Number",
+        "Memory Index Node"
+      ],
+      [
+        "Directory Entry",
+        "File Name"
+      ],
+      [
+        "Disk Index Node",
+        "File Owner Identifier"
+      ],
+      [
+        "Disk Index Node",
+        "File Length"
+      ],
+      [
+        "File Access Permissions",
+        "File Control Block"
+      ],
+      [
+        "File Control Block",
+        "Index Node"
+      ],
+      [
+        "Disk Index Node",
+        "File Physical Address"
+      ],
+      [
+        "File Control Block",
+        "File Name"
+      ],
+      [
+        "File Length",
+        "Index Node"
+      ],
+      [
+        "File Control Block",
+        "File Directory"
+      ],
+      [
+        "Disk Index Node",
+        "File Access Permissions"
+      ],
+      [
+        "Disk Index Node",
+        "File Modification Time"
+      ],
+      [
+        "Access Count",
+        "Memory Index Node"
+      ],
+      [
+        "File Control Block",
+        "Last Modified Time"
+      ],
+      [
+        "File Link Count",
+        "Index Node"
+      ]
+    ],
+    "count": 25,
+    "create_time": 1761795765,
+    "update_time": 1761795765,
+    "_id": "doc-f930cc80cef282b7a42a5bfc9614b14b"
+  },
+  "doc-1ab4dba4f825c853ea9da3a1118379d2": {
+    "relation_pairs": [
+      [
+        "Delete Directory",
+        "Directory Operations"
+      ],
+      [
+        "Directory Entry",
+        "Subdirectory"
+      ],
+      [
+        "Create Directory",
+        "User"
+      ],
+      [
+        "Create File",
+        "Directory Operations"
+      ],
+      [
+        "Move Directory",
+        "User"
+      ],
+      [
+        "Delete Directory",
+        "Tree Structured Directory"
+      ],
+      [
+        "Directory Operations",
+        "Display Directory"
+      ],
+      [
+        "Directory Operations",
+        "Move Directory"
+      ],
+      [
+        "Directory Entry",
+        "File"
+      ],
+      [
+        "Directory Operations",
+        "Search"
+      ],
+      [
+        "Delete File",
+        "User"
+      ],
+      [
+        "Display Directory",
+        "Tree Structured Directory"
+      ],
+      [
+        "Modify Directory",
+        "User"
+      ],
+      [
+        "Delete Directory",
+        "User"
+      ],
+      [
+        "Directory Entry",
+        "Modify Directory"
+      ],
+      [
+        "Directory Entry",
+        "Tree Structured Directory"
+      ],
+      [
+        "Create File",
+        "User"
+      ],
+      [
+        "Directory Entry",
+        "User Directory"
+      ],
+      [
+        "Move Directory",
+        "Path Name"
+      ],
+      [
+        "Create Directory",
+        "Directory Operations"
+      ],
+      [
+        "Delete File",
+        "Directory Entry"
+      ],
+      [
+        "Create Directory",
+        "Tree Structured Directory"
+      ],
+      [
+        "Display Directory",
+        "User"
+      ],
+      [
+        "Move Directory",
+        "Tree Structured Directory"
+      ],
+      [
+        "Directory Operations",
+        "Modify Directory"
+      ],
+      [
+        "Create File",
+        "Directory Entry"
+      ],
+      [
+        "Delete File",
+        "Directory Operations"
+      ]
+    ],
+    "count": 27,
+    "create_time": 1761795785,
+    "update_time": 1761795785,
+    "_id": "doc-1ab4dba4f825c853ea9da3a1118379d2"
+  },
+  "doc-a12e6467806a504f9835f1a74df198f2": {
+    "relation_pairs": [
+      [
+        "File Directory",
+        "File System"
+      ],
+      [
+        "File Sharing",
+        "Multiple Users"
+      ],
+      [
+        "File Directory",
+        "Name-Based Access"
+      ],
+      [
+        "Name-Based Access",
+        "User"
+      ],
+      [
+        "File Control Block",
+        "File Directory Entry"
+      ],
+      [
+        "File Directory",
+        "Tree Structure"
+      ],
+      [
+        "Access Control",
+        "File Sharing"
+      ],
+      [
+        "File",
+        "File Control Block"
+      ],
+      [
+        "File Directory",
+        "File Retrieval Speed"
+      ],
+      [
+        "File Control Block",
+        "File Directory"
+      ]
+    ],
+    "count": 10,
+    "create_time": 1761795806,
+    "update_time": 1761795806,
+    "_id": "doc-a12e6467806a504f9835f1a74df198f2"
+  }
+}
